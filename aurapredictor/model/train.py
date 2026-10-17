@@ -1,4 +1,4 @@
-"""Trains a CatBoostRegressor on log(revenue) over the ~2,540 Indian movies that
+"""Trains a CatBoostRegressor on log(revenue / budget) over the ~2,540 Indian movies that
 currently have real budget & revenue data (movie_prediction_features joined back to
 movies_data_collection). Saves the model + genre binarizer + feature-column layout
 to aurapredictor/artifacts/ so the scenario engine (scenarios/engine.py) can rebuild
@@ -13,22 +13,37 @@ import pickle
 from datetime import date
 from pathlib import Path
 
+import numpy as np
 from catboost import CatBoostRegressor
 from sklearn.model_selection import train_test_split
 
-from aurapredictor.model.dataset import build_dataframe, categorical_feature_names, load_raw_rows, top_production_companies
+from aurapredictor.model.dataset import (
+    build_dataframe,
+    categorical_feature_names,
+    log_budget,
+    load_training_rows,
+    top_production_companies,
+)
 from aurapredictor.model.evaluate import evaluate_predictions, print_report
 
 ARTIFACTS_DIR = Path(__file__).resolve().parent.parent / "artifacts"
 MODEL_PATH = ARTIFACTS_DIR / "model.cbm"
 BINARIZER_PATH = ARTIFACTS_DIR / "genre_binarizer.pkl"
 LANGUAGE_BINARIZER_PATH = ARTIFACTS_DIR / "language_binarizer.pkl"
+COMPANY_BINARIZER_PATH = ARTIFACTS_DIR / "production_company_binarizer.pkl"
 FEATURE_LAYOUT_PATH = ARTIFACTS_DIR / "feature_layout.json"
+
+# Big films are rare (66 of ~2,000 earned 50M+), so an unweighted fit mostly learns
+# small films and shrinks blockbusters toward them. 3x weight on 20M+ earners lifted
+# 5-fold out-of-fold predictions for 50M+ films from 33% to 57% of actual (median),
+# and improved overall log-MAE too (0.679 -> 0.658).
+BIG_FILM_REVENUE = 20_000_000
+BIG_FILM_WEIGHT = 3.0
 
 
 def train() -> None:
-    rows = load_raw_rows()
-    X, y_log, binarizer, language_binarizer = build_dataframe(rows)
+    rows = load_training_rows()
+    X, y_log, binarizer, language_binarizer, company_binarizer = build_dataframe(rows)
     cat_features = categorical_feature_names(X)
     keep_companies = sorted(top_production_companies(rows))
 
@@ -50,9 +65,10 @@ def train() -> None:
     # No eval_set: CatBoost would pick the best iteration *on the test set* (leaking it
     # into model selection), and with the few near-zero-revenue rows in it that pick was
     # badly biased (median APE 75% vs 46% on the same split).
-    model.fit(X_train, y_train)
+    weights = np.where(np.expm1(y_train.to_numpy()) >= BIG_FILM_REVENUE, BIG_FILM_WEIGHT, 1.0)
+    model.fit(X_train, y_train.to_numpy() - log_budget(X_train), sample_weight=weights)
 
-    y_pred_log = model.predict(X_test)
+    y_pred_log = model.predict(X_test) + log_budget(X_test)
     metrics = evaluate_predictions(y_test, y_pred_log)
     importances = sorted(
         zip(X.columns, model.get_feature_importance()), key=lambda pair: pair[1], reverse=True
@@ -65,6 +81,8 @@ def train() -> None:
         pickle.dump(binarizer, f)
     with open(LANGUAGE_BINARIZER_PATH, "wb") as f:
         pickle.dump(language_binarizer, f)
+    with open(COMPANY_BINARIZER_PATH, "wb") as f:
+        pickle.dump(company_binarizer, f)
     with open(FEATURE_LAYOUT_PATH, "w") as f:
         json.dump(
             {
@@ -72,8 +90,10 @@ def train() -> None:
                 "categorical_features": cat_features,
                 "genre_columns": [c for c in X.columns if c.startswith("genre_")],
                 "language_columns": [c for c in X.columns if c.startswith("language_")],
+                "company_columns": [c for c in X.columns if c.startswith("company_")],
                 "top_production_companies": keep_companies,
                 "log_mae": metrics["log_mae"],
+                "target": "log_revenue_budget_ratio",
                 "model_version": date.today().isoformat(),
             },
             f,

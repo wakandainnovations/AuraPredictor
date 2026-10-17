@@ -28,7 +28,15 @@ from aurapredictor.features.build_features import (
     load_indian_actor_rows,
     load_indian_movies,
 )
-from aurapredictor.model.dataset import RAW_ROWS_SQL, multi_hot, row_to_record, split_genres, split_languages
+from aurapredictor.model.dataset import (
+    RAW_ROWS_SQL,
+    multi_hot,
+    row_to_record,
+    split_genres,
+    split_languages,
+    log_budget,
+    split_production_companies,
+)
 from aurapredictor.track_record import load_people_films
 
 ARTIFACTS_DIR = Path(__file__).resolve().parent.parent / "artifacts"
@@ -53,6 +61,10 @@ class ScenarioContext:
     director_filmography: dict
     year_macro: dict[int, dict[str, float]] = field(default_factory=dict)
     language_binarizer: Any = None
+    company_binarizer: Any = None
+    # release_date -> (release_event_type, release_event_name) as recorded on other
+    # movies released that exact day, so the release-date what-if can move the event too.
+    date_events: dict[str, tuple[str | None, str | None]] = field(default_factory=dict)
     # role ("lead_actor" / "director" / "music_director") -> person -> [(release_date,
     # that film's *_movie_count)], so a what-if that swaps someone in can look up the
     # new person's career count as of the scenario's release date.
@@ -66,8 +78,9 @@ def load_context() -> ScenarioContext:
     model_path = ARTIFACTS_DIR / "model.cbm"
     binarizer_path = ARTIFACTS_DIR / "genre_binarizer.pkl"
     language_binarizer_path = ARTIFACTS_DIR / "language_binarizer.pkl"
+    company_binarizer_path = ARTIFACTS_DIR / "production_company_binarizer.pkl"
     layout_path = ARTIFACTS_DIR / "feature_layout.json"
-    required = (model_path, binarizer_path, language_binarizer_path, layout_path)
+    required = (model_path, binarizer_path, language_binarizer_path, company_binarizer_path, layout_path)
     if not all(path.exists() for path in required):
         raise ArtifactsNotFoundError(
             "No trained model found in aurapredictor/artifacts/. Run "
@@ -80,6 +93,8 @@ def load_context() -> ScenarioContext:
         binarizer = pickle.load(f)
     with open(language_binarizer_path, "rb") as f:
         language_binarizer = pickle.load(f)
+    with open(company_binarizer_path, "rb") as f:
+        company_binarizer = pickle.load(f)
     with open(layout_path) as f:
         layout = json.load(f)
 
@@ -123,7 +138,26 @@ def load_context() -> ScenarioContext:
         director_filmography=director_filmography,
         year_macro=year_macro,
         language_binarizer=language_binarizer,
+        company_binarizer=company_binarizer,
+        date_events=load_date_events(),
     )
+
+
+def load_date_events() -> dict[str, tuple[str | None, str | None]]:
+    """Most common (event type, event name) per exact release date in MOVIES_TABLE."""
+    rows = fetch_all(
+        f"""
+        SELECT release_date, release_event_type, release_event_name, count(*) AS n
+        FROM {MOVIES_TABLE}
+        WHERE release_event_type IS NOT NULL
+        GROUP BY 1, 2, 3
+        ORDER BY n DESC
+        """
+    )
+    events: dict[str, tuple[str | None, str | None]] = {}
+    for row in rows:
+        events.setdefault(row["release_date"], (row["release_event_type"], row["release_event_name"]))
+    return events
 
 
 _PEOPLE_COUNT_COLUMNS = {
@@ -186,7 +220,11 @@ def score_row(context: ScenarioContext, raw_row: dict[str, Any]) -> float:
         context.language_binarizer, [split_languages(raw_row.get("language"))], "language"
     )
 
-    X = pd.concat([record_df, genre_df, language_df], axis=1)
+    company_df = multi_hot(
+        context.company_binarizer, [split_production_companies(raw_row.get("production_companies"))], "company"
+    )
+
+    X = pd.concat([record_df, genre_df, language_df, company_df], axis=1)
     # Line up with the exact training-time column order/set; any genre/language the
     # model never saw at training time was already dropped by the binarizer's transform().
     X = X.reindex(columns=context.feature_layout["columns"], fill_value=0)
@@ -194,4 +232,6 @@ def score_row(context: ScenarioContext, raw_row: dict[str, Any]) -> float:
         X[col] = X[col].fillna("Unknown").astype(str)
 
     log_prediction = context.model.predict(X)[0]
+    if context.feature_layout.get("target") == "log_revenue_budget_ratio":
+        log_prediction += log_budget(X)[0]
     return math.expm1(log_prediction)

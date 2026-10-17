@@ -21,6 +21,7 @@ from typing import Any
 from aurapredictor.constants import PRIOR_FILMS_WINDOW
 from aurapredictor.dates import release_year as parse_release_year
 from aurapredictor.history import hit_flop_ratio_last_n, prior_films_count
+from aurapredictor.model.dataset import split_languages
 from aurapredictor.scenarios.engine import ScenarioContext, get_movie_row, score_row
 
 
@@ -230,9 +231,15 @@ def set_release_date(
         scenario_row["gdp_usd_billions"] = macro["gdp_usd_billions"]
         scenario_row["inflation_rate_pct"] = macro["inflation_rate_pct"]
 
+    notes = [] if macro else [f"No GDP/inflation data available for {year} in this dataset -- kept the original values."]
+    event = context.date_events.get(new_release_date)
+    scenario_row["release_event_type"], scenario_row["release_event_name"] = event or (None, None)
+    if event is None:
+        notes.append(f"No movie in the data released on {new_release_date} -- its festival/holiday/event is unknown.")
+
     scenario_revenue = score_row(context, scenario_row)
 
-    note = None if macro else f"No GDP/inflation data available for {year} in this dataset -- kept the original values."
+    note = " ".join(notes) or None
 
     return ScenarioResult(
         description=f"Release on {new_release_date} instead of {release_date}",
@@ -282,6 +289,19 @@ def rating_band_scenario(
 # Default "how was it received" scenarios: poor / decent / great audience rating.
 DEFAULT_SCENARIO_RATINGS = (4.0, 6.0, 8.0)
 
+# rating_range is supplied by hand for an upcoming movie, from how it's being received.
+# It's filled for every training movie, so it's never left blank: a blank would read
+# to the model as below the lowest bucket. Default is a well-received film's typical
+# value -- 10000 for Hindi, 1000 for every other language.
+RATING_RANGE_VALUES = (1, 10, 100, 1000, 10000, 100000)
+DEFAULT_RATING_RANGE_HINDI = 10000
+DEFAULT_RATING_RANGE_OTHER = 1000
+
+
+def default_rating_range(language: str | None) -> int:
+    languages = split_languages(language)
+    return DEFAULT_RATING_RANGE_HINDI if languages and languages[0] == "hindi" else DEFAULT_RATING_RANGE_OTHER
+
 
 @dataclass
 class RatingPrediction:
@@ -301,8 +321,14 @@ def upcoming_movie_row(
     genre: str | None = None,
     runtime: float | None = None,
     cbfc_rating: str | None = None,
+    number_of_screens: int | None = None,
+    release_event_type: str | None = None,
+    release_event_name: str | None = None,
+    is_remake: bool = False,
+    rating_range: int | None = None,
     production_company: str | None = None,
     lead_actor: str | None = None,
+    supporting_actors: list[str] | None = None,
     director: str | None = None,
     music_director: str | None = None,
 ) -> tuple[dict[str, Any], list[str]]:
@@ -320,9 +346,25 @@ def upcoming_movie_row(
         "genre": genre,
         "runtime": runtime,
         "cbfc_rating": cbfc_rating,
+        "number_of_screens": number_of_screens,
+        "remake_of": "REMAKE" if is_remake else "NOT_REMAKE",
         "production_companies": production_company,
         "rating_10": None,
     }
+
+    if rating_range is None:
+        rating_range = default_rating_range(language)
+        notes.append(f"No --rating-range given -- assumed {rating_range}, typical for a well-received {language} film.")
+    elif rating_range not in RATING_RANGE_VALUES:
+        raise ValueError(f"rating_range must be one of {RATING_RANGE_VALUES}, got {rating_range}")
+    row["rating_range"] = rating_range
+
+    if release_event_type is None and release_event_name is None:
+        event = context.date_events.get(release_date)
+        if event:
+            release_event_type, release_event_name = event
+            notes.append(f"Release event taken from other movies released {release_date}: {event[0]} / {event[1]}.")
+    row["release_event_type"], row["release_event_name"] = release_event_type, release_event_name
 
     year = parse_release_year(release_date)
     macro = context.year_macro.get(year)
@@ -341,6 +383,19 @@ def upcoming_movie_row(
         row.update(_person_override_fields(context, slot, prefix, name, release_date))
         if name and name not in filmography:
             notes.append(f"'{name}' has no earlier films in the data -- treated as a debut {prefix.replace('_', ' ')}.")
+
+    # Billing slots 2-5. Nearly every training movie has all five filled, so leaving
+    # them blank makes a star vehicle look like an obscure film (halved Pushpa 2's score).
+    supporting_actors = supporting_actors or []
+    if len(supporting_actors) > 4:
+        raise ValueError(f"At most 4 supporting actors (billing slots 2-5), got {len(supporting_actors)}")
+    for slot_number in range(2, 6):
+        name = supporting_actors[slot_number - 2] if slot_number - 2 < len(supporting_actors) else None
+        row.update(_person_override_fields(context, f"lead_actor_{slot_number}", "lead_actor", name, release_date))
+    if len(supporting_actors) < 4:
+        notes.append(
+            f"Only {len(supporting_actors)} of 4 supporting actors given -- empty billing slots lower the prediction."
+        )
     return row, notes
 
 

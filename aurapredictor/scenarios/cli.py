@@ -155,8 +155,21 @@ def main() -> None:
     upcoming.add_argument("--genre", help='e.g. "Action, Drama, Romance"')
     upcoming.add_argument("--runtime", type=float, help="Minutes (required with --upcoming)")
     upcoming.add_argument("--cbfc-rating", help="U, UA or A")
-    upcoming.add_argument("--production-company")
+    upcoming.add_argument("--number-of-screens", type=int, help="Screens at release, if known")
+    upcoming.add_argument("--release-event-type", help="e.g. Festival, Holiday, Normal, Cricket World Cup")
+    upcoming.add_argument("--release-event-name", help="e.g. Diwali, Christmas, Normal")
+    upcoming.add_argument("--remake", action="store_true", help="The movie is a remake")
+    upcoming.add_argument(
+        "--rating-range",
+        type=int,
+        choices=handlers.RATING_RANGE_VALUES,
+        help="From the movie's reception (default: 10000 for Hindi, 1000 otherwise)",
+    )
+    upcoming.add_argument("--production-company", help='One or more, comma-separated: "Mythri Movie Makers, T-Series"')
     upcoming.add_argument("--lead-actor")
+    upcoming.add_argument(
+        "--supporting-actors", help='Up to 4, comma-separated, in billing order: "Rashmika Mandanna, Fahadh Faasil"'
+    )
     upcoming.add_argument("--director")
     upcoming.add_argument("--music-director")
     args = parser.parse_args()
@@ -183,8 +196,14 @@ def main() -> None:
                 genre=args.genre,
                 runtime=args.runtime,
                 cbfc_rating=args.cbfc_rating,
+                number_of_screens=args.number_of_screens,
+                release_event_type=args.release_event_type,
+                release_event_name=args.release_event_name,
+                is_remake=args.remake,
+                rating_range=args.rating_range,
                 production_company=args.production_company,
                 lead_actor=args.lead_actor,
+                supporting_actors=[a.strip() for a in (args.supporting_actors or "").split(",") if a.strip()],
                 director=args.director,
                 music_director=args.music_director,
             )

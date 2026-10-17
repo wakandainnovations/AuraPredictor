@@ -114,13 +114,28 @@ def test_replace_director_uses_director_filmography_not_actor_filmography():
 
 
 def test_set_release_date_updates_macro_when_year_known():
-    context = make_context(year_macro={2025: {"gdp_usd_billions": 4000, "inflation_rate_pct": 3}})
+    context = make_context(
+        year_macro={2025: {"gdp_usd_billions": 4000, "inflation_rate_pct": 3}},
+        date_events={"2025-01-15": ("Festival", "Sankranti")},
+    )
     result = handlers.set_release_date(context, "Test Movie", "2022-06-01", "telugu", "2025-01-15")
     assert result.note is None
     assert result.scenario_revenue == fake_score_row(
         context,
         {**BASELINE_ROW, "release_date": "2025-01-15", "gdp_usd_billions": 4000, "inflation_rate_pct": 3},
     )
+
+
+def test_set_release_date_moves_release_event(monkeypatch):
+    scored = []
+    monkeypatch.setattr(handlers, "score_row", lambda context, row: scored.append(row) or 1.0)
+    context = make_context(date_events={"2025-01-15": ("Festival", "Sankranti")})
+    handlers.set_release_date(context, "Test Movie", "2022-06-01", "telugu", "2025-01-15")
+    assert (scored[-1]["release_event_type"], scored[-1]["release_event_name"]) == ("Festival", "Sankranti")
+
+    result = handlers.set_release_date(context, "Test Movie", "2022-06-01", "telugu", "2025-03-03")
+    assert (scored[-1]["release_event_type"], scored[-1]["release_event_name"]) == (None, None)
+    assert "event is unknown" in result.note
 
 
 def test_set_release_date_notes_missing_macro_year():
@@ -197,6 +212,36 @@ def test_upcoming_movie_row_computes_history_and_flags_gaps():
     assert row["rating_10"] is None
     assert any("2025" in n for n in notes)
     assert any("Unknown Newcomer" in n for n in notes)
+    assert row["rating_range"] == 1000  # non-Hindi default, flagged in notes
+    assert any("rating-range" in n for n in notes)
+
+
+def test_upcoming_movie_row_fills_supporting_actor_slots():
+    context = make_context(people_movie_counts={"lead_actor": {"Second Star": [("2020-01-01", 7)]}})
+    row, notes = handlers.upcoming_movie_row(
+        context, movie_name="F", release_date="2026-01-01", language="telugu", budget=1, supporting_actors=["Second Star"]
+    )
+    assert row["lead_actor_2"] == "Second Star"
+    assert row["lead_actor_2_movie_count"] == 8  # 7 films before the 2020 one, plus that one
+    assert row["lead_actor_3"] is None and row["lead_actor_5_movie_count"] is None
+    assert any("1 of 4 supporting actors" in n for n in notes)
+    with pytest.raises(ValueError):
+        handlers.upcoming_movie_row(
+            context, movie_name="F", release_date="2026-01-01", language="telugu", budget=1, supporting_actors=["a"] * 5
+        )
+
+
+def test_upcoming_movie_row_rating_range_default_and_override():
+    context = make_context()
+    hindi, _ = handlers.upcoming_movie_row(context, movie_name="F", release_date="2026-01-01", language="hindi", budget=1)
+    assert hindi["rating_range"] == 10000
+    given, notes = handlers.upcoming_movie_row(
+        context, movie_name="F", release_date="2026-01-01", language="hindi", budget=1, rating_range=100
+    )
+    assert given["rating_range"] == 100
+    assert not any("rating-range" in n for n in notes)
+    with pytest.raises(ValueError):
+        handlers.upcoming_movie_row(context, movie_name="F", release_date="2026-01-01", language="hindi", budget=1, rating_range=500)
 
 
 def _capture_scored_rows(monkeypatch):
