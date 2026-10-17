@@ -1,0 +1,12 @@
+# Standalone Python project. Connects directly to the shared `aura` Postgres DB
+# (same DB and AURA_DB_URL convention as AuraService/python-batch-jobs), independent
+# of AuraService's Java build.
+
+psycopg2-binary>=2.9
+pandas>=2.2
+scikit-learn>=1.5      # MultiLabelBinarizer, train_test_split, metrics
+catboost>=1.2           # main model: native categorical + missing-value handling
+requests>=2.32          # TMDB / YouTube Data API v3 clients
+
+# Dev/test only
+pytest>=8.0

@@ -1,0 +1,25 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+
+### CatBoost training logs ###
+catboost_info/
+
+### Cron job output ###
+enrichment_cycle.log
+
+### Secrets / artifacts ###
+config/secrets.properties
+aurapredictor/artifacts/*.cbm
+aurapredictor/artifacts/*.pkl
+aurapredictor/artifacts/*.joblib
+
+### Mac OS ###
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea/
