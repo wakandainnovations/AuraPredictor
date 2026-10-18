@@ -398,7 +398,7 @@
     "Yash Raj Films",
     "Zee Studios"
   ],
-  "log_mae": 0.565246887452111,
+  "log_mae": 0.6179420921504726,
   "target": "log_revenue_budget_ratio",
   "model_version": "2026-10-18"
 }
