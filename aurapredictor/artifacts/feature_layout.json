@@ -64,6 +64,7 @@
     "genre_thriller",
     "genre_war",
     "genre_western",
+    "language_assamese",
     "language_bengali",
     "language_english",
     "language_gujarati",
@@ -231,6 +232,7 @@
     "genre_western"
   ],
   "language_columns": [
+    "language_assamese",
     "language_bengali",
     "language_english",
     "language_gujarati",
@@ -398,7 +400,7 @@
     "Yash Raj Films",
     "Zee Studios"
   ],
-  "log_mae": 0.6678224597620237,
+  "log_mae": 0.5892173121616989,
   "target": "log_revenue_budget_ratio",
-  "model_version": "2026-10-17"
+  "model_version": "2026-10-18"
 }
