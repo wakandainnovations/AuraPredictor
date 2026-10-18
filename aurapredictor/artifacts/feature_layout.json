@@ -57,10 +57,8 @@
     "genre_mystery",
     "genre_psychological",
     "genre_romance",
-    "genre_sci-fi",
     "genre_science_fiction",
     "genre_sport",
-    "genre_suspense",
     "genre_thriller",
     "genre_war",
     "genre_western",
@@ -146,6 +144,7 @@
     "company_Prakash_Jha_Productions",
     "company_Prime_Focus",
     "company_Prithviraj_Productions",
+    "company_R_S_Infotainment",
     "company_RSVP_Movies",
     "company_Rajkumar_Hirani_Films",
     "company_Red_Chillies_Entertainment",
@@ -223,10 +222,8 @@
     "genre_mystery",
     "genre_psychological",
     "genre_romance",
-    "genre_sci-fi",
     "genre_science_fiction",
     "genre_sport",
-    "genre_suspense",
     "genre_thriller",
     "genre_war",
     "genre_western"
@@ -316,6 +313,7 @@
     "company_Prakash_Jha_Productions",
     "company_Prime_Focus",
     "company_Prithviraj_Productions",
+    "company_R_S_Infotainment",
     "company_RSVP_Movies",
     "company_Rajkumar_Hirani_Films",
     "company_Red_Chillies_Entertainment",
@@ -400,7 +398,7 @@
     "Yash Raj Films",
     "Zee Studios"
   ],
-  "log_mae": 0.6243190555188751,
+  "log_mae": 0.565246887452111,
   "target": "log_revenue_budget_ratio",
   "model_version": "2026-10-18"
 }
