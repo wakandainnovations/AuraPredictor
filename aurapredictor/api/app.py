@@ -21,10 +21,11 @@ other endpoint down.
 from __future__ import annotations
 
 from contextlib import asynccontextmanager
-from typing import Any
+from datetime import date
+from typing import Annotated, Any
 
 from fastapi import Depends, FastAPI, HTTPException
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import AfterValidator, BaseModel, ConfigDict, Field
 from pydantic.alias_generators import to_camel
 
 from aurapredictor.budget_risk import predict as budget_risk
@@ -37,9 +38,22 @@ class _CamelModel(BaseModel):
     model_config = ConfigDict(alias_generator=to_camel, populate_by_name=True)
 
 
+def _iso_date(value: str) -> str:
+    # Kept as a string (that's what the scorers take), but it must parse: an unparsed
+    # "25-12-2026" used to score silently with no release year, month or event.
+    try:
+        date.fromisoformat(value)
+    except ValueError:
+        raise ValueError(f"must be a date as YYYY-MM-DD, got {value!r}") from None
+    return value
+
+
+IsoDate = Annotated[str, AfterValidator(_iso_date)]
+
+
 class UpcomingMovieRequest(_CamelModel):
     movie_name: str = Field(min_length=1)
-    release_date: str = Field(min_length=1, description="e.g. 2026-12-25")
+    release_date: IsoDate = Field(description="YYYY-MM-DD, e.g. 2026-12-25")
     language: str = Field(min_length=1, description='e.g. "telugu" or "hindi, tamil"')
     budget: float = Field(gt=0, description="Same currency as the training revenue column")
     # Required: runtime is filled for every training movie, so a blank would read as
@@ -80,7 +94,7 @@ class UpcomingMovieResponse(_CamelModel):
 
 class BudgetRiskRequest(_CamelModel):
     movie_name: str = Field(min_length=1)
-    release_date: str = Field(min_length=1, description="Planned release date, e.g. 2026-12-25")
+    release_date: IsoDate = Field(description="Planned release date, YYYY-MM-DD, e.g. 2026-12-25")
     language: str = Field(min_length=1, description='Original language first: "telugu" or "telugu, hindi"')
     # Optional: without it the response has budget lines only, no verdict.
     budget: float | None = Field(default=None, gt=0, description="Planned budget to classify")

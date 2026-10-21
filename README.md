@@ -41,6 +41,9 @@ python scripts/run_full_enrichment_cycle.py             # chains all four steps 
 
 ## Prediction API (for AuraService)
 
+Full reference for both endpoints (every field, required vs optional, defaults,
+response fields, errors, examples): [`aurapredictor/api/README.md`](aurapredictor/api/README.md).
+
 ```bash
 python scripts/serve_api.py                            # http://localhost:8082, OpenAPI docs at /docs
 curl -s localhost:8082/v1/predict/upcoming -H 'Content-Type: application/json' -d '{

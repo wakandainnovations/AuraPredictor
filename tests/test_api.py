@@ -83,6 +83,8 @@ def test_custom_ratings_are_passed_through(client):
     [
         {"runtime": None},
         {"budget": 0},
+        {"releaseDate": "25-12-2026"},
+        {"releaseDate": ""},
         {"ratings": [11]},
         {"ratings": []},
         {"supportingActors": ["a", "b", "c", "d", "e"]},
@@ -208,7 +210,7 @@ def test_budget_risk_with_budget_returns_verdict_and_confidence(budget_client):
 
 @pytest.mark.parametrize(
     "override",
-    [{"budget": 0}, {"hitRatio": 0.9}, {"hitRatio": 2.6}, {"ratings": [11]}, {"ratings": []}, {"supportingActors": ["a", "b", "c", "d", "e"]}, {"language": ""}],
+    [{"budget": 0}, {"releaseDate": "2026-13-01"}, {"releaseDate": "Dec 25 2026"}, {"hitRatio": 0.9}, {"hitRatio": 2.6}, {"ratings": [11]}, {"ratings": []}, {"supportingActors": ["a", "b", "c", "d", "e"]}, {"language": ""}],
 )
 def test_invalid_budget_risk_requests_return_422(budget_client, override):
     test_client, _ = budget_client
