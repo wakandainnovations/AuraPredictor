@@ -73,6 +73,18 @@ assumed audience rating (default 4/6/8) it reports a **max budget** -- the RISK 
 where the chance of reaching 2x drops below 50% -- and a **safe budget** (75% chance).
 With `--budget`, it also calls that planned budget an OPPORTUNITY or a RISK.
 
+The same API server exposes it for AuraService (same inputs as the CLI, camelCase;
+`budget` optional). Each assessment has `maxBudget`/`safeBudget` (null = risky at any
+budget, `*Capped` = at the largest training budget) and, with a budget,
+`expectedRatio`, `hitProbability`, `verdict` and `verdictConfidence`:
+
+```bash
+curl -s localhost:8082/v1/budget-risk/upcoming -H 'Content-Type: application/json' -d '{
+  "movieName": "New Film", "releaseDate": "2026-12-25", "language": "telugu",
+  "genre": "Action, Drama", "leadActor": "Some Actor", "supportingActors": ["A", "B", "C", "D"],
+  "director": "Some Director", "musicDirector": "Some Composer", "budget": 30000000}'
+```
+
 Only pre-investment columns are features (see `budget_risk/dataset.py` for what's
 excluded and why): no revenue, runtime, YouTube stats, `number_of_screens` or the
 `*_diff_*`/`*_ratio_*` person-history columns that embed the movie's own numbers.
