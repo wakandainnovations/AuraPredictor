@@ -39,6 +39,23 @@ python scripts/write_predictions.py                    # upserts batch predictio
 python scripts/run_full_enrichment_cycle.py             # chains all four steps above in one go
 ```
 
+## Prediction API (for AuraService)
+
+```bash
+python scripts/serve_api.py                            # http://localhost:8082, OpenAPI docs at /docs
+curl -s localhost:8082/v1/predict/upcoming -H 'Content-Type: application/json' -d '{
+  "movieName": "New Film", "releaseDate": "2026-12-25", "language": "telugu",
+  "budget": 40000000, "runtime": 150, "genre": "Action, Drama", "leadActor": "Some Actor",
+  "supportingActors": ["A", "B", "C", "D"], "director": "Some Director", "cbfcRating": "UA"}'
+```
+
+Same inputs and output as the CLI's `--upcoming` mode: one predicted revenue (with a
+low/high band from the model's out-of-sample log-MAE) per assumed audience rating
+(`ratings`, default 4/6/8), plus `notes` on any value that had to be approximated.
+The DB-backed context loads once at startup, so restart after `train_model.py`.
+AuraService calls this through `POST /api/predictions/upcoming-movie`
+(`AURAPREDICTOR_BASE_URL`, default `http://localhost:8082`).
+
 ## Relationship to AuraDataFiller
 
 A separate, pre-existing Java pipeline (`../AuraDataFiller`) already fills much of

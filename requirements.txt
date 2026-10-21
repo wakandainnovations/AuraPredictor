@@ -7,6 +7,9 @@ pandas>=2.2
 scikit-learn>=1.5      # MultiLabelBinarizer, train_test_split, metrics
 catboost>=1.2           # main model: native categorical + missing-value handling
 requests>=2.32          # TMDB / YouTube Data API v3 clients
+fastapi>=0.115          # upcoming-movie prediction API (aurapredictor/api/) for AuraService
+uvicorn>=0.30
 
 # Dev/test only
 pytest>=8.0
+httpx>=0.27             # fastapi.testclient
