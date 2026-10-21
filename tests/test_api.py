@@ -143,8 +143,8 @@ def budget_client(monkeypatch):
         calls["row_kwargs"] = kwargs
         return {}, ["a note"]
 
-    def fake_assess(context, row, ratings, planned_budget):
-        calls["ratings"], calls["planned_budget"] = ratings, planned_budget
+    def fake_assess(context, row, ratings, planned_budget, hit_ratio):
+        calls["ratings"], calls["planned_budget"], calls["hit_ratio"] = ratings, planned_budget, hit_ratio
         return [
             budget_risk.BudgetAssessment(
                 rating=r,
@@ -184,6 +184,7 @@ def test_budget_risk_without_budget_returns_lines_only(budget_client):
     }
     assert body["assessments"][2]["maxBudgetCapped"] is True
     assert calls["planned_budget"] is None
+    assert calls["hit_ratio"] is None
     assert calls["row_kwargs"]["supporting_actors"] == ["A", "B"]
     assert calls["row_kwargs"]["rating_range"] == 1000
     assert "movie_name" not in calls["row_kwargs"]
@@ -204,7 +205,7 @@ def test_budget_risk_with_budget_returns_verdict_and_confidence(budget_client):
 
 @pytest.mark.parametrize(
     "override",
-    [{"budget": 0}, {"ratings": [11]}, {"ratings": []}, {"supportingActors": ["a", "b", "c", "d", "e"]}, {"language": ""}],
+    [{"budget": 0}, {"hitRatio": 0.9}, {"hitRatio": 2.6}, {"ratings": [11]}, {"ratings": []}, {"supportingActors": ["a", "b", "c", "d", "e"]}, {"language": ""}],
 )
 def test_invalid_budget_risk_requests_return_422(budget_client, override):
     test_client, _ = budget_client
@@ -231,3 +232,12 @@ def test_missing_budget_risk_model_returns_503(monkeypatch):
     monkeypatch.setattr(budget_risk, "load_context", no_artifacts)
     response = TestClient(api.app).post("/v1/budget-risk/upcoming", json=BUDGET_RISK_REQUEST)
     assert response.status_code == 503
+
+
+def test_budget_risk_custom_hit_ratio_is_passed_through_and_echoed(budget_client):
+    test_client, calls = budget_client
+    response = test_client.post("/v1/budget-risk/upcoming", json={**BUDGET_RISK_REQUEST, "hitRatio": 1.5})
+
+    assert response.status_code == 200
+    assert response.json()["hitRatio"] == 1.5
+    assert calls["hit_ratio"] == 1.5

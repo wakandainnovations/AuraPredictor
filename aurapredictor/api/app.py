@@ -83,6 +83,13 @@ class BudgetRiskRequest(_CamelModel):
     language: str = Field(min_length=1, description='Original language first: "telugu" or "telugu, hindi"')
     # Optional: without it the response has budget lines only, no verdict.
     budget: float | None = Field(default=None, gt=0, description="Planned budget to classify")
+    # Applied after the forecast, so changing it needs no retrain.
+    hit_ratio: float | None = Field(
+        default=None,
+        ge=budget_risk.MIN_HIT_RATIO,
+        le=budget_risk.MAX_HIT_RATIO,
+        description="Revenue:budget multiple that counts as a hit; default 2",
+    )
     genre: str | None = Field(default=None, description='e.g. "Action, Drama"')
     cbfc_rating: str | None = Field(default=None, description="Target certificate: U, UA or A")
     release_event_type: str | None = Field(default=None, description="Default: looked up from the date")
@@ -235,7 +242,7 @@ def predict_budget_risk(
             director=request.director,
             music_director=request.music_director,
         )
-        assessments = budget_risk.assess(context, row, tuple(request.ratings), request.budget)
+        assessments = budget_risk.assess(context, row, tuple(request.ratings), request.budget, request.hit_ratio)
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
 
@@ -244,7 +251,7 @@ def predict_budget_risk(
         release_date=request.release_date,
         language=request.language,
         model_version=context.layout.get("model_version", "unknown"),
-        hit_ratio=context.layout["hit_ratio"],
+        hit_ratio=request.hit_ratio or context.layout["hit_ratio"],
         max_budget_hit_probability=budget_risk.MAX_BUDGET_HIT_PROBABILITY,
         safe_budget_hit_probability=budget_risk.SAFE_BUDGET_HIT_PROBABILITY,
         assessments=[

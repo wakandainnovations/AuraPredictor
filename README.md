@@ -74,7 +74,8 @@ where the chance of reaching 2x drops below 50% -- and a **safe budget** (75% ch
 With `--budget`, it also calls that planned budget an OPPORTUNITY or a RISK.
 
 The same API server exposes it for AuraService (same inputs as the CLI, camelCase;
-`budget` optional). Each assessment has `maxBudget`/`safeBudget` (null = risky at any
+`budget` optional; `hitRatio` / `--hit-ratio`, 1 to 2.5, replaces the 2x bar per request, no
+retrain needed since the model forecasts the return itself). Each assessment has `maxBudget`/`safeBudget` (null = risky at any
 budget, `*Capped` = at the largest training budget) and, with a budget,
 `expectedRatio`, `hitProbability`, `verdict` and `verdictConfidence`:
 
@@ -97,8 +98,11 @@ retrain after the fill is re-run with more collected films. It forecasts the fil
 return (`revenue_budget_ratio` x budget) with budget as a monotone input, then scans
 budget for where the forecast stops covering 2x. 5-fold CV: hit/flop AUC 0.81; of
 held-out films whose real budget sat under their line, 82% were hits, vs 36% over
-it. Hit probabilities are calibrated within every budget band, but individual
-blockbusters are under-forecast, so lines for star vehicles lean conservative.
+it. Hit probabilities come from forward-in-time forecasts (each year since 2016
+predicted from earlier years only) with a Platt correction per bar from 1x to 2.5x.
+On the 2025-26 holdout, 90%+ calls were right ~92% of the time at 2x but only ~79%
+at 1x -- break-even is the hardest bar to call. Individual blockbusters are
+under-forecast, so lines for star vehicles lean conservative.
 
 ## Relationship to AuraDataFiller
 

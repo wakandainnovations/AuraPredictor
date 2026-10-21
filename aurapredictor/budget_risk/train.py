@@ -17,9 +17,14 @@ Forecasting return instead goes flat the *other* way -- past the films it has
 seen, more spend buys no more audience -- the conservative assumption for a risk
 line. Ignoring budget entirely loses how scale drives revenue.
 
-5-fold out-of-fold forecasts give honest metrics and the residual distribution
-that turns a forecast into a probability of clearing HIT_RATIO; the saved model
-is then refit on every row.
+5-fold out-of-fold forecasts give the metrics. Probabilities instead come from
+forward-in-time forecasts (each year from FORWARD_START_YEAR predicted by a model
+trained on earlier years only): random folds always have same-era films to lean on,
+so their residuals understate the error on a film that hasn't been made yet. On the
+2025-26 holdout, OOF-based 90%+ calls at a 1x bar were right only 75% of the time;
+forward residuals plus a per-bar Platt correction (calibrate()) brought that to 81%,
+with Brier score equal or better at every bar from 1x to 2.5x. The saved model is
+then refit on every row.
 """
 
 from __future__ import annotations
@@ -27,18 +32,40 @@ from __future__ import annotations
 import json
 import math
 import pickle
+import warnings
 from datetime import date
 
 import numpy as np
 from catboost import CatBoostRegressor
+from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import roc_auc_score
 from sklearn.model_selection import KFold
 
 from aurapredictor.budget_risk import ARTIFACTS_DIR, ENCODERS_PATH, HIT_RATIO, LAYOUT_PATH, MODEL_NAME, MODEL_PATH
-from aurapredictor.budget_risk.dataset import CATEGORICAL_FEATURES, TARGET, build_dataframe, load_training_rows
-from aurapredictor.budget_risk.predict import budget_grid, budget_line, log_ratio_curves
+from aurapredictor.budget_risk.dataset import (
+    CATEGORICAL_FEATURES,
+    TARGET,
+    build_dataframe,
+    feature_matrix,
+    load_training_rows,
+)
+from aurapredictor.budget_risk.predict import (
+    MAX_HIT_RATIO,
+    MIN_HIT_RATIO,
+    budget_grid,
+    budget_line,
+    log_ratio_curves,
+    logit,
+    raw_hit_probability,
+)
 
 CV_FOLDS = 5
+
+# First year forecast forward; earlier years only ever train. ~1,000 films before it.
+FORWARD_START_YEAR = 2016
+
+# Bars with their own Platt correction; predict.py interpolates between them.
+CALIBRATION_HIT_RATIOS = [round(r, 2) for r in np.arange(MIN_HIT_RATIO, MAX_HIT_RATIO + 0.01, 0.1)]
 
 
 def new_model(cat_features: list[str]) -> CatBoostRegressor:
@@ -57,6 +84,44 @@ def new_model(cat_features: list[str]) -> CatBoostRegressor:
         verbose=False,
         random_seed=42,
     )
+
+
+def forward_log_ratios(rows: list[dict], cat_features: list[str]) -> tuple[np.ndarray, np.ndarray]:
+    """(forecast, actual) log ratios for every film from FORWARD_START_YEAR on, each
+    year scored by a model trained only on the years before it."""
+    forecasts, actuals = [], []
+    last_year = max(int(r["release_date"][:4]) for r in rows)
+    for year in range(FORWARD_START_YEAR, last_year + 1):
+        cutoff = f"{year}-01-01"
+        earlier = [r for r in rows if r["release_date"] < cutoff]
+        this_year = [r for r in rows if r["release_date"][:4] == str(year)]
+        if not this_year:
+            continue
+        X, y, encoders = build_dataframe(earlier)
+        year_cats = [c for c in cat_features if c in X.columns]
+        model = new_model(year_cats)
+        model.fit(X, y.to_numpy())
+        # A year can bring a genre/language no earlier film had (the first Gujarati
+        # film): dropped, as for any new movie, so not worth a warning each time.
+        with warnings.catch_warnings():
+            warnings.filterwarnings("ignore", message="unknown class", category=UserWarning)
+            X_year = feature_matrix(this_year, **encoders).reindex(columns=X.columns, fill_value=0)
+        forecasts.append(model.predict(X_year) - np.log(X_year["budget"].to_numpy()))
+        actuals.append(np.log([float(r["revenue_budget_ratio"]) for r in this_year]))
+    return np.concatenate(forecasts), np.concatenate(actuals)
+
+
+def calibrate(forecast: np.ndarray, actual: np.ndarray, layout: dict) -> dict[str, list[float]]:
+    """Per-bar Platt correction: logit(p) = intercept + slope * logit(raw p), fitted
+    on forward forecasts so it learns how over- or under-confident raw probabilities
+    are on films the model hasn't seen the era of."""
+    intercepts, slopes = [], []
+    for hit_ratio in CALIBRATION_HIT_RATIOS:
+        raw = raw_hit_probability(forecast, layout, hit_ratio)
+        platt = LogisticRegression(C=1e6).fit(logit(raw)[:, None], actual >= math.log(hit_ratio))
+        intercepts.append(float(platt.intercept_[0]))
+        slopes.append(float(platt.coef_[0, 0]))
+    return {"hit_ratios": CALIBRATION_HIT_RATIOS, "intercepts": intercepts, "slopes": slopes}
 
 
 def train() -> None:
@@ -98,6 +163,14 @@ def train() -> None:
         "n": len(X),
     }
 
+    print(f"Forward-in-time forecasts for calibration ({FORWARD_START_YEAR} on)...")
+    forward_forecast, forward_actual = forward_log_ratios(rows, cat_features)
+    forward_residuals = forward_actual - forward_forecast
+    residual_quantiles = [float(q) for q in np.percentile(forward_residuals, np.arange(101))]
+    calibration = calibrate(forward_forecast, forward_actual, {"residual_quantiles": residual_quantiles})
+    metrics["forward_log_ratio_mae"] = float(np.mean(np.abs(forward_residuals)))
+    metrics["forward_n"] = len(forward_residuals)
+
     model = new_model(cat_features)
     model.fit(X, y_np)
     importances = sorted(zip(X.columns, model.get_feature_importance()), key=lambda pair: pair[1], reverse=True)
@@ -111,6 +184,12 @@ def train() -> None:
         f"over line: {metrics['hit_rate_over_line']:.2f}  "
         f"(base {metrics['base_hit_rate']:.2f}, {metrics['share_under_line']:.0%} of films under)"
     )
+    print(f"  forward-in-time MAE:       {metrics['forward_log_ratio_mae']:.3f} (n={metrics['forward_n']})")
+    print("  Platt correction (intercept, slope) at " + ", ".join(
+        f"{r:g}x: ({a:.2f}, {b:.2f})"
+        for r, a, b in zip(calibration["hit_ratios"], calibration["intercepts"], calibration["slopes"])
+        if r in (1.0, 1.5, 2.0, 2.5)
+    ))
     print("\n=== Top 15 feature importances ===")
     for name, importance in importances[:15]:
         print(f"  {name:<40s} {importance:6.2f}")
@@ -130,9 +209,9 @@ def train() -> None:
                 "categorical_features": cat_features,
                 "min_budget": min_budget,
                 "max_budget": max_budget,
-                # Percentiles 0..100 of out-of-fold (actual - forecast) log return, which
-                # at a film's real budget is also its log-ratio error.
-                "residual_quantiles": [float(q) for q in np.percentile(residuals, np.arange(101))],
+                # Percentiles 0..100 of forward-in-time (actual - forecast) log ratio.
+                "residual_quantiles": residual_quantiles,
+                "calibration": calibration,
                 "metrics": metrics,
             },
             f,

@@ -12,9 +12,11 @@ from aurapredictor.budget_risk.predict import (
     RISK,
     BudgetAssessment,
     BudgetRiskContext,
+    assess,
     budget_line,
     hit_probability,
     movie_row,
+    planned_hit_probability,
 )
 
 BUDGETS = np.array([1.0, 2.0, 3.0, 4.0])
@@ -39,6 +41,36 @@ def test_hit_probability_from_residual_quantiles():
     assert hit_probability(math.log(2), LAYOUT) == pytest.approx(0.5)
     assert hit_probability(math.log(2) + 0.5, LAYOUT) == pytest.approx(0.75)
     assert hit_probability(math.log(2) - 2, LAYOUT) == pytest.approx(0.0)
+
+
+def test_hit_probability_with_a_custom_hit_ratio():
+    # Same forecast, a 4x bar instead of 2x: needs log(2) more residual.
+    assert hit_probability(math.log(4), LAYOUT, hit_ratio=4.0) == pytest.approx(0.5)
+    assert hit_probability(math.log(2), LAYOUT, hit_ratio=4.0) == pytest.approx(1 - (math.log(2) + 1) / 2)
+
+
+def test_identity_calibration_leaves_raw_probability_unchanged():
+    calibrated = {**LAYOUT, "calibration": {"hit_ratios": [1.0, 2.5], "intercepts": [0.0, 0.0], "slopes": [1.0, 1.0]}}
+    assert hit_probability(math.log(2) + 0.5, calibrated) == pytest.approx(0.75)
+
+
+def test_calibration_is_interpolated_between_bars():
+    # Intercept 0 at 1x and 2 at 2x: a coin flip at 1.5x gets intercept 1 -> sigmoid(1).
+    calibrated = {**LAYOUT, "calibration": {"hit_ratios": [1.0, 2.0], "intercepts": [0.0, 2.0], "slopes": [1.0, 1.0]}}
+    assert hit_probability(math.log(1.5), calibrated, hit_ratio=1.5) == pytest.approx(1 / (1 + math.exp(-1)))
+
+
+def test_calibration_shrinks_overconfident_probabilities():
+    calibrated = {**LAYOUT, "calibration": {"hit_ratios": [1.0, 2.5], "intercepts": [0.0, 0.0], "slopes": [0.5, 0.5]}}
+    raw = hit_probability(math.log(2) + 0.9, LAYOUT)
+    assert 0.5 < hit_probability(math.log(2) + 0.9, calibrated) < raw
+
+
+def test_planned_hit_probability_never_recovers_past_a_dip():
+    probabilities = np.array([0.7, 0.45, 0.6, 0.55])
+    assert planned_hit_probability(BUDGETS, probabilities, 3.5, own=0.58) == pytest.approx(0.45)
+    assert planned_hit_probability(BUDGETS, probabilities, 1.5, own=0.65) == pytest.approx(0.65)
+    assert planned_hit_probability(BUDGETS, probabilities, 0.5, own=0.9) == pytest.approx(0.9)  # below the grid
 
 
 def test_verdict_follows_hit_probability():
@@ -117,6 +149,12 @@ def test_movie_row_fills_event_macro_and_career_counts():
     assert row["music_director_prev_movie_budget"] is None  # empty slot
     assert "budget" not in row and "rating_10" not in row
     assert any("Newcomer" in note for note in notes)
+
+
+@pytest.mark.parametrize("hit_ratio", [0.9, 2.6])
+def test_assess_rejects_hit_ratio_outside_1_to_2_5(hit_ratio):
+    with pytest.raises(ValueError):
+        assess(CONTEXT, {}, hit_ratio=hit_ratio)
 
 
 def test_movie_row_rejects_unknown_rating_range():

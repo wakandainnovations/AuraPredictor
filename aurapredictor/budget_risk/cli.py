@@ -76,6 +76,7 @@ def main() -> None:
     parser.add_argument("--music-director")
     parser.add_argument("--ratings", help="Comma-separated assumed ratings out of 10 (default 4,6,8)")
     parser.add_argument("--budget", type=float, help="Planned budget to classify, same currency as the budget column")
+    parser.add_argument("--hit-ratio", type=float, help="Revenue:budget multiple that counts as a hit, 1 to 2.5 (default 2)")
     args = parser.parse_args()
 
     try:
@@ -96,13 +97,13 @@ def main() -> None:
             director=args.director,
             music_director=args.music_director,
         )
-        assessments = assess(context, row, _parse_ratings(args.ratings), args.budget)
+        assessments = assess(context, row, _parse_ratings(args.ratings), args.budget, args.hit_ratio)
     except (ArtifactsNotFoundError, ValueError) as exc:
         print(f"Error: {exc}", file=sys.stderr)
         sys.exit(1)
 
     print(f"{MODEL_NAME} ({args.release_date}, {args.language}):")
-    _print_assessments(assessments, context.layout["hit_ratio"], notes)
+    _print_assessments(assessments, args.hit_ratio or context.layout["hit_ratio"], notes)
 
 
 if __name__ == "__main__":

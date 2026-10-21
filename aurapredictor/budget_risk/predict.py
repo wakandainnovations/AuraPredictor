@@ -7,11 +7,14 @@ forecast stops covering HIT_RATIO x the budget: above it the movie is more likel
 than not to miss (RISK), below it it's an OPPORTUNITY. The *safe budget* is the same
 line drawn at a stricter SAFE_BUDGET_HIT_PROBABILITY.
 
-Hit probabilities come from the training run's out-of-fold residuals: if the model
-forecasts log ratio p, the chance the real ratio clears HIT_RATIO is the share of
-held-out films whose actual log ratio beat their forecast by at least
-log(HIT_RATIO) - p. That assumes the error spread is the same for every kind of
-film, which is the main simplification here.
+Hit probabilities come from the training run's forward-in-time residuals (each year
+forecast by a model trained only on earlier years -- what forecasting a planned film
+really is): if the model forecasts log ratio p, the raw chance the real ratio clears
+the bar is the share of those films whose actual log ratio beat their forecast by at
+least log(bar) - p. A per-bar Platt correction fitted on the same forward forecasts
+then reins in overconfidence, which is worst near break-even (1x). That still
+assumes the error spread is the same for every kind of film, the main
+simplification here.
 """
 
 from __future__ import annotations
@@ -42,6 +45,11 @@ from aurapredictor.scenarios.handlers import (
 # "More likely than not to be a hit" is the RISK line; the safe budget asks for 3-in-4.
 MAX_BUDGET_HIT_PROBABILITY = 0.5
 SAFE_BUDGET_HIT_PROBABILITY = 0.75
+
+# Allowed per-request hit bars: producers use 1x (gross covers the budget) to 2x, rarely
+# up to 2.5x. Beyond that only a handful of breakouts clear the bar in training.
+MIN_HIT_RATIO = 1.0
+MAX_HIT_RATIO = 2.5
 
 # Log-spaced budgets scanned between the layout's min/max training budget: ~2% apart.
 BUDGET_GRID_POINTS = 400
@@ -107,9 +115,9 @@ class BudgetAssessment:
     @property
     def verdict_confidence(self) -> float | None:
         """Chance the verdict turns out right: the hit probability for an OPPORTUNITY,
-        the flop probability for a RISK. On the 2025-26 time-split backtest, calls at
-        70-90% were right 83-84% of the time, under 60% about half; 90%+ calls were
-        right 89%, so the very top runs slightly overconfident."""
+        the flop probability for a RISK. On the 2025-26 time-split backtest at 2x,
+        90%+ calls were right 92% of the time; near break-even (1-1.25x) they were
+        right ~81%, so treat the top end at low bars as somewhat optimistic."""
         if self.planned_hit_probability is None:
             return None
         p = self.planned_hit_probability
@@ -217,13 +225,49 @@ def budget_line(budgets: np.ndarray, passes: np.ndarray) -> tuple[float | None, 
     return float(budgets[int(np.argmin(passes)) - 1]), False
 
 
-def hit_probability(log_ratio: float | np.ndarray, layout: dict[str, Any]) -> float | np.ndarray:
-    """P(actual ratio >= hit_ratio) given a forecast log ratio, from the out-of-fold
-    residual percentiles saved at training time."""
+def logit(p: float | np.ndarray) -> float | np.ndarray:
+    # Clipped so a raw 0% / 100% stays finite and the Platt correction can still move it.
+    p = np.clip(p, 1e-3, 1 - 1e-3)
+    return np.log(p / (1 - p))
+
+
+def raw_hit_probability(
+    log_ratio: float | np.ndarray, layout: dict[str, Any], hit_ratio: float | None = None
+) -> float | np.ndarray:
+    """Uncalibrated P(actual ratio >= hit_ratio) from the residual percentiles saved
+    at training time."""
     quantiles = np.asarray(layout["residual_quantiles"])
-    needed_residual = math.log(layout["hit_ratio"]) - np.asarray(log_ratio)
+    needed_residual = math.log(hit_ratio or layout["hit_ratio"]) - np.asarray(log_ratio)
     share_below = np.interp(needed_residual, quantiles, np.linspace(0, 1, len(quantiles)))
     return 1 - share_below
+
+
+def planned_hit_probability(budgets: np.ndarray, probabilities: np.ndarray, planned_budget: float, own: float) -> float:
+    """The planned budget's hit chance, never above the chance at any smaller grid
+    budget. Revenue forecasts rise in steps, so the chance can dip under the bar and
+    recover a little further up; budget_line() already stops at the first dip, and a
+    budget past that dip must be a RISK too, or the verdict contradicts the line."""
+    smaller = probabilities[budgets <= planned_budget]
+    return float(min(own, smaller.min())) if len(smaller) else float(own)
+
+
+def hit_probability(
+    log_ratio: float | np.ndarray, layout: dict[str, Any], hit_ratio: float | None = None
+) -> float | np.ndarray:
+    """P(actual ratio >= hit_ratio) given a forecast log ratio. hit_ratio defaults to
+    the training bar (layout["hit_ratio"]); the model forecasts the return itself, not
+    hit/flop, so any bar works without retraining. With layout["calibration"], the
+    raw probability goes through that bar's Platt correction, interpolated between
+    the calibrated bars. Slopes are positive, so more budget still never means a
+    higher hit chance, and budget lines stay well defined."""
+    hit_ratio = hit_ratio or layout["hit_ratio"]
+    raw = raw_hit_probability(log_ratio, layout, hit_ratio)
+    calibration = layout.get("calibration")
+    if not calibration:
+        return raw
+    intercept = np.interp(hit_ratio, calibration["hit_ratios"], calibration["intercepts"])
+    slope = np.interp(hit_ratio, calibration["hit_ratios"], calibration["slopes"])
+    return 1 / (1 + np.exp(-(intercept + slope * logit(raw))))
 
 
 def _feature_rows(context: BudgetRiskContext, row: dict[str, Any], rating: float) -> pd.DataFrame:
@@ -239,13 +283,18 @@ def assess(
     row: dict[str, Any],
     ratings: tuple[float, ...] = DEFAULT_SCENARIO_RATINGS,
     planned_budget: float | None = None,
+    hit_ratio: float | None = None,
 ) -> list[BudgetAssessment]:
+    """hit_ratio: the revenue:budget multiple that counts as a hit; defaults to the
+    training bar (HIT_RATIO, 2x)."""
+    if hit_ratio is not None and not MIN_HIT_RATIO <= hit_ratio <= MAX_HIT_RATIO:
+        raise ValueError(f"hit_ratio must be between {MIN_HIT_RATIO:g} and {MAX_HIT_RATIO:g}, got {hit_ratio}")
     layout = context.layout
     budgets = budget_grid(layout["min_budget"], layout["max_budget"])
     assessments = []
     for rating in ratings:
         X = _feature_rows(context, row, rating)
-        probabilities = hit_probability(log_ratio_curves(context.model, X, budgets)[0], layout)
+        probabilities = hit_probability(log_ratio_curves(context.model, X, budgets)[0], layout, hit_ratio)
         max_budget, max_capped = budget_line(budgets, probabilities >= MAX_BUDGET_HIT_PROBABILITY)
         safe_budget, safe_capped = budget_line(budgets, probabilities >= SAFE_BUDGET_HIT_PROBABILITY)
         assessment = BudgetAssessment(
@@ -259,6 +308,8 @@ def assess(
             planned_log_ratio = float(log_ratio_curves(context.model, X, np.array([planned_budget]))[0, 0])
             assessment.planned_budget = planned_budget
             assessment.planned_ratio = math.exp(planned_log_ratio)
-            assessment.planned_hit_probability = float(hit_probability(planned_log_ratio, layout))
+            assessment.planned_hit_probability = planned_hit_probability(
+                budgets, probabilities, planned_budget, float(hit_probability(planned_log_ratio, layout, hit_ratio))
+            )
         assessments.append(assessment)
     return assessments
