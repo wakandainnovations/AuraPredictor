@@ -32,7 +32,13 @@ from catboost import CatBoostRegressor
 
 from aurapredictor.budget_risk import ENCODERS_PATH, LAYOUT_PATH, MODEL_PATH
 from aurapredictor.budget_risk.dataset import feature_matrix
-from aurapredictor.budget_risk.prev_films import PrevFilms, load_prev_films, prev_film_fields
+from aurapredictor.budget_risk.prev_films import (
+    PrevFilms,
+    actor_rating_ranges,
+    cast_rating_range,
+    load_prev_films,
+    prev_film_fields,
+)
 from aurapredictor.dates import release_year as parse_release_year
 from aurapredictor.scenarios.engine import ArtifactsNotFoundError, load_date_events, load_people_movie_counts, load_year_macro
 from aurapredictor.scenarios.handlers import (
@@ -50,6 +56,11 @@ SAFE_BUDGET_HIT_PROBABILITY = 0.75
 # up to 2.5x. Beyond that only a handful of breakouts clear the bar in training.
 MIN_HIT_RATIO = 1.0
 MAX_HIT_RATIO = 2.5
+
+# A lead with a film this big among their last PREV_WINDOW gets a second, breakout
+# scenario at it. Not the default: of 80 films whose lead had one, only 12% reached
+# it again (50% were 10000), and in training it almost always means a hit.
+BREAKOUT_RATING_RANGE = 100000
 
 # Log-spaced budgets scanned between the layout's min/max training budget: ~2% apart.
 BUDGET_GRID_POINTS = 400
@@ -154,9 +165,25 @@ def movie_row(
         "remake_of": "REMAKE" if is_remake else "NOT_REMAKE",
     }
 
+    supporting_actors = supporting_actors or []
+    if len(supporting_actors) > 4:
+        raise ValueError(f"At most 4 supporting actors (billing slots 2-5), got {len(supporting_actors)}")
     if rating_range is None:
-        rating_range = default_rating_range(language)
-        notes.append(f"No rating range given -- assumed {rating_range}, typical for a {language} film.")
+        from_cast = cast_rating_range(
+            context.prev_films, lead_actor, supporting_actors, release_date, RATING_RANGE_VALUES
+        )
+        if from_cast:
+            rating_range, used = from_cast
+            detail = "; ".join(f"{actor}: {', '.join(f'{r:g}' for r in ranges)}" for actor, ranges in used.items())
+            notes.append(
+                f"No rating range given -- assumed {rating_range} from the cast's recent films, "
+                f"lead weighted 4x ({detail})."
+            )
+        else:
+            rating_range = default_rating_range(language)
+            notes.append(
+                f"No rating range given and no cast history -- assumed {rating_range}, typical for a {language} film."
+            )
     elif rating_range not in RATING_RANGE_VALUES:
         raise ValueError(f"rating_range must be one of {RATING_RANGE_VALUES}, got {rating_range}")
     row["rating_range"] = rating_range
@@ -176,9 +203,6 @@ def movie_row(
         notes.append(f"No GDP/inflation data for {year} yet -- used {latest}'s values.")
     row.update(macro or {"gdp_usd_billions": None, "inflation_rate_pct": None})
 
-    supporting_actors = supporting_actors or []
-    if len(supporting_actors) > 4:
-        raise ValueError(f"At most 4 supporting actors (billing slots 2-5), got {len(supporting_actors)}")
     people = [
         ("lead_actor_1", "lead_actor", lead_actor),
         *((f"lead_actor_{i + 2}", "lead_actor", name) for i, name in enumerate(supporting_actors)),
@@ -198,6 +222,24 @@ def movie_row(
             f"Only {len(supporting_actors)} of 4 supporting actors given -- nearly every training movie has all four."
         )
     return row, notes
+
+
+def breakout_row(context: BudgetRiskContext, row: dict[str, Any]) -> tuple[dict[str, Any], str] | None:
+    """(row at BREAKOUT_RATING_RANGE, note) when the lead had a film at that rating
+    range among their last PREV_WINDOW and the row is below it; else None. Callers
+    only ask when the rating range was defaulted -- a given one is the scenario."""
+    lead = row.get("lead_actor_1")
+    if not lead or row["rating_range"] >= BREAKOUT_RATING_RANGE:
+        return None
+    ranges = actor_rating_ranges(context.prev_films, lead, row["release_date"])
+    if BREAKOUT_RATING_RANGE not in ranges:
+        return None
+    note = (
+        f"Breakout case: {lead} had a {BREAKOUT_RATING_RANGE} film among their last {len(ranges)} "
+        f"({', '.join(f'{r:g}' for r in ranges)}), so this is also scored at rating range {BREAKOUT_RATING_RANGE}. "
+        f"Only ~12% of films after such a breakout reached it again -- treat it as the upside, not the plan."
+    )
+    return {**row, "rating_range": BREAKOUT_RATING_RANGE}, note
 
 
 def budget_grid(min_budget: float, max_budget: float) -> np.ndarray:

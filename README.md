@@ -89,8 +89,13 @@ curl -s localhost:8082/v1/budget-risk/upcoming -H 'Content-Type: application/jso
 Only pre-investment columns are features (see `budget_risk/dataset.py` for what's
 excluded and why): no revenue, runtime, YouTube stats, `number_of_screens` or the
 `*_diff_*`/`*_ratio_*` person-history columns that embed the movie's own numbers.
-`--rating-range` is an input like the rating (default 10000 for Hindi, 1000
-otherwise). Cast/crew `*_prev3_*`/`*_prev_movie_*` columns are used as filled by
+`--rating-range` is an input like the rating. Left out, it's the log-average of
+the cast's last 3 known rating ranges, the lead weighted 4x each supporting actor
+(54% exact vs 39% for a language default, guessing past films from earlier ones);
+with no cast history, 10000 for Hindi and 1000 otherwise. When it's defaulted and
+the lead had a 100000 film among their last 3, the response adds a `breakout` set
+scored at 100000 -- the upside case, since only ~12% of such follow-ups reached
+100000 again. Cast/crew `*_prev3_*`/`*_prev_movie_*` columns are used as filled by
 AuraDataFiller's `IndiaPrevMovieStatsFillService`; for a new movie they're rebuilt
 from `india_movies_data_collection` + `india_prev_movies_data_collection`
 (`budget_risk/prev_films.py`, matching the stored values on 90-95% of rows) -- so

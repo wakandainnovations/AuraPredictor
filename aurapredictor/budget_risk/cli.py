@@ -20,6 +20,7 @@ from aurapredictor.budget_risk.predict import (
     SAFE_BUDGET_HIT_PROBABILITY,
     BudgetAssessment,
     assess,
+    breakout_row,
     load_context,
     movie_row,
 )
@@ -68,7 +69,8 @@ def main() -> None:
         "--rating-range",
         type=int,
         choices=RATING_RANGE_VALUES,
-        help="Expected audience vote-count band (default: 10000 for Hindi, 1000 otherwise)",
+        help="Expected audience vote-count band (default: from the cast's recent films, lead weighted 4x; "
+        "else 10000 for Hindi, 1000 otherwise)",
     )
     parser.add_argument("--lead-actor")
     parser.add_argument("--supporting-actors", help="Up to 4, comma-separated, in billing order")
@@ -102,8 +104,13 @@ def main() -> None:
         print(f"Error: {exc}", file=sys.stderr)
         sys.exit(1)
 
-    print(f"{MODEL_NAME} ({args.release_date}, {args.language}):")
-    _print_assessments(assessments, args.hit_ratio or context.layout["hit_ratio"], notes)
+    hit_ratio = args.hit_ratio or context.layout["hit_ratio"]
+    print(f"{MODEL_NAME} ({args.release_date}, {args.language}, rating range {row['rating_range']}):")
+    _print_assessments(assessments, hit_ratio, notes)
+    if args.rating_range is None and (found := breakout_row(context, row)):
+        row, note = found
+        print(f"\nBreakout case (rating range {row['rating_range']}):")
+        _print_assessments(assess(context, row, _parse_ratings(args.ratings), args.budget, args.hit_ratio), hit_ratio, [note])
 
 
 if __name__ == "__main__":

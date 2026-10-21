@@ -6,13 +6,14 @@ import numpy as np
 import pytest
 
 from aurapredictor.budget_risk.dataset import row_to_record
-from aurapredictor.budget_risk.prev_films import build_prev_films, prev_film_stats
+from aurapredictor.budget_risk.prev_films import build_prev_films, cast_rating_range, prev_film_stats
 from aurapredictor.budget_risk.predict import (
     OPPORTUNITY,
     RISK,
     BudgetAssessment,
     BudgetRiskContext,
     assess,
+    breakout_row,
     budget_line,
     hit_probability,
     movie_row,
@@ -122,6 +123,44 @@ def test_build_prev_films_pools_actor_slots_and_prefers_india_row():
     assert films == [("2020-05-01", 1.0, 2.0, 100.0)]
 
 
+BANDS = (1, 10, 100, 1000, 10000, 100000)
+
+
+def _films(*ranges):
+    return [(f"20{10 + i}-01-01", 1.0, 1.0, r) for i, r in enumerate(ranges)]
+
+
+def test_cast_rating_range_log_averages_each_actors_last_three_films():
+    # Old 1000s drop out; 10000, 100000, 10000 log-average to 10^4.33 -> 10000.
+    prev = {"lead_actor": {"Star": _films(1000, 1000, 10000, 100000, 10000)}}
+    band, used = cast_rating_range(prev, "Star", [], "2030-01-01", BANDS)
+    assert band == 10000
+    assert used == {"Star": [10000, 100000, 10000]}
+
+
+def test_cast_rating_range_weights_the_lead_four_times_each_supporting_actor():
+    prev = {"lead_actor": {"Star": _films(100000), "A": _films(100), "B": _films(100)}}
+    # (4 * 5 + 2 + 2) / 6 = 4.0 -> 10000; equal weights would give 3.0 -> 1000.
+    assert cast_rating_range(prev, "Star", ["A", "B"], "2030-01-01", BANDS)[0] == 10000
+
+
+def test_cast_rating_range_uses_supporting_cast_when_lead_has_no_history():
+    prev = {"lead_actor": {"A": _films(1000)}}
+    assert cast_rating_range(prev, "Newcomer", ["A"], "2030-01-01", BANDS)[0] == 1000
+
+
+def test_cast_rating_range_ignores_later_films_missing_markers_and_ties_low():
+    prev = {"lead_actor": {"Star": [("2020-01-01", 1, 1, 1000), ("2021-01-01", 1, 1, 10000),
+                                    ("2022-01-01", 1, 1, 1), ("2022-06-01", 1, 1, None), ("2031-01-01", 1, 1, 100000)]}}
+    band, used = cast_rating_range(prev, "Star", [], "2030-01-01", BANDS)
+    assert used == {"Star": [1000, 10000]}
+    assert band == 1000  # 3.5 sits exactly between 1000 and 10000
+
+
+def test_cast_rating_range_none_without_any_history():
+    assert cast_rating_range({"lead_actor": {}}, "Newcomer", ["A"], "2030-01-01", BANDS) is None
+
+
 CONTEXT = BudgetRiskContext(
     model=None,
     encoders={},
@@ -141,7 +180,8 @@ def test_movie_row_fills_event_macro_and_career_counts():
     assert row["gdp_usd_billions"] == 4000.0  # 2026 missing -> latest year
     assert row["lead_actor_1_movie_count"] == 11  # 10 films before their 2020 film, plus that one
     assert row["director_movie_count"] is None
-    assert row["rating_range"] == 10000  # Hindi default
+    assert row["rating_range"] == 10000  # from Star's one earlier film, not the Hindi default
+    assert any("cast's recent films" in note for note in notes)
     assert row["lead_actor_1_prev_movie_budget"] == 5e6
     assert row["lead_actor_1_prev3_avg_rating_range"] == pytest.approx((10000 + 2) / 3)
     assert row["director_prev_movie_budget"] == 0.0  # no earlier film: the fill's 0 / 1 markers
@@ -165,3 +205,43 @@ def test_movie_row_rejects_unknown_rating_range():
 def test_movie_row_rejects_more_than_four_supporting_actors():
     with pytest.raises(ValueError):
         movie_row(CONTEXT, release_date="2026-11-08", language="hindi", supporting_actors=list("ABCDE"))
+
+
+def test_movie_row_falls_back_to_language_default_without_cast_history():
+    row, notes = movie_row(CONTEXT, release_date="2026-11-08", language="telugu", lead_actor="Newcomer")
+    assert row["rating_range"] == 1000
+    assert any("no cast history" in note for note in notes)
+
+
+def test_movie_row_explicit_rating_range_wins_over_cast():
+    row, _ = movie_row(CONTEXT, release_date="2026-11-08", language="hindi", lead_actor="Star", rating_range=100)
+    assert row["rating_range"] == 100
+
+
+BREAKOUT_CONTEXT = BudgetRiskContext(
+    model=None, encoders={}, layout=LAYOUT, people_movie_counts={}, date_events={}, year_macro={},
+    prev_films={"lead_actor": {"Star": _films(10000, 100000, 10000), "Steady": _films(10000, 10000, 10000),
+                               "Faded": _films(100000, 1000, 1000, 1000)}},
+)
+
+
+def test_breakout_row_when_lead_had_a_100000_film_in_their_last_three():
+    row = {"lead_actor_1": "Star", "release_date": "2030-01-01", "rating_range": 10000}
+    breakout, note = breakout_row(BREAKOUT_CONTEXT, row)
+    assert breakout == {**row, "rating_range": 100000}
+    assert row["rating_range"] == 10000  # the main row is untouched
+    assert "Star" in note and "upside" in note
+
+
+@pytest.mark.parametrize(
+    "row",
+    [
+        {"lead_actor_1": "Steady", "release_date": "2030-01-01", "rating_range": 10000},  # never had one
+        {"lead_actor_1": "Faded", "release_date": "2030-01-01", "rating_range": 1000},  # 4 films ago
+        {"lead_actor_1": "Star", "release_date": "2030-01-01", "rating_range": 100000},  # already there
+        {"lead_actor_1": "Star", "release_date": "2010-06-01", "rating_range": 1000},  # before the breakout
+        {"release_date": "2030-01-01", "rating_range": 1000},  # no lead
+    ],
+)
+def test_no_breakout_row(row):
+    assert breakout_row(BREAKOUT_CONTEXT, row) is None

@@ -17,6 +17,7 @@ india_prev_movies_missing to-do list), the closer the two agree.
 
 from __future__ import annotations
 
+import math
 from typing import Any
 
 from aurapredictor.constants import MOVIES_TABLE
@@ -91,6 +92,48 @@ def prev_film_fields(row: dict[str, Any], prev_films: PrevFilms) -> dict[str, fl
         for stat in PREV_STATS:
             fields[f"{slot}_{stat}"] = stats.get(stat)
     return fields
+
+
+# Cast-based rating_range default: each actor's log-average over their last
+# PREV_WINDOW films that have one, then a weighted log-average across the cast. The
+# lead counts 4x each supporting actor (half the weight with a full cast). On 1,913
+# films, each guessed from earlier films only, that matched the real band 54% of the
+# time vs 52% lead-only and 39% for the language default, and halved the share of
+# 2+ bands off. More supporting weight hurt star films: co-stars often come from
+# smaller ones.
+LEAD_RATING_RANGE_WEIGHT = 4.0
+SUPPORTING_RATING_RANGE_WEIGHT = 1.0
+
+
+def actor_rating_ranges(prev_films: PrevFilms, actor: str, as_of_date: str) -> list[float]:
+    """The actor's last PREV_WINDOW known rating ranges before as_of_date. 1 is left
+    out: it's also the fill's "no data" marker, so it can't be told apart."""
+    known = [film[3] for film in prev_films.get("lead_actor", {}).get(actor, []) if film[0] < as_of_date and film[3] and film[3] > 1]
+    return known[-PREV_WINDOW:]
+
+
+def cast_rating_range(
+    prev_films: PrevFilms,
+    lead_actor: str | None,
+    supporting_actors: list[str],
+    as_of_date: str,
+    bands: tuple[int, ...],
+) -> tuple[int, dict[str, list[float]]] | None:
+    """(band, each contributing actor's ranges) from the cast's recent films, or None
+    when nobody in the cast has one. Snaps to the nearest band in log terms, ties to
+    the lower one -- the cautious side for a risk line."""
+    weighted, used = [], {}
+    cast = [(lead_actor, LEAD_RATING_RANGE_WEIGHT)] + [(a, SUPPORTING_RATING_RANGE_WEIGHT) for a in supporting_actors]
+    for actor, weight in cast:
+        ranges = actor_rating_ranges(prev_films, actor, as_of_date) if actor else []
+        if ranges:
+            used[actor] = ranges
+            weighted.append((weight, sum(math.log10(r) for r in ranges) / len(ranges)))
+    if not weighted:
+        return None
+    log_range = sum(w * x for w, x in weighted) / sum(w for w, _ in weighted)
+    band = min((b for b in bands if b > 1), key=lambda b: (abs(math.log10(b) - log_range), b))
+    return band, used
 
 
 def load_prev_films() -> PrevFilms:

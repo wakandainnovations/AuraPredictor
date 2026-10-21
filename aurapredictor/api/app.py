@@ -12,7 +12,8 @@ startup, not per request. A retrain only takes effect after a restart.
 
 POST /v1/budget-risk/upcoming serves Budget_Opportunity_Risk (aurapredictor/budget_risk/)
 the same way: for each assumed rating, the max and safe budget for these
-pre-investment parameters, plus an OPPORTUNITY/RISK call on `budget` if one is given.
+pre-investment parameters, plus an OPPORTUNITY/RISK call on `budget` if one is given,
+and a `breakout` set at rating range 100000 when the lead's recent films earn one.
 It has its own model and context, so either model can be missing without taking the
 other endpoint down.
 """
@@ -96,7 +97,9 @@ class BudgetRiskRequest(_CamelModel):
     release_event_name: str | None = None
     is_remake: bool = False
     rating_range: int | None = Field(
-        default=None, description=f"One of {handlers.RATING_RANGE_VALUES}; default 10000 for Hindi, 1000 otherwise"
+        default=None,
+        description=f"One of {handlers.RATING_RANGE_VALUES}; default from the cast's recent films (lead weighted 4x), "
+        "else 10000 for Hindi, 1000 otherwise",
     )
     production_company: str | None = Field(default=None, description="One or more, comma-separated")
     lead_actor: str | None = None
@@ -124,16 +127,42 @@ class BudgetAssessmentOut(_CamelModel):
     verdict_confidence: float | None = Field(default=None, description="Chance the verdict is right")
 
 
+class BreakoutScenarioOut(_CamelModel):
+    rating_range: int
+    note: str
+    assessments: list[BudgetAssessmentOut]
+
+
 class BudgetRiskResponse(_CamelModel):
     movie_name: str
     release_date: str
     language: str
     model_version: str
+    # The one used for `assessments`: as sent, or the cast-based default.
+    rating_range: int
     hit_ratio: float
     max_budget_hit_probability: float
     safe_budget_hit_probability: float
     assessments: list[BudgetAssessmentOut]
+    # Only when ratingRange was left out and the lead had a 100000 film among their
+    # last 3: the same movie scored at 100000, the upside case.
+    breakout: BreakoutScenarioOut | None = None
     notes: list[str]
+
+
+def _assessment_out(a: budget_risk.BudgetAssessment) -> BudgetAssessmentOut:
+    return BudgetAssessmentOut(
+        rating=a.rating,
+        max_budget=a.max_budget,
+        max_budget_capped=a.max_budget_capped,
+        safe_budget=a.safe_budget,
+        safe_budget_capped=a.safe_budget_capped,
+        planned_budget=a.planned_budget,
+        expected_ratio=a.planned_ratio,
+        hit_probability=a.planned_hit_probability,
+        verdict=a.verdict,
+        verdict_confidence=a.verdict_confidence,
+    )
 
 
 def _check_ratings(ratings: list[float]) -> None:
@@ -243,6 +272,19 @@ def predict_budget_risk(
             music_director=request.music_director,
         )
         assessments = budget_risk.assess(context, row, tuple(request.ratings), request.budget, request.hit_ratio)
+        breakout = None
+        if request.rating_range is None and (found := budget_risk.breakout_row(context, row)):
+            breakout_row, breakout_note = found
+            breakout = BreakoutScenarioOut(
+                rating_range=breakout_row["rating_range"],
+                note=breakout_note,
+                assessments=[
+                    _assessment_out(a)
+                    for a in budget_risk.assess(
+                        context, breakout_row, tuple(request.ratings), request.budget, request.hit_ratio
+                    )
+                ],
+            )
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
 
@@ -254,20 +296,8 @@ def predict_budget_risk(
         hit_ratio=request.hit_ratio or context.layout["hit_ratio"],
         max_budget_hit_probability=budget_risk.MAX_BUDGET_HIT_PROBABILITY,
         safe_budget_hit_probability=budget_risk.SAFE_BUDGET_HIT_PROBABILITY,
-        assessments=[
-            BudgetAssessmentOut(
-                rating=a.rating,
-                max_budget=a.max_budget,
-                max_budget_capped=a.max_budget_capped,
-                safe_budget=a.safe_budget,
-                safe_budget_capped=a.safe_budget_capped,
-                planned_budget=a.planned_budget,
-                expected_ratio=a.planned_ratio,
-                hit_probability=a.planned_hit_probability,
-                verdict=a.verdict,
-                verdict_confidence=a.verdict_confidence,
-            )
-            for a in assessments
-        ],
+        rating_range=row["rating_range"],
+        assessments=[_assessment_out(a) for a in assessments],
+        breakout=breakout,
         notes=notes,
     )

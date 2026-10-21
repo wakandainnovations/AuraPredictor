@@ -141,7 +141,7 @@ def budget_client(monkeypatch):
 
     def fake_movie_row(context, **kwargs):
         calls["row_kwargs"] = kwargs
-        return {}, ["a note"]
+        return {"rating_range": 10000}, ["a note"]
 
     def fake_assess(context, row, ratings, planned_budget, hit_ratio):
         calls["ratings"], calls["planned_budget"], calls["hit_ratio"] = ratings, planned_budget, hit_ratio
@@ -163,6 +163,7 @@ def budget_client(monkeypatch):
 
     monkeypatch.setattr(budget_risk, "movie_row", fake_movie_row)
     monkeypatch.setattr(budget_risk, "assess", fake_assess)
+    monkeypatch.setattr(budget_risk, "breakout_row", lambda context, row: None)
     api.app.dependency_overrides[api.get_budget_risk_context] = lambda: BUDGET_RISK_CONTEXT
     yield TestClient(api.app), calls
     api.app.dependency_overrides.clear()
@@ -177,6 +178,8 @@ def test_budget_risk_without_budget_returns_lines_only(budget_client):
     assert body["modelVersion"] == "2026-10-21"
     assert (body["hitRatio"], body["maxBudgetHitProbability"], body["safeBudgetHitProbability"]) == (2.0, 0.5, 0.75)
     assert body["notes"] == ["a note"]
+    assert body["ratingRange"] == 10000
+    assert body["breakout"] is None
     assert body["assessments"][0] == {
         "rating": 4.0, "maxBudget": 4e6, "maxBudgetCapped": False, "safeBudget": None, "safeBudgetCapped": False,
         "plannedBudget": None, "expectedRatio": None, "hitProbability": None, "verdict": None,
@@ -241,3 +244,25 @@ def test_budget_risk_custom_hit_ratio_is_passed_through_and_echoed(budget_client
     assert response.status_code == 200
     assert response.json()["hitRatio"] == 1.5
     assert calls["hit_ratio"] == 1.5
+
+
+def test_budget_risk_breakout_case_scored_when_rating_range_defaulted(budget_client, monkeypatch):
+    test_client, calls = budget_client
+    monkeypatch.setattr(
+        budget_risk, "breakout_row", lambda context, row: ({**row, "rating_range": 100000}, "breakout note")
+    )
+    request = {k: v for k, v in BUDGET_RISK_REQUEST.items() if k != "ratingRange"}
+    body = test_client.post("/v1/budget-risk/upcoming", json={**request, "budget": 3e7}).json()
+
+    assert body["ratingRange"] == 10000
+    assert body["breakout"]["ratingRange"] == 100000
+    assert body["breakout"]["note"] == "breakout note"
+    assert [a["rating"] for a in body["breakout"]["assessments"]] == [4.0, 6.0, 8.0]
+    assert body["breakout"]["assessments"][0]["verdict"] == "RISK"
+
+
+def test_budget_risk_no_breakout_when_rating_range_given(budget_client, monkeypatch):
+    test_client, _ = budget_client
+    monkeypatch.setattr(budget_risk, "breakout_row", lambda context, row: ({**row, "rating_range": 100000}, "n"))
+    body = test_client.post("/v1/budget-risk/upcoming", json=BUDGET_RISK_REQUEST).json()  # sends ratingRange
+    assert body["breakout"] is None
