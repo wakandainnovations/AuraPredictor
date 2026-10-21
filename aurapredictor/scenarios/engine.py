@@ -104,7 +104,27 @@ def load_context() -> ScenarioContext:
     actor_index = build_actor_index(actor_rows)
     actor_filmography = build_person_filmography(actor_rows, movie_index)
     director_filmography = build_director_filmography(movies)
+    year_macro = load_year_macro()
 
+    return ScenarioContext(
+        people_movie_counts=load_people_movie_counts(),
+        people_films=load_people_films(),
+        model=model,
+        binarizer=binarizer,
+        feature_layout=layout,
+        keep_companies=set(layout.get("top_production_companies", [])),
+        actor_index=actor_index,
+        actor_filmography=actor_filmography,
+        director_filmography=director_filmography,
+        year_macro=year_macro,
+        language_binarizer=language_binarizer,
+        company_binarizer=company_binarizer,
+        date_events=load_date_events(),
+    )
+
+
+def load_year_macro() -> dict[int, dict[str, float]]:
+    """release year -> {gdp_usd_billions, inflation_rate_pct}, as recorded on MOVIES_TABLE."""
     from aurapredictor.dates import release_year as parse_release_year
 
     # load_indian_movies() doesn't carry the macro columns, so read them directly.
@@ -125,22 +145,7 @@ def load_context() -> ScenarioContext:
                 "gdp_usd_billions": movie.get("gdp_usd_billions"),
                 "inflation_rate_pct": movie.get("inflation_rate_pct"),
             }
-
-    return ScenarioContext(
-        people_movie_counts=load_people_movie_counts(),
-        people_films=load_people_films(),
-        model=model,
-        binarizer=binarizer,
-        feature_layout=layout,
-        keep_companies=set(layout.get("top_production_companies", [])),
-        actor_index=actor_index,
-        actor_filmography=actor_filmography,
-        director_filmography=director_filmography,
-        year_macro=year_macro,
-        language_binarizer=language_binarizer,
-        company_binarizer=company_binarizer,
-        date_events=load_date_events(),
-    )
+    return year_macro
 
 
 def load_date_events() -> dict[str, tuple[str | None, str | None]]:

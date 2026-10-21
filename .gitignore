@@ -14,9 +14,9 @@ enrichment_cycle.log
 
 ### Secrets / artifacts ###
 config/secrets.properties
-aurapredictor/artifacts/*.cbm
-aurapredictor/artifacts/*.pkl
-aurapredictor/artifacts/*.joblib
+aurapredictor/artifacts/**/*.cbm
+aurapredictor/artifacts/**/*.pkl
+aurapredictor/artifacts/**/*.joblib
 
 ### Mac OS ###
 .DS_Store

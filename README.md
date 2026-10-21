@@ -56,6 +56,38 @@ The DB-backed context loads once at startup, so restart after `train_model.py`.
 AuraService calls this through `POST /api/predictions/upcoming-movie`
 (`AURAPREDICTOR_BASE_URL`, default `http://localhost:8082`).
 
+## Budget_Opportunity_Risk (max budget for a planned movie)
+
+```bash
+python scripts/train_budget_risk.py                    # reads india_movies_data_collection directly
+python -m aurapredictor.budget_risk.cli --release-date 2026-12-25 --language telugu \
+    --genre "Action, Drama" --lead-actor "Some Actor" --supporting-actors "A, B, C, D" \
+    --director "Some Director" --music-director "Some Composer" --budget 30000000
+```
+
+A second, independent model (`aurapredictor/budget_risk/`, artifacts in
+`aurapredictor/artifacts/budget_opportunity_risk/`) for the producer's question *before*
+investing: for these parameters, what's the highest budget that still returns 2x
+(`constants.FLOP_MAX_RATIO`, the same hit bar as the revenue model's tiers)? For each
+assumed audience rating (default 4/6/8) it reports a **max budget** -- the RISK line,
+where the chance of reaching 2x drops below 50% -- and a **safe budget** (75% chance).
+With `--budget`, it also calls that planned budget an OPPORTUNITY or a RISK.
+
+Only pre-investment columns are features (see `budget_risk/dataset.py` for what's
+excluded and why): no revenue, runtime, YouTube stats, `number_of_screens` or the
+`*_diff_*`/`*_ratio_*` person-history columns that embed the movie's own numbers.
+`--rating-range` is an input like the rating (default 10000 for Hindi, 1000
+otherwise). Cast/crew `*_prev3_*`/`*_prev_movie_*` columns are used as filled by
+AuraDataFiller's `IndiaPrevMovieStatsFillService`; for a new movie they're rebuilt
+from `india_movies_data_collection` + `india_prev_movies_data_collection`
+(`budget_risk/prev_films.py`, matching the stored values on 90-95% of rows) -- so
+retrain after the fill is re-run with more collected films. It forecasts the film's
+return (`revenue_budget_ratio` x budget) with budget as a monotone input, then scans
+budget for where the forecast stops covering 2x. 5-fold CV: hit/flop AUC 0.81; of
+held-out films whose real budget sat under their line, 82% were hits, vs 36% over
+it. Hit probabilities are calibrated within every budget band, but individual
+blockbusters are under-forecast, so lines for star vehicles lean conservative.
+
 ## Relationship to AuraDataFiller
 
 A separate, pre-existing Java pipeline (`../AuraDataFiller`) already fills much of
