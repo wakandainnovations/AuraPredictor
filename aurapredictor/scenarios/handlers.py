@@ -18,6 +18,7 @@ import math
 from dataclasses import dataclass
 from typing import Any
 
+from aurapredictor.budget_risk.prev_films import prev_film_fields
 from aurapredictor.constants import PRIOR_FILMS_WINDOW
 from aurapredictor.dates import release_year as parse_release_year
 from aurapredictor.history import hit_flop_ratio_last_n, prior_films_count
@@ -94,15 +95,24 @@ def person_movie_count_as_of(context: ScenarioContext, role: str, person_name: s
     return min(count for _, count in films)
 
 
+def _slot_prev_film_fields(context: ScenarioContext, slot: str, person_name: str | None, as_of_date: str) -> dict[str, Any]:
+    """The slot's *_prev3_* / *_prev_movie_* columns, rebuilt from person_name's films
+    before as_of_date (NULL for an empty slot, like the DB columns)."""
+    fields = prev_film_fields({slot: person_name, "release_date": as_of_date}, context.prev_films)
+    return {col: value for col, value in fields.items() if col.startswith(f"{slot}_")}
+
+
 def _person_override_fields(
     context: ScenarioContext, slot: str, role: str, person_name: str | None, as_of_date: str
 ) -> dict[str, Any]:
-    """Name + career-count columns for one billing slot (e.g. lead_actor_1, director)."""
+    """Name, career-count and previous-film columns for one billing slot (e.g.
+    lead_actor_1, director)."""
     if not person_name:
-        return {slot: None, f"{slot}_movie_count": None}
+        return {slot: None, f"{slot}_movie_count": None, **_slot_prev_film_fields(context, slot, None, as_of_date)}
     return {
         slot: person_name,
         f"{slot}_movie_count": person_movie_count_as_of(context, role, person_name, as_of_date),
+        **_slot_prev_film_fields(context, slot, person_name, as_of_date),
     }
 
 
@@ -178,6 +188,7 @@ def new_music_director(context: ScenarioContext, movie_name: str, release_date: 
     scenario_row["music_director_hit_flop_ratio_last3"] = None
     scenario_row["music_director"] = DEBUT_PERSON_NAME
     scenario_row["music_director_movie_count"] = 0
+    scenario_row.update(_slot_prev_film_fields(context, "music_director", DEBUT_PERSON_NAME, release_date))
     scenario_revenue = score_row(context, scenario_row)
 
     return ScenarioResult(
@@ -234,6 +245,8 @@ def set_release_date(
     notes = [] if macro else [f"No GDP/inflation data available for {year} in this dataset -- kept the original values."]
     event = context.date_events.get(new_release_date)
     scenario_row["release_event_type"], scenario_row["release_event_name"] = event or (None, None)
+    # Everyone's "previous films" are as of the new date now.
+    scenario_row.update(prev_film_fields(scenario_row, context.prev_films))
     if event is None:
         notes.append(f"No movie in the data released on {new_release_date} -- its festival/holiday/event is unknown.")
 
@@ -325,6 +338,7 @@ def upcoming_movie_row(
     release_event_type: str | None = None,
     release_event_name: str | None = None,
     is_remake: bool = False,
+    remake_movie_name: str | None = None,
     rating_range: int | None = None,
     production_company: str | None = None,
     lead_actor: str | None = None,
@@ -347,7 +361,10 @@ def upcoming_movie_row(
         "runtime": runtime,
         "cbfc_rating": cbfc_rating,
         "number_of_screens": number_of_screens,
-        "remake_of": "REMAKE" if is_remake else "NOT_REMAKE",
+        "remake_of": "REMAKE" if is_remake or remake_movie_name else "NOT_REMAKE",
+        "remake_movie_name": remake_movie_name,
+        # Every training movie is an Indian release.
+        "country": "India",
         "production_companies": production_company,
         "rating_10": None,
     }

@@ -18,6 +18,7 @@ from typing import Any
 import pandas as pd
 from catboost import CatBoostRegressor
 
+from aurapredictor.budget_risk.prev_films import load_prev_films
 from aurapredictor.constants import MOVIES_TABLE
 from aurapredictor.db import fetch_all
 from aurapredictor.features.build_features import (
@@ -35,6 +36,7 @@ from aurapredictor.model.dataset import (
     split_genres,
     split_languages,
     log_budget,
+    split_directors,
     split_production_companies,
 )
 from aurapredictor.track_record import load_people_films
@@ -62,6 +64,7 @@ class ScenarioContext:
     year_macro: dict[int, dict[str, float]] = field(default_factory=dict)
     language_binarizer: Any = None
     company_binarizer: Any = None
+    director_binarizer: Any = None
     # release_date -> (release_event_type, release_event_name) as recorded on other
     # movies released that exact day, so the release-date what-if can move the event too.
     date_events: dict[str, tuple[str | None, str | None]] = field(default_factory=dict)
@@ -71,6 +74,9 @@ class ScenarioContext:
     people_movie_counts: dict[str, dict[str, list[tuple[str, int]]]] = field(default_factory=dict)
     # role -> person -> their films in MOVIES_TABLE, for the track-record features.
     people_films: dict[str, dict[str, list[dict[str, Any]]]] = field(default_factory=dict)
+    # role -> person -> their films with budget/revenue/rating_range, to rebuild the
+    # *_prev3_* / *_prev_movie_* columns for a new movie or a swapped-in person.
+    prev_films: dict = field(default_factory=dict)
 
 
 @lru_cache(maxsize=1)
@@ -79,8 +85,11 @@ def load_context() -> ScenarioContext:
     binarizer_path = ARTIFACTS_DIR / "genre_binarizer.pkl"
     language_binarizer_path = ARTIFACTS_DIR / "language_binarizer.pkl"
     company_binarizer_path = ARTIFACTS_DIR / "production_company_binarizer.pkl"
+    director_binarizer_path = ARTIFACTS_DIR / "director_binarizer.pkl"
     layout_path = ARTIFACTS_DIR / "feature_layout.json"
-    required = (model_path, binarizer_path, language_binarizer_path, company_binarizer_path, layout_path)
+    required = (
+        model_path, binarizer_path, language_binarizer_path, company_binarizer_path, director_binarizer_path, layout_path
+    )
     if not all(path.exists() for path in required):
         raise ArtifactsNotFoundError(
             "No trained model found in aurapredictor/artifacts/. Run "
@@ -95,6 +104,8 @@ def load_context() -> ScenarioContext:
         language_binarizer = pickle.load(f)
     with open(company_binarizer_path, "rb") as f:
         company_binarizer = pickle.load(f)
+    with open(director_binarizer_path, "rb") as f:
+        director_binarizer = pickle.load(f)
     with open(layout_path) as f:
         layout = json.load(f)
 
@@ -119,7 +130,9 @@ def load_context() -> ScenarioContext:
         year_macro=year_macro,
         language_binarizer=language_binarizer,
         company_binarizer=company_binarizer,
+        director_binarizer=director_binarizer,
         date_events=load_date_events(),
+        prev_films=load_prev_films(),
     )
 
 
@@ -229,7 +242,9 @@ def score_row(context: ScenarioContext, raw_row: dict[str, Any]) -> float:
         context.company_binarizer, [split_production_companies(raw_row.get("production_companies"))], "company"
     )
 
-    X = pd.concat([record_df, genre_df, language_df, company_df], axis=1)
+    director_df = multi_hot(context.director_binarizer, [split_directors(raw_row.get("director"))], "directed_by")
+
+    X = pd.concat([record_df, genre_df, language_df, company_df, director_df], axis=1)
     # Line up with the exact training-time column order/set; any genre/language the
     # model never saw at training time was already dropped by the binarizer's transform().
     X = X.reindex(columns=context.feature_layout["columns"], fill_value=0)

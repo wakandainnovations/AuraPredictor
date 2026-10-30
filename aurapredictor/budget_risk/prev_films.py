@@ -22,22 +22,11 @@ from typing import Any
 
 from aurapredictor.constants import MOVIES_TABLE
 from aurapredictor.db import fetch_all
-from aurapredictor.model.dataset import PEOPLE_FEATURES
+from aurapredictor.model.dataset import PREV_FILM_FEATURES, PREV_FILM_STATS
 from aurapredictor.track_record import SLOT_ROLES, _film_key
 
 PREV_MOVIES_TABLE = "india_prev_movies_data_collection"
 PREV_WINDOW = 3
-
-PREV_STATS = (
-    "prev3_avg_budget",
-    "prev3_avg_revenue",
-    "prev3_avg_rating_range",
-    "prev_movie_budget",
-    "prev_movie_revenue",
-    "prev_movie_rating_range",
-)
-
-PREV_FILM_FEATURES = [f"{slot}_{stat}" for slot in PEOPLE_FEATURES for stat in PREV_STATS]
 
 # role -> person -> [(release_date, budget, revenue, rating_range)], oldest first.
 PrevFilms = dict[str, dict[str, list[tuple[str, float | None, float | None, float | None]]]]
@@ -89,7 +78,7 @@ def prev_film_fields(row: dict[str, Any], prev_films: PrevFilms) -> dict[str, fl
     for slot, role in SLOT_ROLES.items():
         person = (row.get(slot) or "").strip()
         stats = prev_film_stats(prev_films.get(role, {}).get(person, []), row["release_date"]) if person else {}
-        for stat in PREV_STATS:
+        for stat in PREV_FILM_STATS:
             fields[f"{slot}_{stat}"] = stats.get(stat)
     return fields
 

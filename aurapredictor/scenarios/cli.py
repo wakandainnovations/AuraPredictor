@@ -159,6 +159,7 @@ def main() -> None:
     upcoming.add_argument("--release-event-type", help="e.g. Festival, Holiday, Normal, Cricket World Cup")
     upcoming.add_argument("--release-event-name", help="e.g. Diwali, Christmas, Normal")
     upcoming.add_argument("--remake", action="store_true", help="The movie is a remake")
+    upcoming.add_argument("--remake-movie-name", help="Title of the original film (implies --remake)")
     upcoming.add_argument(
         "--rating-range",
         type=int,
@@ -200,6 +201,7 @@ def main() -> None:
                 release_event_type=args.release_event_type,
                 release_event_name=args.release_event_name,
                 is_remake=args.remake,
+                remake_movie_name=args.remake_movie_name,
                 rating_range=args.rating_range,
                 production_company=args.production_company,
                 lead_actor=args.lead_actor,

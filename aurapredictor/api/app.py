@@ -65,6 +65,7 @@ class UpcomingMovieRequest(_CamelModel):
     release_event_type: str | None = None
     release_event_name: str | None = None
     is_remake: bool = False
+    remake_movie_name: str | None = Field(default=None, description="Title of the original; implies isRemake")
     rating_range: int | None = Field(default=None, description=f"One of {handlers.RATING_RANGE_VALUES}")
     production_company: str | None = Field(default=None, description="One or more, comma-separated")
     lead_actor: str | None = None
@@ -242,6 +243,7 @@ def predict_upcoming(
             release_event_type=request.release_event_type,
             release_event_name=request.release_event_name,
             is_remake=request.is_remake,
+            remake_movie_name=request.remake_movie_name,
             rating_range=request.rating_range,
             production_company=request.production_company,
             lead_actor=request.lead_actor,

@@ -292,3 +292,28 @@ def test_new_music_director_uses_unseen_debut_name(monkeypatch):
     handlers.new_music_director(make_context(), "Test Movie", "2022-06-01", "telugu")
     assert scored[-1]["music_director"] == handlers.DEBUT_PERSON_NAME
     assert scored[-1]["music_director_movie_count"] == 0
+
+
+def test_swapped_in_person_gets_their_own_previous_films(monkeypatch):
+    scored = _capture_scored_rows(monkeypatch)
+    context = make_context(prev_films={"lead_actor": {"New Actor": [
+        ("2020-01-01", 10.0, 50.0, 1000.0),
+        ("2021-01-01", 30.0, 70.0, 100.0),
+        ("2023-01-01", 99.0, 99.0, 99.0),  # after this release: not a previous film
+    ]}})
+    handlers.replace_actor(context, "Test Movie", "2022-06-01", "telugu", "New Actor")
+    row = scored[-1]
+    assert row["lead_actor_1_prev3_avg_budget"] == 20
+    assert row["lead_actor_1_prev_movie_revenue"] == 70
+    assert row["lead_actor_1_prev_movie_rating_range"] == 100
+    # Other slots keep the baseline's stored values.
+    assert "director_prev3_avg_budget" not in row
+
+
+def test_upcoming_movie_row_sets_remake_and_country():
+    row, _ = handlers.upcoming_movie_row(
+        make_context(), movie_name="X", release_date="2026-01-14", language="telugu", budget=1e7, remake_movie_name="Original"
+    )
+    assert (row["remake_of"], row["remake_movie_name"]) == ("REMAKE", "Original")
+    assert row["country"] == "India"
+    assert row["lead_actor_1_prev3_avg_budget"] is None

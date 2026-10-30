@@ -36,6 +36,7 @@ from aurapredictor.model.dataset import (
     has_plausible_revenue,
     multi_hot,
     normalize_release_event_name,
+    prev_film_value,
     split_genres,
     split_languages,
     split_production_companies,
@@ -101,15 +102,6 @@ def _float(value: Any) -> float | None:
     return float(value) if value is not None else None
 
 
-def _prev_film_value(column: str, raw: Any) -> float | None:
-    """0 budget/revenue is the fill's "no previous film in the tables" marker, not a
-    real 0 -- NaN so the trees don't read it as the cheapest film ever made."""
-    value = _float(raw)
-    if value == 0 and not column.endswith("rating_range"):
-        return None
-    return value
-
-
 def row_to_record(row: dict[str, Any], keep_companies: set[str]) -> dict[str, Any]:
     """One raw MOVIES_TABLE-shaped row -> flat feature record. Shared by training and
     budget_risk/predict.py, so a hypothetical movie goes through the same transform."""
@@ -135,7 +127,7 @@ def row_to_record(row: dict[str, Any], keep_companies: set[str]) -> dict[str, An
         "num_languages": len(languages) or None,
         "is_remake": int((row.get("remake_of") or "").upper() == "REMAKE"),
         **{col: row.get(col) for col in MOVIE_COUNT_FEATURES},
-        **{col: _prev_film_value(col, row.get(col)) for col in PREV_FILM_FEATURES},
+        **{col: prev_film_value(col, row.get(col)) for col in PREV_FILM_FEATURES},
     }
 
 

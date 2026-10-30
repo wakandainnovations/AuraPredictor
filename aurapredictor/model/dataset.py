@@ -48,6 +48,10 @@ CATEGORICAL_FEATURES = [
     "cbfc_rating",
     "release_event_type",
     "release_event_name",
+    "release_day",
+    "remake_movie_name",
+    # "India" on every row today -- carries no signal until other countries are added.
+    "country",
     *PEOPLE_FEATURES,
 ]
 
@@ -63,6 +67,40 @@ MOVIE_COUNT_FEATURES = [
     "director_movie_count",
     "music_director_movie_count",
 ]
+
+# Filled on MOVIES_TABLE by AuraDataFiller's IndiaPrevMovieStatsFillService from each
+# person's last 3 films (full TMDB filmographies, not just films in MOVIES_TABLE);
+# budget_risk/prev_films.py rebuilds them for a movie that isn't in the DB yet.
+PREV_FILM_STATS = (
+    "prev3_avg_budget",
+    "prev3_avg_revenue",
+    "prev3_avg_rating_range",
+    "prev_movie_budget",
+    "prev_movie_revenue",
+    "prev_movie_rating_range",
+)
+PREV_FILM_FEATURES = [f"{slot}_{stat}" for slot in PEOPLE_FEATURES for stat in PREV_FILM_STATS]
+
+# This movie's budget / rating_range against the person's previous films -- same
+# formulas as MOVIES_TABLE's *_budget_diff_* / *_rating_range_ratio_* columns, but
+# computed in row_to_record() so a what-if budget or rating_range moves them too.
+# The matching *_revenue_diff_* columns are deliberately left out: they're this
+# movie's own revenue minus the previous films', i.e. the target itself (5-fold CV
+# log-MAE dropped to 0.21 with them -- not a usable model, the answer handed in).
+PREV_FILM_WINDOWS = ("prev3_avg", "prev_movie")
+PREV_FILM_COMPARISON_FEATURES = [
+    f"{slot}_{measure}_{window}"
+    for slot in PEOPLE_FEATURES
+    for measure in ("budget_diff", "rating_range_ratio")
+    for window in PREV_FILM_WINDOWS
+]
+
+# 5-fold x3 CV log-MAE when these columns, release_day, remake_movie_name, country and
+# directed_by_* were added together (2026-10-30): 0.574 without -> 0.580 with (better in
+# only 5/15 folds; in a per-group test, release_day alone improved it to 0.570 and these
+# person-history columns alone were what made it worse). Kept on by request; flip this
+# to compare again once the fill covers more past films.
+USE_PREV_FILM_FEATURES = True
 
 # Off until MOVIES_TABLE covers people's filmographies: today ~97% of movies have at
 # least one cast/crew member whose previous films are partly missing from it, so these
@@ -84,6 +122,7 @@ NUMERIC_FEATURES = [
     "number_of_screens",
     "is_remake",
     *MOVIE_COUNT_FEATURES,
+    *(PREV_FILM_FEATURES + PREV_FILM_COMPARISON_FEATURES if USE_PREV_FILM_FEATURES else []),
     *(TRACK_RECORD_FEATURES if USE_TRACK_RECORD_FEATURES else []),
     "lead_actor_prior_films_count",
     "lead_actor_hit_flop_ratio_last3",
@@ -99,6 +138,11 @@ TOP_PRODUCTION_COMPANIES = 40
 # comma-separated list, not just first) on at least this many training movies --
 # rarer ones would be near-empty columns the model can't learn anything from.
 MIN_PRODUCTION_COMPANY_FILMS = 5
+
+# Same idea for directors: co-directed films list several ("A, B"), and each director
+# with at least this many training films gets a directed_by_* 0/1 column. The director
+# categorical column still carries the full credit as one value.
+MIN_DIRECTOR_FILMS = 5
 
 # Training labels below either bar are scrape errors, not real box office (e.g.
 # Theri at revenue 69, a 100M-budget film at revenue 1) -- they're dropped from
@@ -154,10 +198,24 @@ def split_production_companies(raw: str | None) -> list[str]:
     return sorted(set(_split_list(raw)))
 
 
-def fit_production_company_binarizer(rows: list[dict[str, Any]]) -> MultiLabelBinarizer:
-    counts = Counter(company for row in rows for company in split_production_companies(row.get("production_companies")))
-    keep = sorted(name for name, n in counts.items() if n >= MIN_PRODUCTION_COMPANY_FILMS)
+def _fit_min_count_binarizer(label_lists: list[list[str]], min_count: int) -> MultiLabelBinarizer:
+    counts = Counter(label for labels in label_lists for label in labels)
+    keep = sorted(name for name, n in counts.items() if n >= min_count)
     return MultiLabelBinarizer(classes=keep).fit([])
+
+
+def fit_production_company_binarizer(rows: list[dict[str, Any]]) -> MultiLabelBinarizer:
+    return _fit_min_count_binarizer(
+        [split_production_companies(row.get("production_companies")) for row in rows], MIN_PRODUCTION_COMPANY_FILMS
+    )
+
+
+def split_directors(raw: str | None) -> list[str]:
+    return sorted(set(_split_list(raw)))
+
+
+def fit_director_binarizer(rows: list[dict[str, Any]]) -> MultiLabelBinarizer:
+    return _fit_min_count_binarizer([split_directors(row.get("director")) for row in rows], MIN_DIRECTOR_FILMS)
 
 
 _YEAR_RE = re.compile(r"\b(19|20)\d{2}\b")
@@ -176,6 +234,33 @@ def multi_hot(binarizer: MultiLabelBinarizer, label_lists: list[list[str]], pref
         binarizer.transform(label_lists),
         columns=[f"{prefix}_{label.replace(' ', '_')}" for label in binarizer.classes_],
     )
+
+
+def prev_film_value(column: str, raw: Any) -> float | None:
+    """0 budget/revenue is the fill's "no previous film in the tables" marker, not a
+    real 0 -- NaN so the trees don't read it as the cheapest film ever made."""
+    value = float(raw) if raw is not None else None
+    if value == 0 and not column.endswith("rating_range"):
+        return None
+    return value
+
+
+def prev_film_fields(row: dict[str, Any]) -> dict[str, float | None]:
+    """PREV_FILM_FEATURES + PREV_FILM_COMPARISON_FEATURES for one raw row."""
+    fields = {col: prev_film_value(col, row.get(col)) for col in PREV_FILM_FEATURES}
+    budget = float(row["budget"]) if row.get("budget") else None
+    rating_range = float(row["rating_range"]) if row.get("rating_range") is not None else None
+    for slot in PEOPLE_FEATURES:
+        for window in PREV_FILM_WINDOWS:
+            prev_budget = fields[f"{slot}_{window}_budget"]
+            prev_rating_range = fields[f"{slot}_{window}_rating_range"]
+            fields[f"{slot}_budget_diff_{window}"] = (
+                budget - prev_budget if budget is not None and prev_budget is not None else None
+            )
+            fields[f"{slot}_rating_range_ratio_{window}"] = (
+                rating_range / prev_rating_range if rating_range is not None and prev_rating_range else None
+            )
+    return fields
 
 
 def _bucket_production_company(raw: str | None, keep: set[str]) -> str:
@@ -202,7 +287,7 @@ def row_to_record(
     movie_prediction_features person-history columns) into the flat feature record
     used both to build the training matrix and, in scenarios/engine.py, to score a
     hypothetical "what if" row with the exact same transform used at training time."""
-    from aurapredictor.dates import release_day_of_year, release_week_of_year
+    from aurapredictor.dates import release_day_of_week, release_day_of_year, release_week_of_year
     from aurapredictor.dates import release_month as parse_release_month
 
     languages = split_languages(row.get("language"))
@@ -214,6 +299,10 @@ def row_to_record(
         "cbfc_rating": row.get("cbfc_rating") or "Unknown",
         "release_event_type": row.get("release_event_type") or "Unknown",
         "release_event_name": normalize_release_event_name(row.get("release_event_name")),
+        # From release_date, like day_of_year below, so a moved release date moves it too.
+        "release_day": release_day_of_week(row.get("release_date")) or "Unknown",
+        "remake_movie_name": (row.get("remake_movie_name") or "").strip() or "Unknown",
+        "country": (row.get("country") or "").strip() or "Unknown",
         **{col: (row.get(col) or "").strip() or "Unknown" for col in PEOPLE_FEATURES},
         "budget": float(row["budget"]) if row.get("budget") else None,
         "runtime": float(row["runtime"]) if row.get("runtime") else None,
@@ -234,6 +323,7 @@ def row_to_record(
         "number_of_screens": float(row["number_of_screens"]) if row.get("number_of_screens") else None,
         "is_remake": int((row.get("remake_of") or "").upper() == "REMAKE"),
         **{col: row.get(col) for col in MOVIE_COUNT_FEATURES},
+        **(prev_film_fields(row) if USE_PREV_FILM_FEATURES else {}),
         **(track_record_fields(row, people_films) if USE_TRACK_RECORD_FEATURES else {}),
         "lead_actor_prior_films_count": row.get("lead_actor_prior_films_count"),
         "lead_actor_hit_flop_ratio_last3": row.get("lead_actor_hit_flop_ratio_last3"),
@@ -255,7 +345,8 @@ RAW_ROWS_SQL = f"""
         m.revenue, m.budget, m.genre, m.production_companies, m.rating_10, m.runtime,
         m.cbfc_rating, m.gdp_usd_billions, m.inflation_rate_pct,
         m.rating_range, m.number_of_screens,
-        m.release_event_type, m.release_event_name, m.remake_of, {", ".join(f"m.{col}" for col in MOVIE_COUNT_FEATURES + PEOPLE_FEATURES)}
+        m.release_event_type, m.release_event_name, m.remake_of, m.remake_movie_name, m.country,
+        {", ".join(f"m.{col}" for col in MOVIE_COUNT_FEATURES + PEOPLE_FEATURES + PREV_FILM_FEATURES)}
     FROM movie_prediction_features f
     JOIN {MOVIES_TABLE} m
       ON m.movie_name = f.movie_name AND m.release_date = f.release_date AND m.language = f.language
@@ -273,13 +364,14 @@ def load_training_rows() -> list[dict[str, Any]]:
 def build_dataframe(
     rows: list[dict[str, Any]] | None = None,
     people_films: PeopleFilms | None = None,
-) -> tuple[pd.DataFrame, pd.Series, MultiLabelBinarizer, MultiLabelBinarizer, MultiLabelBinarizer]:
+) -> tuple[pd.DataFrame, pd.Series, MultiLabelBinarizer, MultiLabelBinarizer, MultiLabelBinarizer, MultiLabelBinarizer]:
     """Returns (X, y_log_revenue, genre_binarizer, language_binarizer,
-    production_company_binarizer). X's categorical columns are left as plain
-    strings/NaN for CatBoost's native handling; genre_*, language_* and company_*
-    columns are already multi-hot (0/1) by the time this returns -- a multi-language
-    release gets a 1 in every language it was released in, a co-production a 1 for
-    every credited company."""
+    production_company_binarizer, director_binarizer). X's categorical columns are
+    left as plain strings/NaN for CatBoost's native handling; genre_*, language_*,
+    company_* and directed_by_* columns are already multi-hot (0/1) by the time this
+    returns -- a multi-language release gets a 1 in every language it was released
+    in, a co-production a 1 for every credited company, a co-directed film a 1 for
+    every director."""
     rows = rows if rows is not None else load_raw_rows()
     if people_films is None and USE_TRACK_RECORD_FEATURES:
         people_films = load_people_films()
@@ -292,6 +384,8 @@ def build_dataframe(
     language_binarizer = MultiLabelBinarizer().fit(language_lists)
     company_lists = [split_production_companies(row.get("production_companies")) for row in rows]
     company_binarizer = fit_production_company_binarizer(rows)
+    director_lists = [split_directors(row.get("director")) for row in rows]
+    director_binarizer = fit_director_binarizer(rows)
 
     records = [row_to_record(row, keep_companies, people_films) for row in rows]
 
@@ -301,6 +395,7 @@ def build_dataframe(
             multi_hot(genre_binarizer, genre_lists, "genre"),
             multi_hot(language_binarizer, language_lists, "language"),
             multi_hot(company_binarizer, company_lists, "company"),
+            multi_hot(director_binarizer, director_lists, "directed_by"),
         ],
         axis=1,
     )
@@ -311,7 +406,7 @@ def build_dataframe(
     y_revenue = pd.Series([float(row["revenue"]) for row in rows], name="revenue")
     y_log = pd.Series(y_revenue.apply(math.log1p), name="log_revenue")
 
-    return X, y_log, genre_binarizer, language_binarizer, company_binarizer
+    return X, y_log, genre_binarizer, language_binarizer, company_binarizer, director_binarizer
 
 
 def log_budget(X: pd.DataFrame) -> np.ndarray:

@@ -31,6 +31,7 @@ MODEL_PATH = ARTIFACTS_DIR / "model.cbm"
 BINARIZER_PATH = ARTIFACTS_DIR / "genre_binarizer.pkl"
 LANGUAGE_BINARIZER_PATH = ARTIFACTS_DIR / "language_binarizer.pkl"
 COMPANY_BINARIZER_PATH = ARTIFACTS_DIR / "production_company_binarizer.pkl"
+DIRECTOR_BINARIZER_PATH = ARTIFACTS_DIR / "director_binarizer.pkl"
 FEATURE_LAYOUT_PATH = ARTIFACTS_DIR / "feature_layout.json"
 
 # Big films are rare (66 of ~2,000 earned 50M+), so an unweighted fit mostly learns
@@ -43,7 +44,7 @@ BIG_FILM_WEIGHT = 3.0
 
 def train() -> None:
     rows = load_training_rows()
-    X, y_log, binarizer, language_binarizer, company_binarizer = build_dataframe(rows)
+    X, y_log, binarizer, language_binarizer, company_binarizer, director_binarizer = build_dataframe(rows)
     cat_features = categorical_feature_names(X)
     keep_companies = sorted(top_production_companies(rows))
 
@@ -83,6 +84,8 @@ def train() -> None:
         pickle.dump(language_binarizer, f)
     with open(COMPANY_BINARIZER_PATH, "wb") as f:
         pickle.dump(company_binarizer, f)
+    with open(DIRECTOR_BINARIZER_PATH, "wb") as f:
+        pickle.dump(director_binarizer, f)
     with open(FEATURE_LAYOUT_PATH, "w") as f:
         json.dump(
             {
@@ -91,6 +94,7 @@ def train() -> None:
                 "genre_columns": [c for c in X.columns if c.startswith("genre_")],
                 "language_columns": [c for c in X.columns if c.startswith("language_")],
                 "company_columns": [c for c in X.columns if c.startswith("company_")],
+                "director_columns": [c for c in X.columns if c.startswith("directed_by_")],
                 "top_production_companies": keep_companies,
                 "log_mae": metrics["log_mae"],
                 "target": "log_revenue_budget_ratio",

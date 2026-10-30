@@ -267,6 +267,7 @@ with a low/high band. Same inputs as the scenario CLI's `--upcoming` mode.
 | `releaseEventType` | string | no | looked up from the date | |
 | `releaseEventName` | string | no | looked up from the date | |
 | `isRemake` | boolean | no | `false` | |
+| `remakeMovieName` | string | no | none | Title of the original film. Setting it also sets `isRemake`. |
 | `ratingRange` | int: `1, 10, 100, 1000, 10000, 100000` | no | language default | This endpoint uses the language default (10000 Hindi, 1000 otherwise), not the cast-based one. |
 | `productionCompany` | string | no | none | One or more, comma-separated. |
 | `leadActor` | string | no | none | |
