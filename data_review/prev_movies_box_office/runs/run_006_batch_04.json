@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 963353, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia article; not on sacnilk"},
+ {"tmdb_movie_id": 1064489, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "FLAG: Wiki '10 (2022 film)' says 'budget of ₹70 lakh, production budget just under ₹50 lakh' (ambiguous, not stored); Prime Video a week after release; sacnilk no data"},
+ {"tmdb_movie_id": 1036788, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Dr._56: no figures/verdict; not on sacnilk"},
+ {"tmdb_movie_id": 882826, "budget_inr_crore": null, "revenue_inr_crore": 10.89, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "BH lifetime nett ₹10.89 Cr; Wiki only 'underperformed' (no conflict)"},
+ {"tmdb_movie_id": 939513, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; Netflix 3 weeks after release; sacnilk no data"}
+]

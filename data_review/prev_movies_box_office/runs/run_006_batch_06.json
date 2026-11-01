@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 900222, "budget_inr_crore": 35, "revenue_inr_crore": 41, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success (Wiki); Hit (sacnilk)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Yashoda_(film)", "revenue": "https://en.wikipedia.org/wiki/Yashoda_(film)", "verdict": "https://en.wikipedia.org/wiki/Yashoda_(film)"}, "notes": "Wiki budget ₹30–40 Cr → midpoint 35 (matches stored); Wiki gross est. ₹32–50 Cr → midpoint 41 (stored was ₹50 Cr, the range top); sacnilk WW ₹32.13 Cr (28 days), budget ₹30 Cr"},
+ {"tmdb_movie_id": 449627, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (ZEE5, 4 Nov 2022); no box office"},
+ {"tmdb_movie_id": 576982, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk no data"},
+ {"tmdb_movie_id": 1032287, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; not on sacnilk"},
+ {"tmdb_movie_id": 896449, "budget_inr_crore": 10, "revenue_inr_crore": 10.43, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Below Average (sacnilk)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Ori_Devuda_2022", "revenue": "https://www.sacnilk.com/movie/Ori_Devuda_2022", "verdict": "https://www.sacnilk.com/movie/Ori_Devuda_2022"}, "notes": "sacnilk WW ₹10.43 Cr over 21 days (till 10 Nov; Aha from 11 Nov); Wiki no figures/verdict"}
+]

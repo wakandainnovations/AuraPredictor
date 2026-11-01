@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1122356, "budget_inr_crore": null, "revenue_inr_crore": 0.75, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/DeAr_2024"}, "notes": "sacnilk gross ₹75 L (16 days, till 26 Apr 2024, no overseas); Wiki has no figures/verdict"},
+ {"tmdb_movie_id": 1140905, "budget_inr_crore": 40, "revenue_inr_crore": 100.5, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Aranmanai_4", "revenue": "https://en.wikipedia.org/wiki/Aranmanai_4"}, "notes": "Wiki budget ₹40 Cr (matches stored), 'grossed ₹100.50 crore'; sacnilk WW ₹98.75 Cr (till 30 Jun 2024) agrees; 'highest-grossing in the franchise' is a ranking, not a verdict -> NULL"},
+ {"tmdb_movie_id": 1019232, "budget_inr_crore": null, "revenue_inr_crore": 19.75, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Siren_2024"}, "notes": "sacnilk WW ₹19.75 Cr (India gross 16.30 + overseas 3.45), till 29 Mar 2024; Wiki has no figures/verdict"},
+ {"tmdb_movie_id": 1201126, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "became a success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Conjuring_Kannappan"}, "notes": "sacnilk has only week-1 India net ₹7.73 Cr (partial, not stored)"},
+ {"tmdb_movie_id": 1112202, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Antony_(2023_film) has no figures/verdict; no sacnilk page"}
+]

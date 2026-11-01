@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 563609, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; stored tmdb revenue $135K unverified, left"},
+ {"tmdb_movie_id": 573409, "budget_inr_crore": 3.5, "revenue_inr_crore": 30, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "100-day run; one of the successful films of 2019",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vijay_Superum_Pournamiyum", "revenue": "https://en.wikipedia.org/wiki/Vijay_Superum_Pournamiyum", "verdict": "https://en.wikipedia.org/wiki/Vijay_Superum_Pournamiyum"}, "notes": "Wiki budget ₹3.5 Cr, gross ₹30 Cr (both match stored)"},
+ {"tmdb_movie_id": 493178, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk no data"},
+ {"tmdb_movie_id": 564177, "budget_inr_crore": null, "revenue_inr_crore": 52, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Njan_Prakashan"}, "notes": "Wiki gross est. ₹52 Cr (40 days of a 101-day run; matches stored); 'one of the highest-grossing Malayalam films' is a ranking, not a verdict"},
+ {"tmdb_movie_id": 579605, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Mauli_(film): no figures/verdict; not on sacnilk"}
+]

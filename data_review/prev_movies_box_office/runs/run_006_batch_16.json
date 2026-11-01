@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 648705, "budget_inr_crore": 30, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Nishabdham"}, "notes": "direct-to-streaming (Prime Video, 2 Oct 2020); Wiki budget ₹30 Cr (matches stored); no box office"},
+ {"tmdb_movie_id": 680943, "budget_inr_crore": 4, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Dharala_Prabhu_2020"}, "notes": "sacnilk budget ₹4 Cr; WW ₹3.40 Cr is first 3 days only; run cut short by COVID shutdown; Wiki 'decent hit by its other revenue' refers to non-theatrical income, not a box-office verdict → NULL"},
+ {"tmdb_movie_id": 606717, "budget_inr_crore": 36, "revenue_inr_crore": 13.54, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BH, nett ₹9.36 Cr; run cut short by COVID shutdown)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Angrezi_Medium", "revenue": "https://en.wikipedia.org/wiki/Angrezi_Medium", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2020/"}, "notes": "Wiki budget ₹36 Cr (includes P&A, noted on Wiki) and gross est. ₹13.54 Cr - both match stored"},
+ {"tmdb_movie_id": 651719, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Katha_Sangama_(2019_film): anthology, no figures/verdict"},
+ {"tmdb_movie_id": 623364, "budget_inr_crore": 100, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "failed at the box office; losses (court-ordered compensation)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Action_(2019_film)", "verdict": "https://en.wikipedia.org/wiki/Action_(2019_film)"}, "notes": "Wiki budget ₹100 Cr (matches stored). FLAG: stored revenue = Wiki infobox est. ₹23.32 Cr, but Wiki body says it 'grossed less than ₹12 crore' (TN 7.7 + AP/TS 4 + overseas 0.57) - revenue left"}
+]

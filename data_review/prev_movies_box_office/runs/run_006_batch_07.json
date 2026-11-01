@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 922690, "budget_inr_crore": 30, "revenue_inr_crore": 40, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Prince_2022", "revenue": "https://en.wikipedia.org/wiki/Prince_(2022_film)"}, "notes": "Wiki gross est. ₹40 Cr (matches stored); sacnilk budget ₹30 Cr, WW ₹41.13 Cr (21 days); verdict conflict: Wiki 'box office bomb' vs sacnilk 'Above Average' → NULL"},
+ {"tmdb_movie_id": 817866, "budget_inr_crore": null, "revenue_inr_crore": 9.66, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BH, nett ₹6.38 Cr)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Goodbye_(2022_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "Wiki WW gross ₹9.66 Cr (matches stored)"},
+ {"tmdb_movie_id": 1014386, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix, 16 Sep 2022); BH year table lists it as Flop ₹0.10 Cr - inconsistent with a Netflix release, not used"},
+ {"tmdb_movie_id": 888319, "budget_inr_crore": null, "revenue_inr_crore": 26.15, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "was successful at the box office",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Oke_Oka_Jeevitham", "verdict": "https://en.wikipedia.org/wiki/Oke_Oka_Jeevitham"}, "notes": "Tamil title Kanam = Telugu Oke Oka Jeevitham (bilingual); Wiki gross ₹26.15 Cr (matches stored)"},
+ {"tmdb_movie_id": 934772, "budget_inr_crore": 10, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "ended up a box-office failure",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Ranga_Ranga_Vaibhavanga_2022", "verdict": "https://en.wikipedia.org/wiki/Ranga_Ranga_Vaibhavanga"}, "notes": "sacnilk WW ₹6.45 Cr is week-1 only (partial, not stored)"}
+]

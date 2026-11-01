@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 661078, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Thuramukham_(2023_film)"}, "notes": "sacnilk India net ₹4.65 Cr is week-1 only (partial, not stored)"},
+ {"tmdb_movie_id": 1122983, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; not on sacnilk; stored tmdb budget left"},
+ {"tmdb_movie_id": 1008614, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "went onto become a super hit of 2023",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Pranaya_Vilasam"}, "notes": "sacnilk page has no figures (₹0) and a default 'Disaster' label - ignored as no data"},
+ {"tmdb_movie_id": 1085547, "budget_inr_crore": null, "revenue_inr_crore": 2.95, "revenue_scope": "india_net", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Vash_2023"}, "notes": "sacnilk India net ₹2.95 Cr, figures till 16 Mar 2023 (~4 weeks), no overseas; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 992589, "budget_inr_crore": 18.7, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Christopher_(film)"}, "notes": "FLAG: Wiki gross now ₹2.1 Cr tagged dubious (stored $4.67M ≈ ₹38 Cr from older Wiki) - revenue left; sacnilk budget ₹15 Cr, WW ₹7.00 Cr after 4 days (partial)"}
+]

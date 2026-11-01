@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 71918, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki King_(2008_film) has no figures or verdict; search found none"},
+ {"tmdb_movie_id": 57092, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures; only a pre-release prediction by Taran Adarsh (not a verdict); not in BH 2008 table"},
+ {"tmdb_movie_id": 443950, "budget_inr_crore": null, "revenue_inr_crore": 0.55, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Gumnaam_–_The_Mystery"}, "notes": "Wiki ₹55 lakh (matches stored); no verdict; not in BH 2008 table"},
+ {"tmdb_movie_id": 84098, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "festival/award film (National Award); no figures or verdict found"},
+ {"tmdb_movie_id": 96329, "budget_inr_crore": 1.8, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chaurahen"}, "notes": "Wiki budget ₹18 million (US$190,000); 2007 festival premiere; Wiki says it had no theatrical release (PVR Director's Rare 2012 limited release); Hindi film (DB says english)"}
+]

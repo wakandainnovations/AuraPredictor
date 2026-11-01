@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 205212, "budget_inr_crore": 18, "revenue_inr_crore": 33.18, "revenue_scope": "unknown", "verdict": "avg", "verdict_label": "Average (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bewafaa_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/Bewafaa_(2005_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "Wiki ₹180 million / ₹331.8 million (matches stored); BH lifetime 16.97 Cr; Wiki has no verdict"},
+ {"tmdb_movie_id": 31977, "budget_inr_crore": 21, "revenue_inr_crore": 40.9, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Black_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/Black_(2005_film)"}, "notes": "Wiki budget ₹20–22 Cr -> midpoint 21 (matches stored), gross ₹40.9 Cr; verdict conflict: Wiki 'successful at the box office' vs BOI/BH 'Average' -> NULL"},
+ {"tmdb_movie_id": 127763, "budget_inr_crore": 2, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Matrubhoomi"}, "notes": "Wiki: 'shot on a tight budget of Rs. 2 crore' (dubbing into six languages a further ₹3 Cr, not included); no gross/verdict"},
+ {"tmdb_movie_id": 959894, "budget_inr_crore": 45, "revenue_inr_crore": 20, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Pallichattambi", "revenue": "https://en.wikipedia.org/wiki/Pallichattambi", "verdict": "https://en.wikipedia.org/wiki/Pallichattambi"}, "notes": "Wiki est. ₹45 Cr / est. ₹20 Cr (matches stored)"},
+ {"tmdb_movie_id": 1371678, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: 'underperformed at the box-office' — not a verdict -> NULL; no figures"}
+]

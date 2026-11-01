@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 86279, "budget_inr_crore": 4, "revenue_inr_crore": 12, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Fakta_Ladh_Mhana", "revenue": "https://en.wikipedia.org/wiki/Fakta_Ladh_Mhana"}, "notes": "Wiki infobox ₹4 Cr / ₹12 Cr (matches stored); no verdict sentence"},
+ {"tmdb_movie_id": 67386, "budget_inr_crore": null, "revenue_inr_crore": 3.76, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "Hindi film (DB says english); BH lists as 'Bin Bulaye Baarati', lifetime 3.76 Cr; Wikipedia has no figures"},
+ {"tmdb_movie_id": 287986, "budget_inr_crore": null, "revenue_inr_crore": 9, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Hudugaru"}, "notes": "Wiki infobox ₹9 Cr (matches stored; a mirror shows ₹30 Cr); 'performed well at the box office' is not a stated verdict -> NULL; budget only an IMDb estimate (not used)"},
+ {"tmdb_movie_id": 63372, "budget_inr_crore": 45, "revenue_inr_crore": 33, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office disaster",
+  "sources": {"budget": "https://www.filmibeat.com/telugu/movies/shakthi.html", "revenue": "https://en.wikipedia.org/wiki/List_of_Telugu_films_of_2011", "verdict": "https://en.wikipedia.org/wiki/Shakthi_(2011_film)"}, "notes": "Wiki title Shakthi; budget = filmibeat review 'touted ... Rs. 45 crore'; WW gross ₹33 Cr from Wiki 2011 Telugu highest-grossing table (share ₹19 Cr not used)"},
+ {"tmdb_movie_id": 833004, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "NFDC Rajasthani-language film, MAMI premiere; no Wikipedia page, not in BH 2011 table, no figures found"}
+]

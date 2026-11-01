@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 610096, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Kalki_(2019_Telugu_film): no figures/verdict; not on sacnilk"},
+ {"tmdb_movie_id": 610482, "budget_inr_crore": 4, "revenue_inr_crore": 20, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success; declared a super hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Agent_Sai_Srinivasa_Athreya", "revenue": "https://en.wikipedia.org/wiki/Agent_Sai_Srinivasa_Athreya", "verdict": "https://en.wikipedia.org/wiki/Agent_Sai_Srinivasa_Athreya"}, "notes": "Wiki infobox budget ₹4 Cr, gross est. ₹20 Cr (both match stored); FLAG: Wiki body calls it a '₹1 crore' budget"},
+ {"tmdb_movie_id": 597089, "budget_inr_crore": null, "revenue_inr_crore": 93.08, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Semi-Hit (BH, nett ₹65.45 Cr)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Article_15_(film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"}, "notes": "Wiki gross est. ₹93.08 Cr (matches stored); no budget; no Wiki verdict"},
+ {"tmdb_movie_id": 581104, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Ayogya_(2019_film): no figures/verdict; not on sacnilk"},
+ {"tmdb_movie_id": 568856, "budget_inr_crore": null, "revenue_inr_crore": 3.6, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BH, nett ₹3.06 Cr)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Amavas", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"}, "notes": "Wiki gross est. ₹36 million = ₹3.6 Cr (matches stored)"}
+]

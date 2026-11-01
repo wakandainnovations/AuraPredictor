@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 1046183, "budget_inr_crore": null, "revenue_inr_crore": 5.17, "revenue_scope": "india_gross", "verdict": "avg", "verdict_label": "an average success at the box office",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/I_Am_Kathalan_2024", "verdict": "https://en.wikipedia.org/wiki/I_Am_Kathalan"}, "notes": "sacnilk India gross ₹5.17 Cr (net 4.49; header 'WW 2.06 Cr' inconsistent, not used), figures till 4 Dec 2024"},
+ {"tmdb_movie_id": 1008633, "budget_inr_crore": null, "revenue_inr_crore": 10.72, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "box-office bomb (Wiki) / big flop (Koimoi)",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Brother_2024", "verdict": "https://en.wikipedia.org/wiki/Brother_(2024_film)"}, "notes": "sacnilk India gross ₹10.72 Cr (net 9.35; header WW 8.20 inconsistent), figures till 19 Nov 2024; budget undisclosed (Koimoi)"},
+ {"tmdb_movie_id": 1244061, "budget_inr_crore": null, "revenue_inr_crore": 0.85, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Thekku_Vadakku_2024"}, "notes": "sacnilk gross ₹85 L (12 days, till 15 Oct 2024, no overseas); Wiki has no figures/verdict"},
+ {"tmdb_movie_id": 1545530, "budget_inr_crore": null, "revenue_inr_crore": 0.41, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Footage_2024"}, "notes": "CORRECTS tmdb revenue 3280; sacnilk India gross ₹41 L (14 days, till 3 Sep 2024); Wiki has no figures/verdict"},
+ {"tmdb_movie_id": 1077263, "budget_inr_crore": null, "revenue_inr_crore": 2.58, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Nadanna_Sambhavam_2024"}, "notes": "sacnilk gross ₹2.58 Cr (52–55 days, till 11 Aug 2024, no overseas); Wiki has no figures/verdict"}
+]

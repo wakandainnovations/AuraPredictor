@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1049623, "budget_inr_crore": null, "revenue_inr_crore": 0.25, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "huge commercial failure (Wiki); Flop (BH)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Almost_Pyaar_with_DJ_Mohabbat", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"}, "notes": "Wiki gross est. ₹25 lakh (= BH nett 0.25 Cr), matches stored"},
+ {"tmdb_movie_id": 872028, "budget_inr_crore": 2.5, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb (Wiki); Disaster (sacnilk)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Alone_(2023_film)", "verdict": "https://en.wikipedia.org/wiki/Alone_(2023_film)"}, "notes": "FLAG: Wiki infobox gross ₹55 lakh vs body '₹1.1 crore worldwide final' (and body budget ₹3 Cr; sacnilk ₹3 Cr) - revenue left; sacnilk WW after 4 days partial"},
+ {"tmdb_movie_id": 1061197, "budget_inr_crore": null, "revenue_inr_crore": 7.21, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Kalyanam_Kamaneeyam_(film)"}, "notes": "Wiki gross ₹7.21 Cr (matches stored); no verdict"},
+ {"tmdb_movie_id": 618907, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk no data"},
+ {"tmdb_movie_id": 1094195, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia article; not on sacnilk"}
+]

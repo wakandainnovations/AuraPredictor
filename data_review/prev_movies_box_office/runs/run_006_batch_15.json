@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 644468, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Disney+ Hotstar, 14 Jan 2021); no box office"},
+ {"tmdb_movie_id": 784167, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Zee Plex, 14 Jan 2021); no box office"},
+ {"tmdb_movie_id": 732621, "budget_inr_crore": null, "revenue_inr_crore": 0.11, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2021/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2021/"}, "notes": "BH lifetime nett ₹0.11 Cr; Wiki 12_'O'_Clock_(film) no figures"},
+ {"tmdb_movie_id": 754612, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: released UAE 15 Oct 2020 / India 29 Jan 2021, no figures/verdict; Netflix from Feb 2021"},
+ {"tmdb_movie_id": 757305, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix, 4 Nov 2020); no box office"}
+]

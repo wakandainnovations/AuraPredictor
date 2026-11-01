@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 799713, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix + JioCinema, 7 Apr 2022); no box office"},
+ {"tmdb_movie_id": 888299, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Aadavallu_Meeku_Johaarlu_(2022_film)"}, "notes": "Wiki gives only distributors' share ₹7.72 Cr (not gross, not stored)"},
+ {"tmdb_movie_id": 903283, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk no data"},
+ {"tmdb_movie_id": 811942, "budget_inr_crore": 75, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bheemla_Nayak"}, "notes": "FLAG: Wiki infobox gross ₹158.5 Cr contradicts its body (₹192 Cr in 20 days; TOI ₹210.37 Cr; closing total 'not reported') - revenue left null; no verdict"},
+ {"tmdb_movie_id": 799397, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Son_of_India_(2022_film)"}, "notes": "no figures on Wiki; not on sacnilk"}
+]

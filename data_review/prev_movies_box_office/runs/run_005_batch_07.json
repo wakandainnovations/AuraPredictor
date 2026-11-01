@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 388312, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "= Apna Asmaan (Hindi); Wiki has no figures/verdict; not in BH 2007 table"},
+ {"tmdb_movie_id": 38428, "budget_inr_crore": 8, "revenue_inr_crore": 7.49, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Gandhi,_My_Father", "revenue": "https://en.wikipedia.org/wiki/Gandhi,_My_Father", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/"}, "notes": "Wiki ₹80 million / ₹74.9 million (matches stored); BH India lifetime 3.42 Cr; Wiki has no verdict"},
+ {"tmdb_movie_id": 63811, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures/verdict; only BOM UK gross $264,106 found (not used: one market)"},
+ {"tmdb_movie_id": 1476765, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures/verdict; not in BH 2007 table"},
+ {"tmdb_movie_id": 199229, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Munna_(2007_film)"}, "notes": "Wiki: distributors' share ~₹9.7 Cr (not gross, not stored); no budget"}
+]

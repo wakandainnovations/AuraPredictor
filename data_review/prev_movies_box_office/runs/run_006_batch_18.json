@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 625453, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; not on sacnilk"},
+ {"tmdb_movie_id": 626939, "budget_inr_crore": null, "revenue_inr_crore": 5, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success; 100-day run",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Gotro", "verdict": "https://en.wikipedia.org/wiki/Gotro"}, "notes": "Wiki gross est. ₹5 Cr (matches stored; tagged citation needed)"},
+ {"tmdb_movie_id": 623545, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Gimmick_(film): no figures/verdict; not on sacnilk"},
+ {"tmdb_movie_id": 606714, "budget_inr_crore": 30, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb (Wiki); Flop (sacnilk)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Manmadhudu_2", "verdict": "https://en.wikipedia.org/wiki/Manmadhudu_2"}, "notes": "Wiki budget ₹30 Cr (matches stored); sacnilk budget ₹50 Cr, WW ₹29 Cr after 3 days (partial)"},
+ {"tmdb_movie_id": 620008, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; not on sacnilk"}
+]

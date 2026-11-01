@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1140685, "budget_inr_crore": null, "revenue_inr_crore": 0.37, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Firefly_2025"}, "notes": "sacnilk total gross ₹0.37 Cr (15 days, figures till 8 May 2025, overseas '—' so effectively India gross); Wiki has no figures/verdict"},
+ {"tmdb_movie_id": 607141, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming: Prime Video premiere 14 Mar 2025 (sakshipost/aboutamazon); no box office"},
+ {"tmdb_movie_id": 1415263, "budget_inr_crore": null, "revenue_inr_crore": 9.64, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Fussclass_Dabhade"}, "notes": "Wiki ₹9.64 Cr (matches stored); FLAG: sacnilk total gross only ₹4.25 Cr (till 14 Mar 2025) — conflict, Wiki kept; no verdict"},
+ {"tmdb_movie_id": 1060908, "budget_inr_crore": 5.48, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Narayaneente_Moonnaanmakkal"}, "notes": "Wiki budget ₹5.48 Cr; no gross/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 1251551, "budget_inr_crore": 14.5, "revenue_inr_crore": 8.36, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Pravinkoodu_Shappu", "revenue": "https://en.wikipedia.org/wiki/Pravinkoodu_Shappu"}, "notes": "Wiki ₹14.5 Cr / ₹8.36 Cr (matches stored); Wiki ref (Manorama) says ₹30 Cr budget / ₹3.5 Cr; sacnilk ₹7.00 Cr (21 days) — infobox kept; no verdict"}
+]

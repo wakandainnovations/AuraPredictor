@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 793032, "budget_inr_crore": 95, "revenue_inr_crore": 68.5, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Cobra_(2022_film)", "revenue": "https://en.wikipedia.org/wiki/Cobra_(2022_film)", "verdict": "https://en.wikipedia.org/wiki/Cobra_(2022_film)"}, "notes": "Wiki budget est. ₹90–100 Cr → 95, gross est. ₹67–70 Cr → 68.5 (both match stored)"},
+ {"tmdb_movie_id": 1019388, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "declared as a commercial success (35-day run)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Love_360"}, "notes": "no figures on Wiki; sacnilk no data"},
+ {"tmdb_movie_id": 870769, "budget_inr_crore": null, "revenue_inr_crore": 60, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit (sacnilk)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Viruman", "verdict": "https://www.sacnilk.com/movie/Viruman_2022"}, "notes": "Wiki gross est. ₹60 Cr (matches stored); sacnilk WW ₹63.77 Cr (35 days)"},
+ {"tmdb_movie_id": 816586, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk WW header ₹10.00 Cr < its India net 8.49 + overseas 3.45 after 11 days (inconsistent/partial, not stored)"},
+ {"tmdb_movie_id": 891473, "budget_inr_crore": 15, "revenue_inr_crore": 15.30, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Pakka_Commercial", "revenue": "https://en.wikipedia.org/wiki/Pakka_Commercial"}, "notes": "Wiki budget ₹15 Cr, gross est. ₹15.30 Cr (both match stored); no verdict"}
+]

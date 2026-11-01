@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 1040718, "budget_inr_crore": null, "revenue_inr_crore": 5.70, "revenue_scope": "unknown", "verdict": "avg", "verdict_label": "an average grosser",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Harom_Hara", "verdict": "https://en.wikipedia.org/wiki/Harom_Hara"}, "notes": "Wiki ₹5.70 Cr (matches stored)"},
+ {"tmdb_movie_id": 956704, "budget_inr_crore": null, "revenue_inr_crore": 6.05, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Gam_Gam_Ganesha"}, "notes": "Wiki ₹6.05 Cr (matches stored); no verdict"},
+ {"tmdb_movie_id": 1291909, "budget_inr_crore": null, "revenue_inr_crore": 1, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Kartam_Bhugtam"}, "notes": "Wiki est. ₹1 Cr (cites BH; matches stored); no verdict"},
+ {"tmdb_movie_id": 893591, "budget_inr_crore": 40, "revenue_inr_crore": 5.39, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "box-office disaster / bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Nadikar", "revenue": "https://en.wikipedia.org/wiki/Nadikar", "verdict": "https://en.wikipedia.org/wiki/Nadikar"}, "notes": "Wiki ₹40 Cr / est. ₹5.39 Cr (matches stored)"},
+ {"tmdb_movie_id": 1171532, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "had an average run at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Rathnam_(film)"}, "notes": "Wiki has no figures"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 206525, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures/verdict; not in BH 2007 table"},
+ {"tmdb_movie_id": 17334, "budget_usd": 2500000, "revenue_usd": 507534, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/The_Other_End_of_the_Line", "revenue": "https://en.wikipedia.org/wiki/The_Other_End_of_the_Line"}, "notes": "US film; Wiki $2.5M / $507,534 (matches stored); no verdict; release was 2008 (DB 2007-03-23)"},
+ {"tmdb_movie_id": 46370, "budget_inr_crore": 3, "revenue_inr_crore": 0.12, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Anwar_(2007_film)", "revenue": "https://en.wikipedia.org/wiki/Anwar_(2007_film)", "verdict": "https://en.wikipedia.org/wiki/Anwar_(2007_film)"}, "notes": "Wiki ₹3 Cr budget, ₹12 lakh worldwide (matches stored)"},
+ {"tmdb_movie_id": 46620, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Ghoom_(film): limited release in 4 cities then MTV India premiere 2 weeks later; no figures"},
+ {"tmdb_movie_id": 33375, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures/verdict (US-Indian co-production); not in BH 2006 table"}
+]

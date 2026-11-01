@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 905606, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict (Aha from 15 Jul 2022); sacnilk ₹4.79 Cr is week-1 only"},
+ {"tmdb_movie_id": 981189, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk ₹2.99 Cr is week-1 only"},
+ {"tmdb_movie_id": 916963, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk no data"},
+ {"tmdb_movie_id": 605153, "budget_inr_crore": 32, "revenue_inr_crore": 65, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success / blockbuster (Wiki); Super Hit (sacnilk)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Major_(film)", "revenue": "https://en.wikipedia.org/wiki/Major_(film)", "verdict": "https://en.wikipedia.org/wiki/Major_(film)"}, "notes": "Wiki budget ₹32 Cr (matches stored); gross ₹64–66 Cr → midpoint 65 (stored was 66, the range top); distributors' share ₹33.35 Cr not used"},
+ {"tmdb_movie_id": 712863, "budget_inr_crore": 85, "revenue_inr_crore": 3.77, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb (Wiki); Disaster (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dhaakad", "revenue": "https://en.wikipedia.org/wiki/Dhaakad", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "Wiki budget est. ₹85 Cr, gross est. ₹3.77 Cr (both match stored); BH nett ₹2.58 Cr"}
+]

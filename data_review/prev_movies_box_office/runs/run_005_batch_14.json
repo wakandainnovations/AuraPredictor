@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1211999, "budget_inr_crore": null, "revenue_inr_crore": 18, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "below-average (trade analyst, Indiatimes, cited in Wiki)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Kadhalikka_Neramillai_(2025_film)", "verdict": "https://en.wikipedia.org/wiki/Kadhalikka_Neramillai_(2025_film)"}, "notes": "Wiki est. ₹18 Cr (matches stored); verdict from Wiki ref 2 headline 'trade analyst calls performance below-average'"},
+ {"tmdb_movie_id": 1399790, "budget_inr_crore": null, "revenue_inr_crore": 4.03, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Bachhala_Malli_2024"}, "notes": "no Wiki page; sacnilk India gross ₹4.03 Cr (net 3.60; header 'WW ₹90 L' inconsistent, not used), figures till 31 Dec 2024 (12 days)"},
+ {"tmdb_movie_id": 1035998, "budget_inr_crore": null, "revenue_inr_crore": 10, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Zebra_(2024_film)"}, "notes": "Wiki est. ₹10 Cr (matches stored); sacnilk India net ₹4.78 Cr, header inconsistent; no verdict"},
+ {"tmdb_movie_id": 1104132, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wiki or sacnilk page"},
+ {"tmdb_movie_id": 1239991, "budget_inr_crore": null, "revenue_inr_crore": 18, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Hello_Mummy", "verdict": "https://en.wikipedia.org/wiki/Hello_Mummy"}, "notes": "Wiki ₹18 Cr (matches stored)"}
+]

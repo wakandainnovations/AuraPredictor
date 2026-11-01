@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 112971, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page found (Film_Star_(2005_film) 404); not in BH 2005 table"},
+ {"tmdb_movie_id": 20968, "budget_inr_crore": 14, "revenue_inr_crore": 39.3, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "Semi-Hit (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sarkar_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/Sarkar_(2005_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "Wiki ₹140 million / ₹393 million (matches stored); BH lifetime 24.84 Cr; Wiki has no verdict for the film itself"},
+ {"tmdb_movie_id": 19978, "budget_inr_crore": 26.38, "revenue_inr_crore": 57, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "blockbuster / major commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Anniyan", "revenue": "https://en.wikipedia.org/wiki/Anniyan", "verdict": "https://en.wikipedia.org/wiki/Anniyan"}, "notes": "Wiki ₹26.38 Cr / ₹57 Cr (matches stored); Hindi dub Aparichit a flop per BOI (different version)"},
+ {"tmdb_movie_id": 779991, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures/verdict; not in BH 2005 table"},
+ {"tmdb_movie_id": 316812, "budget_inr_crore": 9.5, "revenue_inr_crore": 6.58, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Main_Aisa_Hi_Hoon", "revenue": "https://en.wikipedia.org/wiki/Main_Aisa_Hi_Hoon"}, "notes": "Wiki ₹9.5 Cr / ₹6.58 Cr (matches stored); no verdict; not in BH 2005 table"}
+]

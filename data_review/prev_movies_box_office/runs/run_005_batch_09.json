@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 866154, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page; release year unclear (BH placeholder 2011, zh-wiki 2007); no figures found; Hindi film (DB says english)"},
+ {"tmdb_movie_id": 544275, "budget_inr_crore": 1.5, "revenue_inr_crore": 0.135, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Anjaane_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/Anjaane_(2005_film)"}, "notes": "Wiki ₹1.50 Cr / ₹13.50 lakh (matches stored); no verdict; not in BH 2005 table"},
+ {"tmdb_movie_id": 794071, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "never released theatrically: IFFI 2005 premiere, released on YouTube July 2021 (gulfnews/wionews)"},
+ {"tmdb_movie_id": 194433, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Home_Delivery_(film): negative reviews, no figures/verdict; not in BH 2005 table"},
+ {"tmdb_movie_id": 1734501, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: 'awaiting wider theatrical release'; budget field empty; no figures"}
+]

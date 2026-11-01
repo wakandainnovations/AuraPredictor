@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 875556, "budget_inr_crore": 5, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "became a sleeper hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Aneethi", "verdict": "https://en.wikipedia.org/wiki/Aneethi"}, "notes": "Wiki budget ₹5 Cr (matches stored); no gross on Wiki or sacnilk"},
+ {"tmdb_movie_id": 657731, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "became a box-office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Takkar_(2023_film)"}, "notes": "sacnilk has only week-1 India gross ₹5.22 Cr (partial, not stored)"},
+ {"tmdb_movie_id": 974966, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Kolla_(2023_film): theatrical 9 Jun 2023, no figures/verdict"},
+ {"tmdb_movie_id": 946025, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix, 19 May 2023); no box office"},
+ {"tmdb_movie_id": 1127439, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Aha, 19 May 2023); no box office"}
+]

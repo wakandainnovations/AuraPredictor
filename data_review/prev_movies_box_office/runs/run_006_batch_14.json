@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 881964, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure at box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Aaradugula_Bullet"}, "notes": "sacnilk ₹1.05 Cr is week-1 only (partial)"},
+ {"tmdb_movie_id": 873695, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk week-1 only and its WW header (₹1.00 Cr) < India net ₹5.26 Cr"},
+ {"tmdb_movie_id": 784963, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Prime Video, 10 Sep 2021); no box office. FLAG: stored tmdb budget $20M (~₹147 Cr) is implausible for this film - no sourced figure to replace it"},
+ {"tmdb_movie_id": 599925, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Prime Video, 12 Aug 2021); no box office"},
+ {"tmdb_movie_id": 807079, "budget_inr_crore": 51, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb (Wiki); Disaster (sacnilk)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Mosagallu", "verdict": "https://en.wikipedia.org/wiki/Mosagallu"}, "notes": "Wiki/sacnilk budget ₹51 Cr (matches stored; Wiki notes Manchu disputed it). FLAG: stored revenue = Wiki est. ₹0.5 Cr, but sacnilk has ₹1.65 Cr WW after only 3 days - revenue left"}
+]

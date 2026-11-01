@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 794417, "budget_inr_crore": 30, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Khiladi_(2022_film)"}, "notes": "Wiki budget ₹30 Cr (matches stored); 'underperformed' only; no gross"},
+ {"tmdb_movie_id": 937036, "budget_inr_crore": null, "revenue_inr_crore": 30.30, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "becoming a blockbuster at the box office",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/DJ_Tillu", "verdict": "https://en.wikipedia.org/wiki/DJ_Tillu"}, "notes": "Wiki gross est. ₹30.30 Cr (matches stored)"},
+ {"tmdb_movie_id": 842275, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Disney+ Hotstar, 26 Jan 2022); no box office"},
+ {"tmdb_movie_id": 889057, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict (Aha from 26 Jan 2022); sacnilk no data"},
+ {"tmdb_movie_id": 741695, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk no data"}
+]

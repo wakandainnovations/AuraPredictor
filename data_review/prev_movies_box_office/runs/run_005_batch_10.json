@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 7509, "budget_inr_crore": null, "revenue_usd": 10400000, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Water_(2005_film)"}, "notes": "Wiki $10.4 million (matches stored); no budget, no verdict"},
+ {"tmdb_movie_id": 445685, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures; only a pre-release prediction; not in BH 2005 table"},
+ {"tmdb_movie_id": 84096, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures/verdict; not in BH 2005 table"},
+ {"tmdb_movie_id": 367180, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "TV/direct-to-video documentary (Channel 4); no box office"},
+ {"tmdb_movie_id": 334386, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: 'a major disappointment for its producers' — not a stated verdict -> NULL; no figures; not in BH 2005 table"}
+]

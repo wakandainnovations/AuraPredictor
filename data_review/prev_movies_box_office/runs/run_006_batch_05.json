@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 677535, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk ₹0.10 Cr is day-1 only"},
+ {"tmdb_movie_id": 1030078, "budget_inr_crore": 5, "revenue_inr_crore": 3.41, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Disaster (sacnilk)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Itlu_Maredumilli_Prajaneekam_2022", "revenue": "https://www.sacnilk.com/movie/Itlu_Maredumilli_Prajaneekam_2022", "verdict": "https://www.sacnilk.com/movie/Itlu_Maredumilli_Prajaneekam_2022"}, "notes": "sacnilk WW ₹3.41 Cr over 14 days (till 8 Dec 2022); ZEE5 from 23 Dec; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1046902, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk ₹1.64 Cr is week-1 only"},
+ {"tmdb_movie_id": 934419, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix, 1 Dec 2022); no box office"},
+ {"tmdb_movie_id": 934747, "budget_inr_crore": null, "revenue_inr_crore": 0.10, "revenue_scope": "india_net", "verdict": null,
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "BH lifetime nett ₹0.10 Cr, verdict 'Pending' (not a verdict); Wiki no figures"}
+]

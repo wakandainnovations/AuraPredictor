@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 94898, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures or verdict; #14 in Wiki 2010 Telugu highest-grossing list with no figure"},
+ {"tmdb_movie_id": 38677, "budget_inr_crore": 26, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Adhurs", "verdict": "https://en.wikipedia.org/wiki/Adhurs"}, "notes": "Wiki budget ₹26 Cr (matches stored); FLAG: stored revenue 6350336 is the est. ₹28–30 Cr DISTRIBUTOR SHARE, not gross (no gross found, left)"},
+ {"tmdb_movie_id": 1722082, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "college short film by Varun Dhawan (YouTube); no theatrical release"},
+ {"tmdb_movie_id": 83351, "budget_inr_crore": null, "revenue_inr_crore": 0.41, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/"}, "notes": "BH lifetime 0.41 Cr; Wikipedia has no figures"},
+ {"tmdb_movie_id": 81881, "budget_inr_crore": 5, "revenue_inr_crore": 0.15, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Fruit_and_Nut_(film)", "revenue": "https://en.wikipedia.org/wiki/Fruit_and_Nut_(film)"}, "notes": "Wiki ₹5 Cr / ₹15 lakh (matches stored); no verdict; not in BH 2009 table"}
+]

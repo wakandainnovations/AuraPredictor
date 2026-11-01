@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 252033, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures or verdict"},
+ {"tmdb_movie_id": 21487, "budget_inr_crore": 5, "revenue_inr_crore": 0.824, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sikandar_(2009_film)", "revenue": "https://en.wikipedia.org/wiki/Sikandar_(2009_film)"}, "notes": "Wiki ₹5 Cr / ₹82.4 lakh (matches stored); no verdict; not in BH 2009 table"},
+ {"tmdb_movie_id": 22241, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: critical acclaim only, no figures/verdict; not in BH 2009 table"},
+ {"tmdb_movie_id": 19950, "budget_inr_crore": 12, "revenue_inr_crore": 23, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercially successful; Tamil version was a hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Yavarum_Nalam", "revenue": "https://en.wikipedia.org/wiki/Yavarum_Nalam", "verdict": "https://en.wikipedia.org/wiki/Yavarum_Nalam"}, "notes": "Wiki ₹12 Cr / ₹23 Cr (matches stored); Hindi version (13B) a failure per BOI, but this row is the Tamil version"},
+ {"tmdb_movie_id": 20964, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has no figures or verdict; not in BH 2009 table"}
+]

@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1069884, "budget_inr_crore": 20, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Aadikeshava", "verdict": "https://en.wikipedia.org/wiki/Aadikeshava"}, "notes": "Wiki budget ₹20 Cr (matches stored); no gross"},
+ {"tmdb_movie_id": 975533, "budget_inr_crore": 40, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/The_Archies_(film)"}, "notes": "direct-to-streaming (Netflix, 7 Dec 2023); Wiki est. ₹400 million budget (matches stored); no box office"},
+ {"tmdb_movie_id": 1046688, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Disney+ Hotstar, 15 Nov 2023); no figures"},
+ {"tmdb_movie_id": 733038, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Prime Video, 10 Nov 2023); Wiki has no budget (stored $9M from tmdb left as is)"},
+ {"tmdb_movie_id": 737370, "budget_inr_crore": 70, "revenue_inr_crore": 6, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "one of Hindi cinema's biggest box-office bombs",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Tejas_(film)", "revenue": "https://en.wikipedia.org/wiki/Tejas_(film)", "verdict": "https://en.wikipedia.org/wiki/Tejas_(film)"}, "notes": "Wiki ₹70 Cr / ₹6 Cr (matches stored)"}
+]

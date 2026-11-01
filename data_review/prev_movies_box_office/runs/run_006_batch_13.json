@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 636901, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "became a box office success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Rocky_(2021_film)"}, "notes": "no figures on Wiki; sacnilk no data"},
+ {"tmdb_movie_id": 806096, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Gamanam_(2021_film): theatrical (Telugu) 10 Dec 2021, no figures/verdict; sacnilk ₹0 with default 'Disaster' label - ignored"},
+ {"tmdb_movie_id": 913761, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Disney+ Hotstar); no box office"},
+ {"tmdb_movie_id": 669696, "budget_inr_crore": 27, "revenue_inr_crore": 34.86, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BH, nett ₹26.91 Cr)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Tadap_(2021_film)", "revenue": "https://en.wikipedia.org/wiki/Tadap_(2021_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2021/"}, "notes": "Wiki budget ₹27 Cr, gross est. ₹34.86 Cr (both match stored); sacnilk budget ₹20 Cr, WW ₹33 Cr"},
+ {"tmdb_movie_id": 847767, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Prime Video, 25 Nov 2021); no box office"}
+]

@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 111581, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Moscowin_Kaveri) has no figures or verdict"},
+ {"tmdb_movie_id": 83319, "budget_inr_crore": null, "revenue_inr_crore": 2.97, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"}, "notes": "Hindi film (DB says english); BH lifetime 2.97 Cr; no Wikipedia page"},
+ {"tmdb_movie_id": 78398, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "became a hit at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Maanja_Velu"}, "notes": "no budget/gross on Wikipedia"},
+ {"tmdb_movie_id": 39491, "budget_inr_crore": null, "revenue_inr_crore": 15, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Sura_(film)"}, "notes": "Wiki infobox est. ₹15 Cr (matches stored); verdict self-conflict: lead 'box office bomb' vs producer 'merely recouped its budget' -> NULL"},
+ {"tmdb_movie_id": 37438, "budget_inr_crore": 8, "revenue_inr_crore": 2.23, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "disaster (Wiki) / Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Road,_Movie", "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/", "verdict": "https://en.wikipedia.org/wiki/Road,_Movie"}, "notes": "Wiki budget ₹8 Cr (matches stored); BH lifetime 2.23 Cr"}
+]

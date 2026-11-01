@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 627715, "budget_inr_crore": 38, "revenue_inr_crore": 65.34, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "Average (BH, nett ₹47.78 Cr)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Marjaavaan", "revenue": "https://en.wikipedia.org/wiki/Marjaavaan", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"}, "notes": "Wiki budget ₹38 Cr (incl. P&A, noted) and gross ₹65.34 Cr - both match stored; no Wiki verdict"},
+ {"tmdb_movie_id": 523278, "budget_inr_crore": null, "revenue_inr_crore": 30.7, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BH, nett ₹23.40 Cr)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Saand_Ki_Aankh", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"}, "notes": "Wiki gross est. ₹30.7 Cr (matches stored); no budget; no Wiki verdict"},
+ {"tmdb_movie_id": 607693, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; not on sacnilk"},
+ {"tmdb_movie_id": 604195, "budget_inr_crore": 33, "revenue_inr_crore": 6.96, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "major box office disaster (Wiki); Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/The_Zoya_Factor_(film)", "revenue": "https://en.wikipedia.org/wiki/The_Zoya_Factor_(film)", "verdict": "https://en.wikipedia.org/wiki/The_Zoya_Factor_(film)"}, "notes": "Wiki budget ₹33 Cr, WW ₹6.96 Cr final run - both match stored"},
+ {"tmdb_movie_id": 605245, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; not on sacnilk"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 82581, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki page (The_Lion_of_Punjab_(film)) has no figures or verdict; not in BH 2011 table"},
+ {"tmdb_movie_id": 96997, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page, not in BH 2011 table; release unconfirmed"},
+ {"tmdb_movie_id": 234631, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "verdict conflict: thesouthfirst 'bombed at the box office' vs Wiki citation title 'Kandahar Just average' -> NULL; Wiki ₹5.25 Cr pre-release revenue figure is not gross (citation needed)"},
+ {"tmdb_movie_id": 117141, "budget_inr_crore": null, "revenue_inr_crore": 0.11, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"}, "notes": "Hindi film (DB says english); BH lifetime 0.11 Cr"},
+ {"tmdb_movie_id": 117337, "budget_inr_crore": null, "revenue_inr_crore": 0.01, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"}, "notes": "BH lifetime 0.01 Cr"}
+]

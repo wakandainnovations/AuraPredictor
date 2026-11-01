@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 847726, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Disney+ Hotstar, 20 May 2022); no box office"},
+ {"tmdb_movie_id": 784696, "budget_inr_crore": null, "revenue_inr_crore": 190, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Sarkaru_Vaari_Paata"}, "notes": "Wiki infobox gross est. ₹180–200 Cr → 190 (matches stored); lead says ₹180–230 Cr; 'second highest-grossing Telugu film of 2022' is a ranking, not a verdict"},
+ {"tmdb_movie_id": 755393, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Prime Video, 6 May 2022); no box office"},
+ {"tmdb_movie_id": 766116, "budget_inr_crore": 100, "revenue_inr_crore": 53.77, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BH, nett ₹32.96 Cr)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Runway_34", "revenue": "https://en.wikipedia.org/wiki/Runway_34", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "Wiki budget ₹100 Cr, gross est. ₹53.77 Cr (both match stored); Wiki 'underperformed' only"},
+ {"tmdb_movie_id": 865428, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: no figures/verdict; sacnilk ₹1.06 Cr is first 4 days only"}
+]

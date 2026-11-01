@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1125221, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb (Wiki); Disaster (sacnilk)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Chatrapathi_(2023_film)"}, "notes": "sacnilk Chatrapathi_2023 India net ₹2.53 Cr is week-1 only (partial, not stored); not in BH table; Box Office India down (maintenance) this run"},
+ {"tmdb_movie_id": 1074641, "budget_inr_crore": null, "revenue_inr_crore": 8.30, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "bombed at the box office",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Ramabanam_2023", "verdict": "https://en.wikipedia.org/wiki/Ramabanam"}, "notes": "sacnilk WW gross ₹8.30 Cr (14 days, India net 6.83 + overseas 0.30)"},
+ {"tmdb_movie_id": 834660, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb (Wiki); Disaster (sacnilk)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Neelavelicham_(film)"}, "notes": "no figures on Wiki; sacnilk shows ₹0"},
+ {"tmdb_movie_id": 1019412, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Madanolsavam_(2023_film): no figures/verdict; sacnilk ₹0.15 Cr is day-1 only"},
+ {"tmdb_movie_id": 1081726, "budget_inr_crore": null, "revenue_inr_crore": 3.33, "verdict": "flop", "verdict_label": "financial failure (Wiki); Flop (BH, nett ₹2.03 Cr)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Bheed", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"}, "notes": "Wiki gross ₹3.33 Cr (matches stored); no budget"}
+]
