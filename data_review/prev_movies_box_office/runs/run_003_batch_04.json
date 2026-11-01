@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 465027, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia: only distribution rights sold for ₹21 Cr; no budget/gross/verdict"},
+ {"tmdb_movie_id": 297125, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "current Wikipedia has no figures (an old mirror shows est. ₹25/₹45 Cr, since removed); Telugu dub reported a hit, not the original"},
+ {"tmdb_movie_id": 344711, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 315934, "budget_inr_crore": 40, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Alludu_Seenu"}, "notes": "only distributors' share ₹24.55 Cr (not gross, not stored); Wiki 'cost failure for producers' but distributors recovered costs - mixed, verdict left NULL"}
+]

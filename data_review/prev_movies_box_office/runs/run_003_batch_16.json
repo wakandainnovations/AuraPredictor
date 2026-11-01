@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 87995, "budget_inr_crore": null, "revenue_inr_crore": 6.94, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "BH India lifetime; replaces tmdb revenue (UK-only scale); Wiki has only UK figures"},
+ {"tmdb_movie_id": 28805, "budget_inr_crore": null, "revenue_inr_crore": 23.16, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Semi-Hit (BH); commercial success (Wiki)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Apaharan", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "infobox ₹231.6 million; BH India lifetime 15.66 Cr"},
+ {"tmdb_movie_id": 443141, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 69636, "budget_inr_crore": 7, "revenue_inr_crore": 50, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ghajini_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/Ghajini_(2005_film)", "verdict": "https://en.wikipedia.org/wiki/Ghajini_(2005_film)"}, "notes": ""},
+ {"tmdb_movie_id": 20296, "budget_inr_crore": null, "revenue_inr_crore": 6.64, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "BH India lifetime; Wiki has no figures/verdict"}
+]

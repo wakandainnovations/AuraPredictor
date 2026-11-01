@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1442778, "budget_inr_crore": 4, "revenue_inr_crore": 6.45, "revenue_scope": "india_gross", "verdict": "avg", "verdict_label": "Plus (Koimoi: profitable, misses hit tag)",
+  "sources": {"budget": "https://www.koimoi.com/box-office/nikka-zaildar-4-box-office-closing-collection-ammy-virk-delivers-another-success-rules-top-5-highest-grossing-films-of-2025/", "revenue": "https://www.koimoi.com/box-office/nikka-zaildar-4-box-office-closing-collection-ammy-virk-delivers-another-success-rules-top-5-highest-grossing-films-of-2025/", "verdict": "https://www.koimoi.com/box-office/nikka-zaildar-4-box-office-closing-collection-ammy-virk-delivers-another-success-rules-top-5-highest-grossing-films-of-2025/"},
+  "notes": "India gross (net 5.47 cr); no worldwide closing figure. Theatrical release Oct 2025, DB release_date 2025-03-07 differs"},
+ {"tmdb_movie_id": 797223, "budget_inr_crore": 50, "revenue_inr_crore": 11.31, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Yudhra", "revenue": "https://en.wikipedia.org/wiki/Yudhra", "verdict": "https://en.wikipedia.org/wiki/Yudhra"}, "notes": "revenue est."},
+ {"tmdb_movie_id": 1270460, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 1051023, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix); no box office"},
+ {"tmdb_movie_id": 1076497, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Journey_of_Love_18%2B"}, "notes": "only running total (>5 cr WW after 10 days), not lifetime; revenue left"}
+]

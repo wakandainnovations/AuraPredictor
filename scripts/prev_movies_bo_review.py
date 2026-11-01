@@ -5,7 +5,11 @@ numbers that land in the DB never depend on mental arithmetic:
 
   next  [--run N]          print (and save) the next 100 unreviewed movies as JSON
   apply <batch.json>       apply one batch of findings (<= 5 movies) to the DB
-  status                   counts of reviewed / updated / missing
+  apply <batch.json> --recheck
+                           fill gaps of movies already reviewed: only fields listed
+                           in missing_data.csv may be set; filled gaps are removed
+                           from missing_data.csv and marked found in processed.csv
+  status                  counts of reviewed / updated / missing
 
 Tracking files live in data_review/prev_movies_box_office/ (see PROGRESS.md there).
 
@@ -73,6 +77,20 @@ def _append(path: Path, cols: list[str], rows: list[dict]) -> None:
         if new:
             w.writeheader()
         w.writerows(rows)
+
+
+def _rewrite(path: Path, cols: list[str], rows: list[dict]) -> None:
+    tmp = path.with_suffix(".tmp")
+    with tmp.open("w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        w.writerows(rows)
+    tmp.replace(path)
+
+
+def _gap_fields(missing_fields: str) -> set[str]:
+    """'budget;revenue(no_rate);verdict' -> {'budget', 'revenue', 'verdict'}"""
+    return {g.split("(")[0] for g in missing_fields.split(";") if g}
 
 
 def _read(path: Path) -> list[dict]:
@@ -154,19 +172,39 @@ def _usd(item: dict, kind: str, rate: tuple[float, date] | None) -> tuple[int | 
     return round(inr * rate[0]), "found_inr", inr
 
 
-def cmd_apply(path: Path, run: int, batch: int) -> None:
+def _found(item: dict, kind: str) -> bool:
+    if kind == "verdict":
+        return bool(item.get("verdict"))
+    return item.get(f"{kind}_inr_crore") is not None or item.get(f"{kind}_usd") is not None
+
+
+def cmd_apply(path: Path, run: int, batch: int, recheck: bool = False) -> None:
     ensure_column()
     items = json.loads(path.read_text())
     if len(items) > BATCH_SIZE:
         sys.exit(f"{len(items)} movies in one batch; the limit is {BATCH_SIZE}")
     done = {int(r["tmdb_movie_id"]) for r in _read(PROCESSED)}
+    prev_gaps: dict[int, set[str]] = {}
+    if recheck:
+        # Validate everything before touching the DB: a recheck may only fill
+        # fields that the earlier review left as gaps.
+        for m in _read(MISSING):
+            prev_gaps.setdefault(int(m["tmdb_movie_id"]), set()).update(_gap_fields(m["missing_fields"]))
+        for item in items:
+            mid = int(item["tmdb_movie_id"])
+            if mid not in done:
+                sys.exit(f"{mid}: --recheck needs a movie that was already reviewed")
+            extra = {k for k in ("budget", "revenue", "verdict") if _found(item, k)} - prev_gaps.get(mid, set())
+            if extra:
+                sys.exit(f"{mid}: --recheck may only fill gaps {sorted(prev_gaps.get(mid, set()))}; "
+                         f"got {sorted(extra)}")
     rates = _rates()
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     processed, changes, missing = [], [], []
     with get_dict_cursor() as cur:
         for item in items:
             mid = int(item["tmdb_movie_id"])
-            if mid in done:
+            if mid in done and not recheck:
                 print(f"skip {mid}: already reviewed")
                 continue
             cur.execute(f"SELECT id, movie_name, release_date, language, tmdb_movie_id, budget, revenue, "
@@ -177,7 +215,9 @@ def cmd_apply(path: Path, run: int, batch: int) -> None:
             rate = nearest_rate(row["release_date"], rates)
             src = item.get("sources") or {}
             notes = item.get("notes") or ""
-            base = {"tmdb_movie_id": mid, "imdb_id": row["id"] or "", "movie_name": row["movie_name"], "release_date": row["release_date"],
+            if recheck:
+                notes = "; ".join(x for x in ("recheck", notes) if x)
+            base ={"tmdb_movie_id": mid, "imdb_id": row["id"] or "", "movie_name": row["movie_name"], "release_date": row["release_date"],
                     "run": run, "batch": batch}
             statuses, gaps = {}, []
             for kind in ("budget", "revenue"):
@@ -202,13 +242,15 @@ def cmd_apply(path: Path, run: int, batch: int) -> None:
                 changes.append({**base, "field": "hit_flop_avg", "old_value": row["hit_flop_avg"],
                                 "new_value": verdict, "inr_value": "", "rate": "", "rate_date": "",
                                 "source": src.get("verdict", ""),
-                                "notes": f"label={item.get('verdict_label', '')}"})
+                                "notes": ("recheck; " if recheck else "") + f"label={item.get('verdict_label', '')}"})
                 statuses["verdict"] = "found"
             else:
                 statuses["verdict"] = "not_found"
                 gaps.append("verdict")
+            if recheck:  # only report gaps that were open before this recheck
+                gaps = [g for g in gaps if g.split("(")[0] in prev_gaps.get(mid, set())]
             if gaps:
-                reason = "no INR->USD rate near release date" if any("no_rate" in g for g in gaps) \
+                reason ="no INR->USD rate near release date" if any("no_rate" in g for g in gaps) \
                     else "not found in web search"
                 missing.append({**base, "language": row["language"],
                                 "missing_fields": ";".join(gaps), "reason": reason, "notes": notes})
@@ -216,17 +258,53 @@ def cmd_apply(path: Path, run: int, batch: int) -> None:
                               "budget_status": statuses["budget"], "revenue_status": statuses["revenue"],
                               "verdict_status": statuses["verdict"], "reviewed_at": now})
     # DB committed above; now the tracking files.
-    _append(PROCESSED, PROCESSED_COLS, processed)
+    if recheck:
+        _record_recheck(processed, missing, prev_gaps, run, batch)
+    else:
+        _append(PROCESSED, PROCESSED_COLS, processed)
+        _append(MISSING, MISSING_COLS, missing)
     _append(CHANGES, CHANGES_COLS, changes)
-    _append(MISSING, MISSING_COLS, missing)
     for c in changes:
         print(f"  tmdb {c['tmdb_movie_id']} {c['movie_name']}: {c['field']} {c['old_value']} -> {c['new_value']}"
               + (f"  (₹{float(c['inr_value']) / CRORE:g} Cr @ {c['rate']:.6f} on {c['rate_date']})"
                  if c["inr_value"] not in ("", None) else ""))
     for m in missing:
         print(f"  MISSING tmdb {m['tmdb_movie_id']} {m['movie_name']}: {m['missing_fields']}")
-    print(f"run {run} batch {batch}: {len(processed)} reviewed, {len(changes)} field updates, "
-          f"{len(missing)} with gaps")
+    print(f"run {run} batch {batch}{' (recheck)' if recheck else ''}: {len(processed)} reviewed, "
+          f"{len(changes)} field updates, {len(missing)} with gaps")
+
+
+def _record_recheck(processed: list[dict], missing: list[dict], prev_gaps: dict[int, set[str]],
+                    run: int, batch: int) -> None:
+    """Update processed.csv / missing_data.csv in place for rechecked movies.
+
+    A gap is closed only when this recheck found the field; gaps it did not look
+    for stay open. processed.csv keeps one row per movie, with statuses upgraded."""
+    filled: dict[int, set[str]] = {}
+    for p in processed:
+        mid = int(p["tmdb_movie_id"])
+        filled[mid] = {k for k in ("budget", "revenue", "verdict") if p[f"{k}_status"] in ("found", "found_inr", "found_usd")}
+    new_status = {int(p["tmdb_movie_id"]): p for p in processed}
+    rows = _read(PROCESSED)
+    for r in rows:
+        p = new_status.get(int(r["tmdb_movie_id"]))
+        if p:
+            for k in filled[int(r["tmdb_movie_id"])]:
+                r[f"{k}_status"] = p[f"{k}_status"]
+    _rewrite(PROCESSED, PROCESSED_COLS, rows)
+
+    recheck_notes = {int(m["tmdb_movie_id"]): m["notes"] for m in missing}
+    kept = []
+    for m in _read(MISSING):
+        mid = int(m["tmdb_movie_id"])
+        if mid in filled:
+            left = [g for g in m["missing_fields"].split(";") if g and g.split("(")[0] not in filled[mid]]
+            if not left:
+                continue  # every gap of this movie is now filled
+            m["missing_fields"] = ";".join(left)
+            m["notes"] = " | ".join(x for x in (m["notes"], f"run {run} b{batch} {recheck_notes.get(mid, '')}".strip()) if x)
+        kept.append(m)
+    _rewrite(MISSING, MISSING_COLS, kept)
 
 
 def cmd_status() -> None:
@@ -246,13 +324,15 @@ def main() -> None:
     a.add_argument("path", type=Path)
     a.add_argument("--run", type=int, required=True)
     a.add_argument("--batch", type=int, required=True)
+    a.add_argument("--recheck", action="store_true",
+                   help="fill gaps of already-reviewed movies (only fields listed in missing_data.csv)")
     sub.add_parser("status")
     args = ap.parse_args()
     DIR.mkdir(parents=True, exist_ok=True)
     if args.cmd == "next":
         cmd_next(args.run)
     elif args.cmd == "apply":
-        cmd_apply(args.path, args.run, args.batch)
+        cmd_apply(args.path, args.run, args.batch, args.recheck)
     else:
         cmd_status()
 

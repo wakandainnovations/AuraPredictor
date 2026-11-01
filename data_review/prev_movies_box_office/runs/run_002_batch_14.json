@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 910784, "budget_inr_crore": 125, "revenue_inr_crore": 84, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office failure",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Thangalaan", "revenue": "https://en.wikipedia.org/wiki/Thangalaan", "verdict": "https://en.wikipedia.org/wiki/Thangalaan"}, "notes": "budget range 100-150 cr -> midpoint; revenue range 68-100 cr -> midpoint"},
+ {"tmdb_movie_id": 1309172, "budget_inr_crore": 3.27, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Night_Curfew"}, "notes": "no box office or verdict"},
+ {"tmdb_movie_id": 875188, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix); no box office"},
+ {"tmdb_movie_id": 1205282, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 1014390, "budget_inr_crore": 60, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bloody_Daddy"}, "notes": "direct-to-streaming (JioCinema); no box office"}
+]

@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 76897, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 63378, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/100%25_Love_(2011_film)"}, "notes": "FLAG: stored revenue 4064490 = Wikipedia's ₹18 Cr distributors' share, not gross (left as is); budget 1.5M is tmdb, unverified"},
+ {"tmdb_movie_id": 63810, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 111589, "budget_inr_crore": 3.5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Nadunisi_Naaygal"}, "notes": "'did not perform well' is not a verdict"},
+ {"tmdb_movie_id": 57734, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Orange_(2010_film)"}, "notes": "no figures on Wikipedia"}
+]

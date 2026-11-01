@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 544042, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia: unreleased film; no box office"},
+ {"tmdb_movie_id": 289277, "budget_inr_crore": 2.5, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "instant success / blockbuster hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Victory_(2013_film)", "verdict": "https://en.wikipedia.org/wiki/Victory_(2013_film)"}, "notes": "no gross figure"},
+ {"tmdb_movie_id": 1019273, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page; release unclear (IMDb 2013, TCM 2006); not found"},
+ {"tmdb_movie_id": 181928, "budget_inr_crore": 30, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Shadow_(2013_film)"}, "notes": "FLAG: stored revenue = infobox 10.2 cr; body says 'worldwide share of 11.5 cr' - likely distributors' share, not gross. Left as is"},
+ {"tmdb_movie_id": 414231, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"}
+]

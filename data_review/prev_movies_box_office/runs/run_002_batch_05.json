@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 294413, "budget_inr_crore": 65, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Aagadu", "verdict": "https://en.wikipedia.org/wiki/Aagadu"}, "notes": "only 2-day gross given; no lifetime"},
+ {"tmdb_movie_id": 277223, "budget_inr_crore": null, "revenue_inr_crore": 8.51, "revenue_scope": "india_net", "verdict": null,
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"}, "notes": "verdict conflict: Wikipedia 'became a success' vs BH 2014 Flop; Wikipedia says collected 9 cr vs 'similar' budget (no budget figure)"},
+ {"tmdb_movie_id": 259837, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "only TN opening weekend (10.83 cr); no lifetime, budget or verdict"},
+ {"tmdb_movie_id": 227338, "budget_inr_crore": 14, "revenue_inr_crore": 6.75, "revenue_scope": "india_net", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/War_Chhod_Na_Yaar", "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/"}, "notes": "verdict conflict: Wikipedia 'performed average' vs BH 2013 Flop"},
+ {"tmdb_movie_id": 224330, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success / huge success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Raja_Rani_(2013_film)"}, "notes": "no budget or lifetime gross"}
+]

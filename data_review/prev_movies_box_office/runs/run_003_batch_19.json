@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1232219, "budget_inr_crore": 70, "revenue_inr_crore": 10, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Mr._Bachchan", "revenue": "https://en.wikipedia.org/wiki/Mr._Bachchan", "verdict": "https://en.wikipedia.org/wiki/Mr._Bachchan"}, "notes": ""},
+ {"tmdb_movie_id": 1298116, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 1519583, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 1044552, "budget_inr_crore": 85, "revenue_inr_crore": 17.46, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Lal_Salaam_(2024_film)", "revenue": "https://en.wikipedia.org/wiki/Lal_Salaam_(2024_film)", "verdict": "https://en.wikipedia.org/wiki/Lal_Salaam_(2024_film)"}, "notes": "budget est. ₹80–90 Cr midpoint; lead says ₹19 Cr, infobox ₹17.46 Cr used"},
+ {"tmdb_movie_id": 1242433, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "'underperformed' alone is not a verdict; no figures"}
+]

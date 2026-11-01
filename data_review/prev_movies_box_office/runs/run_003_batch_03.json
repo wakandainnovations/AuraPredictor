@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 398888, "budget_inr_crore": 25, "revenue_inr_crore": 40, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Mr._Airavata", "revenue": "https://en.wikipedia.org/wiki/Mr._Airavata"}, "notes": "no verdict stated"},
+ {"tmdb_movie_id": 360817, "budget_inr_crore": null, "revenue_inr_crore": 1.83, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/"}, "notes": "BH India lifetime nett; Wikipedia has no figures"},
+ {"tmdb_movie_id": 540012, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 320629, "budget_inr_crore": 4.75, "revenue_inr_crore": 5.35, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Mili_(2015_film)", "revenue": "https://en.wikipedia.org/wiki/Mili_(2015_film)"}, "notes": "Wiki: 'one of the profitable Malayalam films in H1 2015' - not a clear verdict, left NULL"},
+ {"tmdb_movie_id": 315170, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "a success at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Mukunda"}, "notes": "only opening day >₹4 Cr; no lifetime or budget"}
+]

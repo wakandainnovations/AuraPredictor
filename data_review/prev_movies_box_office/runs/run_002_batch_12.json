@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 316831, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures; not in BH 2005"},
+ {"tmdb_movie_id": 33081, "budget_inr_crore": 14, "revenue_inr_crore": 32, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Paheli_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/Paheli_(2005_film)"}, "notes": "verdict conflict: Wikipedia 'average in India, hit abroad' vs BH 2005 Flop (12.85 cr)"},
+ {"tmdb_movie_id": 20651, "budget_inr_crore": null, "revenue_inr_crore": 32.63, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Parineeta_(2005_film)"}, "notes": "verdict conflict: Wikipedia 'commercial success' vs BH 2005 Average; no budget on Wikipedia (stored 6.25M is tmdb)"},
+ {"tmdb_movie_id": 97361, "budget_inr_crore": 3.5, "revenue_inr_crore": 8.5, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/D_(film)", "revenue": "https://en.wikipedia.org/wiki/D_(film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "figures est.; BH lists as 'D - Underworld' (5.94 cr)"},
+ {"tmdb_movie_id": 110647, "budget_inr_crore": 6, "revenue_inr_crore": 5.51, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bachke_Rehna_Re_Baba", "revenue": "https://en.wikipedia.org/wiki/Bachke_Rehna_Re_Baba", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "BH 3.67 cr"}
+]

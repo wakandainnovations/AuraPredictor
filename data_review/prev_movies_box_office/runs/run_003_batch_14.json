@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 69634, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Vel_(film)"}, "notes": "no figures on Wikipedia"},
+ {"tmdb_movie_id": 84504, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success / Box Office Hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Chirutha"}, "notes": "FLAG: stored revenue 6305170 = Wikipedia's ₹25 Cr distributors' share, not gross (left as is)"},
+ {"tmdb_movie_id": 353810, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "AIDS Jaago short film; no theatrical box office; not in BH 2007"},
+ {"tmdb_movie_id": 60597, "budget_inr_crore": null, "revenue_inr_crore": 3.92, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/"}, "notes": "BH lists as 'Red'; India lifetime"},
+ {"tmdb_movie_id": 63669, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "performed average",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Pachaikili_Muthucharam"}, "notes": "no figures on Wikipedia"}
+]

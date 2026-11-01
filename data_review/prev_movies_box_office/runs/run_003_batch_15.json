@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 85824, "budget_inr_crore": 25, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sainikudu"}, "notes": "₹250 million; no box office or verdict (stored revenue is tmdb, unverified)"},
+ {"tmdb_movie_id": 423822, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2006; Wikipedia has no figures"},
+ {"tmdb_movie_id": 1441988, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2006; no Wikipedia page searched beyond BH"},
+ {"tmdb_movie_id": 486382, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2006"},
+ {"tmdb_movie_id": 117415, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"}
+]

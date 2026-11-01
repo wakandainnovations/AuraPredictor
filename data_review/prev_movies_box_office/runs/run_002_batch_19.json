@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 617483, "budget_inr_crore": null, "revenue_inr_crore": 30, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Chal_Mera_Putt"}, "notes": "revenue est.; 'one of highest-grossing Punjabi films' is not a verdict"},
+ {"tmdb_movie_id": 531601, "budget_inr_crore": 25, "revenue_inr_crore": 9.26, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Arjun_Patiala", "revenue": "https://en.wikipedia.org/wiki/Arjun_Patiala", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"}, "notes": "BH lifetime 6.62 cr"},
+ {"tmdb_movie_id": 592545, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "only UAE/US partial figures; no budget, lifetime or verdict"},
+ {"tmdb_movie_id": 590901, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "did average collections",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Panchatantra_(film)"}, "notes": "no figures"},
+ {"tmdb_movie_id": 582134, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"}
+]

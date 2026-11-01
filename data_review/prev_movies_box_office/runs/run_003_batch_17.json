@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 61376, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2005; Wikipedia has no figures"},
+ {"tmdb_movie_id": 58302, "budget_inr_crore": null, "revenue_inr_crore": 38.83, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Dus_(2005_film)"}, "notes": "verdict conflict: Wiki 'commercial success' vs BH 'Average' (India lifetime 23.29 Cr) - left NULL; Wiki ₹20 Cr budget refers to the cancelled 1997 film"},
+ {"tmdb_movie_id": 326397, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2005"},
+ {"tmdb_movie_id": 136688, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2005; Wikipedia has no figures"},
+ {"tmdb_movie_id": 807533, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2005; no Wikipedia page"}
+]

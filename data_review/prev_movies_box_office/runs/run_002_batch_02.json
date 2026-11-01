@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1076886, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page; sacnilk tag shows only 0.15 cr India net (incomplete); not used"},
+ {"tmdb_movie_id": 804337, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Prime Video); no box office"},
+ {"tmdb_movie_id": 695973, "budget_inr_crore": 95, "revenue_inr_crore": 17.29, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office failure",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Satyameva_Jayate_2", "revenue": "https://en.wikipedia.org/wiki/Satyameva_Jayate_2", "verdict": "https://en.wikipedia.org/wiki/Satyameva_Jayate_2"}, "notes": ""},
+ {"tmdb_movie_id": 658075, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Disney+ Hotstar); no box office"},
+ {"tmdb_movie_id": 536420, "budget_inr_crore": 30, "revenue_inr_crore": 22.3, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Savyasachi_(2018_film)", "revenue": "https://en.wikipedia.org/wiki/Savyasachi_(2018_film)"}, "notes": "revenue est.; 'dud' only in a cited headline, no stated verdict"}
+]

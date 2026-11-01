@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 531723, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial and critical success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Koode"}, "notes": "Wiki body says collected ₹40 crore but [citation needed]; revenue left. No budget"},
+ {"tmdb_movie_id": 534333, "budget_inr_crore": null, "revenue_inr_crore": 8, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Tej_I_Love_You"}, "notes": "infobox est. ₹8 crore; no verdict stated"},
+ {"tmdb_movie_id": 530154, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix anthology); no box office"},
+ {"tmdb_movie_id": 495362, "budget_inr_crore": 90, "revenue_inr_crore": 94.6, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Agnyaathavaasi", "revenue": "https://en.wikipedia.org/wiki/Agnyaathavaasi", "verdict": "https://en.wikipedia.org/wiki/Agnyaathavaasi"}, "notes": "infobox est.; body also gives budget ~₹70 Cr and distributors' share <₹60 Cr"},
+ {"tmdb_movie_id": 494061, "budget_inr_crore": 30, "revenue_inr_crore": 34, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Hello_(2017_film)", "revenue": "https://en.wikipedia.org/wiki/Hello_(2017_film)"}, "notes": "infobox ₹300M / est. ₹340M (body: ₹34 Cr is first-week figure); no verdict"}
+]

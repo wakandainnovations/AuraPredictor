@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 410331, "budget_inr_crore": 60, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vada_Chennai"}, "notes": "only a 2-week WW total (50 cr), no lifetime figure; no stated verdict"},
+ {"tmdb_movie_id": 505908, "budget_inr_crore": null, "revenue_inr_crore": 22.7, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "success at the box office",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Saakshyam", "verdict": "https://en.wikipedia.org/wiki/Saakshyam"}, "notes": "revenue est.; gross vs share not stated"},
+ {"tmdb_movie_id": 464599, "budget_inr_crore": null, "revenue_inr_crore": 10.64, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Guest_iin_London"}, "notes": "domestic gross est.; no verdict"},
+ {"tmdb_movie_id": 406162, "budget_inr_crore": 4.5, "revenue_inr_crore": 22, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Anuraga_Karikkin_Vellam", "revenue": "https://en.wikipedia.org/wiki/Anuraga_Karikkin_Vellam"}, "notes": "revenue est.; only 'top grosser at Kochi multiplexes', no verdict"},
+ {"tmdb_movie_id": 391276, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures; no trade total found"}
+]

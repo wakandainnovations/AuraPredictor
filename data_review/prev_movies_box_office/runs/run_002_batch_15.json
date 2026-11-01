@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 1098064, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 864573, "budget_inr_crore": 80, "revenue_inr_crore": 4.65, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kuttey", "revenue": "https://en.wikipedia.org/wiki/Kuttey", "verdict": "https://en.wikipedia.org/wiki/Kuttey"}, "notes": "figures est."},
+ {"tmdb_movie_id": 1106581, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 663457, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Disney+ Hotstar); no box office; stored 7.5M budget is tmdb"},
+ {"tmdb_movie_id": 882397, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "only 'underwhelming opening' in a citation; not a verdict"}
+]

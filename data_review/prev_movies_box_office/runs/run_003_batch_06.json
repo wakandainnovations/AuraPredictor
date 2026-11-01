@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 197999, "budget_inr_crore": 33, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Iddarammayilatho", "verdict": "https://en.wikipedia.org/wiki/Iddarammayilatho"}, "notes": "verdict sentence tagged [citation needed]; no box office figure"},
+ {"tmdb_movie_id": 1025593, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page found"},
+ {"tmdb_movie_id": 224471, "budget_inr_crore": null, "revenue_inr_crore": 0.07, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/"}, "notes": "BH India lifetime"},
+ {"tmdb_movie_id": 302957, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2012 table; Wikipedia has no figures"},
+ {"tmdb_movie_id": 146819, "budget_inr_crore": null, "revenue_inr_crore": 45, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Krishnam_Vande_Jagadgurum", "verdict": "https://en.wikipedia.org/wiki/Krishnam_Vande_Jagadgurum"}, "notes": "infobox est. ₹45 Cr"}
+]

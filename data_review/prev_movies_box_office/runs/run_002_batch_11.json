@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 347807, "budget_inr_crore": 8.25, "revenue_inr_crore": 8.88, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Fight_Club_%E2%80%93_Members_Only", "revenue": "https://en.wikipedia.org/wiki/Fight_Club_%E2%80%93_Members_Only", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/"}, "notes": "BH 2006 lifetime 5.48 cr"},
+ {"tmdb_movie_id": 281855, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 28868, "budget_inr_crore": 4, "revenue_inr_crore": 4.6, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Being_Cyrus", "revenue": "https://en.wikipedia.org/wiki/Being_Cyrus"}, "notes": "no verdict; not in BH 2005"},
+ {"tmdb_movie_id": 406488, "budget_inr_crore": null, "revenue_inr_crore": 1.32, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Pyaar_Mein_Twist"}, "notes": "review line 'holds appeal for families' is not a verdict"},
+ {"tmdb_movie_id": 354734, "budget_inr_crore": 10, "revenue_inr_crore": 19.56, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "below average",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Barsaat_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/Barsaat_(2005_film)", "verdict": "https://en.wikipedia.org/wiki/Barsaat_(2005_film)"}, "notes": "BH 2005 Flop agrees"}
+]

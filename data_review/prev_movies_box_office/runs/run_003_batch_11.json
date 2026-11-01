@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 158773, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 54890, "budget_inr_crore": 40, "revenue_inr_crore": 25.6, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dhobi_Ghat_(film)", "revenue": "https://en.wikipedia.org/wiki/Dhobi_Ghat_(film)"}, "notes": "verdict conflict: Wiki/BOI 'Average' vs BH 'Flop' (India lifetime 13.77 Cr) - left NULL"},
+ {"tmdb_movie_id": 32974, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page; not in BH 2009 table"},
+ {"tmdb_movie_id": 85089, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 21606, "budget_inr_crore": null, "revenue_inr_crore": 4.44, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/"}, "notes": "BH India lifetime"}
+]

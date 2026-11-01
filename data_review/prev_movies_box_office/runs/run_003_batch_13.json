@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 46412, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia: first week ₹15 lakh only; director claimed 'pre-release profit' - not a verdict; not in BH 2008"},
+ {"tmdb_movie_id": 81145, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures; not in BH 2008 (BH 'Thoda Pyaar Thoda Magic' is a different film)"},
+ {"tmdb_movie_id": 152967, "budget_inr_crore": 1.5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kanchivaram"}, "notes": "budget from Production section; no box office or verdict"},
+ {"tmdb_movie_id": 803859, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Bejoy Nambiar short film; no theatrical box office"},
+ {"tmdb_movie_id": 23767, "budget_inr_crore": 15, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "blockbuster (175-day run)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Billa_(2007_film)", "verdict": "https://en.wikipedia.org/wiki/Billa_(2007_film)"}, "notes": "distributor bought it for ₹25 Cr (not gross); no gross figure"}
+]

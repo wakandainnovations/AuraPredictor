@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1063726, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "verdict conflict: Sumanth Shailendra Wiki page 'huge commercial hit' vs plotspoiler 'above average'; film page silent"},
+ {"tmdb_movie_id": 202616, "budget_inr_crore": 60, "revenue_inr_crore": 65, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Thalaivaa", "revenue": "https://en.wikipedia.org/wiki/Thalaivaa"}, "notes": "infobox est. ₹65 Cr; body gives WW ₹76.96 Cr; only 'successful overseas' - no overall verdict"},
+ {"tmdb_movie_id": 204259, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 578362, "budget_inr_crore": null, "revenue_inr_crore": 8, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "major commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Khoka_420", "verdict": "https://en.wikipedia.org/wiki/Khoka_420"}, "notes": ""},
+ {"tmdb_movie_id": 282596, "budget_inr_crore": 6.5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kaddipudi"}, "notes": "₹65 million; no box office or verdict"}
+]

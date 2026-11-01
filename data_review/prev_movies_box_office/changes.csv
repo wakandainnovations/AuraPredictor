@@ -169,3 +169,224 @@ tmdb_movie_id,imdb_id,movie_name,release_date,field,old_value,new_value,inr_valu
 69670,tt0476803,Majaa,2005-11-02,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Majaa,label=average grosser,1,20
 1192990,,Kal: Yesterday and Tomorrow,2005-09-16,budget,,228128,10000000.0,0.02281282128176,2005-09-16,https://en.wikipedia.org/wiki/Kal:_Yesterday_and_Tomorrow,revenue est.; no stated verdict,1,20
 1192990,,Kal: Yesterday and Tomorrow,2005-09-16,revenue,,79845,3500000.0,0.02281282128176,2005-09-16,https://en.wikipedia.org/wiki/Kal:_Yesterday_and_Tomorrow,scope=worldwide; revenue est.; no stated verdict,1,20
+1442778,tt31307640,Nikka Zaildar 4,2025-03-07,budget,,460000,40000000.0,0.0115,2025-03-07,https://www.koimoi.com/box-office/nikka-zaildar-4-box-office-closing-collection-ammy-virk-delivers-another-success-rules-top-5-highest-grossing-films-of-2025/,"India gross (net 5.47 cr); no worldwide closing figure. Theatrical release Oct 2025, DB release_date 2025-03-07 differs",2,1
+1442778,tt31307640,Nikka Zaildar 4,2025-03-07,revenue,,741750,64500000.0,0.0115,2025-03-07,https://www.koimoi.com/box-office/nikka-zaildar-4-box-office-closing-collection-ammy-virk-delivers-another-success-rules-top-5-highest-grossing-films-of-2025/,"scope=india_gross; India gross (net 5.47 cr); no worldwide closing figure. Theatrical release Oct 2025, DB release_date 2025-03-07 differs",2,1
+1442778,tt31307640,Nikka Zaildar 4,2025-03-07,hit_flop_avg,,avg,,,,https://www.koimoi.com/box-office/nikka-zaildar-4-box-office-closing-collection-ammy-virk-delivers-another-success-rules-top-5-highest-grossing-films-of-2025/,"label=Plus (Koimoi: profitable, misses hit tag)",2,1
+797223,tt14056466,Yudhra,2024-09-20,budget,5985000,5985000,500000000.0,0.01197,2024-09-20,https://en.wikipedia.org/wiki/Yudhra,revenue est.,2,1
+797223,tt14056466,Yudhra,2024-09-20,revenue,1353807,1353807,113100000.0,0.01197,2024-09-20,https://en.wikipedia.org/wiki/Yudhra,scope=worldwide; revenue est.,2,1
+797223,tt14056466,Yudhra,2024-09-20,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Yudhra,label=box-office bomb,2,1
+1076497,tt26733205,Journey of Love 18+,2023-07-07,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Journey_of_Love_18%2B,label=average hit,2,1
+695973,tt10739666,Satyameva Jayate 2,2021-11-25,budget,12751191,12751191,950000000.0,0.0134223060744187,2021-11-25,https://en.wikipedia.org/wiki/Satyameva_Jayate_2,,2,2
+695973,tt10739666,Satyameva Jayate 2,2021-11-25,revenue,2320717,2320717,172900000.0,0.0134223060744187,2021-11-25,https://en.wikipedia.org/wiki/Satyameva_Jayate_2,scope=worldwide,2,2
+695973,tt10739666,Satyameva Jayate 2,2021-11-25,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Satyameva_Jayate_2,label=box office failure,2,2
+536420,tt7335186,Savyasachi,2018-11-02,budget,4110750,4110750,300000000.0,0.0137025013975817,2018-11-06,https://en.wikipedia.org/wiki/Savyasachi_(2018_film),"revenue est.; 'dud' only in a cited headline, no stated verdict",2,2
+536420,tt7335186,Savyasachi,2018-11-02,revenue,3055658,3055658,223000000.0,0.0137025013975817,2018-11-06,https://en.wikipedia.org/wiki/Savyasachi_(2018_film),"scope=worldwide; revenue est.; 'dud' only in a cited headline, no stated verdict",2,2
+410331,tt5959980,Vada Chennai,2018-10-17,budget,8152622,8152622,600000000.0,0.0135877036923579,2018-10-18,https://en.wikipedia.org/wiki/Vada_Chennai,"only a 2-week WW total (50 cr), no lifetime figure; no stated verdict",2,3
+505908,tt7757972,Saakshyam,2018-07-27,revenue,3301828,3301828,227000000.0,0.0145454997423547,2018-07-20,https://en.wikipedia.org/wiki/Saakshyam,scope=worldwide; revenue est.; gross vs share not stated,2,3
+505908,tt7757972,Saakshyam,2018-07-27,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Saakshyam,label=success at the box office,2,3
+464599,tt6173826,Guest iin London,2017-07-07,revenue,1646471,1646471,106400000.0,0.0154743480838275,2017-07-07,https://en.wikipedia.org/wiki/Guest_iin_London,scope=india_gross; domestic gross est.; no verdict,2,3
+406162,tt5375324,Anuraga Karikkin Vellam,2016-07-07,budget,666705,666705,45000000.0,0.0148156711537621,2016-07-07,https://en.wikipedia.org/wiki/Anuraga_Karikkin_Vellam,"revenue est.; only 'top grosser at Kochi multiplexes', no verdict",2,3
+406162,tt5375324,Anuraga Karikkin Vellam,2016-07-07,revenue,3259448,3259448,220000000.0,0.0148156711537621,2016-07-07,https://en.wikipedia.org/wiki/Anuraga_Karikkin_Vellam,"scope=worldwide; revenue est.; only 'top grosser at Kochi multiplexes', no verdict",2,3
+371425,tt5328784,Bangalore Naatkal,2016-02-04,revenue,4436558,4436558,300000000.0,0.0147885253431499,2016-02-04,https://en.wikipedia.org/wiki/Bangalore_Naatkal,scope=worldwide; revenue est.,2,4
+371425,tt5328784,Bangalore Naatkal,2016-02-04,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Bangalore_Naatkal,label=box-office failure,2,4
+352205,tt3043252,Parched,2015-11-14,budget,2700000,2700000,,,,https://en.wikipedia.org/wiki/Parched,'failed to have significant box office collections' - not a stated verdict; India release Sep 2016 vs DB date 2015-11-14,2,4
+352205,tt3043252,Parched,2015-11-14,revenue,1819997,1819997,120300000.0,0.0151288219186372,2015-11-14,https://en.wikipedia.org/wiki/Parched,scope=worldwide; 'failed to have significant box office collections' - not a stated verdict; India release Sep 2016 vs DB date 2015-11-14,2,4
+353464,tt4934950,Talvar,2015-10-02,budget,,2298643,150000000.0,0.0153242853290338,2015-10-02,https://en.wikipedia.org/wiki/Talvar_(film),verdict conflict: Wikipedia 'moderate box-office success' vs BH 2015 Semi-Hit (lifetime 30.17 cr),2,4
+353464,tt4934950,Talvar,2015-10-02,revenue,,7033847,459000000.0,0.0153242853290338,2015-10-02,https://en.wikipedia.org/wiki/Talvar_(film),scope=worldwide; verdict conflict: Wikipedia 'moderate box-office success' vs BH 2015 Semi-Hit (lifetime 30.17 cr),2,4
+294413,tt2988020,Aagadu,2014-09-19,budget,10681934,10681934,650000000.0,0.0164337442706792,2014-09-19,https://en.wikipedia.org/wiki/Aagadu,only 2-day gross given; no lifetime,2,5
+294413,tt2988020,Aagadu,2014-09-19,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Aagadu,label=box office bomb,2,5
+277223,tt3709344,City Lights,2014-05-30,revenue,,1437136,85100000.0,0.0168876132487973,2014-05-30,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/,scope=india_net; verdict conflict: Wikipedia 'became a success' vs BH 2014 Flop; Wikipedia says collected 9 cr vs 'similar' budget (no budget figure),2,5
+227338,tt3129282,War Chod Na Yaar,2013-10-11,budget,2287956,2287956,140000000.0,0.0163425441173721,2013-10-11,https://en.wikipedia.org/wiki/War_Chhod_Na_Yaar,verdict conflict: Wikipedia 'performed average' vs BH 2013 Flop,2,5
+227338,tt3129282,War Chod Na Yaar,2013-10-11,revenue,,1103122,67500000.0,0.0163425441173721,2013-10-11,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,scope=india_net; verdict conflict: Wikipedia 'performed average' vs BH 2013 Flop,2,5
+224330,tt3203910,Raja Rani,2013-09-27,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Raja_Rani_(2013_film),label=commercial success / huge success,2,5
+289277,tt3099372,Victory,2013-08-23,budget,393415,393415,25000000.0,0.0157365808098384,2013-08-23,https://en.wikipedia.org/wiki/Victory_(2013_film),no gross figure,2,6
+289277,tt3099372,Victory,2013-08-23,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Victory_(2013_film),label=instant success / blockbuster hit,2,6
+181928,tt2386295,Shadow,2013-04-26,budget,5510503,5510503,300000000.0,0.0183683436179461,2013-04-26,https://en.wikipedia.org/wiki/Shadow_(2013_film),"FLAG: stored revenue = infobox 10.2 cr; body says 'worldwide share of 11.5 cr' - likely distributors' share, not gross. Left as is",2,6
+84879,tt2188749,Gali Gali Chor Hai,2012-02-03,budget,2671873,2671873,130000000.0,0.0205528729135692,2012-02-03,https://en.wikipedia.org/wiki/Gali_Gali_Chor_Hai,verdict conflict: Wikipedia (BOI) Average vs BH 2012 Flop. Revenue conflict: Wikipedia 13.07 cr net vs BH lifetime 4.83 cr - stored value left,2,7
+69504,tt1956697,Vettai,2012-01-13,budget,,4851755,250000000.0,0.0194070193758195,2012-01-13,https://en.wikipedia.org/wiki/Vettai,"only ticket count (4.3M), no gross",2,7
+69504,tt1956697,Vettai,2012-01-13,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Vettai,label=commercial success,2,7
+74233,tt1363363,Chatur Singh Two Star,2011-08-19,budget,5479452,5479452,250000000.0,0.0219178082191781,2011-08-19,https://en.wikipedia.org/wiki/Chatur_Singh_Two_Star,WW gross 130 million; BH 2011 also Flop (lifetime 3.26 cr),2,8
+74233,tt1363363,Chatur Singh Two Star,2011-08-19,revenue,,2849315,130000000.0,0.0219178082191781,2011-08-19,https://en.wikipedia.org/wiki/Chatur_Singh_Two_Star,scope=worldwide; WW gross 130 million; BH 2011 also Flop (lifetime 3.26 cr),2,8
+74233,tt1363363,Chatur Singh Two Star,2011-08-19,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Chatur_Singh_Two_Star,label=flop / commercial failure,2,8
+69509,tt1987021,Venghai,2011-07-08,revenue,,3601981,160000000.0,0.0225123827380415,2011-07-08,https://en.wikipedia.org/wiki/Venghai,"scope=unknown; lifetime gross est. 160 million (Cineulagam 2025, via Wikipedia)",2,8
+69509,tt1987021,Venghai,2011-07-08,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Venghai,label=average performer,2,8
+115432,tt1745863,Urumi,2011-03-31,budget,2998545,4507550,200000000.0,0.0225377512750263,2011-04-02,https://en.wikipedia.org/wiki/Urumi_(film),only 3-day Kerala figures; no lifetime,2,8
+115432,tt1745863,Urumi,2011-03-31,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Urumi_(film),label=notable hit,2,8
+337846,tt1836015,Kaccha Limboo,2011-02-18,revenue,,13311,600000.0,0.0221852464353651,2011-02-18,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,scope=india_net,2,8
+337846,tt1836015,Kaccha Limboo,2011-02-18,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop,2,8
+38272,tt1124386,Pankh,2010-04-02,budget,1228916,1228916,55000000.0,0.0223439334566077,2010-04-02,https://en.wikipedia.org/wiki/Pankh,no stated verdict,2,8
+38272,tt1124386,Pankh,2010-04-02,revenue,45246,45246,2025000.0000000002,0.0223439334566077,2010-04-02,https://en.wikipedia.org/wiki/Pankh,scope=worldwide; no stated verdict,2,8
+64756,tt1538210,Aao Wish Karein,2009-11-13,revenue,,4323,200000.0,0.0216146114773551,2009-11-13,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,scope=india_net,2,9
+64756,tt1538210,Aao Wish Karein,2009-11-13,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,label=Flop,2,9
+21232,tt1324078,Kal Kissne Dekha,2009-06-12,revenue,,1196228,56700000.0,0.0210974885903468,2009-06-12,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,scope=india_net; stored budget 24625 (tmdb) looks wrong; no source budget found,2,9
+21232,tt1324078,Kal Kissne Dekha,2009-06-12,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,label=Flop,2,9
+12405,tt1010048,Slumdog Millionaire,2008-11-12,budget,15000000,15000000,,,,https://en.wikipedia.org/wiki/Slumdog_Millionaire,,2,9
+12405,tt1010048,Slumdog Millionaire,2008-11-12,revenue,378000000,378000000,,,,https://en.wikipedia.org/wiki/Slumdog_Millionaire,scope=worldwide,2,9
+12405,tt1010048,Slumdog Millionaire,2008-11-12,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Slumdog_Millionaire,label=sleeper hit,2,9
+46379,tt0457802,The Blue Umbrella,2007-08-10,budget,,494438,20000000.0,0.0247218788627936,2007-08-10,https://en.wikipedia.org/wiki/The_Blue_Umbrella_(2005_film),"infobox Rs 2,00,00,000 / 3,60,00,000; not in BH 2007; no verdict",2,10
+46379,tt0457802,The Blue Umbrella,2007-08-10,revenue,,889988,36000000.0,0.0247218788627936,2007-08-10,https://en.wikipedia.org/wiki/The_Blue_Umbrella_(2005_film),"scope=unknown; infobox Rs 2,00,00,000 / 3,60,00,000; not in BH 2007; no verdict",2,10
+226092,tt0827714,Jaane Hoga Kya,2006-08-31,budget,1181316,1181316,55000000.0,0.021478465753702,2006-08-31,https://en.wikipedia.org/wiki/Jaane_Hoga_Kya,,2,10
+226092,tt0827714,Jaane Hoga Kya,2006-08-31,revenue,612136,612136,28500000.0,0.021478465753702,2006-08-31,https://en.wikipedia.org/wiki/Jaane_Hoga_Kya,scope=worldwide,2,10
+226092,tt0827714,Jaane Hoga Kya,2006-08-31,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Jaane_Hoga_Kya,label=commercial failure,2,10
+80864,tt0483977,Ashok,2006-07-13,revenue,5816430,5816430,270000000.0,0.0215423334621984,2006-07-14,https://en.wikipedia.org/wiki/Ashok_(film),scope=worldwide; revenue est.; gross vs share not stated,2,10
+80864,tt0483977,Ashok,2006-07-13,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Ashok_(film),label=performed moderately at the box office,2,10
+347807,tt0456413,Fight Club: Members Only,2006-02-17,budget,1860832,1860832,82500000.0,0.0225555430246983,2006-02-17,https://en.wikipedia.org/wiki/Fight_Club_%E2%80%93_Members_Only,BH 2006 lifetime 5.48 cr,2,11
+347807,tt0456413,Fight Club: Members Only,2006-02-17,revenue,2002932,2002932,88800000.00000001,0.0225555430246983,2006-02-17,https://en.wikipedia.org/wiki/Fight_Club_%E2%80%93_Members_Only,scope=worldwide; BH 2006 lifetime 5.48 cr,2,11
+347807,tt0456413,Fight Club: Members Only,2006-02-17,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/,label=Flop,2,11
+28868,tt0412308,Being Cyrus,2005-12-08,budget,867303,867303,40000000.0,0.0216825672159584,2005-12-09,https://en.wikipedia.org/wiki/Being_Cyrus,no verdict; not in BH 2005,2,11
+28868,tt0412308,Being Cyrus,2005-12-08,revenue,997398,997398,46000000.0,0.0216825672159584,2005-12-09,https://en.wikipedia.org/wiki/Being_Cyrus,scope=worldwide; no verdict; not in BH 2005,2,11
+406488,tt0439754,Pyaar Mein Twist,2005-09-02,revenue,301198,301198,13200000.0,0.0228180262407302,2005-09-02,https://en.wikipedia.org/wiki/Pyaar_Mein_Twist,scope=worldwide; review line 'holds appeal for families' is not a verdict,2,11
+354734,tt0444767,Barsaat,2005-08-19,budget,2297530,2297530,100000000.0,0.0229753015170506,2005-08-19,https://en.wikipedia.org/wiki/Barsaat_(2005_film),BH 2005 Flop agrees,2,11
+354734,tt0444767,Barsaat,2005-08-19,revenue,4493969,4493969,195600000.0,0.0229753015170506,2005-08-19,https://en.wikipedia.org/wiki/Barsaat_(2005_film),scope=worldwide; BH 2005 Flop agrees,2,11
+354734,tt0444767,Barsaat,2005-08-19,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Barsaat_(2005_film),label=below average,2,11
+33081,tt0451850,Paheli,2005-06-24,budget,3223578,3223578,140000000.0,0.0230255583697905,2005-06-24,https://en.wikipedia.org/wiki/Paheli_(2005_film),"verdict conflict: Wikipedia 'average in India, hit abroad' vs BH 2005 Flop (12.85 cr)",2,12
+33081,tt0451850,Paheli,2005-06-24,revenue,7368179,7368179,320000000.0,0.0230255583697905,2005-06-24,https://en.wikipedia.org/wiki/Paheli_(2005_film),"scope=worldwide; verdict conflict: Wikipedia 'average in India, hit abroad' vs BH 2005 Flop (12.85 cr)",2,12
+20651,tt0437407,Parineeta,2005-06-10,revenue,7498564,7498564,326300000.0,0.0229805817310407,2005-06-10,https://en.wikipedia.org/wiki/Parineeta_(2005_film),scope=worldwide; verdict conflict: Wikipedia 'commercial success' vs BH 2005 Average; no budget on Wikipedia (stored 6.25M is tmdb),2,12
+97361,tt0454435,D,2005-06-03,budget,804136,804136,35000000.0,0.0229753015508329,2005-06-03,https://en.wikipedia.org/wiki/D_(film),figures est.; BH lists as 'D - Underworld' (5.94 cr),2,12
+97361,tt0454435,D,2005-06-03,revenue,1952901,1952901,85000000.0,0.0229753015508329,2005-06-03,https://en.wikipedia.org/wiki/D_(film),scope=worldwide; figures est.; BH lists as 'D - Underworld' (5.94 cr),2,12
+97361,tt0454435,D,2005-06-03,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop,2,12
+110647,tt0451639,Bachke Rehna Re Baba,2005-06-03,budget,1378518,1378518,60000000.0,0.0229753015508329,2005-06-03,https://en.wikipedia.org/wiki/Bachke_Rehna_Re_Baba,BH 3.67 cr,2,12
+110647,tt0451639,Bachke Rehna Re Baba,2005-06-03,revenue,1265939,1265939,55100000.0,0.0229753015508329,2005-06-03,https://en.wikipedia.org/wiki/Bachke_Rehna_Re_Baba,scope=worldwide; BH 3.67 cr,2,12
+110647,tt0451639,Bachke Rehna Re Baba,2005-06-03,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop,2,12
+22429,tt0456500,Kyaa Kool Hai Hum,2005-05-06,budget,1151145,1151145,50000000.0,0.0230229077932543,2005-05-06,https://en.wikipedia.org/wiki/Kyaa_Kool_Hai_Hum,BH 2005 Hit agrees,2,13
+22429,tt0456500,Kyaa Kool Hai Hum,2005-05-06,revenue,5260734,5260734,228500000.0,0.0230229077932543,2005-05-06,https://en.wikipedia.org/wiki/Kyaa_Kool_Hai_Hum,scope=worldwide; BH 2005 Hit agrees,2,13
+22429,tt0456500,Kyaa Kool Hai Hum,2005-05-06,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Kyaa_Kool_Hai_Hum,label=sleeper hit,2,13
+271542,tt0373972,Khullam Khulla Pyaar Karen,2005-04-28,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Khullam_Khulla_Pyaar_Karen,label=box-office failure,2,13
+78701,tt0396690,Kisna,2005-01-21,budget,5726721,5726721,250000000.0,0.0229068835198406,2005-01-21,https://en.wikipedia.org/wiki/Kisna:_The_Warrior_Poet,Wikipedia 'did not perform well' consistent,2,13
+78701,tt0396690,Kisna,2005-01-21,revenue,,1882946,82200000.0,0.0229068835198406,2005-01-21,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,scope=india_net; Wikipedia 'did not perform well' consistent,2,13
+78701,tt0396690,Kisna,2005-01-21,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop,2,13
+910784,tt23018924,Thangalaan,2024-08-15,budget,14887500,14887500,1250000000.0,0.01191,2024-08-15,https://en.wikipedia.org/wiki/Thangalaan,budget range 100-150 cr -> midpoint; revenue range 68-100 cr -> midpoint,2,14
+910784,tt23018924,Thangalaan,2024-08-15,revenue,10004400,10004400,840000000.0,0.01191,2024-08-15,https://en.wikipedia.org/wiki/Thangalaan,scope=worldwide; budget range 100-150 cr -> midpoint; revenue range 68-100 cr -> midpoint,2,14
+910784,tt23018924,Thangalaan,2024-08-15,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Thangalaan,label=box office failure,2,14
+1309172,,Night Curfew,2024-04-12,budget,,392437,32700000.0,0.0120011311351324,2024-04-11,https://en.wikipedia.org/wiki/Night_Curfew,no box office or verdict,2,14
+1014390,tt27501039,Bloody Daddy,2023-06-09,budget,7278000,7278000,600000000.0,0.01213,2023-06-09,https://en.wikipedia.org/wiki/Bloody_Daddy,direct-to-streaming (JioCinema); no box office,2,14
+864573,tt15281704,Kuttey,2023-01-13,budget,9816000,9816000,800000000.0,0.01227,2023-01-13,https://en.wikipedia.org/wiki/Kuttey,figures est.,2,15
+864573,tt15281704,Kuttey,2023-01-13,revenue,570555,570555,46500000.0,0.01227,2023-01-13,https://en.wikipedia.org/wiki/Kuttey,scope=worldwide; figures est.,2,15
+864573,tt15281704,Kuttey,2023-01-13,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Kuttey,label=box-office disaster,2,15
+908397,tt15257644,Mili,2022-11-04,revenue,,272832,22400000.000000004,0.01218,2022-11-04,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/,scope=india_net; BH 2022 Flop agrees,2,16
+908397,tt15257644,Mili,2022-11-04,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Mili_(2022_film),label=failed at the box office / BH Flop,2,16
+995666,tt21287752,Alluri,2022-09-23,budget,616477,616477,50000000.0,0.0123295407396733,2022-09-23,https://en.wikipedia.org/wiki/Alluri_(film),gross vs share not stated; no verdict,2,16
+995666,tt21287752,Alluri,2022-09-23,revenue,951841,951841,77200000.0,0.0123295407396733,2022-09-23,https://en.wikipedia.org/wiki/Alluri_(film),scope=worldwide; gross vs share not stated; no verdict,2,16
+682401,tt11947158,Ek Villain Returns,2022-07-29,budget,8914097,8914097,710000000.0,0.0125550658512281,2022-07-28,https://en.wikipedia.org/wiki/Ek_Villain_Returns,budget range 62-80 -> midpoint; verdict conflict: Wikipedia 'box office bomb' vs BH 2022 Average (41.69 cr),2,16
+682401,tt11947158,Ek Villain Returns,2022-07-29,revenue,8617797,8617797,686400000.0,0.0125550658512281,2022-07-28,https://en.wikipedia.org/wiki/Ek_Villain_Returns,scope=worldwide; budget range 62-80 -> midpoint; verdict conflict: Wikipedia 'box office bomb' vs BH 2022 Average (41.69 cr),2,16
+887109,tt13130760,HIT: The First Case,2022-07-15,budget,3760533,3760533,300000000.0,0.0125351086014017,2022-07-15,https://en.wikipedia.org/wiki/HIT:_The_First_Case_(2022_film),BH 2022 Flop agrees,2,16
+887109,tt13130760,HIT: The First Case,2022-07-15,revenue,1476636,1476636,117800000.0,0.0125351086014017,2022-07-15,https://en.wikipedia.org/wiki/HIT:_The_First_Case_(2022_film),scope=worldwide; BH 2022 Flop agrees,2,16
+887109,tt13130760,HIT: The First Case,2022-07-15,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/HIT:_The_First_Case_(2022_film),label=box office bomb,2,16
+895033,tt10709484,Don,2022-05-12,revenue,15501907,15501907,1200000000.0,0.0129182555856491,2022-05-12,https://en.wikipedia.org/wiki/Don_(2022_film),scope=worldwide; infobox 120 cr; Reception section says ~110 cr est.; no budget,2,17
+895033,tt10709484,Don,2022-05-12,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Don_(2022_film),label=commercial success,2,17
+679919,tt11563070,Acharya,2022-04-29,budget,18262454,18262454,1400000000.0,0.0130446101416961,2022-04-28,https://en.wikipedia.org/wiki/Acharya_(2022_film),lead 78 cr gross; Reception says 76 cr gross (share 48.36 cr not used),2,17
+679919,tt11563070,Acharya,2022-04-29,revenue,,10174796,780000000.0,0.0130446101416961,2022-04-28,https://en.wikipedia.org/wiki/Acharya_(2022_film),scope=worldwide; lead 78 cr gross; Reception says 76 cr gross (share 48.36 cr not used),2,17
+679919,tt11563070,Acharya,2022-04-29,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Acharya_(2022_film),label=box-office bomb,2,17
+676223,tt11306926,Badava Rascal,2021-12-24,revenue,2132247,2132247,160000000.0,0.0133265466183408,2021-12-24,https://en.wikipedia.org/wiki/Badava_Rascal,scope=worldwide,2,17
+676223,tt11306926,Badava Rascal,2021-12-24,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Badava_Rascal,label=commercial success,2,17
+673184,tt13979464,Madhagaja,2021-12-03,budget,3194400,3194400,240000000.0,0.01331,2021-12-03,https://en.wikipedia.org/wiki/Madhagaja,revenue range 26-30 cr -> midpoint,2,17
+673184,tt13979464,Madhagaja,2021-12-03,revenue,3726800,3726800,280000000.0,0.01331,2021-12-03,https://en.wikipedia.org/wiki/Madhagaja,scope=worldwide; revenue range 26-30 cr -> midpoint,2,17
+673184,tt13979464,Madhagaja,2021-12-03,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Madhagaja,label=superhit,2,17
+666390,tt10569922,Bunty Aur Babli 2,2021-11-19,budget,6057752,6057752,450000000.0,0.0134616706077953,2021-11-19,https://en.wikipedia.org/wiki/Bunty_Aur_Babli_2,BH 2021 Flop agrees,2,17
+666390,tt10569922,Bunty Aur Babli 2,2021-11-19,revenue,2977722,2977722,221200000.0,0.0134616706077953,2021-11-19,https://en.wikipedia.org/wiki/Bunty_Aur_Babli_2,scope=worldwide; BH 2021 Flop agrees,2,17
+666390,tt10569922,Bunty Aur Babli 2,2021-11-19,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Bunty_Aur_Babli_2,label=box-office bomb,2,17
+785354,tt11952760,Alludu Adhurs,2021-01-14,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Alludu_Adhurs,label=box office flop,2,18
+653944,tt8811292,Bharaate,2019-10-18,revenue,,1687314,120000000.0,0.0140609486140198,2019-10-17,https://en.wikipedia.org/wiki/Bharaate,scope=worldwide; grossed 120 million in theatrical run,2,18
+653944,tt8811292,Bharaate,2019-10-18,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Bharaate,label=commercial success,2,18
+617483,tt10623524,Chal Mera Putt,2019-07-26,revenue,4354207,4354207,300000000.0,0.0145140242925507,2019-07-26,https://en.wikipedia.org/wiki/Chal_Mera_Putt,scope=worldwide; revenue est.; 'one of highest-grossing Punjabi films' is not a verdict,2,19
+531601,tt7881524,Arjun Patiala,2019-07-19,budget,3630385,3630385,250000000.0,0.0145215410222505,2019-07-18,https://en.wikipedia.org/wiki/Arjun_Patiala,BH lifetime 6.62 cr,2,19
+531601,tt7881524,Arjun Patiala,2019-07-19,revenue,1344695,1344695,92600000.0,0.0145215410222505,2019-07-18,https://en.wikipedia.org/wiki/Arjun_Patiala,scope=worldwide; BH lifetime 6.62 cr,2,19
+531601,tt7881524,Arjun Patiala,2019-07-19,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/,label=Flop,2,19
+590901,tt8490534,Panchatantra,2019-03-29,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Panchatantra_(film),label=did average collections,2,19
+582316,tt9610262,Chaal Jeevi Laiye!,2019-02-01,revenue,,6974034,500000000.0,0.0139480685119531,2019-02-04,https://en.wikipedia.org/wiki/Chaal_Jeevi_Laiye!,scope=worldwide; revenue est.; 'highest-grossing Gujarati film' is not a stated verdict,2,20
+538112,tt7881542,Happy Phirr Bhag Jayegi,2018-08-24,budget,4295676,4295676,300000000.0,0.014318918409969,2018-08-24,https://en.wikipedia.org/wiki/Happy_Phirr_Bhag_Jayegi,BH lifetime 20.18 cr,2,20
+538112,tt7881542,Happy Phirr Bhag Jayegi,2018-08-24,revenue,4017889,4017889,280600000.0,0.014318918409969,2018-08-24,https://en.wikipedia.org/wiki/Happy_Phirr_Bhag_Jayegi,scope=worldwide; BH lifetime 20.18 cr,2,20
+538112,tt7881542,Happy Phirr Bhag Jayegi,2018-08-24,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/,label=Flop,2,20
+533238,tt7986222,Kolamavu Kokila,2018-08-17,budget,1139239,1139239,80000000.0,0.0142404918242127,2018-08-15,https://en.wikipedia.org/wiki/Kolamaavu_Kokila,,2,20
+533238,tt7986222,Kolamavu Kokila,2018-08-17,revenue,10395559,10395559,730000000.0,0.0142404918242127,2018-08-15,https://en.wikipedia.org/wiki/Kolamaavu_Kokila,scope=worldwide,2,20
+533238,tt7986222,Kolamavu Kokila,2018-08-17,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Kolamaavu_Kokila,label=commercial success,2,20
+540396,tt8066574,Srinivasa Kalyanam,2018-08-09,budget,3642398,3642398,255000000.0,0.014283912439529,2018-08-14,https://en.wikipedia.org/wiki/Srinivasa_Kalyanam_(2018_film),budget est.; no gross figure,2,20
+540396,tt8066574,Srinivasa Kalyanam,2018-08-09,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Srinivasa_Kalyanam_(2018_film),label=commercial failure,2,20
+531723,tt7523010,Koode,2018-07-14,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Koode,label=commercial and critical success,3,1
+534333,tt8344532,Tej... I Love You,2018-07-06,revenue,1168311,1168311,80000000.0,0.0146038897912441,2018-06-30,https://en.wikipedia.org/wiki/Tej_I_Love_You,scope=unknown; infobox est. ₹8 crore; no verdict stated,3,1
+495362,tt7711342,Agnyaathavaasi,2018-01-09,budget,11025664,14175854,900000000.0,0.0157509488855109,2018-01-08,https://en.wikipedia.org/wiki/Agnyaathavaasi,infobox est.; body also gives budget ~₹70 Cr and distributors' share <₹60 Cr,3,1
+495362,tt7711342,Agnyaathavaasi,2018-01-09,revenue,9450569,14900398,946000000.0,0.0157509488855109,2018-01-08,https://en.wikipedia.org/wiki/Agnyaathavaasi,scope=worldwide; infobox est.; body also gives budget ~₹70 Cr and distributors' share <₹60 Cr,3,1
+495362,tt7711342,Agnyaathavaasi,2018-01-09,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Agnyaathavaasi,label=disaster,3,1
+494061,tt6816070,Hello!,2017-12-22,budget,4686333,4686333,300000000.0,0.0156211100540435,2017-12-22,https://en.wikipedia.org/wiki/Hello_(2017_film),infobox ₹300M / est. ₹340M (body: ₹34 Cr is first-week figure); no verdict,3,1
+494061,tt6816070,Hello!,2017-12-22,revenue,5311177,5311177,340000000.0,0.0156211100540435,2017-12-22,https://en.wikipedia.org/wiki/Hello_(2017_film),scope=worldwide; infobox ₹300M / est. ₹340M (body: ₹34 Cr is first-week figure); no verdict,3,1
+360826,tt4323504,Jazbaa,2015-10-09,budget,4477897,4477897,290000000.0,0.0154410243193641,2015-10-15,https://en.wikipedia.org/wiki/Jazbaa,budget ₹28–30 Cr midpoint; BH India lifetime 25.23 Cr,3,2
+360826,tt4323504,Jazbaa,2015-10-09,revenue,6588685,6588685,426700000.0,0.0154410243193641,2015-10-15,https://en.wikipedia.org/wiki/Jazbaa,scope=worldwide; budget ₹28–30 Cr midpoint; BH India lifetime 25.23 Cr,3,2
+360826,tt4323504,Jazbaa,2015-10-09,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/,label=Flop (BH),3,2
+398888,tt5078812,Mr. Airavata,2015-10-01,budget,3815936,3815936,250000000.0,0.0152637430482038,2015-09-30,https://en.wikipedia.org/wiki/Mr._Airavata,no verdict stated,3,3
+398888,tt5078812,Mr. Airavata,2015-10-01,revenue,6105497,6105497,400000000.0,0.0152637430482038,2015-09-30,https://en.wikipedia.org/wiki/Mr._Airavata,scope=unknown; no verdict stated,3,3
+360817,tt3619710,Bhaag Johnny,2015-09-25,revenue,,276686,18300000.0,0.0151194585998949,2015-09-25,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/,scope=india_net; BH India lifetime nett; Wikipedia has no figures,3,3
+360817,tt3619710,Bhaag Johnny,2015-09-25,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/,label=Flop (BH),3,3
+320629,tt4279684,Mili,2015-01-23,budget,773054,773054,47500000.0,0.0162748200362198,2015-01-23,https://en.wikipedia.org/wiki/Mili_(2015_film),"Wiki: 'one of the profitable Malayalam films in H1 2015' - not a clear verdict, left NULL",3,3
+320629,tt4279684,Mili,2015-01-23,revenue,870703,870703,53500000.0,0.0162748200362198,2015-01-23,https://en.wikipedia.org/wiki/Mili_(2015_film),"scope=unknown; Wiki: 'one of the profitable Malayalam films in H1 2015' - not a clear verdict, left NULL",3,3
+315170,tt4305752,Mukunda,2014-12-26,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Mukunda,label=a success at the box office,3,3
+315934,tt3850358,Alludu Seenu,2014-07-25,budget,6660518,6660518,400000000.0,0.0166512957558036,2014-07-25,https://en.wikipedia.org/wiki/Alludu_Seenu,"only distributors' share ₹24.55 Cr (not gross, not stored); Wiki 'cost failure for producers' but distributors recovered costs - mixed, verdict left NULL",3,4
+202616,tt2617676,Thalaivaa,2013-08-20,budget,9441948,9441948,600000000.0,0.0157365808098384,2013-08-23,https://en.wikipedia.org/wiki/Thalaivaa,infobox est. ₹65 Cr; body gives WW ₹76.96 Cr; only 'successful overseas' - no overall verdict,3,5
+202616,tt2617676,Thalaivaa,2013-08-20,revenue,10228778,10228778,650000000.0,0.0157365808098384,2013-08-23,https://en.wikipedia.org/wiki/Thalaivaa,scope=worldwide; infobox est. ₹65 Cr; body gives WW ₹76.96 Cr; only 'successful overseas' - no overall verdict,3,5
+578362,tt3055270,Khoka 420,2013-06-14,revenue,1390091,1390091,80000000.0,0.017376134767371,2013-06-14,https://en.wikipedia.org/wiki/Khoka_420,scope=unknown,3,5
+578362,tt3055270,Khoka 420,2013-06-14,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Khoka_420,label=major commercial success,3,5
+282596,tt3046032,Kaddi Pudi,2013-06-07,budget,1139042,1139042,65000000.0,0.0175237238202807,2013-06-07,https://en.wikipedia.org/wiki/Kaddipudi,₹65 million; no box office or verdict,3,5
+197999,tt2714622,Iddarammayilatho,2013-05-31,budget,5840188,5840188,330000000.0,0.017697539090587,2013-05-31,https://en.wikipedia.org/wiki/Iddarammayilatho,verdict sentence tagged [citation needed]; no box office figure,3,6
+197999,tt2714622,Iddarammayilatho,2013-05-31,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Iddarammayilatho,label=average grosser,3,6
+224471,tt2224313,Listen... Amaya,2013-02-01,revenue,,13155,700000.0000000001,0.0187934600001025,2013-02-01,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,scope=india_net; BH India lifetime,3,6
+224471,tt2224313,Listen... Amaya,2013-02-01,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,label=Flop (BH),3,6
+146819,tt2499856,Krishnam Vande Jagadgurum,2012-11-30,revenue,8292625,8292625,450000000.0,0.0184280544634432,2012-11-30,https://en.wikipedia.org/wiki/Krishnam_Vande_Jagadgurum,scope=worldwide; infobox est. ₹45 Cr,3,6
+146819,tt2499856,Krishnam Vande Jagadgurum,2012-11-30,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Krishnam_Vande_Jagadgurum,label=blockbuster,3,6
+1506173,tt13978538,Snehitaru,2012-10-05,budget,772359,772359,40000000.0,0.0193089814725573,2012-10-05,https://en.wikipedia.org/wiki/Snehitaru,'decent run' is not a verdict,3,7
+1506173,tt13978538,Snehitaru,2012-10-05,revenue,1544719,1544719,80000000.0,0.0193089814725573,2012-10-05,https://en.wikipedia.org/wiki/Snehitaru,scope=unknown; 'decent run' is not a verdict,3,7
+78686,tt2271641,Thaandavam,2012-09-28,budget,,7567159,400000000.0,0.0189178983753549,2012-09-28,https://en.wikipedia.org/wiki/Thaandavam,budget ₹400 million in Release section; no box office or verdict,3,7
+199544,tt2342061,Devudu Chesina Manushulu,2012-08-15,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Devudu_Chesina_Manushulu_(2012_film),label=failed at the box office,3,7
+187128,tt2339549,Maximum,2012-06-28,revenue,,464293,25800000.0,0.017995839670293,2012-06-29,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,scope=india_net; Hindi film (DB says english); BH India lifetime,3,7
+187128,tt2339549,Maximum,2012-06-28,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop (BH),3,7
+158955,tt1891933,Arabeem Ottakom P. Madhavan Nayarum in Oru Marubhoomi Kadha,2011-12-16,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Oru_Marubhoomikkadha,label=commercial success,3,8
+80539,tt2091384,Panjaa,2011-12-09,budget,6360220,6360220,330000000.0,0.0192733930808525,2011-12-09,https://en.wikipedia.org/wiki/Panjaa,budget est.; revenue excludes ₹5.12 Cr re-release; 'flopped' tagged [citation needed],3,8
+80539,tt2091384,Panjaa,2011-12-09,revenue,7709357,6186759,321000000.0,0.0192733930808525,2011-12-09,https://en.wikipedia.org/wiki/Panjaa,scope=unknown; budget est.; revenue excludes ₹5.12 Cr re-release; 'flopped' tagged [citation needed],3,8
+80539,tt2091384,Panjaa,2011-12-09,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Panjaa,label=flopped,3,8
+81267,tt1669648,Corrode,2011-10-08,budget,6300,8180,400000.0,0.0204498971123896,2011-10-07,https://en.wikipedia.org/wiki/Kshay,"Wikipedia title Kshay; budget ₹400,000; festival film, no box office",3,8
+63378,tt1869226,100% Love,2011-05-06,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/100%25_Love_(2011_film),label=commercial success,3,9
+111589,tt1843221,Nadunisi Naaygal,2011-02-18,budget,776484,776484,35000000.0,0.0221852464353651,2011-02-18,https://en.wikipedia.org/wiki/Nadunisi_Naaygal,'did not perform well' is not a verdict,3,9
+57734,tt1533748,Orange,2010-11-25,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Orange_(2010_film),label=box office failure,3,9
+52944,tt1692189,Don Seenu,2010-08-06,budget,4983751,4983751,230000000.0,0.0216684847821914,2010-08-06,https://en.wikipedia.org/wiki/Don_Seenu,"FLAG: stored revenue 3466958 = Wikipedia's ₹16 Cr distributors' share, not gross (left as is)",3,10
+52944,tt1692189,Don Seenu,2010-08-06,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Don_Seenu,label=commercial super hit,3,10
+44050,tt1365030,Madrasapattinam,2010-07-09,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Madrasapattinam,label=box office success,3,10
+55274,tt1610418,Prem Kaa Game,2010-03-26,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,label=Flop (BH); box office failure (Wiki),3,10
+54890,tt1433810,Dhobi Ghat,2010-01-21,budget,8641175,8641175,400000000.0,0.0216029375751707,2010-01-22,https://en.wikipedia.org/wiki/Dhobi_Ghat_(film),verdict conflict: Wiki/BOI 'Average' vs BH 'Flop' (India lifetime 13.77 Cr) - left NULL,3,11
+54890,tt1433810,Dhobi Ghat,2010-01-21,revenue,5530352,5530352,256000000.0,0.0216029375751707,2010-01-22,https://en.wikipedia.org/wiki/Dhobi_Ghat_(film),scope=worldwide; verdict conflict: Wiki/BOI 'Average' vs BH 'Flop' (India lifetime 13.77 Cr) - left NULL,3,11
+21606,tt1404573,Daddy Cool: Join the Fun,2009-08-28,revenue,,912829,44400000.00000001,0.0205592108888906,2009-08-28,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,scope=india_net; BH India lifetime,3,11
+21606,tt1404573,Daddy Cool: Join the Fun,2009-08-28,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,label=Flop (BH),3,11
+20292,tt1603862,Jashnn: The Music Within,2009-07-17,revenue,,581134,28400000.0,0.0204624531232209,2009-07-10,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,scope=india_net; BH India lifetime,3,12
+20292,tt1603862,Jashnn: The Music Within,2009-07-17,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Jashnn,label=Flop (BH); box-office bomb (Wiki),3,12
+20844,tt1587426,Tera Mera Ki Rishta,2009-04-10,revenue,957281,957281,47800000.0,0.0200267926312502,2009-04-03,https://en.wikipedia.org/wiki/Tera_Mera_Ki_Rishta,scope=unknown; infobox ₹47.8 million; budget only 'costliest Punjabi film'; no verdict,3,12
+23766,tt1525323,Billa,2009-04-03,budget,2403215,2403215,120000000.0,0.0200267926312502,2009-04-03,https://en.wikipedia.org/wiki/Billa_(2009_film),revenue est.,3,12
+23766,tt1525323,Billa,2009-04-03,revenue,5206966,5206966,260000000.0,0.0200267926312502,2009-04-03,https://en.wikipedia.org/wiki/Billa_(2009_film),scope=worldwide; revenue est.,3,12
+23766,tt1525323,Billa,2009-04-03,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Billa_(2009_film),label=a success at the box office,3,12
+152967,tt1286811,Kanchivaram,2008-03-19,budget,,371400,15000000.0,0.02476,2008-03-20,https://en.wikipedia.org/wiki/Kanchivaram,budget from Production section; no box office or verdict,3,13
+23767,tt0920457,Billa,2007-12-14,budget,,3816794,150000000.0,0.0254452926208651,2007-12-14,https://en.wikipedia.org/wiki/Billa_(2007_film),distributor bought it for ₹25 Cr (not gross); no gross figure,3,13
+23767,tt0920457,Billa,2007-12-14,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Billa_(2007_film),label=blockbuster (175-day run),3,13
+69634,tt1436481,Vel,2007-11-08,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Vel_(film),label=commercial success,3,14
+84504,tt1105721,Chirutha,2007-09-28,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Chirutha,label=commercial success / Box Office Hit,3,14
+60597,tt0896968,Red: The Dark Side,2007-03-09,revenue,,887279,39200000.0,0.0226346763241286,2007-03-08,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/,scope=india_net; BH lists as 'Red'; India lifetime,3,14
+60597,tt0896968,Red: The Dark Side,2007-03-09,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/,label=Flop (BH),3,14
+63669,tt0955313,Pachaikili Muthucharam,2007-02-16,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Pachaikili_Muthucharam,label=performed average,3,14
+85824,tt0843372,Sainikudu,2006-11-30,budget,5607267,5607267,250000000.0,0.0224290680722216,2006-11-24,https://en.wikipedia.org/wiki/Sainikudu,"₹250 million; no box office or verdict (stored revenue is tmdb, unverified)",3,15
+87995,tt0457875,Ek Ajnabee,2005-12-09,revenue,213709,1504770,69400000.0,0.0216825672159584,2005-12-09,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,scope=india_net; BH India lifetime; replaces tmdb revenue (UK-only scale); Wiki has only UK figures,3,16
+87995,tt0457875,Ek Ajnabee,2005-12-09,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop (BH),3,16
+28805,tt0451631,Apaharan,2005-12-02,revenue,5023861,5023861,231600000.0,0.0216919739696312,2005-12-02,https://en.wikipedia.org/wiki/Apaharan,scope=worldwide; infobox ₹231.6 million; BH India lifetime 15.66 Cr,3,16
+28805,tt0451631,Apaharan,2005-12-02,hit_flop_avg,,hit,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Semi-Hit (BH); commercial success (Wiki),3,16
+69636,tt0449951,Ghajini,2005-10-14,budget,1563023,1563023,70000000.0,0.0223289047672204,2005-10-14,https://en.wikipedia.org/wiki/Ghajini_(2005_film),,3,16
+69636,tt0449951,Ghajini,2005-10-14,revenue,11164452,11164452,500000000.0,0.0223289047672204,2005-10-14,https://en.wikipedia.org/wiki/Ghajini_(2005_film),scope=worldwide,3,16
+69636,tt0449951,Ghajini,2005-10-14,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Ghajini_(2005_film),label=commercial success,3,16
+20296,tt0454431,Chocolate: Deep Dark Secrets,2005-09-16,revenue,,1514771,66400000.0,0.02281282128176,2005-09-16,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,scope=india_net; BH India lifetime; Wiki has no figures/verdict,3,16
+20296,tt0454431,Chocolate: Deep Dark Secrets,2005-09-16,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop (BH),3,16
+58302,tt0415768,Dus,2005-07-08,revenue,8914142,8914142,388300000.0,0.0229568414638095,2005-07-08,https://en.wikipedia.org/wiki/Dus_(2005_film),scope=worldwide; verdict conflict: Wiki 'commercial success' vs BH 'Average' (India lifetime 23.29 Cr) - left NULL; Wiki ₹20 Cr budget refers to the cancelled 1997 film,3,17
+20623,tt0443708,Page 3,2005-01-21,revenue,,2029550,88600000.0,0.0229068835198406,2005-01-21,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,scope=india_net; verdict conflict: BH 'Flop' vs Wiki 'semi-hit' [citation needed] - left NULL; BH India lifetime,3,18
+1251970,tt32919734,Padakkalam,2025-05-08,revenue,1984037,1984037,170000000.0,0.0116708080365273,2025-05-08,https://en.wikipedia.org/wiki/Padakkalam,scope=worldwide,3,18
+1251970,tt32919734,Padakkalam,2025-05-08,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Padakkalam,label=commercial success,3,18
+1232219,tt28282872,Mr Bachchan,2024-08-15,budget,8337000,8337000,700000000.0,0.01191,2024-08-15,https://en.wikipedia.org/wiki/Mr._Bachchan,,3,19
+1232219,tt28282872,Mr Bachchan,2024-08-15,revenue,1191000,1191000,100000000.0,0.01191,2024-08-15,https://en.wikipedia.org/wiki/Mr._Bachchan,scope=worldwide,3,19
+1232219,tt28282872,Mr Bachchan,2024-08-15,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Mr._Bachchan,label=disaster,3,19
+1044552,tt23461428,Lal Salaam,2024-02-09,budget,10234000,10234000,850000000.0,0.01204,2024-02-09,https://en.wikipedia.org/wiki/Lal_Salaam_(2024_film),"budget est. ₹80–90 Cr midpoint; lead says ₹19 Cr, infobox ₹17.46 Cr used",3,19
+1044552,tt23461428,Lal Salaam,2024-02-09,revenue,2102184,2102184,174600000.0,0.01204,2024-02-09,https://en.wikipedia.org/wiki/Lal_Salaam_(2024_film),"scope=worldwide; budget est. ₹80–90 Cr midpoint; lead says ₹19 Cr, infobox ₹17.46 Cr used",3,19
+1044552,tt23461428,Lal Salaam,2024-02-09,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Lal_Salaam_(2024_film),label=box-office bomb,3,19
+679031,tt11433822,Aankh Micholi,2023-11-03,revenue,180396,180396,15000000.0,0.0120264049207517,2023-11-03,https://en.wikipedia.org/wiki/Aankh_Micholi_(2023_film),scope=worldwide; infobox est.; BH lifetime also 1.50 Cr,3,20
+679031,tt11433822,Aankh Micholi,2023-11-03,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Aankh_Micholi_(2023_film),label=Flop (BH); box-office disaster (Wiki),3,20
+1028730,tt22309174,Kasargold,2023-09-15,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Kasargold,label=box-office failure,3,20

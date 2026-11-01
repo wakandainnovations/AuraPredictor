@@ -16,6 +16,9 @@ as soon as it is verified, so an interrupted run loses at most one batch.
 | `deleted_pre2005_rows.csv` | the 850 pre-2005 rows deleted on 2026-11-01 (also in table `india_prev_movies_data_collection_pre2005_backup_20261101`) |
 
 Script: `scripts/prev_movies_bo_review.py` (`next`, `apply`, `status`).
+Rechecking gap movies from an earlier run (e.g. against a new source): `apply <file> --run N --batch B --recheck`.
+It only accepts fields listed as gaps in `missing_data.csv`, removes filled gaps from that file, updates the movie's
+statuses in `processed.csv` (no new row), and tags the `changes.csv` rows with `recheck`. Name the files `runs/run_NNN_recheck_BB.json`.
 
 ## Rules (every run)
 
@@ -37,8 +40,10 @@ Script: `scripts/prev_movies_bo_review.py` (`next`, `apply`, `status`).
 | Run | Date | Movies | Budget filled / corrected / confirmed | Revenue filled / corrected / confirmed | Verdict set (hit/avg/flop) | Movies with gaps | Notes |
 |---|---|---|---|---|---|---|---|
 | 1 | 2026-11-01 | 100 | 2 / 0 / 43 | 14 / 2 / 50 | 59 (7 / 6 / 46) | 66 | Dhammu & Love U Mr Kalakaar revenue corrected; Rabhasa revenue is a distributors' share (flagged) |
+| 2 | 2026-11-01 | 100 | 5 / 1 / 36 | 15 / 0 / 34 | 42 (12 / 5 / 25) | 79 | Urumi budget corrected (tmdb → ₹20 Cr); Shadow (2013) stored revenue likely a distributors' share (flagged, left); Gali Gali Chor Hai revenue conflict (Wiki 13.07 vs BH 4.83 Cr, left); 9 direct-to-streaming or unreleased; 7 verdict conflicts left NULL |
+| 3 | 2026-11-01 | 100 | 3 / 2 / 18 | 8 / 3 / 19 | 35 (15 / 2 / 18) | 93 | Agnyaathavaasi budget/revenue corrected (old revenue was the ₹60 Cr distributors' share → ₹94.6 Cr gross); Panjaa revenue → Wiki ₹32.1 Cr; Ek Ajnabee tmdb revenue → BH India nett; stored revenue is a distributors' share for 100% Love, Don Seenu, Chirutha (flagged, left); 3 verdict conflicts left NULL (Dhobi Ghat, Dus, Page 3); 5 direct-to-streaming/short films; batch 4 split over run_003_batch_04 + 04b, batch 18 over 18a + 18 (usage-limit interruption) |
 
-Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 100.
+Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 300.
 
 ## Lessons from earlier runs (read before searching)
 
@@ -46,10 +51,18 @@ Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 100.
 - **Bollywood Hungama year tables** give a verdict + India lifetime nett for nearly every Hindi release:
   `https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/<YEAR>/` — fetch once per year and ask only for the titles you need.
 - Per movie, fetch `https://en.wikipedia.org/wiki/<Title>` (try `_(<year>_film)` / `_(film)` on 404) and ask for the infobox Budget / Box office verbatim plus any verdict sentence.
+- **Also check Box Office India** (`https://boxofficeindia.com/`) for every movie. It has budget, India nett / worldwide gross and a verdict for many Indian films, regional ones included. Search `site:boxofficeindia.com <Title> <year>` and fetch the movie's page. Use its figures when Wikipedia/BH have none, and cite its URL. If its verdict differs from Wikipedia's or BH's, the conflict rule still applies: leave the verdict NULL.
 - **Watch for "distributors' share"** in infoboxes (common for Telugu/Tamil) — it is not gross; don't store it as revenue.
 - Conflicting verdicts between sources (e.g. Wikipedia "commercial success" vs BH "Flop") → leave NULL, note the conflict.
 - "Underperformed" / "poor opening" alone is not a verdict → NULL.
 - Direct-to-streaming films (Netflix/Prime) have no box office → leave as is, note it.
+- **Koimoi "Plus"** verdict = profitable but below Hit → mapped to `avg` (Nikka Zaildar 4).
+- **Ranges in Wikipedia infoboxes** (budget or gross) are already stored as midpoints — re-deriving the midpoint reproduces them.
+- **"Highest-grossing <language> film" / "biggest opening"** are rankings, not verdicts → NULL.
+- **Wikipedia vs BH verdict conflicts are common for 2005–2015 Hindi films** (BH tends to be harsher); run 2 had 7 such conflicts.
+- Partial running totals ("₹50 Cr in two weeks", opening weekend) are not lifetime gross → don't store.
+- **Stored Telugu revenues are often distributors' shares** (run 3: 100% Love, Don Seenu, Chirutha, Agnyaathavaasi). `apply` can't null a value, so a share with no gross to replace it stays flagged in notes.
+- **BH year tables omit many small Hindi releases** (shorts, direct-to-video, 2005–2008 small films); don't spend more searches on them.
 - Regional films without Wikipedia figures are rarely findable; one targeted search (sacnilk / koimoi) is enough before marking missing.
 
 ## Prompt for the next run

@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 403843, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada film (DB says telugu); Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 402099, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia gives only opening day ₹1.3 Cr AP/TS; no lifetime, no verdict"},
+ {"tmdb_movie_id": 391923, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Telugu film (DB says english); Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 298714, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"},
+ {"tmdb_movie_id": 360826, "budget_inr_crore": 29, "revenue_inr_crore": 42.67, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jazbaa", "revenue": "https://en.wikipedia.org/wiki/Jazbaa", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/"}, "notes": "budget ₹28–30 Cr midpoint; BH India lifetime 25.23 Cr"}
+]

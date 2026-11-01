@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1041054, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Disney+ Hotstar); no box office"},
+ {"tmdb_movie_id": 908397, "budget_inr_crore": null, "revenue_inr_crore": 2.24, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "failed at the box office / BH Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://en.wikipedia.org/wiki/Mili_(2022_film)"}, "notes": "BH 2022 Flop agrees"},
+ {"tmdb_movie_id": 995666, "budget_inr_crore": 5, "revenue_inr_crore": 7.72, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Alluri_(film)", "revenue": "https://en.wikipedia.org/wiki/Alluri_(film)"}, "notes": "gross vs share not stated; no verdict"},
+ {"tmdb_movie_id": 682401, "budget_inr_crore": 71, "revenue_inr_crore": 68.64, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ek_Villain_Returns", "revenue": "https://en.wikipedia.org/wiki/Ek_Villain_Returns"}, "notes": "budget range 62-80 -> midpoint; verdict conflict: Wikipedia 'box office bomb' vs BH 2022 Average (41.69 cr)"},
+ {"tmdb_movie_id": 887109, "budget_inr_crore": 30, "revenue_inr_crore": 11.78, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/HIT:_The_First_Case_(2022_film)", "revenue": "https://en.wikipedia.org/wiki/HIT:_The_First_Case_(2022_film)", "verdict": "https://en.wikipedia.org/wiki/HIT:_The_First_Case_(2022_film)"}, "notes": "BH 2022 Flop agrees"}
+]

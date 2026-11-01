@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 46379, "budget_inr_crore": 2, "revenue_inr_crore": 3.6, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/The_Blue_Umbrella_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/The_Blue_Umbrella_(2005_film)"}, "notes": "infobox Rs 2,00,00,000 / 3,60,00,000; not in BH 2007; no verdict"},
+ {"tmdb_movie_id": 46409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures; not in BH 2007"},
+ {"tmdb_movie_id": 481124, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia 'Rehguzar' is a different (1985) film; not in BH 2006; not found"},
+ {"tmdb_movie_id": 226092, "budget_inr_crore": 5.5, "revenue_inr_crore": 2.85, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jaane_Hoga_Kya", "revenue": "https://en.wikipedia.org/wiki/Jaane_Hoga_Kya", "verdict": "https://en.wikipedia.org/wiki/Jaane_Hoga_Kya"}, "notes": ""},
+ {"tmdb_movie_id": 80864, "budget_inr_crore": null, "revenue_inr_crore": 27, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "performed moderately at the box office",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Ashok_(film)", "verdict": "https://en.wikipedia.org/wiki/Ashok_(film)"}, "notes": "revenue est.; gross vs share not stated"}
+]

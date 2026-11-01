@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 316841, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2011 table; no Wikipedia page; BH filmography dates it 2020 - possibly no theatrical release"},
+ {"tmdb_movie_id": 158955, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Oru_Marubhoomikkadha"}, "notes": "only distributor's share ₹3.85 Cr in 25 days (not gross, not stored)"},
+ {"tmdb_movie_id": 80539, "budget_inr_crore": 33, "revenue_inr_crore": 32.1, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "flopped",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Panjaa", "revenue": "https://en.wikipedia.org/wiki/Panjaa", "verdict": "https://en.wikipedia.org/wiki/Panjaa"}, "notes": "budget est.; revenue excludes ₹5.12 Cr re-release; 'flopped' tagged [citation needed]"},
+ {"tmdb_movie_id": 86717, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures; only 'excellent openings' - not a verdict"},
+ {"tmdb_movie_id": 81267, "budget_inr_crore": 0.04, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kshay"}, "notes": "Wikipedia title Kshay; budget ₹400,000; festival film, no box office"}
+]

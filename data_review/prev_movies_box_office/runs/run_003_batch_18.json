@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1251970, "budget_inr_crore": null, "revenue_inr_crore": 17, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Padakkalam", "verdict": "https://en.wikipedia.org/wiki/Padakkalam"}, "notes": ""},
+ {"tmdb_movie_id": 1112417, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix); no box office"},
+ {"tmdb_movie_id": 1243975, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia: only 'mixed response from audiences' - not a verdict; no figures"},
+ {"tmdb_movie_id": 1151671, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"}
+]

@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 20292, "budget_inr_crore": null, "revenue_inr_crore": 2.84, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH); box-office bomb (Wiki)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/", "verdict": "https://en.wikipedia.org/wiki/Jashnn"}, "notes": "BH India lifetime"},
+ {"tmdb_movie_id": 20844, "budget_inr_crore": null, "revenue_inr_crore": 4.78, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Tera_Mera_Ki_Rishta"}, "notes": "infobox ₹47.8 million; budget only 'costliest Punjabi film'; no verdict"},
+ {"tmdb_movie_id": 23766, "budget_inr_crore": 12, "revenue_inr_crore": 26, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "a success at the box office",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Billa_(2009_film)", "revenue": "https://en.wikipedia.org/wiki/Billa_(2009_film)", "verdict": "https://en.wikipedia.org/wiki/Billa_(2009_film)"}, "notes": "revenue est."},
+ {"tmdb_movie_id": 399874, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "not in BH 2008 table; Wikipedia has no figures"},
+ {"tmdb_movie_id": 69568, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "only UK grosses (£37,050 after 2 weeks); 'opened strongly' is not a verdict"}
+]

@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1506173, "budget_inr_crore": 4, "revenue_inr_crore": 8, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Snehitaru", "revenue": "https://en.wikipedia.org/wiki/Snehitaru"}, "notes": "'decent run' is not a verdict"},
+ {"tmdb_movie_id": 78686, "budget_inr_crore": 40, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Thaandavam"}, "notes": "budget ₹400 million in Release section; no box office or verdict"},
+ {"tmdb_movie_id": 199544, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "failed at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Devudu_Chesina_Manushulu_(2012_film)"}, "notes": "only first-day ₹5.5 Cr [citation needed]"},
+ {"tmdb_movie_id": 116185, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no budget/gross; only 'thumbs-down response' headline - not a verdict"},
+ {"tmdb_movie_id": 187128, "budget_inr_crore": null, "revenue_inr_crore": 2.58, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/"}, "notes": "Hindi film (DB says english); BH India lifetime"}
+]

@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 895033, "budget_inr_crore": null, "revenue_inr_crore": 120, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Don_(2022_film)", "verdict": "https://en.wikipedia.org/wiki/Don_(2022_film)"}, "notes": "infobox 120 cr; Reception section says ~110 cr est.; no budget"},
+ {"tmdb_movie_id": 679919, "budget_inr_crore": 140, "revenue_inr_crore": 78, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Acharya_(2022_film)", "revenue": "https://en.wikipedia.org/wiki/Acharya_(2022_film)", "verdict": "https://en.wikipedia.org/wiki/Acharya_(2022_film)"}, "notes": "lead 78 cr gross; Reception says 76 cr gross (share 48.36 cr not used)"},
+ {"tmdb_movie_id": 676223, "budget_inr_crore": null, "revenue_inr_crore": 16, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Badava_Rascal", "verdict": "https://en.wikipedia.org/wiki/Badava_Rascal"}, "notes": ""},
+ {"tmdb_movie_id": 673184, "budget_inr_crore": 24, "revenue_inr_crore": 28, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "superhit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Madhagaja", "revenue": "https://en.wikipedia.org/wiki/Madhagaja", "verdict": "https://en.wikipedia.org/wiki/Madhagaja"}, "notes": "revenue range 26-30 cr -> midpoint"},
+ {"tmdb_movie_id": 666390, "budget_inr_crore": 45, "revenue_inr_crore": 22.12, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bunty_Aur_Babli_2", "revenue": "https://en.wikipedia.org/wiki/Bunty_Aur_Babli_2", "verdict": "https://en.wikipedia.org/wiki/Bunty_Aur_Babli_2"}, "notes": "BH 2021 Flop agrees"}
+]

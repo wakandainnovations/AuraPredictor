@@ -99,3 +99,203 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,run,batch,budget_status,r
 69670,tt0476803,Majaa,2005-11-02,tamil,1,20,not_found,not_found,found,2026-11-01T04:04:45+00:00
 1192990,,Kal: Yesterday and Tomorrow,2005-09-16,hindi,1,20,found_inr,found_inr,not_found,2026-11-01T04:04:45+00:00
 1634615,tt34748847,The Protector,2025-06-13,malayalam,1,20,not_found,not_found,not_found,2026-11-01T04:04:45+00:00
+1442778,tt31307640,Nikka Zaildar 4,2025-03-07,punjabi,2,1,found_inr,found_inr,found,2026-11-01T04:25:54+00:00
+797223,tt14056466,Yudhra,2024-09-20,hindi,2,1,found_inr,found_inr,found,2026-11-01T04:25:54+00:00
+1270460,tt14783682,Matinee,2024-04-05,kannada,2,1,not_found,not_found,not_found,2026-11-01T04:25:54+00:00
+1051023,tt27028399,Murder Mubarak,2024-03-15,hindi,2,1,not_found,not_found,not_found,2026-11-01T04:25:54+00:00
+1076497,tt26733205,Journey of Love 18+,2023-07-07,malayalam,2,1,not_found,not_found,found,2026-11-01T04:25:54+00:00
+1076886,tt15302500,Dil Pasand,2022-11-11,kannada,2,2,not_found,not_found,not_found,2026-11-01T04:26:24+00:00
+804337,tt12472554,Mahaan,2022-02-10,tamil,2,2,not_found,not_found,not_found,2026-11-01T04:26:24+00:00
+695973,tt10739666,Satyameva Jayate 2,2021-11-25,hindi,2,2,found_inr,found_inr,found,2026-11-01T04:26:24+00:00
+658075,tt8983220,Hungama 2,2021-07-23,hindi,2,2,not_found,not_found,not_found,2026-11-01T04:26:24+00:00
+536420,tt7335186,Savyasachi,2018-11-02,telugu,2,2,found_inr,found_inr,not_found,2026-11-01T04:26:24+00:00
+410331,tt5959980,Vada Chennai,2018-10-17,tamil,2,3,found_inr,not_found,not_found,2026-11-01T04:26:57+00:00
+505908,tt7757972,Saakshyam,2018-07-27,telugu,2,3,not_found,found_inr,found,2026-11-01T04:26:57+00:00
+464599,tt6173826,Guest iin London,2017-07-07,hindi,2,3,not_found,found_inr,not_found,2026-11-01T04:26:57+00:00
+406162,tt5375324,Anuraga Karikkin Vellam,2016-07-07,malayalam,2,3,found_inr,found_inr,not_found,2026-11-01T04:26:57+00:00
+391276,tt5673792,Manithan,2016-04-29,tamil,2,3,not_found,not_found,not_found,2026-11-01T04:26:57+00:00
+371425,tt5328784,Bangalore Naatkal,2016-02-04,tamil,2,4,not_found,found_inr,found,2026-11-01T04:27:37+00:00
+352205,tt3043252,Parched,2015-11-14,hindi,2,4,found_usd,found_inr,not_found,2026-11-01T04:27:37+00:00
+1107030,,The Homecoming,2015-10-31,hindi,2,4,not_found,not_found,not_found,2026-11-01T04:27:37+00:00
+353464,tt4934950,Talvar,2015-10-02,hindi,2,4,found_inr,found_inr,not_found,2026-11-01T04:27:37+00:00
+1055597,tt5358998,DK,2015-02-13,kannada,2,4,not_found,not_found,not_found,2026-11-01T04:27:37+00:00
+294413,tt2988020,Aagadu,2014-09-19,telugu,2,5,found_inr,not_found,found,2026-11-01T04:28:05+00:00
+277223,tt3709344,City Lights,2014-05-30,hindi,2,5,not_found,found_inr,not_found,2026-11-01T04:28:05+00:00
+259837,tt3056436,Maan Karate,2014-04-04,tamil,2,5,not_found,not_found,not_found,2026-11-01T04:28:05+00:00
+227338,tt3129282,War Chod Na Yaar,2013-10-11,hindi,2,5,found_inr,found_inr,not_found,2026-11-01T04:28:05+00:00
+224330,tt3203910,Raja Rani,2013-09-27,tamil,2,5,not_found,not_found,found,2026-11-01T04:28:05+00:00
+544042,tt4479178,A New Love Ishtory,2013-09-27,hindi,2,6,not_found,not_found,not_found,2026-11-01T04:28:28+00:00
+289277,tt3099372,Victory,2013-08-23,kannada,2,6,found_inr,not_found,found,2026-11-01T04:28:28+00:00
+1019273,,Meridian Lines,2013-05-31,hindi,2,6,not_found,not_found,not_found,2026-11-01T04:28:28+00:00
+181928,tt2386295,Shadow,2013-04-26,telugu,2,6,found_inr,not_found,not_found,2026-11-01T04:28:28+00:00
+414231,tt2980122,Ko Antey Koti,2012-12-28,telugu,2,6,not_found,not_found,not_found,2026-11-01T04:28:28+00:00
+139662,tt2246837,Maattrraan,2012-10-12,tamil,2,7,not_found,not_found,not_found,2026-11-01T04:29:01+00:00
+961133,tt5986568,Bikram Singha: The Lion Is Back,2012-05-24,bengali,2,7,not_found,not_found,not_found,2026-11-01T04:29:01+00:00
+84879,tt2188749,Gali Gali Chor Hai,2012-02-03,hindi,2,7,found_inr,not_found,not_found,2026-11-01T04:29:01+00:00
+86005,tt2188893,Staying Alive,2012-02-03,hindi,2,7,not_found,not_found,not_found,2026-11-01T04:29:01+00:00
+69504,tt1956697,Vettai,2012-01-13,tamil,2,7,found_inr,not_found,found,2026-11-01T04:29:01+00:00
+74233,tt1363363,Chatur Singh Two Star,2011-08-19,english,2,8,found_inr,found_inr,found,2026-11-01T04:29:28+00:00
+69509,tt1987021,Venghai,2011-07-08,tamil,2,8,not_found,found_inr,found,2026-11-01T04:29:28+00:00
+115432,tt1745863,Urumi,2011-03-31,malayalam,2,8,found_inr,not_found,found,2026-11-01T04:29:28+00:00
+337846,tt1836015,Kaccha Limboo,2011-02-18,hindi,2,8,not_found,found_inr,found,2026-11-01T04:29:28+00:00
+38272,tt1124386,Pankh,2010-04-02,hindi,2,8,found_inr,found_inr,not_found,2026-11-01T04:29:28+00:00
+340722,tt0417735,The Hangman,2010-02-05,hindi,2,9,not_found,not_found,not_found,2026-11-01T04:29:51+00:00
+64756,tt1538210,Aao Wish Karein,2009-11-13,hindi,2,9,not_found,found_inr,found,2026-11-01T04:29:51+00:00
+21232,tt1324078,Kal Kissne Dekha,2009-06-12,hindi,2,9,not_found,found_inr,found,2026-11-01T04:29:51+00:00
+12405,tt1010048,Slumdog Millionaire,2008-11-12,english,2,9,found_usd,found_usd,found,2026-11-01T04:29:51+00:00
+544286,tt1961330,Good Luck!,2008-08-08,hindi,2,9,not_found,not_found,not_found,2026-11-01T04:29:51+00:00
+46379,tt0457802,The Blue Umbrella,2007-08-10,hindi,2,10,found_inr,found_inr,not_found,2026-11-01T04:30:26+00:00
+46409,tt0860454,MP3: Mera Pehla Pehla Pyaar,2007-06-08,hindi,2,10,not_found,not_found,not_found,2026-11-01T04:30:26+00:00
+481124,tt0814285,Rehguzar,2006-11-17,english,2,10,not_found,not_found,not_found,2026-11-01T04:30:26+00:00
+226092,tt0827714,Jaane Hoga Kya,2006-08-31,hindi,2,10,found_inr,found_inr,found,2026-11-01T04:30:26+00:00
+80864,tt0483977,Ashok,2006-07-13,telugu,2,10,not_found,found_inr,found,2026-11-01T04:30:26+00:00
+347807,tt0456413,Fight Club: Members Only,2006-02-17,hindi,2,11,found_inr,found_inr,found,2026-11-01T04:30:52+00:00
+281855,tt0843379,Shock,2006-02-09,telugu,2,11,not_found,not_found,not_found,2026-11-01T04:30:52+00:00
+28868,tt0412308,Being Cyrus,2005-12-08,english,2,11,found_inr,found_inr,not_found,2026-11-01T04:30:52+00:00
+406488,tt0439754,Pyaar Mein Twist,2005-09-02,hindi,2,11,not_found,found_inr,not_found,2026-11-01T04:30:52+00:00
+354734,tt0444767,Barsaat,2005-08-19,hindi,2,11,found_inr,found_inr,found,2026-11-01T04:30:52+00:00
+316831,tt0453582,7½ Phere,2005-07-29,hindi,2,12,not_found,not_found,not_found,2026-11-01T04:31:24+00:00
+33081,tt0451850,Paheli,2005-06-24,hindi,2,12,found_inr,found_inr,not_found,2026-11-01T04:31:24+00:00
+20651,tt0437407,Parineeta,2005-06-10,hindi,2,12,not_found,found_inr,not_found,2026-11-01T04:31:24+00:00
+97361,tt0454435,D,2005-06-03,hindi,2,12,found_inr,found_inr,found,2026-11-01T04:31:24+00:00
+110647,tt0451639,Bachke Rehna Re Baba,2005-06-03,hindi,2,12,found_inr,found_inr,found,2026-11-01T04:31:24+00:00
+21557,tt0411469,Hazaaron Khwaishein Aisi,2005-05-15,hindi,2,13,not_found,not_found,not_found,2026-11-01T04:31:46+00:00
+22429,tt0456500,Kyaa Kool Hai Hum,2005-05-06,hindi,2,13,found_inr,found_inr,found,2026-11-01T04:31:46+00:00
+271542,tt0373972,Khullam Khulla Pyaar Karen,2005-04-28,hindi,2,13,not_found,not_found,found,2026-11-01T04:31:46+00:00
+78701,tt0396690,Kisna,2005-01-21,hindi,2,13,found_inr,found_inr,found,2026-11-01T04:31:46+00:00
+933835,tt21151596,Cup,2024-09-27,malayalam,2,13,not_found,not_found,not_found,2026-11-01T04:31:46+00:00
+910784,tt23018924,Thangalaan,2024-08-15,tamil,2,14,found_inr,found_inr,found,2026-11-01T04:32:16+00:00
+1309172,,Night Curfew,2024-04-12,english,2,14,found_inr,not_found,not_found,2026-11-01T04:32:16+00:00
+875188,tt15434074,Kho Gaye Hum Kahan,2023-12-26,hindi,2,14,not_found,not_found,not_found,2026-11-01T04:32:16+00:00
+1205282,tt28522313,Kota Bommali PS,2023-11-24,telugu,2,14,not_found,not_found,not_found,2026-11-01T04:32:16+00:00
+1014390,tt27501039,Bloody Daddy,2023-06-09,hindi,2,14,found_inr,not_found,not_found,2026-11-01T04:32:16+00:00
+1098064,tt23220186,Love Birds,2023-02-17,kannada,2,15,not_found,not_found,not_found,2026-11-01T04:32:35+00:00
+864573,tt15281704,Kuttey,2023-01-13,hindi,2,15,found_inr,found_inr,found,2026-11-01T04:32:35+00:00
+1106581,tt32792273,Mr. Bachelor,2023-01-06,kannada,2,15,not_found,not_found,not_found,2026-11-01T04:32:35+00:00
+663457,tt16077702,Govinda Naam Mera,2022-12-16,hindi,2,15,not_found,not_found,not_found,2026-11-01T04:32:35+00:00
+882397,tt15326968,Naai Sekar Returns,2022-12-09,tamil,2,15,not_found,not_found,not_found,2026-11-01T04:32:35+00:00
+1041054,tt15145764,Freddy,2022-12-02,hindi,2,16,not_found,not_found,not_found,2026-11-01T04:33:08+00:00
+908397,tt15257644,Mili,2022-11-04,hindi,2,16,not_found,found_inr,found,2026-11-01T04:33:08+00:00
+995666,tt21287752,Alluri,2022-09-23,telugu,2,16,found_inr,found_inr,not_found,2026-11-01T04:33:08+00:00
+682401,tt11947158,Ek Villain Returns,2022-07-29,hindi,2,16,found_inr,found_inr,not_found,2026-11-01T04:33:08+00:00
+887109,tt13130760,HIT: The First Case,2022-07-15,hindi,2,16,found_inr,found_inr,found,2026-11-01T04:33:08+00:00
+895033,tt10709484,Don,2022-05-12,tamil,2,17,not_found,found_inr,found,2026-11-01T04:33:34+00:00
+679919,tt11563070,Acharya,2022-04-29,telugu,2,17,found_inr,found_inr,found,2026-11-01T04:33:34+00:00
+676223,tt11306926,Badava Rascal,2021-12-24,kannada,2,17,not_found,found_inr,found,2026-11-01T04:33:34+00:00
+673184,tt13979464,Madhagaja,2021-12-03,kannada,2,17,found_inr,found_inr,found,2026-11-01T04:33:34+00:00
+666390,tt10569922,Bunty Aur Babli 2,2021-11-19,hindi,2,17,found_inr,found_inr,found,2026-11-01T04:33:34+00:00
+735134,tt12078076,Bhajarangi 2,2021-10-29,kannada,2,18,not_found,not_found,not_found,2026-11-01T04:33:55+00:00
+729030,tt15264532,Rathnan Prapancha,2021-10-22,kannada,2,18,not_found,not_found,not_found,2026-11-01T04:33:55+00:00
+884909,tt15427878,Pelli SandaD,2021-10-15,telugu,2,18,not_found,not_found,not_found,2026-11-01T04:33:55+00:00
+785354,tt11952760,Alludu Adhurs,2021-01-14,telugu,2,18,not_found,not_found,found,2026-11-01T04:33:55+00:00
+653944,tt8811292,Bharaate,2019-10-18,kannada,2,18,not_found,found_inr,found,2026-11-01T04:33:55+00:00
+617483,tt10623524,Chal Mera Putt,2019-07-26,punjabi,2,19,not_found,found_inr,not_found,2026-11-01T04:34:25+00:00
+531601,tt7881524,Arjun Patiala,2019-07-19,hindi,2,19,found_inr,found_inr,found,2026-11-01T04:34:25+00:00
+592545,tt9793334,Athiran,2019-04-12,malayalam,2,19,not_found,not_found,not_found,2026-11-01T04:34:25+00:00
+590901,tt8490534,Panchatantra,2019-03-29,kannada,2,19,not_found,not_found,found,2026-11-01T04:34:25+00:00
+582134,tt8806546,Argentina Fans Kaattoorkadavu,2019-03-22,malayalam,2,19,not_found,not_found,not_found,2026-11-01T04:34:25+00:00
+565885,tt9239472,Vantha Rajavathaan Varuven,2019-02-01,tamil,2,20,not_found,not_found,not_found,2026-11-01T04:34:50+00:00
+582316,tt9610262,Chaal Jeevi Laiye!,2019-02-01,gujarati,2,20,not_found,found_inr,not_found,2026-11-01T04:34:50+00:00
+538112,tt7881542,Happy Phirr Bhag Jayegi,2018-08-24,hindi,2,20,found_inr,found_inr,found,2026-11-01T04:34:50+00:00
+533238,tt7986222,Kolamavu Kokila,2018-08-17,tamil,2,20,found_inr,found_inr,found,2026-11-01T04:34:50+00:00
+540396,tt8066574,Srinivasa Kalyanam,2018-08-09,telugu,2,20,found_inr,not_found,found,2026-11-01T04:34:50+00:00
+531723,tt7523010,Koode,2018-07-14,malayalam,3,1,not_found,not_found,found,2026-11-01T04:44:52+00:00
+534333,tt8344532,Tej... I Love You,2018-07-06,telugu,3,1,not_found,found_inr,not_found,2026-11-01T04:44:52+00:00
+530154,tt8439854,Lust Stories,2018-06-15,hindi,3,1,not_found,not_found,not_found,2026-11-01T04:44:52+00:00
+495362,tt7711342,Agnyaathavaasi,2018-01-09,telugu,3,1,found_inr,found_inr,found,2026-11-01T04:44:52+00:00
+494061,tt6816070,Hello!,2017-12-22,telugu,3,1,found_inr,found_inr,not_found,2026-11-01T04:44:52+00:00
+403843,tt4581032,Luv U Alia,2016-06-17,telugu,3,2,not_found,not_found,not_found,2026-11-01T04:45:13+00:00
+402099,tt5795324,Okka Ammayi Thappa,2016-06-10,telugu,3,2,not_found,not_found,not_found,2026-11-01T04:45:13+00:00
+391923,tt5597792,Attack,2016-04-01,english,3,2,not_found,not_found,not_found,2026-11-01T04:45:13+00:00
+298714,tt5207116,X: Past Is Present,2015-11-20,english,3,2,not_found,not_found,not_found,2026-11-01T04:45:13+00:00
+360826,tt4323504,Jazbaa,2015-10-09,hindi,3,2,found_inr,found_inr,found,2026-11-01T04:45:13+00:00
+398888,tt5078812,Mr. Airavata,2015-10-01,kannada,3,3,found_inr,found_inr,not_found,2026-11-01T04:45:41+00:00
+360817,tt3619710,Bhaag Johnny,2015-09-25,hindi,3,3,not_found,found_inr,found,2026-11-01T04:45:41+00:00
+540012,tt4515226,Rudra Tandava,2015-02-27,kannada,3,3,not_found,not_found,not_found,2026-11-01T04:45:41+00:00
+320629,tt4279684,Mili,2015-01-23,malayalam,3,3,found_inr,found_inr,not_found,2026-11-01T04:45:41+00:00
+315170,tt4305752,Mukunda,2014-12-26,telugu,3,3,not_found,not_found,found,2026-11-01T04:45:41+00:00
+465027,tt3129382,Ambareesha,2014-11-20,kannada,3,4,not_found,not_found,not_found,2026-11-01T04:46:22+00:00
+297125,tt4047140,Poojai,2014-10-22,tamil,3,4,not_found,not_found,not_found,2026-11-01T04:46:22+00:00
+344711,tt3811228,Nee Jathaga Nenundali,2014-08-22,telugu,3,4,not_found,not_found,not_found,2026-11-01T04:46:22+00:00
+315934,tt3850358,Alludu Seenu,2014-07-25,telugu,3,4,found_inr,not_found,not_found,2026-11-01T04:46:22+00:00
+463179,tt3124096,Brindavana,2013-12-26,kannada,3,4,not_found,not_found,not_found,2026-11-01T08:49:07+00:00
+1063726,tt14019584,Dilwala,2013-10-04,kannada,3,5,not_found,not_found,not_found,2026-11-01T08:49:08+00:00
+202616,tt2617676,Thalaivaa,2013-08-20,tamil,3,5,found_inr,found_inr,not_found,2026-11-01T08:49:08+00:00
+204259,tt3005920,5 Sundarikal,2013-06-21,malayalam,3,5,not_found,not_found,not_found,2026-11-01T08:49:08+00:00
+578362,tt3055270,Khoka 420,2013-06-14,bengali,3,5,not_found,found_inr,found,2026-11-01T08:49:08+00:00
+282596,tt3046032,Kaddi Pudi,2013-06-07,kannada,3,5,found_inr,not_found,not_found,2026-11-01T08:49:08+00:00
+197999,tt2714622,Iddarammayilatho,2013-05-31,telugu,3,6,found_inr,not_found,found,2026-11-01T08:50:42+00:00
+1025593,tt18340464,Lattoo,2013-05-03,bengali,3,6,not_found,not_found,not_found,2026-11-01T08:50:42+00:00
+224471,tt2224313,Listen... Amaya,2013-02-01,hindi,3,6,not_found,found_inr,found,2026-11-01T08:50:42+00:00
+302957,tt2522290,Four Two Ka One,2012-12-07,hindi,3,6,not_found,not_found,not_found,2026-11-01T08:50:42+00:00
+146819,tt2499856,Krishnam Vande Jagadgurum,2012-11-30,telugu,3,6,not_found,found_inr,found,2026-11-01T08:50:42+00:00
+1506173,tt13978538,Snehitaru,2012-10-05,kannada,3,7,found_inr,found_inr,not_found,2026-11-01T08:51:12+00:00
+78686,tt2271641,Thaandavam,2012-09-28,tamil,3,7,found_inr,not_found,not_found,2026-11-01T08:51:12+00:00
+199544,tt2342061,Devudu Chesina Manushulu,2012-08-15,telugu,3,7,not_found,not_found,found,2026-11-01T08:51:12+00:00
+116185,tt1891755,Billa II,2012-07-13,tamil,3,7,not_found,not_found,not_found,2026-11-01T08:51:12+00:00
+187128,tt2339549,Maximum,2012-06-28,english,3,7,not_found,found_inr,found,2026-11-01T08:51:12+00:00
+316841,tt2177513,Chaloo Movie,2011-12-23,hindi,3,8,not_found,not_found,not_found,2026-11-01T08:52:05+00:00
+158955,tt1891933,Arabeem Ottakom P. Madhavan Nayarum in Oru Marubhoomi Kadha,2011-12-16,malayalam,3,8,not_found,not_found,found,2026-11-01T08:52:05+00:00
+80539,tt2091384,Panjaa,2011-12-09,telugu,3,8,found_inr,found_inr,found,2026-11-01T08:52:05+00:00
+86717,tt2088847,Oh My Friend,2011-11-11,telugu,3,8,not_found,not_found,not_found,2026-11-01T08:52:05+00:00
+81267,tt1669648,Corrode,2011-10-08,hindi,3,8,found_inr,not_found,not_found,2026-11-01T08:52:05+00:00
+76897,tt2073138,Vedi,2011-09-30,tamil,3,9,not_found,not_found,not_found,2026-11-01T08:52:25+00:00
+63378,tt1869226,100% Love,2011-05-06,telugu,3,9,not_found,not_found,found,2026-11-01T08:52:25+00:00
+63810,tt1739176,Engeyum Kadhal,2011-05-06,tamil,3,9,not_found,not_found,not_found,2026-11-01T08:52:25+00:00
+111589,tt1843221,Nadunisi Naaygal,2011-02-18,tamil,3,9,found_inr,not_found,not_found,2026-11-01T08:52:25+00:00
+57734,tt1533748,Orange,2010-11-25,telugu,3,9,not_found,not_found,found,2026-11-01T08:52:25+00:00
+52944,tt1692189,Don Seenu,2010-08-06,telugu,3,10,found_inr,not_found,found,2026-11-01T08:53:04+00:00
+44050,tt1365030,Madrasapattinam,2010-07-09,tamil,3,10,not_found,not_found,found,2026-11-01T08:53:04+00:00
+1382455,,Toofan,2010-07-05,hindi,3,10,not_found,not_found,not_found,2026-11-01T08:53:04+00:00
+55274,tt1610418,Prem Kaa Game,2010-03-26,hindi,3,10,not_found,not_found,found,2026-11-01T08:53:04+00:00
+34632,tt1503178,Theeradha Vilaiyattu Pillai,2010-02-12,tamil,3,10,not_found,not_found,not_found,2026-11-01T08:53:04+00:00
+158773,tt1585558,Bodyguard,2010-01-22,malayalam,3,11,not_found,not_found,not_found,2026-11-01T08:53:04+00:00
+54890,tt1433810,Dhobi Ghat,2010-01-21,hindi,3,11,found_inr,found_inr,not_found,2026-11-01T08:53:04+00:00
+32974,tt1210356,A One Night Stand,2009-12-31,hindi,3,11,not_found,not_found,not_found,2026-11-01T08:53:04+00:00
+85089,tt1539997,Kerala Cafe,2009-10-12,malayalam,3,11,not_found,not_found,not_found,2026-11-01T08:53:04+00:00
+21606,tt1404573,Daddy Cool: Join the Fun,2009-08-28,hindi,3,11,not_found,found_inr,found,2026-11-01T08:53:04+00:00
+20292,tt1603862,Jashnn: The Music Within,2009-07-17,hindi,3,12,not_found,found_inr,found,2026-11-01T08:53:24+00:00
+20844,tt1587426,Tera Mera Ki Rishta,2009-04-10,punjabi,3,12,not_found,found_inr,not_found,2026-11-01T08:53:24+00:00
+23766,tt1525323,Billa,2009-04-03,telugu,3,12,found_inr,found_inr,found,2026-11-01T08:53:24+00:00
+399874,tt1220718,Via Darjeeling,2008-11-21,hindi,3,12,not_found,not_found,not_found,2026-11-01T08:53:24+00:00
+69568,tt1388434,Dhaam Dhoom,2008-08-29,tamil,3,12,not_found,not_found,not_found,2026-11-01T08:53:24+00:00
+46412,tt1287847,Mukhbiir,2008-08-22,hindi,3,13,not_found,not_found,not_found,2026-11-01T08:53:44+00:00
+81145,tt5544786,Thodi Life Thoda Magic,2008-06-23,hindi,3,13,not_found,not_found,not_found,2026-11-01T08:53:44+00:00
+152967,tt1286811,Kanchivaram,2008-03-19,tamil,3,13,found_inr,not_found,not_found,2026-11-01T08:53:44+00:00
+803859,,Soap,2008-01-01,english,3,13,not_found,not_found,not_found,2026-11-01T08:53:44+00:00
+23767,tt0920457,Billa,2007-12-14,tamil,3,13,found_inr,not_found,found,2026-11-01T08:53:44+00:00
+69634,tt1436481,Vel,2007-11-08,tamil,3,14,not_found,not_found,found,2026-11-01T08:54:02+00:00
+84504,tt1105721,Chirutha,2007-09-28,telugu,3,14,not_found,not_found,found,2026-11-01T08:54:02+00:00
+353810,tt1119195,Positive,2007-09-08,hindi,3,14,not_found,not_found,not_found,2026-11-01T08:54:02+00:00
+60597,tt0896968,Red: The Dark Side,2007-03-09,hindi,3,14,not_found,found_inr,found,2026-11-01T08:54:02+00:00
+63669,tt0955313,Pachaikili Muthucharam,2007-02-16,tamil,3,14,not_found,not_found,found,2026-11-01T08:54:02+00:00
+85824,tt0843372,Sainikudu,2006-11-30,telugu,3,15,found_inr,not_found,not_found,2026-11-01T08:54:21+00:00
+423822,tt0946999,Deadline: Sirf 24 Ghante,2006-11-10,hindi,3,15,not_found,not_found,not_found,2026-11-01T08:54:21+00:00
+1441988,tt0929754,Ganga,2006-10-20,hindi,3,15,not_found,not_found,not_found,2026-11-01T08:54:21+00:00
+486382,tt0857395,Prateeksha,2006-01-01,hindi,3,15,not_found,not_found,not_found,2026-11-01T08:54:21+00:00
+117415,tt0457391,Jai Chiranjeeva,2005-12-21,telugu,3,15,not_found,not_found,not_found,2026-11-01T08:54:21+00:00
+87995,tt0457875,Ek Ajnabee,2005-12-09,hindi,3,16,not_found,found_inr,found,2026-11-01T08:54:41+00:00
+28805,tt0451631,Apaharan,2005-12-02,hindi,3,16,not_found,found_inr,found,2026-11-01T08:54:41+00:00
+443141,tt0454391,Antarmahal,2005-10-28,bengali,3,16,not_found,not_found,not_found,2026-11-01T08:54:41+00:00
+69636,tt0449951,Ghajini,2005-10-14,tamil,3,16,found_inr,found_inr,found,2026-11-01T08:54:41+00:00
+20296,tt0454431,Chocolate: Deep Dark Secrets,2005-09-16,hindi,3,16,not_found,found_inr,found,2026-11-01T08:54:41+00:00
+61376,tt0488316,Mazaa Mazaa,2005-07-15,hindi,3,17,not_found,not_found,not_found,2026-11-01T08:54:59+00:00
+58302,tt0415768,Dus,2005-07-08,hindi,3,17,not_found,found_inr,not_found,2026-11-01T08:54:59+00:00
+326397,tt0473684,Pehchaan: The Face of Truth,2005-06-24,hindi,3,17,not_found,not_found,not_found,2026-11-01T08:54:59+00:00
+136688,tt0453978,Yakeen,2005-06-16,hindi,3,17,not_found,not_found,not_found,2026-11-01T08:54:59+00:00
+807533,tt0449982,Hum Dum,2005-02-11,hindi,3,17,not_found,not_found,not_found,2026-11-01T08:54:59+00:00
+20623,tt0443708,Page 3,2005-01-21,hindi,3,18,not_found,found_inr,not_found,2026-11-01T08:54:59+00:00
+1251970,tt32919734,Padakkalam,2025-05-08,malayalam,3,18,not_found,found_inr,found,2026-11-01T08:55:16+00:00
+1112417,tt27477888,Test,2025-04-04,tamil,3,18,not_found,not_found,not_found,2026-11-01T08:55:16+00:00
+1243975,tt31416854,Anand Sreebala,2024-11-15,malayalam,3,18,not_found,not_found,not_found,2026-11-01T08:55:16+00:00
+1151671,tt27706855,Laughing Buddha,2024-08-30,kannada,3,18,not_found,not_found,not_found,2026-11-01T08:55:16+00:00
+1232219,tt28282872,Mr Bachchan,2024-08-15,telugu,3,19,found_inr,found_inr,found,2026-11-01T08:55:35+00:00
+1298116,tt27730067,Hit List,2024-05-31,tamil,3,19,not_found,not_found,not_found,2026-11-01T08:55:35+00:00
+1519583,tt30958633,The Judgement,2024-05-24,kannada,3,19,not_found,not_found,not_found,2026-11-01T08:55:35+00:00
+1044552,tt23461428,Lal Salaam,2024-02-09,tamil,3,19,found_inr,found_inr,found,2026-11-01T08:55:35+00:00
+1242433,tt30873611,Juni,2024-02-09,kannada,3,19,not_found,not_found,not_found,2026-11-01T08:55:35+00:00
+679031,tt11433822,Aankh Micholi,2023-11-03,hindi,3,20,not_found,found_inr,found,2026-11-01T08:55:50+00:00
+1001279,tt25402414,Rules Ranjann,2023-10-06,telugu,3,20,not_found,not_found,not_found,2026-11-01T08:55:50+00:00
+1204870,tt11141316,Rajamartanda,2023-10-06,english,3,20,not_found,not_found,not_found,2026-11-01T08:55:50+00:00
+1028730,tt22309174,Kasargold,2023-09-15,malayalam,3,20,not_found,not_found,found,2026-11-01T08:55:50+00:00
+1149268,tt28282716,Trial Period,2023-07-21,hindi,3,20,not_found,not_found,not_found,2026-11-01T08:55:50+00:00

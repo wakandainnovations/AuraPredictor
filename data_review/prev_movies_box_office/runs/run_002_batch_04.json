@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 371425, "budget_inr_crore": null, "revenue_inr_crore": 30, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office failure",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Bangalore_Naatkal", "verdict": "https://en.wikipedia.org/wiki/Bangalore_Naatkal"}, "notes": "revenue est."},
+ {"tmdb_movie_id": 352205, "budget_usd": 2700000, "revenue_inr_crore": 12.03, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Parched", "revenue": "https://en.wikipedia.org/wiki/Parched"}, "notes": "'failed to have significant box office collections' - not a stated verdict; India release Sep 2016 vs DB date 2015-11-14"},
+ {"tmdb_movie_id": 1107030, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "film not identifiable (likely short film); not found"},
+ {"tmdb_movie_id": 353464, "budget_inr_crore": 15, "revenue_inr_crore": 45.9, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Talvar_(film)", "revenue": "https://en.wikipedia.org/wiki/Talvar_(film)"}, "notes": "verdict conflict: Wikipedia 'moderate box-office success' vs BH 2015 Semi-Hit (lifetime 30.17 cr)"},
+ {"tmdb_movie_id": 1055597, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia DK_(film) has no figures"}
+]

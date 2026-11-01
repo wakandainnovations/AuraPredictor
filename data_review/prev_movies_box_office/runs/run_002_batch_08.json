@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 74233, "budget_inr_crore": 25, "revenue_inr_crore": 13, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "flop / commercial failure",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chatur_Singh_Two_Star", "revenue": "https://en.wikipedia.org/wiki/Chatur_Singh_Two_Star", "verdict": "https://en.wikipedia.org/wiki/Chatur_Singh_Two_Star"}, "notes": "WW gross 130 million; BH 2011 also Flop (lifetime 3.26 cr)"},
+ {"tmdb_movie_id": 69509, "budget_inr_crore": null, "revenue_inr_crore": 16, "revenue_scope": "unknown", "verdict": "avg", "verdict_label": "average performer",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Venghai", "verdict": "https://en.wikipedia.org/wiki/Venghai"}, "notes": "lifetime gross est. 160 million (Cineulagam 2025, via Wikipedia)"},
+ {"tmdb_movie_id": 115432, "budget_inr_crore": 20, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "notable hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Urumi_(film)", "verdict": "https://en.wikipedia.org/wiki/Urumi_(film)"}, "notes": "only 3-day Kerala figures; no lifetime"},
+ {"tmdb_movie_id": 337846, "budget_inr_crore": null, "revenue_inr_crore": 0.06, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": ""},
+ {"tmdb_movie_id": 38272, "budget_inr_crore": 5.5, "revenue_inr_crore": 0.2025, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Pankh", "revenue": "https://en.wikipedia.org/wiki/Pankh"}, "notes": "no stated verdict"}
+]

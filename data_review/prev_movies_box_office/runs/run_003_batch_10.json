@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 52944, "budget_inr_crore": 23, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial super hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Don_Seenu", "verdict": "https://en.wikipedia.org/wiki/Don_Seenu"}, "notes": "FLAG: stored revenue 3466958 = Wikipedia's ₹16 Cr distributors' share, not gross (left as is)"},
+ {"tmdb_movie_id": 44050, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Madrasapattinam"}, "notes": "only VFX cost ₹6 Cr given; no budget/gross"},
+ {"tmdb_movie_id": 1382455, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "identity unclear (Major Ravi + Dileep; Kandahar 2010 Hindi dub? lead differs); Kandahar Wiki has no figures/verdict; not in BH 2010"},
+ {"tmdb_movie_id": 55274, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Flop (BH); box office failure (Wiki)",
+  "sources": {"verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"}, "notes": "BH lifetime N.A."},
+ {"tmdb_movie_id": 34632, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia page has no figures or verdict"}
+]
