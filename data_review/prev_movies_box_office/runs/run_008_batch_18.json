@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 50187, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; not in BH 2007 table"},
+ {"tmdb_movie_id": 339531, "budget_inr_crore": 2, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Fear_(2007_film)"}, "notes": "Wiki budget ₹2 Cr (TOI) = stored; released online/PC (afaqs) — no box office"},
+ {"tmdb_movie_id": 462352, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Deha is disambiguation); BH movie page no data"},
+ {"tmdb_movie_id": 1342089, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article"},
+ {"tmdb_movie_id": 48532, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki stub, no figures"}
+]

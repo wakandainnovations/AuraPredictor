@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 168117, "budget_inr_crore": null, "revenue_inr_crore": 0.01, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/"}, "notes": "BH India nett ₹0.01 Cr, Flop"},
+ {"tmdb_movie_id": 536239, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no budget/gross/verdict"},
+ {"tmdb_movie_id": 555474, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "successful six-week run",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Paanch_Adhyay"}, "notes": "Wiki lead: 'a successful six-week run in Bengal'; no figures"},
+ {"tmdb_movie_id": 575760, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "superhit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Challenge_2"}, "notes": "Wiki: 'superhit at the box-office', 2nd highest-grossing Bengali film of 2012; no figures"},
+ {"tmdb_movie_id": 69536, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Mugamoodi"}, "notes": "Wiki: 'box office success at the end of its theatrical run'; only 3-day ₹10 Cr / opening-weekend ₹9 Cr (partial, not stored)"}
+]

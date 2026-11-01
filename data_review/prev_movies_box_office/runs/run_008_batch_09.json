@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 137249, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "instant hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Dongala_Mutha"}, "notes": "Wiki lead: 'remained an instant hit at the box office'; no figures (RGV no-budget film)"},
+ {"tmdb_movie_id": 256018, "budget_inr_crore": null, "revenue_inr_crore": 8, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Kempe_Gowda_(film)"}, "notes": "Wiki gross ₹8 Cr (Bangalore Mirror) = stored; 'one of the highest-grossing Kannada films of 2011' is a ranking, not a verdict"},
+ {"tmdb_movie_id": 1054729, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Atlee short film (pre-Raja Rani); no theatrical box office"},
+ {"tmdb_movie_id": 69927, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Current Wiki infobox empty; bharatpedia mirror (old Wiki copy) shows budget ₹32 Cr / box office ₹7 Cr / 'Flop of the year' but unsourced on current Wiki — not used"},
+ {"tmdb_movie_id": 88452, "budget_inr_crore": null, "revenue_inr_crore": 0.37, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "BH India nett ₹0.37 Cr, Flop (BH lists 16 Dec 2011; Wiki 'decent collections' is not a verdict)"}
+]

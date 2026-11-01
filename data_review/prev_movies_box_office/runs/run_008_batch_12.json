@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 63635, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Vettaikaaran_(2009_film)"}, "notes": "Wiki: 'a commercial success and completed a 100-day theatrical run'; no figures"},
+ {"tmdb_movie_id": 1181508, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: festival screening only (IFFK 2009), no theatrical release — no box office"},
+ {"tmdb_movie_id": 19899, "budget_inr_crore": null, "budget_usd": 65000000, "revenue_inr_crore": null, "revenue_usd": 172000000, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "box office success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Couples_Retreat", "revenue": "https://en.wikipedia.org/wiki/Couples_Retreat", "verdict": "https://en.wikipedia.org/wiki/Couples_Retreat"}, "notes": "Wiki budget $60–70M → midpoint $65M = stored; gross $172M = stored; 'a box office success'"},
+ {"tmdb_movie_id": 22291, "budget_inr_crore": null, "revenue_inr_crore": 1.51, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Baabarr", "verdict": "https://en.wikipedia.org/wiki/Baabarr"}, "notes": "Wiki body: 'managed to gross ₹15.1 million & determined a Flop'"},
+ {"tmdb_movie_id": 23788, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; reviews only"}
+]

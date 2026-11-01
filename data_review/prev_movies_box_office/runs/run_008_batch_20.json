@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 226200, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Pournami_(film)"}, "notes": "Wiki: 'was a commercial failure'. FLAG: Wiki gross is ₹9 Cr distributors' share (News18); stored revenue $1,994,018 ≈ ₹9 Cr = that share, not gross — left"},
+ {"tmdb_movie_id": 1021452, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Hindi film; Wiki no figures; not in BH 2006 table"},
+ {"tmdb_movie_id": 570255, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; not in BH 2006 table; BH movie page no data"},
+ {"tmdb_movie_id": 115070, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Astram (film)': only the Hindi dub 'was a disaster' — not the Telugu original's verdict, NULL"},
+ {"tmdb_movie_id": 69625, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Saravana"}, "notes": "Wiki: 'released on 14 January 2006 ... became a commercial success'; no figures"}
+]

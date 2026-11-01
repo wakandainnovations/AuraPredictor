@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 229430, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; Yogaraj Bhat Wiki 'fared well at the box-office' / DH 'share of success' too vague for a verdict; IMDb budget estimate not used"},
+ {"tmdb_movie_id": 63469, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Golimaar_(film)"}, "notes": "Wiki 'became a commercial success'. FLAG: Wiki gross is ₹12 Cr distributors' share (T2BLive); stored revenue $2,570,143 ≈ ₹12 Cr = that share, not gross — left"},
+ {"tmdb_movie_id": 66491, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'fared well' vs profile page 'failed to make a mark' — conflict, NULL; no figures"},
+ {"tmdb_movie_id": 215313, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; old Wiki revision '₹2.1 Cr share after 25 days' (partial share) not used"},
+ {"tmdb_movie_id": 340729, "budget_inr_crore": null, "revenue_inr_crore": 0.20, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop / box office failure",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"}, "notes": "BH India nett ₹0.20 Cr, Flop; Wiki 'box office failure' agrees"}
+]

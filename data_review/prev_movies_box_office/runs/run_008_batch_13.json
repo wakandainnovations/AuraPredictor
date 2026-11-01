@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1188332, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 20452, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'didn't perform well at the box office in India' — not a verdict; not in BH 2009 table"},
+ {"tmdb_movie_id": 435203, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article, not in BH 2009 table; Sohail Khan film appears never to have had a theatrical release"},
+ {"tmdb_movie_id": 63664, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "highly successful",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Siva_Manasula_Sakthi"}, "notes": "Wiki lead: 'became highly successful at the box office'; no figures"},
+ {"tmdb_movie_id": 24383, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "hit / success at the domestic box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Villu_(film)"}, "notes": "Wiki lead: 'It was a hit at the box office', 'a success at the domestic box office'; no figures"}
+]

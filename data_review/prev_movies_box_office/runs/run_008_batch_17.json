@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1137123, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Geleya"}, "notes": "Wiki lead: 'The film is a box office success'; no figures"},
+ {"tmdb_movie_id": 458076, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Godfather (2007 film)' (Pakistani Urdu) no figures"},
+ {"tmdb_movie_id": 7861, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 703042, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Outsourced_(film)"}, "notes": "Wiki gross $703,042 worldwide (BOM) = stored; no budget/verdict"},
+ {"tmdb_movie_id": 205032, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures ('might not be a big bait at the box office' is a review); not in BH 2007 table"},
+ {"tmdb_movie_id": 1639972, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; BH movie page 'lifetime ₹2 cr' belongs to the 1972 original — not used"}
+]

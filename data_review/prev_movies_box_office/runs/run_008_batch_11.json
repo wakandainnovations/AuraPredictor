@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 158736, "budget_inr_crore": null, "revenue_inr_crore": 0.03, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"}, "notes": "BH India nett ₹0.03 Cr, Flop (Wiki 'Idiot Box (film)' is a 1996 Australian film — not this one)"},
+ {"tmdb_movie_id": 52394, "budget_inr_crore": 5.25, "revenue_inr_crore": 1.05, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "box-office bomb / Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Rokkk", "revenue": "https://en.wikipedia.org/wiki/Rokkk", "verdict": "https://en.wikipedia.org/wiki/Rokkk"}, "notes": "Wiki budget ₹5.25 Cr / gross ₹1.05 Cr (BOI) = stored; 'box-office bomb'; BH nett ₹0.93 Cr Flop agrees"},
+ {"tmdb_movie_id": 282607, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no budget/gross/verdict"},
+ {"tmdb_movie_id": 33384, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; not in BH 2010 table; a song blog says it 'miserably failed' per BOI (BOI down, unverified) — not used"},
+ {"tmdb_movie_id": 50093, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'number one at Chennai box office in opening week' / 'did fairly well' — not a verdict; mirror (wikimili) budget ₹6 Cr / gross ₹17 Cr not on current Wiki — not used"}
+]

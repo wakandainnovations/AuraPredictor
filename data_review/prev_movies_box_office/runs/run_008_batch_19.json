@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 1226176, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (US indie)"},
+ {"tmdb_movie_id": 321262, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; not in BH 2006 table; BH movie page no data"},
+ {"tmdb_movie_id": 228699, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures"},
+ {"tmdb_movie_id": 63815, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "profitable / success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Unakkum_Enakkum"}, "notes": "Wiki: 'went on to become profitable, and scored the third straight success for the actor-director duo'; no figures"},
+ {"tmdb_movie_id": 933064, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; stored tmdb budget $700,000 unverified, left"}
+]

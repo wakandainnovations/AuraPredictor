@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 528920, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no budget/gross/verdict"},
+ {"tmdb_movie_id": 65951, "budget_inr_crore": null, "revenue_inr_crore": 2.92, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "BH India nett ₹2.92 Cr, Flop"},
+ {"tmdb_movie_id": 179362, "budget_inr_crore": 3, "revenue_inr_crore": 16, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "blockbuster / commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Seniors_(film)", "revenue": "https://en.wikipedia.org/wiki/Seniors_(film)", "verdict": "https://en.wikipedia.org/wiki/Seniors_(film)"}, "notes": "Wiki budget ₹3 Cr / gross ₹16 Cr (Sify) = stored; 'blockbuster', 125-day run"},
+ {"tmdb_movie_id": 74303, "budget_inr_crore": 3, "revenue_inr_crore": 8.78, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dharti_(2011_film)", "revenue": "https://en.wikipedia.org/wiki/Dharti_(2011_film)"}, "notes": "Wiki budget ₹30 million / gross ₹87.8 million = stored; no verdict"},
+ {"tmdb_movie_id": 63376, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "successful at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Mr._Perfect_(film)"}, "notes": "Wiki: 'successful at the box office', distributor's share over ₹32 Cr. FLAG: stored revenue $7,241,457 ≈ ₹32 Cr is the distributors' share, not gross — left (no gross found)"}
+]

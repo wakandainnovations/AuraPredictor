@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 85542, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no budget/gross/verdict; stored tmdb revenue $240,381 unverified, left"},
+ {"tmdb_movie_id": 66233, "budget_inr_crore": 14, "revenue_inr_crore": 10, "revenue_scope": "unknown", "verdict": "avg", "verdict_label": "average success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Yuvan_Yuvathi", "revenue": "https://en.wikipedia.org/wiki/Yuvan_Yuvathi", "verdict": "https://en.wikipedia.org/wiki/Yuvan_Yuvathi"}, "notes": "Wiki budget ₹14 Cr / gross ₹10 Cr = stored; 'average success at the Tamil Nadu box office'"},
+ {"tmdb_movie_id": 78445, "budget_inr_crore": null, "revenue_inr_crore": 0.26, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "BH 'Chitkabrey – Shades Of Grey' India nett ₹0.26 Cr, Flop"},
+ {"tmdb_movie_id": 879568, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Desire (2010 film)' festival release, no figures"},
+ {"tmdb_movie_id": 282599, "budget_inr_crore": null, "revenue_inr_crore": 8, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Jogayya"}, "notes": "Wiki gross ₹8 Cr (Bangalore Mirror) = stored; '50 days' (cn) not a verdict; filmibeat 3-day ₹9.59 Cr exceeds Wiki lifetime — figure conflict noted, stored value left"}
+]

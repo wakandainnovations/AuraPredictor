@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 710679, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No own Wiki article (redirects to My Friend Ganesha, whose ₹1.59 Cr / BOI flop is the 2007 first film — not used); not in BH 2008 table"},
+ {"tmdb_movie_id": 115064, "budget_inr_crore": null, "revenue_inr_crore": 0.04, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/"}, "notes": "Documentary; theatrical release 29 Jun 2012 (DB date 2008 festival); BH India nett ₹0.04 Cr, Flop"},
+ {"tmdb_movie_id": 499257, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Long-delayed 2008 release; Wiki no figures; not in BH 2008 table"},
+ {"tmdb_movie_id": 293135, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Mira Nair AIDS Jaago short film — no theatrical box office"},
+ {"tmdb_movie_id": 647873, "budget_inr_crore": 1, "revenue_inr_crore": 0.012, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Tulsi_(film)", "revenue": "https://en.wikipedia.org/wiki/Tulsi_(film)"}, "notes": "Wiki budget ₹1 Cr / gross '₹1,20 lakh' (BOI) read as ₹1.2 lakh = stored; no verdict"}
+]

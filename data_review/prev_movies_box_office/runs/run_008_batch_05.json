@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 152875, "budget_inr_crore": 20, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "semihit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Daruvu", "verdict": "https://en.wikipedia.org/wiki/Daruvu"}, "notes": "Wiki budget ₹20 Cr (muvi.com) = stored; 'semihit at the box-office'"},
+ {"tmdb_movie_id": 1509711, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no budget/gross/verdict"},
+ {"tmdb_movie_id": 307769, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Telugu film (tmdb lang 'english'); Wiki/filmibeat no figures or verdict"},
+ {"tmdb_movie_id": 108340, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'disappointing box office reception' is not a verdict; TOI review 'joins the long list of disasters' is a review; no figures"},
+ {"tmdb_movie_id": 76976, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; BOM $395,638 overseas only (not stored); sacnilk page ₹0.00"}
+]

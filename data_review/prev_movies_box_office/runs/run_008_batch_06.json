@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1181141, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki/filmibeat no figures; filmibeat: makers' box-office claims called false — no verdict"},
+ {"tmdb_movie_id": 240304, "budget_inr_crore": null, "revenue_inr_crore": 0.30, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "BH India nett ₹0.30 Cr, Flop"},
+ {"tmdb_movie_id": 1263060, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Busan 2011 festival premiere (India release 2012); Wiki no figures; not in BH 2011/2012 tables"},
+ {"tmdb_movie_id": 829990, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada remake of Maryada Ramanna; Wiki/filmibeat no figures or verdict (Telugu original's hit status not used)"},
+ {"tmdb_movie_id": 78446, "budget_inr_crore": null, "revenue_inr_crore": 0.33, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "BH 'Rivaaz' India nett ₹0.33 Cr, Flop"}
+]

@@ -808,3 +808,79 @@ tmdb_movie_id,imdb_id,movie_name,release_date,field,old_value,new_value,inr_valu
 303264,tt2222716,Baat Bann Gayi,2013-10-11,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,label=Flop,7,20
 244492,tt3288670,Sringaravelan,2013-09-14,revenue,5054704,5054704,320000000.0,0.0157959495908247,2013-09-13,https://en.wikipedia.org/wiki/Sringaravelan,scope=india_gross; Wiki ₹32 Cr Kerala final run (matches stored),7,20
 244492,tt3288670,Sringaravelan,2013-09-14,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Sringaravelan,label=commercial success,7,20
+185787,tt2877084,Gouravam,2013-04-18,hit_flop_avg,,flop,,,,https://silverscreenindia.com/movies/news/sirish-hasnt-given-up-on-tamil-films/,label=box-office failure,8,1
+187188,tt2872256,Udhayam NH4,2013-04-18,budget,1467082,1467082,80000000.0,0.0183385298110393,2013-04-11,https://en.wikipedia.org/wiki/Udhayam_NH4,Wiki budget ₹80 million (citation needed) = stored; no gross/verdict,8,1
+180855,tt2677816,Settai,2013-04-05,hit_flop_avg,,flop,,,,https://www.deccanchronicle.com/131230/entertainment-kollywood/article/52-weeks-100-years,label=disastrous start,8,1
+433993,tt2437786,Maach Mishti & More,2013-02-17,budget,148242,148242,8000000.0,0.0185302893553135,2013-02-14,https://en.wikipedia.org/wiki/Maach_Mishti_%26_More,Wiki budget ₹8 million (cn) = stored; no gross/verdict,8,2
+157293,tt2321163,ABCD,2013-02-07,budget,2254543,2254543,120000000.0,0.0187878607446947,2013-02-07,https://en.wikipedia.org/wiki/ABCD:_Any_Body_Can_Dance,"Wiki budget ₹12 Cr = stored; stored tmdb revenue $222,000 replaced with BH India nett ₹45.5 Cr (no WW gross in Wiki infobox); BH Semi-Hit",8,2
+157293,tt2321163,ABCD,2013-02-07,revenue,222000,8548477,455000000.0,0.0187878607446947,2013-02-07,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,"scope=india_net; Wiki budget ₹12 Cr = stored; stored tmdb revenue $222,000 replaced with BH India nett ₹45.5 Cr (no WW gross in Wiki infobox); BH Semi-Hit",8,2
+157293,tt2321163,ABCD,2013-02-07,hit_flop_avg,,hit,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,label=Semi-Hit,8,2
+147815,tt2344672,Kadal,2013-02-01,budget,9396730,9396730,500000000.0,0.0187934600001025,2013-02-01,https://en.wikipedia.org/wiki/Kadal_(2013_film),Wiki budget ₹50 Cr = stored; 'became a box-office failure'; only overseas opening figures,8,2
+147815,tt2344672,Kadal,2013-02-01,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Kadal_(2013_film),label=box-office failure,8,2
+238165,tt2389486,Mai,2013-01-31,revenue,,15035,800000.0,0.0187934600001025,2013-02-01,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,"scope=india_net; BH 'Mai…' India nett ₹0.08 Cr, Flop",8,2
+238165,tt2389486,Mai,2013-01-31,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,label=Flop,8,2
+168117,tt2624852,Gangoobai,2013-01-11,revenue,,1824,100000.0,0.0182415376524789,2013-01-11,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,"scope=india_net; BH India nett ₹0.01 Cr, Flop",8,3
+168117,tt2624852,Gangoobai,2013-01-11,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,label=Flop,8,3
+555474,tt2187003,Paanch Adhyay,2012-10-22,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Paanch_Adhyay,label=successful six-week run,8,3
+575760,tt2912138,Challenge 2,2012-10-19,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Challenge_2,label=superhit,8,3
+69536,tt2367996,Mugamoodi,2012-08-31,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Mugamoodi,label=box office success,8,3
+302963,tt2185084,From Sydney with Love,2012-08-31,revenue,,23413,1300000.0,0.0180098788096772,2012-08-31,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,"scope=india_net; BH India nett ₹0.13 Cr, Flop",8,4
+302963,tt2185084,From Sydney with Love,2012-08-31,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop,8,4
+141139,tt2321492,Krishna and Kamsa,2012-08-03,budget,89680,89680,5000000.0,0.0179360038737264,2012-08-03,https://en.wikipedia.org/wiki/Krishna_Aur_Kans,"Wiki budget ₹0.50 Cr / gross ₹0.98 Cr = stored; BH 'Krishna Aur Kans' India nett ₹0.86 Cr, Flop. Wiki budget looks low for an animated film but is what the source says",8,4
+141139,tt2321492,Krishna and Kamsa,2012-08-03,revenue,175773,175773,9800000.0,0.0179360038737264,2012-08-03,https://en.wikipedia.org/wiki/Krishna_Aur_Kans,"scope=unknown; Wiki budget ₹0.50 Cr / gross ₹0.98 Cr = stored; BH 'Krishna Aur Kans' India nett ₹0.86 Cr, Flop. Wiki budget looks low for an animated film but is what the source says",8,4
+141139,tt2321492,Krishna and Kamsa,2012-08-03,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop,8,4
+244323,tt2155776,Yeh Jo Mohabbat Hai,2012-08-03,revenue,,46634,2600000.0,0.0179360038737264,2012-08-03,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,"scope=india_net; BH India nett ₹0.26 Cr, Flop",8,4
+244323,tt2155776,Yeh Jo Mohabbat Hai,2012-08-03,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop,8,4
+152875,tt2304573,Daruvu,2012-05-24,budget,3612388,3612388,200000000.0,0.0180619383166473,2012-05-25,https://en.wikipedia.org/wiki/Daruvu,Wiki budget ₹20 Cr (muvi.com) = stored; 'semihit at the box-office',8,5
+152875,tt2304573,Daruvu,2012-05-24,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Daruvu,label=semihit,8,5
+240304,tt1725798,Be-Careful,2011-10-21,revenue,,60326,3000000.0,0.0201085850089846,2011-10-24,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,"scope=india_net; BH India nett ₹0.30 Cr, Flop",8,6
+240304,tt1725798,Be-Careful,2011-10-21,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop,8,6
+78446,tt1643242,Trapped in Tradition: Rivaaz,2011-09-16,revenue,,69797,3300000.0,0.021150592797015,2011-09-16,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,"scope=india_net; BH 'Rivaaz' India nett ₹0.33 Cr, Flop",8,6
+78446,tt1643242,Trapped in Tradition: Rivaaz,2011-09-16,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop,8,6
+66233,tt4338888,Yuvan Yuvathi,2011-08-26,budget,3039400,3039400,140000000.0,0.02171,2011-08-31,https://en.wikipedia.org/wiki/Yuvan_Yuvathi,Wiki budget ₹14 Cr / gross ₹10 Cr = stored; 'average success at the Tamil Nadu box office',8,7
+66233,tt4338888,Yuvan Yuvathi,2011-08-26,revenue,2171000,2171000,100000000.0,0.02171,2011-08-31,https://en.wikipedia.org/wiki/Yuvan_Yuvathi,scope=unknown; Wiki budget ₹14 Cr / gross ₹10 Cr = stored; 'average success at the Tamil Nadu box office',8,7
+66233,tt4338888,Yuvan Yuvathi,2011-08-26,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Yuvan_Yuvathi,label=average success,8,7
+78445,tt1740092,Chitkabrey,2011-08-26,revenue,,56446,2600000.0,0.02171,2011-08-31,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,"scope=india_net; BH 'Chitkabrey – Shades Of Grey' India nett ₹0.26 Cr, Flop",8,7
+78445,tt1740092,Chitkabrey,2011-08-26,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop,8,7
+282599,tt2027125,Jogayya,2011-08-19,revenue,1753425,1753425,80000000.0,0.0219178082191781,2011-08-19,https://en.wikipedia.org/wiki/Jogayya,"scope=unknown; Wiki gross ₹8 Cr (Bangalore Mirror) = stored; '50 days' (cn) not a verdict; filmibeat 3-day ₹9.59 Cr exceeds Wiki lifetime — figure conflict noted, stored value left",8,7
+65951,tt1942905,Kucch Luv Jaisaa,2011-05-27,revenue,,651896,29200000.0,0.022325221133753,2011-06-01,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,"scope=india_net; BH India nett ₹2.92 Cr, Flop",8,8
+65951,tt1942905,Kucch Luv Jaisaa,2011-05-27,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop,8,8
+179362,tt1844031,Seniors,2011-05-06,budget,677415,677415,30000000.0,0.0225804994495342,2011-04-29,https://en.wikipedia.org/wiki/Seniors_(film),"Wiki budget ₹3 Cr / gross ₹16 Cr (Sify) = stored; 'blockbuster', 125-day run",8,8
+179362,tt1844031,Seniors,2011-05-06,revenue,3612880,3612880,160000000.0,0.0225804994495342,2011-04-29,https://en.wikipedia.org/wiki/Seniors_(film),"scope=unknown; Wiki budget ₹3 Cr / gross ₹16 Cr (Sify) = stored; 'blockbuster', 125-day run",8,8
+179362,tt1844031,Seniors,2011-05-06,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Seniors_(film),label=blockbuster / commercial success,8,8
+74303,tt1904875,Dharti,2011-04-22,budget,678887,678887,30000000.0,0.0226295530131086,2011-04-22,https://en.wikipedia.org/wiki/Dharti_(2011_film),Wiki budget ₹30 million / gross ₹87.8 million = stored; no verdict,8,8
+74303,tt1904875,Dharti,2011-04-22,revenue,1986875,1986875,87800000.0,0.0226295530131086,2011-04-22,https://en.wikipedia.org/wiki/Dharti_(2011_film),scope=unknown; Wiki budget ₹30 million / gross ₹87.8 million = stored; no verdict,8,8
+63376,tt1852036,Mr. Perfect,2011-04-21,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Mr._Perfect_(film),label=successful at the box office,8,8
+137249,tt1860215,Dongala Mutha,2011-04-18,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Dongala_Mutha,label=instant hit,8,9
+256018,tt1964837,Kempe Gowda,2011-03-11,revenue,1765809,1765809,80000000.0,0.0220726184556777,2011-02-25,https://en.wikipedia.org/wiki/Kempe_Gowda_(film),"scope=unknown; Wiki gross ₹8 Cr (Bangalore Mirror) = stored; 'one of the highest-grossing Kannada films of 2011' is a ranking, not a verdict",8,9
+88452,tt1772332,Pappu Can't Dance Saala,2010-12-16,revenue,,81319,3700000.0,0.0219780219781506,2010-12-17,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,"scope=india_net; BH India nett ₹0.37 Cr, Flop (BH lists 16 Dec 2011; Wiki 'decent collections' is not a verdict)",8,9
+88452,tt1772332,Pappu Can't Dance Saala,2010-12-16,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop,8,9
+63469,tt1666308,Golimaar,2010-05-27,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Golimaar_(film),label=commercial success,8,10
+340729,tt1607607,Mittal v/s Mittal,2010-03-26,revenue,,44253,2000000.0,0.0221264394802621,2010-03-26,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,"scope=india_net; BH India nett ₹0.20 Cr, Flop; Wiki 'box office failure' agrees",8,10
+340729,tt1607607,Mittal v/s Mittal,2010-03-26,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,label=Flop / box office failure,8,10
+158736,tt1612761,Idiot Box,2010-03-19,revenue,,6615,300000.0,0.0220502383485865,2010-03-19,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,"scope=india_net; BH India nett ₹0.03 Cr, Flop (Wiki 'Idiot Box (film)' is a 1996 Australian film — not this one)",8,11
+158736,tt1612761,Idiot Box,2010-03-19,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,label=Flop,8,11
+52394,tt1612573,Rokkk,2010-03-05,budget,1139452,1139452,52500000.0,0.0217038508473662,2010-02-26,https://en.wikipedia.org/wiki/Rokkk,Wiki budget ₹5.25 Cr / gross ₹1.05 Cr (BOI) = stored; 'box-office bomb'; BH nett ₹0.93 Cr Flop agrees,8,11
+52394,tt1612573,Rokkk,2010-03-05,revenue,227890,227890,10500000.0,0.0217038508473662,2010-02-26,https://en.wikipedia.org/wiki/Rokkk,scope=unknown; Wiki budget ₹5.25 Cr / gross ₹1.05 Cr (BOI) = stored; 'box-office bomb'; BH nett ₹0.93 Cr Flop agrees,8,11
+52394,tt1612573,Rokkk,2010-03-05,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Rokkk,label=box-office bomb / Flop,8,11
+63635,tt1570732,Vettaikaaran,2009-12-18,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Vettaikaaran_(2009_film),label=commercial success,8,12
+19899,tt1078940,Couples Retreat,2009-09-19,budget,65000000,65000000,,,,https://en.wikipedia.org/wiki/Couples_Retreat,Wiki budget $60–70M → midpoint $65M = stored; gross $172M = stored; 'a box office success',8,12
+19899,tt1078940,Couples Retreat,2009-09-19,revenue,172000000,172000000,,,,https://en.wikipedia.org/wiki/Couples_Retreat,scope=worldwide; Wiki budget $60–70M → midpoint $65M = stored; gross $172M = stored; 'a box office success',8,12
+19899,tt1078940,Couples Retreat,2009-09-19,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Couples_Retreat,label=box office success,8,12
+22291,tt1508950,Baabarr,2009-09-11,revenue,,308857,15100000.0,0.0204540809815808,2009-09-04,https://en.wikipedia.org/wiki/Baabarr,scope=unknown; Wiki body: 'managed to gross ₹15.1 million & determined a Flop',8,12
+22291,tt1508950,Baabarr,2009-09-11,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Baabarr,label=Flop,8,12
+63664,tt1496872,Siva Manasula Sakthi,2009-02-14,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Siva_Manasula_Sakthi,label=highly successful,8,13
+24383,tt1451763,Villu,2009-01-12,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Villu_(film),label=hit / success at the domestic box office,8,13
+54389,tt1308015,Saroja,2008-09-05,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Saroja_(2008_film),label=commercial success,8,14
+115064,tt1479380,Supermen of Malegaon,2008-06-16,revenue,,9333,400000.0,0.0233317778814746,2008-06-13,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,"scope=india_net; Documentary; theatrical release 29 Jun 2012 (DB date 2008 festival); BH India nett ₹0.04 Cr, Flop",8,15
+115064,tt1479380,Supermen of Malegaon,2008-06-16,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop,8,15
+647873,tt1199534,Tulsi: Mathrudevobhava,2008-01-18,budget,255428,255428,10000000.0,0.0255427841634738,2008-01-11,https://en.wikipedia.org/wiki/Tulsi_(film),"Wiki budget ₹1 Cr / gross '₹1,20 lakh' (BOI) read as ₹1.2 lakh = stored; no verdict",8,15
+647873,tt1199534,Tulsi: Mathrudevobhava,2008-01-18,revenue,3065,3065,120000.0,0.0255427841634738,2008-01-11,https://en.wikipedia.org/wiki/Tulsi_(film),"scope=unknown; Wiki budget ₹1 Cr / gross '₹1,20 lakh' (BOI) read as ₹1.2 lakh = stored; no verdict",8,15
+63673,tt1034431,Bheema,2008-01-15,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Bheemaa,label=above average,8,16
+69505,tt0977625,Oram Po,2007-11-30,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Oram_Po,label=decent success,8,16
+1137123,tt5618668,Geleya,2007-10-19,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Geleya,label=box office success,8,17
+7861,tt0425326,Outsourced,2007-09-28,revenue,703042,703042,,,,https://en.wikipedia.org/wiki/Outsourced_(film),"scope=worldwide; Wiki gross $703,042 worldwide (BOM) = stored; no budget/verdict",8,17
+339531,tt0988036,Fear,2007-08-01,budget,496894,496894,20000000.0,0.0248447204968944,2007-08-03,https://en.wikipedia.org/wiki/Fear_(2007_film),Wiki budget ₹2 Cr (TOI) = stored; released online/PC (afaqs) — no box office,8,18
+63815,tt0485486,Something Something… Unakkum Enakkum,2006-06-18,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Unakkum_Enakkum,label=profitable / success,8,19
+226200,tt0471862,Pournami,2006-04-20,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Pournami_(film),label=commercial failure,8,20
+69625,tt0495044,Saravana,2006-02-01,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Saravana,label=commercial success,8,20

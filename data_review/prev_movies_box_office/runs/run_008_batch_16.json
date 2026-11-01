@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 63673, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "above average",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Bheemaa"}, "notes": "Wiki: 'considered above average'; Chennai-only ₹3 Cr and UK+Malaysia $637,779 are partial — not stored"},
+ {"tmdb_movie_id": 544282, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Hindi film; Wiki no figures; not in BH 2007 table; BH movie page has no data"},
+ {"tmdb_movie_id": 1242164, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jaane Bhi Do Yaaron (2007 film)' no figures; not in BH 2007 table"},
+ {"tmdb_movie_id": 69505, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "decent success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Oram_Po"}, "notes": "Wiki: 'a decent success at the box office' → avg (moderate success)"},
+ {"tmdb_movie_id": 946555, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; stored tmdb budget $78,500 unverified, left"}
+]

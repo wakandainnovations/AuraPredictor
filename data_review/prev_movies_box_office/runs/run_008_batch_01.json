@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 198264, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no budget/gross/verdict; filmibeat budget & box office TBA"},
+ {"tmdb_movie_id": 195739, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: 'average opening in India, poor opening overseas', 'critical failure' — not a box-office verdict; BOM overseas-only figures"},
+ {"tmdb_movie_id": 185787, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office failure",
+  "sources": {"verdict": "https://silverscreenindia.com/movies/news/sirish-hasnt-given-up-on-tamil-films/"}, "notes": "Silver Screen: debut Gouravam 'turned out to be a box-office failure'; Wiki no figures"},
+ {"tmdb_movie_id": 187188, "budget_inr_crore": 8, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Udhayam_NH4"}, "notes": "Wiki budget ₹80 million (citation needed) = stored; no gross/verdict"},
+ {"tmdb_movie_id": 180855, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "disastrous start",
+  "sources": {"verdict": "https://www.deccanchronicle.com/131230/entertainment-kollywood/article/52-weeks-100-years"}, "notes": "Deccan Chronicle 2013 roundup: Arya 'had a disastrous start with the film, Settai'; Wiki only Malaysia $280,086 gross; the-numbers $422K overseas-only"}
+]
