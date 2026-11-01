@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 21555, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures; not in BH 2005 table; existing TMDB USD values kept"},
+ {"tmdb_movie_id": 755388, "budget_inr_crore": null, "revenue_inr_crore": 76.41, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "huge flop",
+  "sources": {"revenue": "https://www.koimoi.com/box-office/ayalaan-vs-captain-miller-budget-final-box-office-collection-ratings-the-end-of-pongal-battle/", "verdict": "https://en.wikipedia.org/wiki/Ayalaan"},
+  "notes": "budget conflicting (Koimoi 75-80 Cr incl P&A, Filmibeat 100 Cr); existing TMDB budget kept"},
+ {"tmdb_movie_id": 755045, "budget_inr_crore": 150, "revenue_inr_crore": 61.47, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Cirkus_(film)", "revenue": "https://en.wikipedia.org/wiki/Cirkus_(film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": ""},
+ {"tmdb_movie_id": 851783, "budget_inr_crore": 100, "revenue_inr_crore": 135.03, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "Average",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vikram_Vedha_(2022_film)", "revenue": "https://en.wikipedia.org/wiki/Vikram_Vedha_(2022_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "Wikipedia says 'underperformed'; BH Average"},
+ {"tmdb_movie_id": 690570, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia 'successful venture' is citation-needed; no figures"}
+]

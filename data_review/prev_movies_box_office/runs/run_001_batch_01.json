@@ -1,0 +1,23 @@
+[
+ {"tmdb_movie_id": 31983, "budget_inr_crore": 8.75, "revenue_inr_crore": 10.65, "revenue_scope": "worldwide",
+  "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Darna_Zaroori_Hai", "revenue": "https://en.wikipedia.org/wiki/Darna_Zaroori_Hai",
+              "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/"}, "notes": ""},
+ {"tmdb_movie_id": 20063, "budget_inr_crore": 32, "revenue_inr_crore": 29.30, "revenue_scope": "worldwide",
+  "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Cash_(2007_film)", "revenue": "https://en.wikipedia.org/wiki/Cash_(2007_film)",
+              "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/"}, "notes": ""},
+ {"tmdb_movie_id": 376440, "budget_inr_crore": null, "revenue_inr_crore": 110, "revenue_scope": "worldwide",
+  "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Si3_(film)"},
+  "notes": "budget conflicting: Wikipedia text ~65 Cr vs Scroll 80 Cr (alleged); no explicit verdict found"},
+ {"tmdb_movie_id": 60740, "budget_inr_crore": 24, "revenue_inr_crore": 12.87, "revenue_scope": "worldwide",
+  "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Game_(2011_film)", "revenue": "https://en.wikipedia.org/wiki/Game_(2011_film)",
+              "verdict": "https://en.wikipedia.org/wiki/Game_(2011_film)"}, "notes": "Wikipedia: 'declared a disaster' (Bollywood Hungama cite)"},
+ {"tmdb_movie_id": 46417, "budget_inr_crore": null, "revenue_inr_crore": 6.78, "revenue_scope": "india_net",
+  "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/",
+              "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/"},
+  "notes": "no budget found; revenue is India lifetime nett (no worldwide figure in INR)"}
+]

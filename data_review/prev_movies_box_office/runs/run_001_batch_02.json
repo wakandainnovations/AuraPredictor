@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 192675, "budget_inr_crore": 30, "revenue_inr_crore": 38, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Eklavya:_The_Royal_Guard", "revenue": "https://en.wikipedia.org/wiki/Eklavya:_The_Royal_Guard", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/"}, "notes": "Wikipedia: 'major box office disappointment'"},
+ {"tmdb_movie_id": 83903, "budget_inr_crore": 12, "revenue_inr_crore": 19, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vaah!_Life_Ho_Toh_Aisi!", "revenue": "https://en.wikipedia.org/wiki/Vaah!_Life_Ho_Toh_Aisi!", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": ""},
+ {"tmdb_movie_id": 72583, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wikipedia has no budget/box office; not in Bollywood Hungama 2010 table"},
+ {"tmdb_movie_id": 283201, "budget_inr_crore": 29, "revenue_inr_crore": 50.61, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Finding_Fanny", "revenue": "https://en.wikipedia.org/wiki/Finding_Fanny", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"}, "notes": "Wikipedia figures marked est."},
+ {"tmdb_movie_id": 22609, "budget_inr_crore": null, "revenue_inr_crore": 46.12, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Dil_Bole_Hadippa!", "verdict": "https://en.wikipedia.org/wiki/Dil_Bole_Hadippa!"}, "notes": "declared flop by Box Office India (per Wikipedia); BH 2009 also Flop"}
+]

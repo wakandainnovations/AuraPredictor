@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 253533, "budget_inr_crore": 28, "revenue_inr_crore": 124, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercially successful",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Manam_(film)", "revenue": "https://en.wikipedia.org/wiki/Manam_(film)", "verdict": "https://en.wikipedia.org/wiki/Manam_(film)"}, "notes": "revenue est."},
+ {"tmdb_movie_id": 135550, "budget_inr_crore": null, "revenue_inr_crore": 0.38, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/"}, "notes": "Wikipedia: commercial failure"},
+ {"tmdb_movie_id": 135870, "budget_inr_crore": null, "revenue_inr_crore": 44, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Rebel_(2012_film)"}, "notes": "Wikipedia only says 'underperformed despite a good opening' - no clear verdict"},
+ {"tmdb_movie_id": 83316, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia: poor opening, no figures/verdict"},
+ {"tmdb_movie_id": 64661, "budget_inr_crore": null, "revenue_inr_crore": 1.93, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "replaces unsourced TMDB revenue"}
+]

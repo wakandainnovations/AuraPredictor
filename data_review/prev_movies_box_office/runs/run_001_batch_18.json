@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 150914, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page; not in BH 2010 table"},
+ {"tmdb_movie_id": 69502, "budget_inr_crore": 4.5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Va_(film)"}, "notes": "no box office/verdict on Wikipedia; existing TMDB revenue kept"},
+ {"tmdb_movie_id": 73876, "budget_inr_crore": null, "revenue_inr_crore": 1.55, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"}, "notes": ""},
+ {"tmdb_movie_id": 73312, "budget_inr_crore": null, "revenue_inr_crore": 4.24, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/", "verdict": "https://en.wikipedia.org/wiki/Toh_Baat_Pakki!"}, "notes": "Wikipedia says grossed 3.45 Cr; used BH India nett 4.24 Cr"},
+ {"tmdb_movie_id": 22158, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures; not in BH 2009 table"}
+]

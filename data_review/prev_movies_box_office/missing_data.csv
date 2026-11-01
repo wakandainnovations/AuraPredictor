@@ -1,0 +1,67 @@
+tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,notes,run,batch
+376440,tt5323640,Si 3,2017-01-26,tamil,budget;verdict,not found in web search,budget conflicting: Wikipedia text ~65 Cr vs Scroll 80 Cr (alleged); no explicit verdict found,1,1
+46417,tt0845535,Shakalaka Boom Boom,2007-04-06,hindi,budget,not found in web search,no budget found; revenue is India lifetime nett (no worldwide figure in INR),1,1
+72583,tt1221147,Tera Kya Hoga Johnny,2010-12-31,hindi,budget;revenue;verdict,not found in web search,Wikipedia has no budget/box office; not in Bollywood Hungama 2010 table,1,2
+22609,tt1202540,Dil Bole Hadippa!,2009-09-18,hindi,budget,not found in web search,declared flop by Box Office India (per Wikipedia); BH 2009 also Flop,1,2
+15646,tt2066899,Jugaad,2009-02-13,hindi,budget;revenue;verdict,not found in web search,Filmibeat lists budget/box office TBA; Bollywood Hungama shows N.A.,1,3
+568009,tt1221142,Mumbai Cutting,2008-04-27,hindi,budget;revenue;verdict,not found in web search,anthology; Wikipedia has no budget/box office; not in BH tables,1,4
+18610,tt1176960,One Two Three,2008-03-28,hindi,budget,not found in web search,Wikipedia (uncited) says 'performed moderately well'; BH table says Flop (India nett 17.12 Cr),1,4
+83895,tt0454396,Aryan: Unbreakable,2006-12-15,hindi,budget;revenue;verdict,not found in web search,Wikipedia has no figures; not in BH 2006 table,1,4
+40017,tt0499041,Kalyug,2005-12-09,hindi,budget,not found in web search,revenue is India lifetime nett,1,4
+22443,tt1512321,Vaada Raha... I Promise,2009-09-11,hindi,budget,not found in web search,revenue is India lifetime nett,1,5
+21555,tt0451919,Socha Na Tha,2005-03-04,hindi,budget;revenue;verdict,not found in web search,Wikipedia has no figures; not in BH 2005 table; existing TMDB USD values kept,1,6
+755388,tt7892066,Ayalaan,2024-01-12,tamil,budget,not found in web search,"budget conflicting (Koimoi 75-80 Cr incl P&A, Filmibeat 100 Cr); existing TMDB budget kept",1,6
+690570,tt14773866,Sakath,2021-11-26,kannada,budget;revenue;verdict,not found in web search,Wikipedia 'successful venture' is citation-needed; no figures,1,6
+135550,tt1956433,Ata Pata Lapatta,2012-11-02,hindi,budget,not found in web search,Wikipedia: commercial failure,1,7
+135870,tt2235858,Rebel,2012-09-28,telugu,budget;verdict,not found in web search,Wikipedia only says 'underperformed despite a good opening' - no clear verdict,1,7
+83316,tt2137064,Lanka,2011-12-09,english,budget;revenue;verdict,not found in web search,"Wikipedia: poor opening, no figures/verdict",1,7
+64661,tt1695793,Love U... Mr. Kalakaar!,2011-05-13,hindi,budget,not found in web search,replaces unsourced TMDB revenue,1,7
+61203,tt1916728,Shor in the City,2011-04-28,hindi,verdict,not found in web search,verdict conflict: BH 2011 Flop vs distributor 'investment more than recovered',1,8
+35100,tt1191130,Right Yaaa Wrong,2010-03-12,hindi,budget,not found in web search,,1,8
+46419,tt1137979,Rama Rama Kya Hai Dramaaa,2008-02-01,english,budget;revenue;verdict,not found in web search,no figures on Wikipedia; not in BH 2008 table,1,8
+15412,tt0466460,Khosla Ka Ghosla!,2006-09-22,hindi,verdict,not found in web search,verdict conflict: Wikipedia 'commercial success' vs BH 2006 Flop,1,8
+21567,tt0453729,Iqbal,2005-08-26,hindi,verdict,not found in web search,verdict conflict: Wikipedia implies success vs BH 2005 Flop,1,8
+891010,tt15415976,Macherla Niyojakavargam,2022-08-12,telugu,budget,not found in web search,,1,9
+539315,tt8751976,Dev,2019-02-14,tamil,revenue;verdict,not found in web search,no box office figure or verdict on Wikipedia,1,10
+125835,tt2330927,Julayi,2012-08-09,telugu,budget;revenue;verdict,not found in web search,"Wikipedia only has pre-release revenue (37.2 Cr), no gross/budget/verdict",1,10
+71069,tt1667823,Bhindi Baazaar Inc,2011-06-03,hindi,budget;revenue,not found in web search,Wikipedia page not found; existing values kept (BH India nett 1.21 Cr),1,11
+117338,tt0483701,"Karma, Confessions and Holi",2009-03-06,english,budget;revenue;verdict,not found in web search,no Wikipedia page; not in BH table,1,11
+117329,tt1252488,Haal-e-Dil,2008-06-20,hindi,verdict,not found in web search,no stated verdict (not in BH 2008 table),1,11
+66500,tt8929664,Bommalattam,2008-05-05,tamil,budget;revenue;verdict,not found in web search,Wikipedia has no figures/verdict,1,12
+14076,tt1038915,Shoot on Sight,2007-12-15,english,budget;revenue;verdict,not found in web search,Wikipedia has no figures/verdict,1,12
+159437,tt0979913,Life Mein Kabhie Kabhiee,2007-04-13,hindi,budget;revenue,not found in web search,no figures,1,12
+493622,tt0833484,The Killer,2006-07-21,hindi,budget,not found in web search,,1,12
+1391013,tt33888131,Aap Jaisa Koi,2025-07-11,hindi,budget;revenue;verdict,not found in web search,2025 Netflix direct-to-streaming film; no box office,1,13
+1102353,tt27191250,Mechanic Rocky,2024-11-22,telugu,budget,not found in web search,,1,13
+1212790,tt27719898,Kaiva,2023-12-08,kannada,budget;revenue;verdict,not found in web search,Wikipedia has no figures/verdict,1,13
+878926,tt15433600,Khufiya,2023-10-05,hindi,budget;revenue;verdict,not found in web search,direct-to-streaming (Netflix); no box office,1,14
+1142127,tt19755170,Bawaal,2023-07-21,hindi,budget;revenue;verdict,not found in web search,direct-to-streaming (Prime Video); no box office; existing TMDB budget kept,1,14
+778946,tt13131232,Mission Majnu,2023-01-20,hindi,budget;revenue;verdict,not found in web search,direct-to-streaming (Netflix); no box office,1,14
+715765,tt10699086,Bachchhan Paandey,2022-03-18,hindi,budget,not found in web search,budget conflict on Wikipedia (infobox est. 130 Cr vs text ~180 Cr); existing 130 Cr value kept,1,14
+674762,tt11143196,Popcorn Monkey Tiger,2020-02-21,kannada,budget;verdict,not found in web search,Wikipedia: 'underperformed' - not a clear verdict,1,14
+504184,tt7892050,Chekka Chivantha Vaanam,2018-09-27,tamil,budget;revenue;verdict,not found in web search,no budget found; worldwide gross sources conflict (Filmibeat ~90 Cr projection vs BOM partial USD),1,15
+550864,tt8661814,Devadas,2018-09-27,telugu,budget;revenue;verdict,not found in web search,"Wikipedia est. 48 Cr is citation-needed (matches existing value, kept); 'underperformed' not a clear verdict",1,15
+379163,tt5258390,Ricky,2016-01-22,kannada,budget;revenue;verdict,not found in web search,Wikipedia has no figures/verdict,1,15
+314690,tt2361746,Haraamkhor,2015-11-02,hindi,verdict,not found in web search,no stated verdict; not in BH 2015 table,1,15
+353898,tt3449292,Manjhi: The Mountain Man,2015-08-21,hindi,budget,not found in web search,revenue est.; existing TMDB budget kept,1,15
+658481,tt7502966,Kolkata Junction,2014-09-21,hindi,budget;revenue;verdict,not found in web search,no Wikipedia page; not found,1,16
+307614,tt3916762,Rabhasa,2014-08-28,telugu,revenue,not found in web search,"existing revenue = 27.75 Cr DISTRIBUTORS' SHARE, not gross - needs a gross figure",1,16
+199994,tt2520342,Sarocharu,2012-12-21,telugu,verdict,not found in web search,body text says 55 Cr worldwide vs infobox 57 Cr; no verdict,1,17
+138952,tt2199330,Thadaiyara Thaakka,2012-06-01,tamil,budget;revenue;verdict,not found in web search,Wikipedia: 'underperformed' - not a clear verdict; no figures,1,17
+113728,tt2294567,Dhammu,2012-04-27,telugu,budget,not found in web search,replaces 35 Cr distributors' share with 60 Cr gross,1,17
+282039,,Zindagi Tere Naam,2012-03-16,hindi,budget,not found in web search,,1,17
+150914,tt1340778,I M 24,2010-10-30,hindi,budget;revenue;verdict,not found in web search,no Wikipedia page; not in BH 2010 table,1,18
+69502,tt1735932,Va,2010-10-05,tamil,revenue;verdict,not found in web search,no box office/verdict on Wikipedia; existing TMDB revenue kept,1,18
+73876,tt1245732,Red Alert: The War Within,2010-07-09,hindi,budget,not found in web search,,1,18
+73312,tt1605778,Toh Baat Pakki!,2010-02-18,hindi,budget,not found in web search,Wikipedia says grossed 3.45 Cr; used BH India nett 4.24 Cr,1,18
+22158,tt1135931,Chintu Ji,2009-09-04,hindi,budget;revenue;verdict,not found in web search,Wikipedia has no figures; not in BH 2009 table,1,18
+197490,tt1236441,Phir Kabhi,2009-08-22,hindi,budget;revenue;verdict,not found in web search,direct-to-video / DTH pay-per-view release; no box office,1,19
+20293,tt1229390,Shortkut - The Con Is On,2009-07-10,hindi,budget,not found in web search,,1,19
+170986,tt1071798,Frozen,2007-07-21,hindi,budget;revenue;verdict,not found in web search,Wikipedia has no figures/verdict,1,19
+253578,tt0476888,"Tom, Dick And Harry",2006-05-25,hindi,budget,not found in web search,Wikipedia figures inconsistent (8 Cr gross / 11 Cr net),1,19
+474252,tt0779768,Teesri Aankh: The Hidden Camera,2006-03-03,hindi,budget,not found in web search,Wikipedia: box office failure,1,19
+1106553,tt1388351,Love in Japan,2006-02-10,hindi,budget;revenue;verdict,not found in web search,no Wikipedia page; not found,1,20
+19620,tt0476527,Bluffmaster!,2005-12-16,hindi,verdict,not found in web search,verdict conflict: Box Office India Semi-Hit (per Wikipedia) vs BH 2005 Average,1,20
+69670,tt0476803,Majaa,2005-11-02,tamil,budget;revenue,not found in web search,no figures,1,20
+1192990,,Kal: Yesterday and Tomorrow,2005-09-16,hindi,verdict,not found in web search,revenue est.; no stated verdict,1,20
+1634615,tt34748847,The Protector,2025-06-13,malayalam,budget;revenue;verdict,not found in web search,no Wikipedia page; not found,1,20

@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 276387, "budget_inr_crore": 14, "revenue_inr_crore": 10.3, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Shikhar_(film)", "revenue": "https://en.wikipedia.org/wiki/Shikhar_(film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "budget includes P&A"},
+ {"tmdb_movie_id": 225635, "budget_inr_crore": 15, "revenue_inr_crore": 23, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dosti:_Friends_Forever", "revenue": "https://en.wikipedia.org/wiki/Dosti:_Friends_Forever", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": ""},
+ {"tmdb_movie_id": 15084, "budget_inr_crore": 11, "revenue_inr_crore": 57.23, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Salaam_Namaste", "revenue": "https://en.wikipedia.org/wiki/Salaam_Namaste", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": ""},
+ {"tmdb_movie_id": 20390, "budget_inr_crore": 20, "revenue_inr_crore": 74, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Super-Hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/No_Entry", "revenue": "https://en.wikipedia.org/wiki/No_Entry", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": ""},
+ {"tmdb_movie_id": 15646, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Filmibeat lists budget/box office TBA; Bollywood Hungama shows N.A."}
+]

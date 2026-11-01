@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 504184, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no budget found; worldwide gross sources conflict (Filmibeat ~90 Cr projection vs BOM partial USD)"},
+ {"tmdb_movie_id": 550864, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wikipedia est. 48 Cr is citation-needed (matches existing value, kept); 'underperformed' not a clear verdict"},
+ {"tmdb_movie_id": 379163, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures/verdict"},
+ {"tmdb_movie_id": 314690, "budget_inr_crore": 2.25, "revenue_inr_crore": 2.27, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Haraamkhor", "revenue": "https://en.wikipedia.org/wiki/Haraamkhor"}, "notes": "no stated verdict; not in BH 2015 table"},
+ {"tmdb_movie_id": 353898, "budget_inr_crore": null, "revenue_inr_crore": 18, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Manjhi_%E2%80%93_The_Mountain_Man", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/"}, "notes": "revenue est.; existing TMDB budget kept"}
+]

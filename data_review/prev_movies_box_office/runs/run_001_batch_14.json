@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 878926, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix); no box office"},
+ {"tmdb_movie_id": 1142127, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Prime Video); no box office; existing TMDB budget kept"},
+ {"tmdb_movie_id": 778946, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix); no box office"},
+ {"tmdb_movie_id": 715765, "budget_inr_crore": null, "revenue_inr_crore": 73.17, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Bachchhan_Paandey", "verdict": "https://en.wikipedia.org/wiki/Bachchhan_Paandey"}, "notes": "budget conflict on Wikipedia (infobox est. 130 Cr vs text ~180 Cr); existing 130 Cr value kept"},
+ {"tmdb_movie_id": 674762, "budget_inr_crore": null, "revenue_inr_crore": 6.03, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Popcorn_Monkey_Tiger"}, "notes": "Wikipedia: 'underperformed' - not a clear verdict"}
+]

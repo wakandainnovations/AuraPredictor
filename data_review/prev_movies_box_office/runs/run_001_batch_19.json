@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 197490, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-video / DTH pay-per-view release; no box office"},
+ {"tmdb_movie_id": 20293, "budget_inr_crore": null, "revenue_inr_crore": 7.69, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/"}, "notes": ""},
+ {"tmdb_movie_id": 170986, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures/verdict"},
+ {"tmdb_movie_id": 253578, "budget_inr_crore": null, "revenue_inr_crore": 9.22, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/"}, "notes": "Wikipedia figures inconsistent (8 Cr gross / 11 Cr net)"},
+ {"tmdb_movie_id": 474252, "budget_inr_crore": null, "revenue_inr_crore": 4.16, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/"}, "notes": "Wikipedia: box office failure"}
+]

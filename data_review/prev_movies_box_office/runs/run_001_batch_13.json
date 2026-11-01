@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 19636, "budget_inr_crore": 17, "revenue_inr_crore": 54.65, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Garam_Masala_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/Garam_Masala_(2005_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": ""},
+ {"tmdb_movie_id": 69346, "budget_inr_crore": 5, "revenue_inr_crore": 13, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "Average",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Zeher", "revenue": "https://en.wikipedia.org/wiki/Zeher", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "Wikipedia: moderately successful"},
+ {"tmdb_movie_id": 1391013, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "2025 Netflix direct-to-streaming film; no box office"},
+ {"tmdb_movie_id": 1102353, "budget_inr_crore": null, "revenue_inr_crore": 10.87, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "failed at the box office",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Mechanic_Rocky", "verdict": "https://en.wikipedia.org/wiki/Mechanic_Rocky"}, "notes": ""},
+ {"tmdb_movie_id": 1212790, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures/verdict"}
+]

@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 658481, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page; not found"},
+ {"tmdb_movie_id": 307614, "budget_inr_crore": 45, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Rabhasa", "verdict": "https://en.wikipedia.org/wiki/Rabhasa"}, "notes": "existing revenue = 27.75 Cr DISTRIBUTORS' SHARE, not gross - needs a gross figure"},
+ {"tmdb_movie_id": 256968, "budget_inr_crore": 125, "revenue_inr_crore": 85, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "bombed",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kochadaiiyaan", "revenue": "https://en.wikipedia.org/wiki/Kochadaiiyaan", "verdict": "https://en.wikipedia.org/wiki/Kochadaiiyaan"}, "notes": "overall bombed; Tamil version alone called a hit, Telugu average"},
+ {"tmdb_movie_id": 255580, "budget_inr_crore": 10, "revenue_inr_crore": 13.1, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Total_Siyapaa", "revenue": "https://en.wikipedia.org/wiki/Total_Siyapaa", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"}, "notes": "revenue est."},
+ {"tmdb_movie_id": 185279, "budget_inr_crore": 8, "revenue_inr_crore": 8.78, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Aatma_(2013_film)", "revenue": "https://en.wikipedia.org/wiki/Aatma_(2013_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/"}, "notes": ""}
+]

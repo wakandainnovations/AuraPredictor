@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1106553, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page; not found"},
+ {"tmdb_movie_id": 19620, "budget_inr_crore": 10, "revenue_inr_crore": 32.7, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bluffmaster!", "revenue": "https://en.wikipedia.org/wiki/Bluffmaster!"}, "notes": "verdict conflict: Box Office India Semi-Hit (per Wikipedia) vs BH 2005 Average"},
+ {"tmdb_movie_id": 69670, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Majaa"}, "notes": "no figures"},
+ {"tmdb_movie_id": 1192990, "budget_inr_crore": 1, "revenue_inr_crore": 0.35, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kal:_Yesterday_and_Tomorrow", "revenue": "https://en.wikipedia.org/wiki/Kal:_Yesterday_and_Tomorrow"}, "notes": "revenue est.; no stated verdict"},
+ {"tmdb_movie_id": 1634615, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "no Wikipedia page; not found"}
+]

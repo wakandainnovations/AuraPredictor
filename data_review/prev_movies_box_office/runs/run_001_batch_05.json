@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 216116, "budget_inr_crore": 15, "revenue_inr_crore": 20.49, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Shaadi_No._1", "revenue": "https://en.wikipedia.org/wiki/Shaadi_No._1", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": ""},
+ {"tmdb_movie_id": 984092, "budget_inr_crore": 40, "revenue_inr_crore": 5.65, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/The_Great_Indian_Family", "revenue": "https://en.wikipedia.org/wiki/The_Great_Indian_Family", "verdict": "https://en.wikipedia.org/wiki/The_Great_Indian_Family"}, "notes": ""},
+ {"tmdb_movie_id": 460508, "budget_inr_crore": 41, "revenue_inr_crore": 47.20, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Munna_Michael", "revenue": "https://en.wikipedia.org/wiki/Munna_Michael", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/"}, "notes": ""},
+ {"tmdb_movie_id": 325138, "budget_inr_crore": 14, "revenue_inr_crore": 30.19, "revenue_scope": "india_net", "verdict": "hit", "verdict_label": "Semi-Hit (BH) / Hit (BOI)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dum_Laga_Ke_Haisha", "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/"}, "notes": "Wikipedia domestic gross conflicts (30 vs 42 Cr); used BH India nett"},
+ {"tmdb_movie_id": 22443, "budget_inr_crore": null, "revenue_inr_crore": 0.80, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/"}, "notes": "revenue is India lifetime nett"}
+]

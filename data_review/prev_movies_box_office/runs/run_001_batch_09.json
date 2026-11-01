@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 46423, "budget_inr_crore": 14, "revenue_inr_crore": 27.81, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "Average (BH) / Above average (Rediff)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Lucky:_No_Time_for_Love", "revenue": "https://en.wikipedia.org/wiki/Lucky:_No_Time_for_Love", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": ""},
+ {"tmdb_movie_id": 764081, "budget_inr_crore": 150, "revenue_inr_crore": 92.94, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "Average",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ram_Setu_(film)", "revenue": "https://en.wikipedia.org/wiki/Ram_Setu_(film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "Wikipedia: fell short of expectations"},
+ {"tmdb_movie_id": 787163, "budget_inr_crore": 125, "revenue_inr_crore": 60.80, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Liger_(film)", "revenue": "https://en.wikipedia.org/wiki/Liger_(film)", "verdict": "https://en.wikipedia.org/wiki/Liger_(film)"}, "notes": ""},
+ {"tmdb_movie_id": 891010, "budget_inr_crore": null, "revenue_inr_crore": 15.75, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office disappointment",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Macherla_Niyojakavargam", "verdict": "https://en.wikipedia.org/wiki/Macherla_Niyojakavargam"}, "notes": ""},
+ {"tmdb_movie_id": 539686, "budget_inr_crore": 150, "revenue_inr_crore": 63.58, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Shamshera", "revenue": "https://en.wikipedia.org/wiki/Shamshera", "verdict": "https://en.wikipedia.org/wiki/Shamshera"}, "notes": "BH 2022 also Flop"}
+]

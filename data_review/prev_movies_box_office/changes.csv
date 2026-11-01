@@ -1,0 +1,171 @@
+tmdb_movie_id,imdb_id,movie_name,release_date,field,old_value,new_value,inr_value,rate,rate_date,source,notes,run,batch
+31983,tt0476649,Darna Zaroori Hai,2006-04-28,budget,1950513,1950513,87500000.0,0.0222915737850999,2006-04-28,https://en.wikipedia.org/wiki/Darna_Zaroori_Hai,,1,1
+31983,tt0476649,Darna Zaroori Hai,2006-04-28,revenue,2374053,2374053,106500000.0,0.0222915737850999,2006-04-28,https://en.wikipedia.org/wiki/Darna_Zaroori_Hai,scope=worldwide,1,1
+31983,tt0476649,Darna Zaroori Hai,2006-04-28,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/,label=Flop,1,1
+20063,tt0872190,Cash,2007-08-03,budget,7950311,7950311,320000000.0,0.0248447204968944,2007-08-03,https://en.wikipedia.org/wiki/Cash_(2007_film),,1,1
+20063,tt0872190,Cash,2007-08-03,revenue,7279503,7279503,293000000.0,0.0248447204968944,2007-08-03,https://en.wikipedia.org/wiki/Cash_(2007_film),scope=worldwide,1,1
+20063,tt0872190,Cash,2007-08-03,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/,label=Flop,1,1
+376440,tt5323640,Si 3,2017-01-26,revenue,16163308,16163308,1100000000.0,0.0146939164035003,2017-01-25,https://en.wikipedia.org/wiki/Si3_(film),scope=worldwide; budget conflicting: Wikipedia text ~65 Cr vs Scroll 80 Cr (alleged); no explicit verdict found,1,1
+60740,tt1772872,Game,2011-04-01,budget,5409060,5409060,240000000.0,0.0225377512750263,2011-04-02,https://en.wikipedia.org/wiki/Game_(2011_film),Wikipedia: 'declared a disaster' (Bollywood Hungama cite),1,1
+60740,tt1772872,Game,2011-04-01,revenue,2900609,2900609,128699999.99999999,0.0225377512750263,2011-04-02,https://en.wikipedia.org/wiki/Game_(2011_film),scope=worldwide; Wikipedia: 'declared a disaster' (Bollywood Hungama cite),1,1
+60740,tt1772872,Game,2011-04-01,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Game_(2011_film),label=Disaster,1,1
+46417,tt0845535,Shakalaka Boom Boom,2007-04-06,revenue,,1568900,67800000.0,0.0231401133865556,2007-03-30,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/,scope=india_net; no budget found; revenue is India lifetime nett (no worldwide figure in INR),1,1
+46417,tt0845535,Shakalaka Boom Boom,2007-04-06,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/,label=Flop,1,1
+192675,tt0459605,Eklavya: The Royal Guard,2007-02-16,budget,6815858,6815858,300000000.0,0.0227195274338294,2007-02-09,https://en.wikipedia.org/wiki/Eklavya:_The_Royal_Guard,Wikipedia: 'major box office disappointment',1,2
+192675,tt0459605,Eklavya: The Royal Guard,2007-02-16,revenue,8633420,8633420,380000000.0,0.0227195274338294,2007-02-09,https://en.wikipedia.org/wiki/Eklavya:_The_Royal_Guard,scope=worldwide; Wikipedia: 'major box office disappointment',1,2
+192675,tt0459605,Eklavya: The Royal Guard,2007-02-16,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2007/,label=Flop,1,2
+83903,tt0475645,Vaah! Life Ho Toh Aisi!,2005-12-23,budget,2659574,2659574,120000000.0,0.0221631205673759,2005-12-23,https://en.wikipedia.org/wiki/Vaah!_Life_Ho_Toh_Aisi!,,1,2
+83903,tt0475645,Vaah! Life Ho Toh Aisi!,2005-12-23,revenue,4210993,4210993,190000000.0,0.0221631205673759,2005-12-23,https://en.wikipedia.org/wiki/Vaah!_Life_Ho_Toh_Aisi!,scope=worldwide,1,2
+83903,tt0475645,Vaah! Life Ho Toh Aisi!,2005-12-23,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop,1,2
+283201,tt3142688,Finding Fanny,2014-09-11,budget,4764878,4764878,290000000.0,0.0164306125141985,2014-09-12,https://en.wikipedia.org/wiki/Finding_Fanny,Wikipedia figures marked est.,1,2
+283201,tt3142688,Finding Fanny,2014-09-11,revenue,8315533,8315533,506100000.0,0.0164306125141985,2014-09-12,https://en.wikipedia.org/wiki/Finding_Fanny,scope=worldwide; Wikipedia figures marked est.,1,2
+283201,tt3142688,Finding Fanny,2014-09-11,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/,label=Flop,1,2
+22609,tt1202540,Dil Bole Hadippa!,2009-09-18,revenue,9579124,9579124,461200000.0,0.02077,2009-09-18,https://en.wikipedia.org/wiki/Dil_Bole_Hadippa!,scope=worldwide; declared flop by Box Office India (per Wikipedia); BH 2009 also Flop,1,2
+22609,tt1202540,Dil Bole Hadippa!,2009-09-18,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Dil_Bole_Hadippa!,label=Flop,1,2
+276387,tt0475627,Shikhar,2005-12-30,budget,3114572,3114572,140000000.0,0.0222469410456062,2006-01-01,https://en.wikipedia.org/wiki/Shikhar_(film),budget includes P&A,1,3
+276387,tt0475627,Shikhar,2005-12-30,revenue,2291435,2291435,103000000.0,0.0222469410456062,2006-01-01,https://en.wikipedia.org/wiki/Shikhar_(film),scope=worldwide; budget includes P&A,1,3
+276387,tt0475627,Shikhar,2005-12-30,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop,1,3
+225635,tt0449228,Dosti: Friends Forever,2005-12-23,budget,3324468,3324468,150000000.0,0.0221631205673759,2005-12-23,https://en.wikipedia.org/wiki/Dosti:_Friends_Forever,,1,3
+225635,tt0449228,Dosti: Friends Forever,2005-12-23,revenue,5097518,5097518,230000000.0,0.0221631205673759,2005-12-23,https://en.wikipedia.org/wiki/Dosti:_Friends_Forever,scope=worldwide,1,3
+225635,tt0449228,Dosti: Friends Forever,2005-12-23,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop,1,3
+15084,tt0456165,Salaam Namaste,2005-09-09,budget,2512609,2512609,110000000.0,0.0228418975114043,2005-09-09,https://en.wikipedia.org/wiki/Salaam_Namaste,,1,3
+15084,tt0456165,Salaam Namaste,2005-09-09,revenue,13072418,13072418,572300000.0,0.0228418975114043,2005-09-09,https://en.wikipedia.org/wiki/Salaam_Namaste,scope=worldwide,1,3
+15084,tt0456165,Salaam Namaste,2005-09-09,hit_flop_avg,,hit,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Hit,1,3
+20390,tt0451833,No Entry,2005-08-26,budget,4584527,4584527,200000000.0,0.0229226361029905,2005-08-26,https://en.wikipedia.org/wiki/No_Entry,,1,3
+20390,tt0451833,No Entry,2005-08-26,revenue,16962751,16962751,740000000.0,0.0229226361029905,2005-08-26,https://en.wikipedia.org/wiki/No_Entry,scope=worldwide,1,3
+20390,tt0451833,No Entry,2005-08-26,hit_flop_avg,,hit,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Super-Hit,1,3
+18610,tt1176960,One Two Three,2008-03-28,revenue,6770311,6770311,270000000.0,0.0250752256577154,2008-04-02,https://en.wikipedia.org/wiki/One_Two_Three_(2008_film),scope=worldwide; Wikipedia (uncited) says 'performed moderately well'; BH table says Flop (India nett 17.12 Cr),1,4
+18610,tt1176960,One Two Three,2008-03-28,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2008/,label=Flop,1,4
+40017,tt0499041,Kalyug,2005-12-09,revenue,,1563313,72100000.0,0.0216825672159584,2005-12-09,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,scope=india_net; revenue is India lifetime nett,1,4
+40017,tt0499041,Kalyug,2005-12-09,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop,1,4
+97341,tt0444781,Deewane Huye Paagal,2005-11-25,budget,4368243,4368243,200000000.0,0.0218412143715191,2005-11-25,https://en.wikipedia.org/wiki/Deewane_Huye_Paagal,,1,4
+97341,tt0444781,Deewane Huye Paagal,2005-11-25,revenue,5787922,5787922,265000000.0,0.0218412143715191,2005-11-25,https://en.wikipedia.org/wiki/Deewane_Huye_Paagal,scope=worldwide,1,4
+97341,tt0444781,Deewane Huye Paagal,2005-11-25,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop,1,4
+216116,tt0449389,Shaadi No. 1,2005-08-22,budget,3440762,3440762,150000000.0,0.0229384107294543,2005-08-22,https://en.wikipedia.org/wiki/Shaadi_No._1,,1,5
+216116,tt0449389,Shaadi No. 1,2005-08-22,revenue,4700080,4700080,204899999.99999997,0.0229384107294543,2005-08-22,https://en.wikipedia.org/wiki/Shaadi_No._1,scope=worldwide,1,5
+216116,tt0449389,Shaadi No. 1,2005-08-22,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Flop,1,5
+984092,tt18561736,The Great Indian Family,2023-09-22,budget,4812000,4812000,400000000.0,0.01203,2023-09-28,https://en.wikipedia.org/wiki/The_Great_Indian_Family,,1,5
+984092,tt18561736,The Great Indian Family,2023-09-22,revenue,679695,679695,56500000.0,0.01203,2023-09-28,https://en.wikipedia.org/wiki/The_Great_Indian_Family,scope=worldwide,1,5
+984092,tt18561736,The Great Indian Family,2023-09-22,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/The_Great_Indian_Family,label=box-office bomb,1,5
+460508,tt6117702,Munna Michael,2017-07-20,budget,6377012,6377012,410000000.0,0.015553688580293,2017-07-14,https://en.wikipedia.org/wiki/Munna_Michael,,1,5
+460508,tt6117702,Munna Michael,2017-07-20,revenue,7341341,7341341,472000000.0,0.015553688580293,2017-07-14,https://en.wikipedia.org/wiki/Munna_Michael,scope=worldwide,1,5
+460508,tt6117702,Munna Michael,2017-07-20,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/,label=Flop,1,5
+325138,tt3495030,Dum Laga Ke Haisha,2015-02-27,budget,2270031,2270031,140000000.0,0.0162145053044788,2015-02-27,https://en.wikipedia.org/wiki/Dum_Laga_Ke_Haisha,Wikipedia domestic gross conflicts (30 vs 42 Cr); used BH India nett,1,5
+325138,tt3495030,Dum Laga Ke Haisha,2015-02-27,revenue,,4895159,301900000.0,0.0162145053044788,2015-02-27,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/,scope=india_net; Wikipedia domestic gross conflicts (30 vs 42 Cr); used BH India nett,1,5
+325138,tt3495030,Dum Laga Ke Haisha,2015-02-27,hit_flop_avg,,hit,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/,label=Semi-Hit (BH) / Hit (BOI),1,5
+22443,tt1512321,Vaada Raha... I Promise,2009-09-11,revenue,,163633,8000000.0,0.0204540809815808,2009-09-04,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,scope=india_net; revenue is India lifetime nett,1,5
+22443,tt1512321,Vaada Raha... I Promise,2009-09-11,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,label=Flop,1,5
+755388,tt7892066,Ayalaan,2024-01-12,revenue,,9225644,764100000.0,0.0120738700030779,2024-01-12,https://www.koimoi.com/box-office/ayalaan-vs-captain-miller-budget-final-box-office-collection-ratings-the-end-of-pongal-battle/,"scope=worldwide; budget conflicting (Koimoi 75-80 Cr incl P&A, Filmibeat 100 Cr); existing TMDB budget kept",1,6
+755388,tt7892066,Ayalaan,2024-01-12,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Ayalaan,label=huge flop,1,6
+755045,tt11112808,Cirkus,2022-12-23,budget,18107497,18107497,1500000000.0,0.0120716644174996,2022-12-23,https://en.wikipedia.org/wiki/Cirkus_(film),,1,6
+755045,tt11112808,Cirkus,2022-12-23,revenue,7420452,7420452,614700000.0,0.0120716644174996,2022-12-23,https://en.wikipedia.org/wiki/Cirkus_(film),scope=worldwide,1,6
+755045,tt11112808,Cirkus,2022-12-23,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/,label=Disaster,1,6
+851783,tt13131350,Vikram Vedha,2022-09-29,budget,12270000,12270000,1000000000.0,0.01227,2022-09-30,https://en.wikipedia.org/wiki/Vikram_Vedha_(2022_film),Wikipedia says 'underperformed'; BH Average,1,6
+851783,tt13131350,Vikram Vedha,2022-09-29,revenue,16568181,16568181,1350300000.0,0.01227,2022-09-30,https://en.wikipedia.org/wiki/Vikram_Vedha_(2022_film),scope=worldwide; Wikipedia says 'underperformed'; BH Average,1,6
+851783,tt13131350,Vikram Vedha,2022-09-29,hit_flop_avg,,avg,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/,label=Average,1,6
+253533,tt2926068,Manam,2014-05-23,budget,4800516,4800516,280000000.0,0.0171447004035639,2014-05-23,https://en.wikipedia.org/wiki/Manam_(film),revenue est.,1,7
+253533,tt2926068,Manam,2014-05-23,revenue,21259429,21259429,1240000000.0,0.0171447004035639,2014-05-23,https://en.wikipedia.org/wiki/Manam_(film),scope=worldwide; revenue est.,1,7
+253533,tt2926068,Manam,2014-05-23,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Manam_(film),label=commercially successful,1,7
+135550,tt1956433,Ata Pata Lapatta,2012-11-02,revenue,,70599,3800000.0,0.0185787226381492,2012-11-02,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,scope=india_net; Wikipedia: commercial failure,1,7
+135550,tt1956433,Ata Pata Lapatta,2012-11-02,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop,1,7
+135870,tt2235858,Rebel,2012-09-28,revenue,8323875,8323875,440000000.0,0.0189178983753549,2012-09-28,https://en.wikipedia.org/wiki/Rebel_(2012_film),scope=worldwide; Wikipedia only says 'underperformed despite a good opening' - no clear verdict,1,7
+64661,tt1695793,Love U... Mr. Kalakaar!,2011-05-13,revenue,483831,430563,19300000.0,0.0223089749048837,2011-05-13,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,scope=india_net; replaces unsourced TMDB revenue,1,7
+64661,tt1695793,Love U... Mr. Kalakaar!,2011-05-13,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop,1,7
+61203,tt1916728,Shor in the City,2011-04-28,budget,677415,677415,30000000.0,0.0225804994495342,2011-04-29,https://en.wikipedia.org/wiki/Shor_in_the_City,verdict conflict: BH 2011 Flop vs distributor 'investment more than recovered',1,8
+61203,tt1916728,Shor in the City,2011-04-28,revenue,991284,991284,43900000.0,0.0225804994495342,2011-04-29,https://en.wikipedia.org/wiki/Shor_in_the_City,scope=india_net; verdict conflict: BH 2011 Flop vs distributor 'investment more than recovered',1,8
+35100,tt1191130,Right Yaaa Wrong,2010-03-12,revenue,,903202,41100000.0,0.0219757088497738,2010-03-12,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,scope=india_net,1,8
+35100,tt1191130,Right Yaaa Wrong,2010-03-12,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,label=Flop,1,8
+15412,tt0466460,Khosla Ka Ghosla!,2006-09-22,budget,818556,818556,37500000.0,0.0218281583320012,2006-09-22,https://en.wikipedia.org/wiki/Khosla_Ka_Ghosla,verdict conflict: Wikipedia 'commercial success' vs BH 2006 Flop,1,8
+15412,tt0466460,Khosla Ka Ghosla!,2006-09-22,revenue,1455938,1455938,66700000.0,0.0218281583320012,2006-09-22,https://en.wikipedia.org/wiki/Khosla_Ka_Ghosla,scope=india_net; verdict conflict: Wikipedia 'commercial success' vs BH 2006 Flop,1,8
+21567,tt0453729,Iqbal,2005-08-26,budget,515759,515759,22500000.0,0.0229226361029905,2005-08-26,https://en.wikipedia.org/wiki/Iqbal_(film),verdict conflict: Wikipedia implies success vs BH 2005 Flop,1,8
+21567,tt0453729,Iqbal,2005-08-26,revenue,1283668,1283668,56000000.0,0.0229226361029905,2005-08-26,https://en.wikipedia.org/wiki/Iqbal_(film),scope=worldwide; verdict conflict: Wikipedia implies success vs BH 2005 Flop,1,8
+46423,tt0449306,Lucky: No Time for Love,2005-04-08,budget,3200366,3200366,140000000.0,0.0228597603109742,2005-04-06,https://en.wikipedia.org/wiki/Lucky:_No_Time_for_Love,,1,9
+46423,tt0449306,Lucky: No Time for Love,2005-04-08,revenue,6357299,6357299,278100000.0,0.0228597603109742,2005-04-06,https://en.wikipedia.org/wiki/Lucky:_No_Time_for_Love,scope=worldwide,1,9
+46423,tt0449306,Lucky: No Time for Love,2005-04-08,hit_flop_avg,,avg,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Average (BH) / Above average (Rediff),1,9
+764081,tt11783766,Ram Setu,2022-10-25,budget,18120000,18120000,1500000000.0,0.01208,2022-10-25,https://en.wikipedia.org/wiki/Ram_Setu_(film),Wikipedia: fell short of expectations,1,9
+764081,tt11783766,Ram Setu,2022-10-25,revenue,11227152,11227152,929400000.0,0.01208,2022-10-25,https://en.wikipedia.org/wiki/Ram_Setu_(film),scope=worldwide; Wikipedia: fell short of expectations,1,9
+764081,tt11783766,Ram Setu,2022-10-25,hit_flop_avg,,avg,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/,label=Average,1,9
+787163,tt4435072,Liger,2022-08-25,budget,15650000,15650000,1250000000.0,0.01252,2022-08-19,https://en.wikipedia.org/wiki/Liger_(film),,1,9
+787163,tt4435072,Liger,2022-08-25,revenue,7612160,7612160,608000000.0,0.01252,2022-08-19,https://en.wikipedia.org/wiki/Liger_(film),scope=worldwide,1,9
+787163,tt4435072,Liger,2022-08-25,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Liger_(film),label=box-office bomb,1,9
+891010,tt15415976,Macherla Niyojakavargam,2022-08-12,revenue,1977349,1977349,157500000.0,0.0125545995613252,2022-08-12,https://en.wikipedia.org/wiki/Macherla_Niyojakavargam,scope=worldwide,1,9
+891010,tt15415976,Macherla Niyojakavargam,2022-08-12,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Macherla_Niyojakavargam,label=box office disappointment,1,9
+539686,tt8426926,Shamshera,2022-07-22,budget,18832599,18832599,1500000000.0,0.0125550658512281,2022-07-28,https://en.wikipedia.org/wiki/Shamshera,BH 2022 also Flop,1,9
+539686,tt8426926,Shamshera,2022-07-22,revenue,7982511,7982511,635800000.0,0.0125550658512281,2022-07-28,https://en.wikipedia.org/wiki/Shamshera,scope=worldwide; BH 2022 also Flop,1,9
+539686,tt8426926,Shamshera,2022-07-22,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Shamshera,label=box-office disaster,1,9
+539315,tt8751976,Dev,2019-02-14,budget,7729510,7729510,550000000.0,0.01405365514816,2019-02-14,https://en.wikipedia.org/wiki/Dev_(2019_film),no box office figure or verdict on Wikipedia,1,10
+469872,tt5613834,A Gentleman,2017-08-25,budget,10937777,10937777,700000000.0,0.0156253955354228,2017-08-25,https://en.wikipedia.org/wiki/A_Gentleman,BH 2017 also Flop,1,10
+469872,tt5613834,A Gentleman,2017-08-25,revenue,5984526,5984526,383000000.0,0.0156253955354228,2017-08-25,https://en.wikipedia.org/wiki/A_Gentleman,scope=worldwide; BH 2017 also Flop,1,10
+469872,tt5613834,A Gentleman,2017-08-25,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/A_Gentleman,label=commercial disaster,1,10
+291154,tt3398052,Daawat-e-Ishq,2014-09-05,budget,5309882,5309882,320000000.0,0.0165933815807795,2014-09-05,https://en.wikipedia.org/wiki/Daawat-e-Ishq,revenue est.,1,10
+291154,tt3398052,Daawat-e-Ishq,2014-09-05,revenue,5903925,5903925,355800000.0,0.0165933815807795,2014-09-05,https://en.wikipedia.org/wiki/Daawat-e-Ishq,scope=worldwide; revenue est.,1,10
+291154,tt3398052,Daawat-e-Ishq,2014-09-05,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/,label=Flop,1,10
+304274,tt3850798,Lai Bhaari,2014-07-11,budget,1165579,1165579,70000000.0,0.0166511243539845,2014-07-11,https://en.wikipedia.org/wiki/Lai_Bhaari,revenue range 41-48 Cr -> midpoint; budget infobox 7 Cr (production section says 8 Cr),1,10
+304274,tt3850798,Lai Bhaari,2014-07-11,revenue,7409750,7409750,445000000.0,0.0166511243539845,2014-07-11,https://en.wikipedia.org/wiki/Lai_Bhaari,scope=worldwide; revenue range 41-48 Cr -> midpoint; budget infobox 7 Cr (production section says 8 Cr),1,10
+304274,tt3850798,Lai Bhaari,2014-07-11,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Lai_Bhaari,label=Blockbuster,1,10
+71069,tt1667823,Bhindi Baazaar Inc,2011-06-03,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop,1,11
+24864,tt1242530,What's Your Raashee?,2009-09-25,budget,6672000,6672000,320000000.0,0.0208500009030104,2009-09-25,https://en.wikipedia.org/wiki/What%27s_Your_Raashee%3F,,1,11
+24864,tt1242530,What's Your Raashee?,2009-09-25,revenue,3544500,3544500,170000000.0,0.0208500009030104,2009-09-25,https://en.wikipedia.org/wiki/What%27s_Your_Raashee%3F,scope=worldwide,1,11
+24864,tt1242530,What's Your Raashee?,2009-09-25,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,label=financial failure,1,11
+33147,tt30397483,Jumbo,2008-12-25,budget,6736133,6736133,320000000.0,0.0210504169627765,2008-12-25,https://en.wikipedia.org/wiki/Jumbo_(2008_film),,1,11
+33147,tt30397483,Jumbo,2008-12-25,revenue,4420588,4420588,210000000.0,0.0210504169627765,2008-12-25,https://en.wikipedia.org/wiki/Jumbo_(2008_film),scope=worldwide,1,11
+33147,tt30397483,Jumbo,2008-12-25,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2008/,label=Flop,1,11
+117329,tt1252488,Haal-e-Dil,2008-06-20,budget,1396486,1396486,60000000.0,0.0232747585243805,2008-06-19,https://en.wikipedia.org/wiki/Haal-e-Dil,no stated verdict (not in BH 2008 table),1,11
+117329,tt1252488,Haal-e-Dil,2008-06-20,revenue,167578,167578,7200000.0,0.0232747585243805,2008-06-19,https://en.wikipedia.org/wiki/Haal-e-Dil,scope=worldwide; no stated verdict (not in BH 2008 table),1,11
+159437,tt0979913,Life Mein Kabhie Kabhiee,2007-04-13,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Life_Mein_Kabhie_Kabhiee,label=box office disaster,1,12
+493622,tt0833484,The Killer,2006-07-21,revenue,1402406,1402406,65100000.0,0.0215423334621984,2006-07-14,https://en.wikipedia.org/wiki/The_Killer_(2006_film),scope=worldwide,1,12
+493622,tt0833484,The Killer,2006-07-21,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/,label=Flop,1,12
+51523,tt0461209,Ek Khiladi Ek Haseena,2005-11-18,budget,1258206,1258206,57500000.0,0.0218818380741041,2005-11-18,https://en.wikipedia.org/wiki/Ek_Khiladi_Ek_Haseena_(film),,1,12
+51523,tt0461209,Ek Khiladi Ek Haseena,2005-11-18,revenue,1724289,1724289,78800000.0,0.0218818380741041,2005-11-18,https://en.wikipedia.org/wiki/Ek_Khiladi_Ek_Haseena_(film),scope=worldwide,1,12
+51523,tt0461209,Ek Khiladi Ek Haseena,2005-11-18,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=commercial failure,1,12
+19636,tt0453671,Garam Masala,2005-11-03,budget,3758567,3758567,170000000.0,0.0221092195445461,2005-11-03,https://en.wikipedia.org/wiki/Garam_Masala_(2005_film),,1,13
+19636,tt0453671,Garam Masala,2005-11-03,revenue,12082688,12082688,546500000.0,0.0221092195445461,2005-11-03,https://en.wikipedia.org/wiki/Garam_Masala_(2005_film),scope=worldwide,1,13
+19636,tt0453671,Garam Masala,2005-11-03,hit_flop_avg,,hit,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Hit,1,13
+69346,tt0451983,Zeher,2005-03-25,budget,1145869,1145869,50000000.0,0.0229173828348803,2005-03-25,https://en.wikipedia.org/wiki/Zeher,Wikipedia: moderately successful,1,13
+69346,tt0451983,Zeher,2005-03-25,revenue,2979260,2979260,130000000.0,0.0229173828348803,2005-03-25,https://en.wikipedia.org/wiki/Zeher,scope=worldwide; Wikipedia: moderately successful,1,13
+69346,tt0451983,Zeher,2005-03-25,hit_flop_avg,,avg,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/,label=Average,1,13
+1102353,tt27191250,Mechanic Rocky,2024-11-22,revenue,1287008,1287008,108699999.99999999,0.01184,2024-11-22,https://en.wikipedia.org/wiki/Mechanic_Rocky,scope=worldwide,1,13
+1102353,tt27191250,Mechanic Rocky,2024-11-22,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Mechanic_Rocky,label=failed at the box office,1,13
+715765,tt10699086,Bachchhan Paandey,2022-03-18,revenue,9635363,9635363,731700000.0,0.013168461607593,2022-03-17,https://en.wikipedia.org/wiki/Bachchhan_Paandey,scope=worldwide; budget conflict on Wikipedia (infobox est. 130 Cr vs text ~180 Cr); existing 130 Cr value kept,1,14
+715765,tt10699086,Bachchhan Paandey,2022-03-18,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Bachchhan_Paandey,label=box-office bomb,1,14
+674762,tt11143196,Popcorn Monkey Tiger,2020-02-21,revenue,839269,839269,60300000.0,0.0139182242508415,2020-02-21,https://en.wikipedia.org/wiki/Popcorn_Monkey_Tiger,scope=worldwide; Wikipedia: 'underperformed' - not a clear verdict,1,14
+314690,tt2361746,Haraamkhor,2015-11-02,budget,343048,343048,22500000.0,0.0152465826604827,2015-11-02,https://en.wikipedia.org/wiki/Haraamkhor,no stated verdict; not in BH 2015 table,1,15
+314690,tt2361746,Haraamkhor,2015-11-02,revenue,346097,346097,22700000.0,0.0152465826604827,2015-11-02,https://en.wikipedia.org/wiki/Haraamkhor,scope=worldwide; no stated verdict; not in BH 2015 table,1,15
+353898,tt3449292,Manjhi: The Mountain Man,2015-08-21,revenue,2716999,2716999,180000000.0,0.0150944384510868,2015-08-21,https://en.wikipedia.org/wiki/Manjhi_%E2%80%93_The_Mountain_Man,scope=worldwide; revenue est.; existing TMDB budget kept,1,15
+353898,tt3449292,Manjhi: The Mountain Man,2015-08-21,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/,label=Flop,1,15
+307614,tt3916762,Rabhasa,2014-08-28,budget,7427688,7427688,450000000.0,0.0165059738341939,2014-08-28,https://en.wikipedia.org/wiki/Rabhasa,"existing revenue = 27.75 Cr DISTRIBUTORS' SHARE, not gross - needs a gross figure",1,16
+307614,tt3916762,Rabhasa,2014-08-28,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Rabhasa,label=Disaster,1,16
+256968,tt2339505,Kochadaiiyaan,2014-05-23,budget,21430876,21430876,1250000000.0,0.0171447004035639,2014-05-23,https://en.wikipedia.org/wiki/Kochadaiiyaan,"overall bombed; Tamil version alone called a hit, Telugu average",1,16
+256968,tt2339505,Kochadaiiyaan,2014-05-23,revenue,14572995,14572995,850000000.0,0.0171447004035639,2014-05-23,https://en.wikipedia.org/wiki/Kochadaiiyaan,"scope=worldwide; overall bombed; Tamil version alone called a hit, Telugu average",1,16
+256968,tt2339505,Kochadaiiyaan,2014-05-23,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Kochadaiiyaan,label=bombed,1,16
+255580,tt2727028,Total Siyapaa,2014-03-07,budget,,1638000,100000000.0,0.01638,2014-03-07,https://en.wikipedia.org/wiki/Total_Siyapaa,revenue est.,1,16
+255580,tt2727028,Total Siyapaa,2014-03-07,revenue,2145780,2145780,131000000.0,0.01638,2014-03-07,https://en.wikipedia.org/wiki/Total_Siyapaa,scope=worldwide; revenue est.,1,16
+255580,tt2727028,Total Siyapaa,2014-03-07,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/,label=Flop,1,16
+185279,tt2389974,Aatma,2013-03-21,budget,1472616,1472616,80000000.0,0.0184076972807259,2013-03-21,https://en.wikipedia.org/wiki/Aatma_(2013_film),,1,16
+185279,tt2389974,Aatma,2013-03-21,revenue,1616196,1616196,87800000.0,0.0184076972807259,2013-03-21,https://en.wikipedia.org/wiki/Aatma_(2013_film),scope=worldwide,1,16
+185279,tt2389974,Aatma,2013-03-21,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,label=Flop,1,16
+199994,tt2520342,Sarocharu,2012-12-21,budget,4716990,4716990,260000000.0,0.0181422682730952,2012-12-21,https://en.wikipedia.org/wiki/Sarocharu,body text says 55 Cr worldwide vs infobox 57 Cr; no verdict,1,17
+199994,tt2520342,Sarocharu,2012-12-21,revenue,10341093,10341093,570000000.0,0.0181422682730952,2012-12-21,https://en.wikipedia.org/wiki/Sarocharu,scope=worldwide; body text says 55 Cr worldwide vs infobox 57 Cr; no verdict,1,17
+158519,tt2222550,1920: Evil Returns,2012-11-02,budget,1672085,1672085,90000000.0,0.0185787226381492,2012-11-02,https://en.wikipedia.org/wiki/1920:_Evil_Returns,,1,17
+158519,tt2222550,1920: Evil Returns,2012-11-02,revenue,5655363,5655363,304400000.0,0.0185787226381492,2012-11-02,https://en.wikipedia.org/wiki/1920:_Evil_Returns,scope=worldwide,1,17
+158519,tt2222550,1920: Evil Returns,2012-11-02,hit_flop_avg,,avg,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Average,1,17
+113728,tt2294567,Dhammu,2012-04-27,revenue,6672386,11438375,600000000.0,0.0190639589191218,2012-04-27,https://en.wikipedia.org/wiki/Dhammu,scope=worldwide; replaces 35 Cr distributors' share with 60 Cr gross,1,17
+113728,tt2294567,Dhammu,2012-04-27,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Dhammu,label=commercial success,1,17
+282039,,Zindagi Tere Naam,2012-03-16,revenue,,7980,400000.0,0.0199490537409696,2012-03-16,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,scope=india_net,1,17
+282039,,Zindagi Tere Naam,2012-03-16,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop,1,17
+69502,tt1735932,Va,2010-10-05,budget,1019764,1019764,45000000.0,0.0226614211315802,2010-10-08,https://en.wikipedia.org/wiki/Va_(film),no box office/verdict on Wikipedia; existing TMDB revenue kept,1,18
+73876,tt1245732,Red Alert: The War Within,2010-07-09,revenue,,332975,15500000.0,0.021482275701217,2010-07-09,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,scope=india_net,1,18
+73876,tt1245732,Red Alert: The War Within,2010-07-09,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,label=Flop,1,18
+73312,tt1605778,Toh Baat Pakki!,2010-02-18,revenue,,916560,42400000.0,0.0216169728587451,2010-02-19,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,scope=india_net; Wikipedia says grossed 3.45 Cr; used BH India nett 4.24 Cr,1,18
+73312,tt1605778,Toh Baat Pakki!,2010-02-18,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Toh_Baat_Pakki!,label=Flop,1,18
+20293,tt1229390,Shortkut - The Con Is On,2009-07-10,revenue,,1573563,76900000.0,0.0204624531232209,2009-07-10,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,scope=india_net,1,19
+20293,tt1229390,Shortkut - The Con Is On,2009-07-10,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/,label=Flop,1,19
+253578,tt0476888,"Tom, Dick And Harry",2006-05-25,revenue,,2009811,92200000.0,0.0217983807103539,2006-05-26,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/,scope=india_net; Wikipedia figures inconsistent (8 Cr gross / 11 Cr net),1,19
+253578,tt0476888,"Tom, Dick And Harry",2006-05-25,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/,label=Flop,1,19
+474252,tt0779768,Teesri Aankh: The Hidden Camera,2006-03-03,revenue,,937465,41600000.0,0.0225352112676056,2006-02-24,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/,scope=india_net; Wikipedia: box office failure,1,19
+474252,tt0779768,Teesri Aankh: The Hidden Camera,2006-03-03,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/,label=Flop,1,19
+19620,tt0476527,Bluffmaster!,2005-12-16,budget,2212389,2212389,100000000.0,0.0221238938053081,2005-12-16,https://en.wikipedia.org/wiki/Bluffmaster!,verdict conflict: Box Office India Semi-Hit (per Wikipedia) vs BH 2005 Average,1,20
+19620,tt0476527,Bluffmaster!,2005-12-16,revenue,7234513,7234513,327000000.0,0.0221238938053081,2005-12-16,https://en.wikipedia.org/wiki/Bluffmaster!,scope=worldwide; verdict conflict: Box Office India Semi-Hit (per Wikipedia) vs BH 2005 Average,1,20
+69670,tt0476803,Majaa,2005-11-02,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Majaa,label=average grosser,1,20
+1192990,,Kal: Yesterday and Tomorrow,2005-09-16,budget,,228128,10000000.0,0.02281282128176,2005-09-16,https://en.wikipedia.org/wiki/Kal:_Yesterday_and_Tomorrow,revenue est.; no stated verdict,1,20
+1192990,,Kal: Yesterday and Tomorrow,2005-09-16,revenue,,79845,3500000.0,0.02281282128176,2005-09-16,https://en.wikipedia.org/wiki/Kal:_Yesterday_and_Tomorrow,scope=worldwide; revenue est.; no stated verdict,1,20
