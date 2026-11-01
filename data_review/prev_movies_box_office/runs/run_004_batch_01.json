@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 896828, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Padmini_(2023_film)"}, "notes": "no figures on Wikipedia"},
+ {"tmdb_movie_id": 1048309, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict; on aha from Sept 2023"},
+ {"tmdb_movie_id": 660659, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict; no lifetime gross found"},
+ {"tmdb_movie_id": 781809, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (JioCinema); no box office"},
+ {"tmdb_movie_id": 1032293, "budget_inr_crore": 23, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.m9.news/movienews/anni-manchi-sakunamule-surprising-non-theatrical-business/"}, "notes": "budget 'went around 23 Crore' (m9.news); sacnilk only has week-1 India net 6.93 Cr (partial, not stored)"}
+]

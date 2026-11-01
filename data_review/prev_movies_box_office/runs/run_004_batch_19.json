@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 106507, "budget_inr_crore": null, "revenue_inr_crore": 2, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Bittoo_Boss", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/"}, "notes": "Wiki ₹20 million (net); BH lifetime 2.12 Cr; Wiki has no verdict"},
+ {"tmdb_movie_id": 463178, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 140998, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Nidra_(2012_film)"}, "notes": "no figures on Wikipedia"},
+ {"tmdb_movie_id": 120775, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 256024, "budget_inr_crore": null, "revenue_inr_crore": 7, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Vishnuvardhana_(film)"}, "notes": "infobox ₹7 Cr (gross/net not stated); no verdict"}
+]

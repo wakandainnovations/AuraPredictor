@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 540215, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 536939, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 499789, "budget_inr_crore": null, "revenue_inr_crore": 24, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "listed in '2018's Hit Telugu Movies', 'path-breaking success' (Sakshi Post)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Chalo", "verdict": "https://www.sakshipost.com/2018s-hit-telugu-movies-so-far"}, "notes": "budget conflict: Wiki ₹3 Cr (stored) vs Sakshi Post ₹10–10.5 Cr — left as is, flagged"},
+ {"tmdb_movie_id": 433121, "budget_inr_crore": null, "revenue_inr_crore": 90, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam"}, "notes": "₹90 Cr 'as of 25 Jan 2018' per Wiki; no explicit verdict"},
+ {"tmdb_movie_id": 456218, "budget_inr_crore": null, "revenue_inr_crore": 97, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "major commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Theeran_Adhigaaram_Ondru", "verdict": "https://en.wikipedia.org/wiki/Theeran_Adhigaaram_Ondru"}, "notes": "lead says ₹96 Cr, infobox/body ₹97 Cr"}
+]

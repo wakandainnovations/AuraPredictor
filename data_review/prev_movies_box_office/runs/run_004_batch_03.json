@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 783723, "budget_inr_crore": 100, "revenue_inr_crore": 48.92, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "commercial failure (Wiki); Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Thank_God_(film)", "revenue": "https://en.wikipedia.org/wiki/Thank_God_(film)", "verdict": "https://en.wikipedia.org/wiki/Thank_God_(film)"}, "notes": "BH lifetime 34.89 Cr"},
+ {"tmdb_movie_id": 858080, "budget_inr_crore": null, "revenue_inr_crore": 100, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Sardar_(2022_film)", "verdict": "https://en.wikipedia.org/wiki/Sardar_(2022_film)"}, "notes": "no budget in infobox"},
+ {"tmdb_movie_id": 863931, "budget_inr_crore": 100, "revenue_inr_crore": 105.5, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Godfather_(2022_film)", "revenue": "https://en.wikipedia.org/wiki/Godfather_(2022_film)"}, "notes": "no verdict in article text (only a cited headline calling it a bomb, with a conflicting ₹150 Cr gross) — left NULL"},
+ {"tmdb_movie_id": 800623, "budget_inr_crore": 30, "revenue_inr_crore": 100, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vendhu_Thanindhathu_Kaadu", "revenue": "https://en.wikipedia.org/wiki/Vendhu_Thanindhathu_Kaadu"}, "notes": "infobox ₹100 Cr vs body 'over ₹85 crore'; 'highest grossing' is a ranking, not a verdict"},
+ {"tmdb_movie_id": 956757, "budget_inr_crore": 150, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Cuttputlli"}, "notes": "direct-to-streaming (Disney+ Hotstar); no box office"}
+]

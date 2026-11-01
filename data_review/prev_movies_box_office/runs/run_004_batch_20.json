@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 78444, "budget_inr_crore": null, "revenue_inr_crore": 0.37, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "BH lifetime 0.37 Cr; Wikipedia has nothing"},
+ {"tmdb_movie_id": 81271, "budget_inr_crore": null, "revenue_inr_crore": 1.07, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "BH lifetime 1.07 Cr; Wikipedia has nothing"},
+ {"tmdb_movie_id": 78439, "budget_inr_crore": null, "revenue_inr_crore": 0.28, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"}, "notes": "Hindi film (DB says english); BH lifetime 0.28 Cr"},
+ {"tmdb_movie_id": 226008, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "TIFF 2011 premiere; no theatrical release date on Wikipedia; not in BH 2011 table"},
+ {"tmdb_movie_id": 151661, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Pranayam_(2011_film)"}, "notes": "no figures on Wikipedia"}
+]

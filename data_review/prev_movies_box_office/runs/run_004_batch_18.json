@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 463182, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; only '50 days in 49 centres' (run length, not a verdict)"},
+ {"tmdb_movie_id": 145335, "budget_inr_crore": 35, "revenue_inr_crore": 71, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Damarukam", "revenue": "https://en.wikipedia.org/wiki/Damarukam", "verdict": "https://en.wikipedia.org/wiki/Damarukam"}, "notes": "'grossing over ₹71 crore' (distributors' share ₹40.85 Cr not used)"},
+ {"tmdb_movie_id": 129848, "budget_inr_crore": 3.375, "revenue_inr_crore": 8, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "critical and commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Attakathi", "revenue": "https://en.wikipedia.org/wiki/Attakathi", "verdict": "https://en.wikipedia.org/wiki/Attakathi"}, "notes": "budget range ₹1.75–5 Cr -> midpoint 3.375"},
+ {"tmdb_movie_id": 150979, "budget_inr_crore": null, "revenue_inr_crore": 0.14, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/"}, "notes": "BH lifetime 0.14 Cr; Wikipedia has nothing"},
+ {"tmdb_movie_id": 189549, "budget_inr_crore": null, "revenue_inr_crore": 0.32, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Life_Ki_Toh_Lag_Gayi", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/"}, "notes": "Wiki ₹0.32 Cr = BH lifetime 0.32 Cr"}
+]

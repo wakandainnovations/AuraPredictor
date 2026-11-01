@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 679018, "budget_inr_crore": 80, "revenue_inr_crore": 27.9, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "failure at the box office (Wiki); Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jersey_(2022_film)", "revenue": "https://en.wikipedia.org/wiki/Jersey_(2022_film)", "verdict": "https://en.wikipedia.org/wiki/Jersey_(2022_film)"}, "notes": "BH lifetime 19.68 Cr"},
+ {"tmdb_movie_id": 916958, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 904740, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; Wikipedia none; sacnilk collection 'not available'"},
+ {"tmdb_movie_id": 678466, "budget_inr_crore": 1.8, "revenue_inr_crore": 7.85, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Garuda_Gamana_Vrishabha_Vahana", "revenue": "https://en.wikipedia.org/wiki/Garuda_Gamana_Vrishabha_Vahana"}, "notes": "sacnilk same 7.85 Cr gross, no verdict"},
+ {"tmdb_movie_id": 829477, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict; stored tmdb values left"}
+]

@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 370986, "budget_inr_crore": 50, "revenue_inr_crore": 33.65, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Akhil_(film)", "revenue": "https://en.wikipedia.org/wiki/Akhil_(film)", "verdict": "https://en.wikipedia.org/wiki/Akhil_(film)"}, "notes": ""},
+ {"tmdb_movie_id": 364795, "budget_inr_crore": 18, "revenue_inr_crore": 20, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "declared a commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kanche", "revenue": "https://en.wikipedia.org/wiki/Kanche", "verdict": "https://en.wikipedia.org/wiki/Kanche"}, "notes": "₹20 Cr is global gross (share ₹14 Cr)"},
+ {"tmdb_movie_id": 378270, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kendasampige"}, "notes": "no figures on Wikipedia"},
+ {"tmdb_movie_id": 358137, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Marathi; Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 577782, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "short film by Tharun Bhascker (no theatrical release); no box office"}
+]

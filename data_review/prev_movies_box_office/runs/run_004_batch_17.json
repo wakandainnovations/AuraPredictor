@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 826569, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "festival-only (KIFF 2013); 'failed to get a theatrical release' — no box office"},
+ {"tmdb_movie_id": 1693233, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 224648, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia none; only overseas BOM figures, sacnilk blank"},
+ {"tmdb_movie_id": 223212, "budget_inr_crore": null, "revenue_inr_crore": 1.09, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/"}, "notes": "Hindi film (DB says english); BH lifetime 1.09 Cr"},
+ {"tmdb_movie_id": 191805, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "declared as a box office hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Maryan_(film)"}, "notes": "no figures on Wikipedia; stored tmdb budget left"}
+]

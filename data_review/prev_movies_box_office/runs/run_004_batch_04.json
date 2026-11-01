@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 858067, "budget_inr_crore": 35, "revenue_inr_crore": 115, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Blockbuster (sacnilk)",
+  "sources": {"budget": "https://sacnilk.com/movie/Thiruchitrambalam_2022", "revenue": "https://en.wikipedia.org/wiki/Thiruchitrambalam", "verdict": "https://sacnilk.com/movie/Thiruchitrambalam_2022"}, "notes": "Wiki has no budget; Koimoi says ~30 Cr; sacnilk WW 117.2 Cr"},
+ {"tmdb_movie_id": 1012080, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia no figures/verdict; nothing found in search"},
+ {"tmdb_movie_id": 891445, "budget_inr_crore": 40, "revenue_inr_crore": 65, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Blockbuster (sacnilk); 'entering profit zone' (Wiki)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bimbisara_(film)", "revenue": "https://en.wikipedia.org/wiki/Bimbisara_(film)", "verdict": "https://www.sacnilk.com/movie/Bimbisara_2022"}, "notes": "infobox est. ₹65 Cr matches sacnilk WW gross 64.6 Cr; sacnilk budget 30 Cr"},
+ {"tmdb_movie_id": 864245, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "festival premiere (Locarno) then Netflix; no box office"},
+ {"tmdb_movie_id": 1001263, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Gujarati; Wikipedia has no figures or verdict"}
+]

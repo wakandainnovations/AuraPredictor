@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 676148, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 601249, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "flop at the box-office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Sangathamizhan"}, "notes": "no figures on Wikipedia"},
+ {"tmdb_movie_id": 633559, "budget_inr_crore": null, "revenue_inr_crore": 5.65, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Fatteshikast"}, "notes": "'decent opening' is not a verdict"},
+ {"tmdb_movie_id": 655858, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 677285, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kiss_(2019_film)"}, "notes": "no figures on Wikipedia"}
+]

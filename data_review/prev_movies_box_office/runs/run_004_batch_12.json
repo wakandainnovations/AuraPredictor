@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 611519, "budget_inr_crore": null, "revenue_inr_crore": 9, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Saheba_(film)"}, "notes": "infobox est. ₹90 million; budget field is broken/commented markup ('25 million.-->'), not stored"},
+ {"tmdb_movie_id": 467242, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 465099, "budget_inr_crore": 18, "revenue_inr_crore": 52.3, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercially successful",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ninnu_Kori", "revenue": "https://en.wikipedia.org/wiki/Ninnu_Kori", "verdict": "https://en.wikipedia.org/wiki/Ninnu_Kori"}, "notes": ""},
+ {"tmdb_movie_id": 452250, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Sivalinga_(2017_film)"}, "notes": "no figures on Wikipedia"},
+ {"tmdb_movie_id": 461253, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia gives only an opening-day figure [citation needed]"}
+]

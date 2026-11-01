@@ -42,8 +42,9 @@ statuses in `processed.csv` (no new row), and tags the `changes.csv` rows with `
 | 1 | 2026-11-01 | 100 | 2 / 0 / 43 | 14 / 2 / 50 | 59 (7 / 6 / 46) | 66 | Dhammu & Love U Mr Kalakaar revenue corrected; Rabhasa revenue is a distributors' share (flagged) |
 | 2 | 2026-11-01 | 100 | 5 / 1 / 36 | 15 / 0 / 34 | 42 (12 / 5 / 25) | 79 | Urumi budget corrected (tmdb → ₹20 Cr); Shadow (2013) stored revenue likely a distributors' share (flagged, left); Gali Gali Chor Hai revenue conflict (Wiki 13.07 vs BH 4.83 Cr, left); 9 direct-to-streaming or unreleased; 7 verdict conflicts left NULL |
 | 3 | 2026-11-01 | 100 | 3 / 2 / 18 | 8 / 3 / 19 | 35 (15 / 2 / 18) | 93 | Agnyaathavaasi budget/revenue corrected (old revenue was the ₹60 Cr distributors' share → ₹94.6 Cr gross); Panjaa revenue → Wiki ₹32.1 Cr; Ek Ajnabee tmdb revenue → BH India nett; stored revenue is a distributors' share for 100% Love, Don Seenu, Chirutha (flagged, left); 3 verdict conflicts left NULL (Dhobi Ghat, Dus, Page 3); 5 direct-to-streaming/short films; batch 4 split over run_003_batch_04 + 04b, batch 18 over 18a + 18 (usage-limit interruption) |
+| 4 | 2026-11-01 | 100 | 7 / 0 / 19 | 11 / 0 / 28 | 46 (19 / 3 / 24) | 84 | First run of mostly 2011–2023 regional films; 10 direct-to-streaming / festival-only / short films (Mumbaikar, Cuttputlli, Ariyippu, Hum Do Hamare Do, Mimi, Putham Pudhu Kaalai, Kriti, Sainma, Sunglass, Michael); flagged, left: Connect revenue (Wiki ₹20 Cr cited to a day-2 article; sacnilk WW 15.57 Cr), Yatra (Wiki infobox ₹14.3 Cr vs body ₹28.5 Cr; verdict self-conflict), Chalo budget (Wiki ₹3 Cr vs Sakshi ₹10.5 Cr); Maha Samudram revenue from sacnilk end-of-run total |
 
-Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 300.
+Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 400.
 
 ## Lessons from earlier runs (read before searching)
 
@@ -63,6 +64,8 @@ Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 300.
 - Partial running totals ("₹50 Cr in two weeks", opening weekend) are not lifetime gross → don't store.
 - **Stored Telugu revenues are often distributors' shares** (run 3: 100% Love, Don Seenu, Chirutha, Agnyaathavaasi). `apply` can't null a value, so a share with no gross to replace it stays flagged in notes.
 - **BH year tables omit many small Hindi releases** (shorts, direct-to-video, 2005–2008 small films); don't spend more searches on them.
+- **sacnilk movie pages** (`https://www.sacnilk.com/movie/<Title>_<year>`) give budget, WW gross and a verdict (Hit / Blockbuster …) for many 2019+ regional films; their header totals often disagree with their own day-wise table, and the 'figures till' date shows whether the run was complete (run 4).
+- **Disambiguation pages are common** for regional titles: retry `<Title>_(<year>_film)`, `_(film)`, `_(<year>_<language>_film)`.
 - Regional films without Wikipedia figures are rarely findable; one targeted search (sacnilk / koimoi) is enough before marking missing.
 
 ## Prompt for the next run

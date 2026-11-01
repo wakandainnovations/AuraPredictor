@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 411054, "budget_inr_crore": 3.1, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "moderate performance in the box office",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Guppy_(film)", "verdict": "https://en.wikipedia.org/wiki/Guppy_(film)"}, "notes": "no box office figure"},
+ {"tmdb_movie_id": 412686, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 499391, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "19-min short film released on YouTube; no box office"},
+ {"tmdb_movie_id": 388322, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "anthology of shorts (theatrical); Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 403322, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; Wikipedia has no figures or verdict"}
+]

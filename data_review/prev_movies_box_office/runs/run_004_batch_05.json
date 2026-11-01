@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 902552, "budget_inr_crore": 40, "revenue_inr_crore": 8.95, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "bombed at the box office",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Thank_You_(2022_film)", "revenue": "https://en.wikipedia.org/wiki/Thank_You_(2022_film)", "verdict": "https://en.wikipedia.org/wiki/Thank_You_(2022_film)"}, "notes": ""},
+ {"tmdb_movie_id": 722376, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 611598, "budget_inr_crore": 225, "revenue_inr_crore": 90.32, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office failure (Wiki); Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Samrat_Prithviraj", "revenue": "https://en.wikipedia.org/wiki/Samrat_Prithviraj", "verdict": "https://en.wikipedia.org/wiki/Samrat_Prithviraj"}, "notes": "budget range ₹150–300 Cr -> midpoint 225; BH lifetime 68.05 Cr"},
+ {"tmdb_movie_id": 957997, "budget_inr_crore": null, "revenue_inr_crore": 55, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Blockbuster (sacnilk)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Saunkan_Saunkne", "verdict": "https://www.sacnilk.com/movie/Saunkan_Saunkne"}, "notes": "sacnilk WW 56.9 Cr; Wiki ranking only"},
+ {"tmdb_movie_id": 678835, "budget_inr_crore": 70, "revenue_inr_crore": 35.13, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb (Wiki); Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Heropanti_2", "revenue": "https://en.wikipedia.org/wiki/Heropanti_2", "verdict": "https://en.wikipedia.org/wiki/Heropanti_2"}, "notes": "BH lifetime 24.45 Cr"}
+]

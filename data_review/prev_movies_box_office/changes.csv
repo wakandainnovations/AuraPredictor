@@ -390,3 +390,114 @@ tmdb_movie_id,imdb_id,movie_name,release_date,field,old_value,new_value,inr_valu
 679031,tt11433822,Aankh Micholi,2023-11-03,revenue,180396,180396,15000000.0,0.0120264049207517,2023-11-03,https://en.wikipedia.org/wiki/Aankh_Micholi_(2023_film),scope=worldwide; infobox est.; BH lifetime also 1.50 Cr,3,20
 679031,tt11433822,Aankh Micholi,2023-11-03,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Aankh_Micholi_(2023_film),label=Flop (BH); box-office disaster (Wiki),3,20
 1028730,tt22309174,Kasargold,2023-09-15,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Kasargold,label=box-office failure,3,20
+896828,tt16077654,Padmini,2023-07-07,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Padmini_(2023_film),label=box office bomb,4,1
+1032293,tt14986032,Anni Manchi Sakunamule,2023-05-18,budget,,2774310,230000000.0,0.0120622186481866,2023-05-19,https://www.m9.news/movienews/anni-manchi-sakunamule-surprising-non-theatrical-business/,"budget 'went around 23 Crore' (m9.news); sacnilk only has week-1 India net 6.93 Cr (partial, not stored)",4,1
+899712,tt16139054,Connect,2022-12-22,budget,,966400,80000000.0,0.01208,2022-12-22,https://sacnilk.com/movie/Connect_2022,"stored revenue = Wiki ₹20 Cr but its citation is a day-2 article; sacnilk WW ₹15.57 Cr 'till 12 Jan 2023' (running, not stored) — revenue flagged",4,2
+899712,tt16139054,Connect,2022-12-22,hit_flop_avg,,hit,,,,https://sacnilk.com/movie/Connect_2022,label=Hit (sacnilk),4,2
+863539,tt15340808,Gold,2022-12-01,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Gold_(2022_Indian_film),label=box-office bomb,4,2
+1004554,tt21371218,Kalaga Thalaivan,2022-11-18,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Kalaga_Thalaivan,label=commercial success,4,2
+783723,tt13795296,Thank God,2022-10-25,budget,12080000,12080000,1000000000.0,0.01208,2022-10-25,https://en.wikipedia.org/wiki/Thank_God_(film),BH lifetime 34.89 Cr,4,3
+783723,tt13795296,Thank God,2022-10-25,revenue,5909536,5909536,489200000.0,0.01208,2022-10-25,https://en.wikipedia.org/wiki/Thank_God_(film),scope=worldwide; BH lifetime 34.89 Cr,4,3
+783723,tt13795296,Thank God,2022-10-25,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Thank_God_(film),label=commercial failure (Wiki); Flop (BH),4,3
+858080,tt14526318,Sardar,2022-10-21,revenue,12107602,12107602,1000000000.0,0.0121076019704046,2022-10-21,https://en.wikipedia.org/wiki/Sardar_(2022_film),scope=worldwide; no budget in infobox,4,3
+858080,tt14526318,Sardar,2022-10-21,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Sardar_(2022_film),label=commercial success,4,3
+863931,tt13130308,GodFather,2022-10-05,budget,12250000,12250000,1000000000.0,0.01225,2022-10-05,https://en.wikipedia.org/wiki/Godfather_(2022_film),"no verdict in article text (only a cited headline calling it a bomb, with a conflicting ₹150 Cr gross) — left NULL",4,3
+863931,tt13130308,GodFather,2022-10-05,revenue,12923750,12923750,1055000000.0,0.01225,2022-10-05,https://en.wikipedia.org/wiki/Godfather_(2022_film),"scope=worldwide; no verdict in article text (only a cited headline calling it a bomb, with a conflicting ₹150 Cr gross) — left NULL",4,3
+800623,tt14182646,Vendhu Thanindhathu Kaadu,2022-09-15,budget,3762000,3762000,300000000.0,0.01254,2022-09-16,https://en.wikipedia.org/wiki/Vendhu_Thanindhathu_Kaadu,"infobox ₹100 Cr vs body 'over ₹85 crore'; 'highest grossing' is a ranking, not a verdict",4,3
+800623,tt14182646,Vendhu Thanindhathu Kaadu,2022-09-15,revenue,12540000,12540000,1000000000.0,0.01254,2022-09-16,https://en.wikipedia.org/wiki/Vendhu_Thanindhathu_Kaadu,"scope=worldwide; infobox ₹100 Cr vs body 'over ₹85 crore'; 'highest grossing' is a ranking, not a verdict",4,3
+956757,tt15315164,Cuttputlli,2022-09-02,budget,18780000,18780000,1500000000.0,0.01252,2022-09-02,https://en.wikipedia.org/wiki/Cuttputlli,direct-to-streaming (Disney+ Hotstar); no box office,4,3
+858067,tt11772746,Thiruchitrambalam,2022-08-18,budget,,4396000,350000000.0,0.01256,2022-08-18,https://sacnilk.com/movie/Thiruchitrambalam_2022,Wiki has no budget; Koimoi says ~30 Cr; sacnilk WW 117.2 Cr,4,4
+858067,tt11772746,Thiruchitrambalam,2022-08-18,revenue,14444000,14444000,1150000000.0,0.01256,2022-08-18,https://en.wikipedia.org/wiki/Thiruchitrambalam,scope=worldwide; Wiki has no budget; Koimoi says ~30 Cr; sacnilk WW 117.2 Cr,4,4
+858067,tt11772746,Thiruchitrambalam,2022-08-18,hit_flop_avg,,hit,,,,https://sacnilk.com/movie/Thiruchitrambalam_2022,label=Blockbuster (sacnilk),4,4
+891445,tt14915198,Bimbisara,2022-08-05,budget,,5021840,400000000.0,0.0125545995613252,2022-08-12,https://en.wikipedia.org/wiki/Bimbisara_(film),infobox est. ₹65 Cr matches sacnilk WW gross 64.6 Cr; sacnilk budget 30 Cr,4,4
+891445,tt14915198,Bimbisara,2022-08-05,revenue,,8160490,650000000.0,0.0125545995613252,2022-08-12,https://en.wikipedia.org/wiki/Bimbisara_(film),scope=worldwide; infobox est. ₹65 Cr matches sacnilk WW gross 64.6 Cr; sacnilk budget 30 Cr,4,4
+891445,tt14915198,Bimbisara,2022-08-05,hit_flop_avg,,hit,,,,https://www.sacnilk.com/movie/Bimbisara_2022,label=Blockbuster (sacnilk); 'entering profit zone' (Wiki),4,4
+902552,tt13350066,Thank You,2022-07-21,budget,5014043,5014043,400000000.0,0.0125351086014017,2022-07-15,https://en.wikipedia.org/wiki/Thank_You_(2022_film),,4,5
+902552,tt13350066,Thank You,2022-07-21,revenue,1121892,1121892,89500000.0,0.0125351086014017,2022-07-15,https://en.wikipedia.org/wiki/Thank_You_(2022_film),scope=worldwide,4,5
+902552,tt13350066,Thank You,2022-07-21,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Thank_You_(2022_film),label=bombed at the box office,4,5
+611598,tt9637132,Samrat Prithviraj,2022-06-03,budget,,28966427,2250000000.0,0.0128739675690314,2022-06-03,https://en.wikipedia.org/wiki/Samrat_Prithviraj,budget range ₹150–300 Cr -> midpoint 225; BH lifetime 68.05 Cr,4,5
+611598,tt9637132,Samrat Prithviraj,2022-06-03,revenue,,11627768,903199999.9999999,0.0128739675690314,2022-06-03,https://en.wikipedia.org/wiki/Samrat_Prithviraj,scope=worldwide; budget range ₹150–300 Cr -> midpoint 225; BH lifetime 68.05 Cr,4,5
+611598,tt9637132,Samrat Prithviraj,2022-06-03,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Samrat_Prithviraj,label=box office failure (Wiki); Flop (BH),4,5
+957997,tt14230846,Saunkan Saunkne,2022-05-13,revenue,7100500,7100500,550000000.0,0.01291,2022-05-13,https://en.wikipedia.org/wiki/Saunkan_Saunkne,scope=worldwide; sacnilk WW 56.9 Cr; Wiki ranking only,4,5
+957997,tt14230846,Saunkan Saunkne,2022-05-13,hit_flop_avg,,hit,,,,https://www.sacnilk.com/movie/Saunkan_Saunkne,label=Blockbuster (sacnilk),4,5
+678835,tt11873440,Heropanti 2,2022-04-29,budget,9131227,9131227,700000000.0,0.0130446101416961,2022-04-28,https://en.wikipedia.org/wiki/Heropanti_2,BH lifetime 24.45 Cr,4,5
+678835,tt11873440,Heropanti 2,2022-04-29,revenue,4582572,4582572,351300000.0,0.0130446101416961,2022-04-28,https://en.wikipedia.org/wiki/Heropanti_2,scope=worldwide; BH lifetime 24.45 Cr,4,5
+678835,tt11873440,Heropanti 2,2022-04-29,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Heropanti_2,label=box-office bomb (Wiki); Flop (BH),4,5
+679018,tt5301942,Jersey,2022-04-22,budget,10464000,10464000,800000000.0,0.01308,2022-04-22,https://en.wikipedia.org/wiki/Jersey_(2022_film),BH lifetime 19.68 Cr,4,6
+679018,tt5301942,Jersey,2022-04-22,revenue,3649320,3649320,279000000.0,0.01308,2022-04-22,https://en.wikipedia.org/wiki/Jersey_(2022_film),scope=worldwide; BH lifetime 19.68 Cr,4,6
+679018,tt5301942,Jersey,2022-04-22,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Jersey_(2022_film),label=failure at the box office (Wiki); Flop (BH),4,6
+678466,tt11953248,Garuda Gamana Vrishabha Vahana,2021-11-19,budget,242310,242310,18000000.0,0.0134616706077953,2021-11-19,https://en.wikipedia.org/wiki/Garuda_Gamana_Vrishabha_Vahana,"sacnilk same 7.85 Cr gross, no verdict",4,6
+678466,tt11953248,Garuda Gamana Vrishabha Vahana,2021-11-19,revenue,,1056741,78500000.0,0.0134616706077953,2021-11-19,https://en.wikipedia.org/wiki/Garuda_Gamana_Vrishabha_Vahana,"scope=worldwide; sacnilk same 7.85 Cr gross, no verdict",4,6
+755431,tt13131798,Maha Samudram,2021-10-14,revenue,,1292148,97000000.0,0.0133211145267111,2021-10-14,https://sacnilk.com/movie/Maha_Samudram_2021,"scope=worldwide; sacnilk WW gross 9.70 Cr, figures till 28 Oct 2021 (run ended, 'failed to run even a week'); sacnilk budget ~25 Cr 'approx' not stored",4,7
+755431,tt13131798,Maha Samudram,2021-10-14,hit_flop_avg,,flop,,,,https://www.gulte.com/movienews/130362/sorry-for-not-reaching-your-expectations-ajay-bhupathi/amp,label=big flop (Gulte),4,7
+713235,tt11433696,Solo Brathuke So Better,2020-12-24,budget,1363911,1363911,100000000.0,0.0136391060179873,2021-01-08,https://en.wikipedia.org/wiki/Solo_Brathuke_So_Better,"infobox ₹10 Cr vs body 'reportedly ₹20 crore' (kept stored 10); only a 3-day gross ₹12.4 Cr WW (partial, not stored)",4,7
+601249,tt10300380,Sangathamizhan,2019-11-15,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Sangathamizhan,label=flop at the box-office,4,8
+633559,tt10767976,Fatteshikast,2019-11-15,revenue,795202,795202,56500000.0,0.0140743738959097,2019-11-07,https://en.wikipedia.org/wiki/Fatteshikast,scope=worldwide; 'decent opening' is not a verdict,4,8
+677285,tt8810990,Kiss,2019-09-27,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Kiss_(2019_film),label=commercial success,4,8
+611754,tt9742334,Brochevarevarura,2019-06-28,budget,725313,725313,50000000.0,0.0145062510424938,2019-06-28,https://en.wikipedia.org/wiki/Brochevarevarura,budget range ₹3–7 Cr -> midpoint 5; no verdict sentence,4,9
+611754,tt9742334,Brochevarevarura,2019-06-28,revenue,2901250,2901250,200000000.0,0.0145062510424938,2019-06-28,https://en.wikipedia.org/wiki/Brochevarevarura,scope=worldwide; budget range ₹3–7 Cr -> midpoint 5; no verdict sentence,4,9
+594673,tt8108268,The Tashkent Files,2019-04-12,budget,1083410,1083410,75000000.0,0.0144454633374733,2019-04-12,https://en.wikipedia.org/wiki/The_Tashkent_Files,BH lifetime 17.21 Cr,4,9
+594673,tt8108268,The Tashkent Files,2019-04-12,revenue,3010435,3010435,208400000.0,0.0144454633374733,2019-04-12,https://en.wikipedia.org/wiki/The_Tashkent_Files,scope=worldwide; BH lifetime 17.21 Cr,4,9
+594673,tt8108268,The Tashkent Files,2019-04-12,hit_flop_avg,,hit,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/,label=Semi-Hit (BH); 'performed strongly' (Wiki),4,9
+589510,tt8984634,Mera Naam Shaji,2019-04-05,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Mera_Naam_Shaji,label=an average run at the box office,4,9
+585862,tt8550208,Romeo Akbar Walter,2019-03-15,revenue,7777088,7777088,534799999.99999994,0.014542049760356,2019-03-21,https://en.wikipedia.org/wiki/Romeo_Akbar_Walter,scope=worldwide; BH lifetime 38.83 Cr; Wiki has no verdict,4,10
+585862,tt8550208,Romeo Akbar Walter,2019-03-15,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/,label=Flop (BH),4,10
+521714,tt3996396,Yatra,2019-02-08,budget,1682201,1682201,120000000.0,0.0140183418898657,2019-02-07,https://en.wikipedia.org/wiki/Yatra_(2019_film),Wiki internally conflicts: infobox ₹14.30 Cr vs body ₹28.5 Cr WW gross and ₹15.8 Cr distributors' share; verdict 'did not perform well' vs 'performed decently' — left NULL; revenue flagged,4,10
+521714,tt3996396,Yatra,2019-02-08,revenue,2004623,2004623,143000000.0,0.0140183418898657,2019-02-07,https://en.wikipedia.org/wiki/Yatra_(2019_film),scope=worldwide; Wiki internally conflicts: infobox ₹14.30 Cr vs body ₹28.5 Cr WW gross and ₹15.8 Cr distributors' share; verdict 'did not perform well' vs 'performed decently' — left NULL; revenue flagged,4,10
+535169,tt8107464,Amar Akbar Anthony,2018-10-26,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Amar_Akbar_Anthony_(2018_film),label=box office flop,4,10
+523277,tt5474036,Manmarziyaan,2018-09-14,revenue,5584357,5584357,403900000.0,0.0138260877688127,2018-09-23,https://en.wikipedia.org/wiki/Manmarziyaan,scope=worldwide; BH lifetime 27.09 Cr; Wiki has no verdict,4,10
+523277,tt5474036,Manmarziyaan,2018-09-14,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/,label=Flop (BH),4,10
+499789,tt7589670,Chalo,2018-02-02,revenue,3728853,3728853,240000000.0,0.015536887960422,2018-02-09,https://en.wikipedia.org/wiki/Chalo,"scope=worldwide; budget conflict: Wiki ₹3 Cr (stored) vs Sakshi Post ₹10–10.5 Cr — left as is, flagged",4,11
+499789,tt7589670,Chalo,2018-02-02,hit_flop_avg,,hit,,,,https://www.sakshipost.com/2018s-hit-telugu-movies-so-far,"label=listed in '2018's Hit Telugu Movies', 'path-breaking success' (Sakshi Post)",4,11
+433121,tt6237966,Thaanaa Serndha Koottam,2018-01-12,revenue,14175854,14175854,900000000.0,0.0157509488855109,2018-01-08,https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam,scope=worldwide; ₹90 Cr 'as of 25 Jan 2018' per Wiki; no explicit verdict,4,11
+456218,tt7060460,Theeran Adhigaaram Ondru,2017-11-17,revenue,14936610,14936610,970000000.0,0.0153985670173944,2017-11-17,https://en.wikipedia.org/wiki/Theeran_Adhigaaram_Ondru,"scope=worldwide; lead says ₹96 Cr, infobox/body ₹97 Cr",4,11
+456218,tt7060460,Theeran Adhigaaram Ondru,2017-11-17,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Theeran_Adhigaaram_Ondru,label=major commercial success,4,11
+611519,tt6577710,Saheba,2017-08-25,revenue,1406286,1406286,90000000.0,0.0156253955354228,2017-08-25,https://en.wikipedia.org/wiki/Saheba_(film),"scope=worldwide; infobox est. ₹90 million; budget field is broken/commented markup ('25 million.-->'), not stored",4,12
+465099,tt6996016,Ninnu Kori,2017-07-07,budget,2785383,2785383,180000000.0,0.0154743480838275,2017-07-07,https://en.wikipedia.org/wiki/Ninnu_Kori,,4,12
+465099,tt6996016,Ninnu Kori,2017-07-07,revenue,8093084,8093084,523000000.0,0.0154743480838275,2017-07-07,https://en.wikipedia.org/wiki/Ninnu_Kori,scope=worldwide,4,12
+465099,tt6996016,Ninnu Kori,2017-07-07,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Ninnu_Kori,label=commercially successful,4,12
+452250,tt6723182,Sivalinga,2017-04-14,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Sivalinga_(2017_film),label=commercial success,4,12
+413588,tt2137241,Rock On 2,2016-11-11,budget,6605136,6605136,450000000.0,0.0146780809289155,2016-11-18,https://en.wikipedia.org/wiki/Rock_On_2,,4,13
+413588,tt2137241,Rock On 2,2016-11-11,revenue,2304459,2304459,157000000.0,0.0146780809289155,2016-11-18,https://en.wikipedia.org/wiki/Rock_On_2,scope=worldwide,4,13
+413588,tt2137241,Rock On 2,2016-11-11,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Rock_On_2,label=Disaster (BOI via Wiki); unsuccessful,4,13
+422930,tt5679718,Welcome to Central Jail,2016-09-09,budget,,972108,65000000.0,0.0149555135795515,2016-09-09,https://en.wikipedia.org/wiki/Welcome_to_Central_Jail,budget from Box office section,4,13
+422930,tt5679718,Welcome to Central Jail,2016-09-09,revenue,3798700,3798700,254000000.0,0.0149555135795515,2016-09-09,https://en.wikipedia.org/wiki/Welcome_to_Central_Jail,scope=worldwide; budget from Box office section,4,13
+422930,tt5679718,Welcome to Central Jail,2016-09-09,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Welcome_to_Central_Jail,label=commercial success / commercial hit,4,13
+411054,tt5889462,Guppy,2016-08-05,budget,464426,464426,31000000.0,0.0149814987696553,2016-08-11,https://en.wikipedia.org/wiki/Guppy_(film),no box office figure,4,14
+411054,tt5889462,Guppy,2016-08-05,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Guppy_(film),label=moderate performance in the box office,4,14
+370986,tt4974356,Akhil,2015-11-11,budget,7561709,7561709,500000000.0,0.0151234172437939,2015-11-11,https://en.wikipedia.org/wiki/Akhil_(film),,4,15
+370986,tt4974356,Akhil,2015-11-11,revenue,5089030,5089030,336500000.0,0.0151234172437939,2015-11-11,https://en.wikipedia.org/wiki/Akhil_(film),scope=worldwide,4,15
+370986,tt4974356,Akhil,2015-11-11,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Akhil_(film),label=commercial failure,4,15
+364795,tt5137380,Kanche,2015-10-22,budget,2771816,2771816,180000000.0,0.0153989763369033,2015-10-22,https://en.wikipedia.org/wiki/Kanche,₹20 Cr is global gross (share ₹14 Cr),4,15
+364795,tt5137380,Kanche,2015-10-22,revenue,3079795,3079795,200000000.0,0.0153989763369033,2015-10-22,https://en.wikipedia.org/wiki/Kanche,scope=worldwide; ₹20 Cr is global gross (share ₹14 Cr),4,15
+364795,tt5137380,Kanche,2015-10-22,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Kanche,label=declared a commercial success,4,15
+378270,tt5021536,Kendasampige,2015-09-11,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Kendasampige,label=commercial success,4,15
+302431,tt1239276,Rang Rasiya,2014-11-07,budget,,1954439,120000000.0,0.0162869877725056,2014-11-07,https://en.wikipedia.org/wiki/Rang_Rasiya,Wiki 'reportedly grossed ₹4.8 crore in India'; BH lifetime 4.8 Cr; Wiki has no verdict,4,16
+302431,tt1239276,Rang Rasiya,2014-11-07,revenue,,781775,48000000.0,0.0162869877725056,2014-11-07,https://en.wikipedia.org/wiki/Rang_Rasiya,scope=india_gross; Wiki 'reportedly grossed ₹4.8 crore in India'; BH lifetime 4.8 Cr; Wiki has no verdict,4,16
+302431,tt1239276,Rang Rasiya,2014-11-07,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/,label=Flop (BH),4,16
+191741,tt2638104,Biriyani,2013-12-18,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Biriyani_(film),label=commercial success and recovered its budget,4,16
+239793,tt3329774,Thira,2013-11-14,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Thira_(film),label=commercial failure,4,16
+223212,tt2416294,Rabba Main Kya Karoon,2013-08-02,revenue,,178389,10900000.0,0.0163659630587974,2013-08-02,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,scope=india_net; Hindi film (DB says english); BH lifetime 1.09 Cr,4,17
+223212,tt2416294,Rabba Main Kya Karoon,2013-08-02,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/,label=Flop (BH),4,17
+191805,tt2793930,Maryan,2013-07-19,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Maryan_(film),label=declared as a box office hit,4,17
+145335,tt1842347,Damarukam,2012-11-23,budget,6303499,6303499,350000000.0,0.0180099964124383,2012-11-23,https://en.wikipedia.org/wiki/Damarukam,'grossing over ₹71 crore' (distributors' share ₹40.85 Cr not used),4,18
+145335,tt1842347,Damarukam,2012-11-23,revenue,,12787097,710000000.0,0.0180099964124383,2012-11-23,https://en.wikipedia.org/wiki/Damarukam,scope=worldwide; 'grossing over ₹71 crore' (distributors' share ₹40.85 Cr not used),4,18
+145335,tt1842347,Damarukam,2012-11-23,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Damarukam,label=commercial success,4,18
+129848,tt2845796,Attakathi,2012-08-15,budget,606144,606144,33750000.0,0.0179598324418987,2012-08-15,https://en.wikipedia.org/wiki/Attakathi,budget range ₹1.75–5 Cr -> midpoint 3.375,4,18
+129848,tt2845796,Attakathi,2012-08-15,revenue,1436787,1436787,80000000.0,0.0179598324418987,2012-08-15,https://en.wikipedia.org/wiki/Attakathi,scope=worldwide; budget range ₹1.75–5 Cr -> midpoint 3.375,4,18
+129848,tt2845796,Attakathi,2012-08-15,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Attakathi,label=critical and commercial success,4,18
+150979,tt2232524,Mere Dost Picture Abhi Baki Hai,2012-07-20,revenue,,25328,1400000.0000000002,0.0180916227727893,2012-07-20,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,scope=india_net; BH lifetime 0.14 Cr; Wikipedia has nothing,4,18
+150979,tt2232524,Mere Dost Picture Abhi Baki Hai,2012-07-20,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop (BH),4,18
+189549,tt2327389,Life Ki Toh Lag Gayi,2012-04-20,revenue,61450,61450,3200000.0,0.0192030722102586,2012-04-20,https://en.wikipedia.org/wiki/Life_Ki_Toh_Lag_Gayi,scope=worldwide; Wiki ₹0.32 Cr = BH lifetime 0.32 Cr,4,18
+189549,tt2327389,Life Ki Toh Lag Gayi,2012-04-20,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop (BH),4,18
+106507,tt2347289,Bittoo Boss,2012-04-13,revenue,384061,384061,20000000.0,0.0192030722102586,2012-04-20,https://en.wikipedia.org/wiki/Bittoo_Boss,scope=india_net; Wiki ₹20 million (net); BH lifetime 2.12 Cr; Wiki has no verdict,4,19
+106507,tt2347289,Bittoo Boss,2012-04-13,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/,label=Flop (BH),4,19
+140998,tt2290543,Nidra,2012-02-24,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Nidra_(2012_film),label=commercial failure,4,19
+256024,tt2905606,Vishnuvardhana,2011-12-08,revenue,1353100,1353100,70000000.0,0.01933,2011-12-08,https://en.wikipedia.org/wiki/Vishnuvardhana_(film),scope=unknown; infobox ₹7 Cr (gross/net not stated); no verdict,4,19
+78444,tt2032530,Shabri,2011-11-08,revenue,,74899,3700000.0,0.0202429143545059,2011-11-08,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,scope=india_net; BH lifetime 0.37 Cr; Wikipedia has nothing,4,20
+78444,tt2032530,Shabri,2011-11-08,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop (BH),4,20
+81271,tt1503640,Damadamm!,2011-10-27,revenue,,218345,10700000.0,0.0204060821547738,2011-10-27,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,scope=india_net; BH lifetime 1.07 Cr; Wikipedia has nothing,4,20
+81271,tt1503640,Damadamm!,2011-10-27,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop (BH),4,20
+78439,tt2084863,Jo Dooba So Paar: It's Love in Bihar!,2011-10-14,revenue,,57260,2800000.0000000005,0.0204498977505112,2011-10-14,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,scope=india_net; Hindi film (DB says english); BH lifetime 0.28 Cr,4,20
+78439,tt2084863,Jo Dooba So Paar: It's Love in Bihar!,2011-10-14,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/,label=Flop (BH),4,20
+151661,tt2042633,Pranayam,2011-08-31,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Pranayam_(2011_film),label=average at the box office,4,20

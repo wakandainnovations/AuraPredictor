@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1064247, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia no figures/verdict; sacnilk blank, verdict N/A"},
+ {"tmdb_movie_id": 968609, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 899712, "budget_inr_crore": 8, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Hit (sacnilk)",
+  "sources": {"budget": "https://sacnilk.com/movie/Connect_2022", "verdict": "https://sacnilk.com/movie/Connect_2022"},
+  "notes": "stored revenue = Wiki ₹20 Cr but its citation is a day-2 article; sacnilk WW ₹15.57 Cr 'till 12 Jan 2023' (running, not stored) — revenue flagged"},
+ {"tmdb_movie_id": 863539, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Gold_(2022_Indian_film)"}, "notes": "no figures on Wikipedia"},
+ {"tmdb_movie_id": 1004554, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kalaga_Thalaivan"}, "notes": "sacnilk only early India gross 5.72 Cr (running, not stored)"}
+]

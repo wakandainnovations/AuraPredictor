@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1681086, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada; no figures/verdict found (Filmibeat 'TBA')"},
+ {"tmdb_movie_id": 302431, "budget_inr_crore": 12, "revenue_inr_crore": 4.8, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Rang_Rasiya", "revenue": "https://en.wikipedia.org/wiki/Rang_Rasiya", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"}, "notes": "Wiki 'reportedly grossed ₹4.8 crore in India'; BH lifetime 4.8 Cr; Wiki has no verdict"},
+ {"tmdb_movie_id": 303980, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Bengali; Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 191741, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success and recovered its budget",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Biriyani_(film)"}, "notes": "no figures on Wikipedia (its box-office source flagged as possibly unreliable)"},
+ {"tmdb_movie_id": 239793, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Thira_(film)"}, "notes": "no figures on Wikipedia"}
+]

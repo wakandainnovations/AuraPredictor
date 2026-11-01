@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 798159, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Disney+ Hotstar); no box office"},
+ {"tmdb_movie_id": 755431, "budget_inr_crore": null, "revenue_inr_crore": 9.7, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "big flop (Gulte)",
+  "sources": {"revenue": "https://sacnilk.com/movie/Maha_Samudram_2021", "verdict": "https://www.gulte.com/movienews/130362/sorry-for-not-reaching-your-expectations-ajay-bhupathi/amp"}, "notes": "sacnilk WW gross 9.70 Cr, figures till 28 Oct 2021 (run ended, 'failed to run even a week'); sacnilk budget ~25 Cr 'approx' not stored"},
+ {"tmdb_movie_id": 653457, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "direct-to-streaming (Netflix / JioCinema); no box office"},
+ {"tmdb_movie_id": 713235, "budget_inr_crore": 10, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Solo_Brathuke_So_Better"}, "notes": "infobox ₹10 Cr vs body 'reportedly ₹20 crore' (kept stored 10); only a 3-day gross ₹12.4 Cr WW (partial, not stored)"},
+ {"tmdb_movie_id": 749032, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "anthology, direct-to-streaming (Amazon Prime Video); no box office"}
+]

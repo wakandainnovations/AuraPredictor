@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 449785, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict"},
+ {"tmdb_movie_id": 413588, "budget_inr_crore": 45, "revenue_inr_crore": 15.7, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Disaster (BOI via Wiki); unsuccessful",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Rock_On_2", "revenue": "https://en.wikipedia.org/wiki/Rock_On_2", "verdict": "https://en.wikipedia.org/wiki/Rock_On_2"}, "notes": ""},
+ {"tmdb_movie_id": 417977, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wikipedia has no figures or verdict; stored tmdb budget left"},
+ {"tmdb_movie_id": 422930, "budget_inr_crore": 6.5, "revenue_inr_crore": 25.4, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success / commercial hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Welcome_to_Central_Jail", "revenue": "https://en.wikipedia.org/wiki/Welcome_to_Central_Jail", "verdict": "https://en.wikipedia.org/wiki/Welcome_to_Central_Jail"}, "notes": "budget from Box office section"},
+ {"tmdb_movie_id": 410508, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki has only opening-day ₹7 Cr and US-only gross; 'Super hit' only in a US-weekend citation headline — not used; stored tmdb revenue left"}
+]
