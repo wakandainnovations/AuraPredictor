@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 647788, "budget_inr_crore": null, "revenue_inr_crore": 0.001, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/"}, "notes": "BH 'Chehere' 28 Aug 2015: lifetime nett ₹0.001 Cr, Flop"},
+ {"tmdb_movie_id": 260778, "budget_inr_crore": null, "revenue_inr_crore": 28, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://filmibeat.com/tamil/news/2015/highest-grossing-tamil-movies-of-2015-top-20-films-box-office-207245.html"}, "notes": "Wiki blank; filmibeat 2015 top-20: 'collected 28 Crores' (scope not stated); no verdict"},
+ {"tmdb_movie_id": 327915, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; not in filmibeat 2015 top 20"},
+ {"tmdb_movie_id": 330421, "budget_inr_crore": null, "revenue_inr_crore": 100, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Papanasam_(film)"}, "notes": "Wiki gross est. ₹100 Cr WW (matches stored); filmibeat Dec 2015 says ₹57.83 Cr WW (conflict flagged, left); no verdict"},
+ {"tmdb_movie_id": 344823, "budget_inr_crore": 15, "revenue_inr_crore": 28.2, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Pandaga_Chesko", "revenue": "https://en.wikipedia.org/wiki/Pandaga_Chesko", "verdict": "https://en.wikipedia.org/wiki/Pandaga_Chesko"}, "notes": "Wiki budget ₹15 Cr (tagged 'failed verification'), gross ₹28.2 Cr (share ₹15.44 Cr not used); both match stored"}
+]

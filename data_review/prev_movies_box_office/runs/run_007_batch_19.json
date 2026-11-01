@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 253584, "budget_inr_crore": 25, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Autonagar_Surya"}, "notes": "Wiki budget ₹25 Cr (matches stored); only first-weekend nett ₹6.85 Cr; no verdict"},
+ {"tmdb_movie_id": 253513, "budget_inr_crore": 25, "revenue_inr_crore": 40, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercially successful",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Heart_Attack_(2014_film)", "revenue": "https://en.wikipedia.org/wiki/Heart_Attack_(2014_film)", "verdict": "https://en.wikipedia.org/wiki/Heart_Attack_(2014_film)"}, "notes": "Wiki budget ₹25 Cr, gross est. ₹40 Cr (match stored)"},
+ {"tmdb_movie_id": 253535, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "one of the biggest commercial successes of 2014 in Malayalam",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/1983_(film)"}, "notes": "Wiki no figures"},
+ {"tmdb_movie_id": 126318, "budget_inr_crore": null, "revenue_inr_crore": 0.49, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"}, "notes": "BH India nett ₹0.49 Cr, Flop"},
+ {"tmdb_movie_id": 448802, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no box office; 'would've been a disaster' is a review remark"}
+]

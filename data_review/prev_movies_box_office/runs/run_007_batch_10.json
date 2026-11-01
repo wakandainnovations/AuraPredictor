@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 361249, "budget_inr_crore": null, "revenue_inr_crore": 6.9, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Nil_Battey_Sannata"}, "notes": "Wiki gross ₹69 million (BH WW; matches stored); verdict conflict: Wiki 'commercial success' vs BH Flop (nett ₹4.82 Cr) → NULL"},
+ {"tmdb_movie_id": 394078, "budget_inr_crore": null, "revenue_inr_crore": 0.66, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "Wiki blank; BH India nett ₹0.66 Cr, Flop"},
+ {"tmdb_movie_id": 419381, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; one search found nothing"},
+ {"tmdb_movie_id": 387100, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BH 2016"},
+ {"tmdb_movie_id": 385238, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: '₹6.54 Cr by 6 April 2016' (running total, not stored); no verdict"}
+]

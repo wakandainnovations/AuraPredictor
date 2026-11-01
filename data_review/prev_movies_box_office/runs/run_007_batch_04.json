@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 495121, "budget_inr_crore": null, "revenue_inr_crore": 50, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "box office Hit",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Jai_Simha", "verdict": "https://en.wikipedia.org/wiki/Jai_Simha"}, "notes": "Wiki gross est. ₹50 Cr (matches stored)"},
+ {"tmdb_movie_id": 485869, "budget_inr_crore": 25, "revenue_inr_crore": 70, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Middle_Class_Abbayi", "revenue": "https://en.wikipedia.org/wiki/Middle_Class_Abbayi", "verdict": "https://en.wikipedia.org/wiki/Middle_Class_Abbayi"}, "notes": "Wiki Middle_Class_Abbayi: budget ₹25 Cr, WW gross ₹70 Cr (distributors' share ₹40 Cr not used); both match stored"},
+ {"tmdb_movie_id": 194522, "budget_inr_crore": null, "revenue_inr_crore": 0.6, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/"}, "notes": "Wiki no figures; BH India nett ₹0.6 Cr, Flop"},
+ {"tmdb_movie_id": 489200, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "turning out to be a blockbuster hit",
+  "sources": {"verdict": "https://www.thenewsminute.com/flix/pa-ranjith-attends-special-screening-kannada-film-college-kumar-72331"}, "notes": "Wiki no figures; no collection figures found (sacnilk College Kumar page is the 2020 remake)"},
+ {"tmdb_movie_id": 479192, "budget_inr_crore": null, "revenue_inr_crore": 0.64, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/"}, "notes": "Wiki no figures; BH India nett ₹0.64 Cr, Flop"}
+]

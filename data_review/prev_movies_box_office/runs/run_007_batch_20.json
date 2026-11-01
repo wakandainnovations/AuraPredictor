@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 233015, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no box office; BOM $552K is overseas only; 'flopped' only in an IMDb user review; stored tmdb budget $3.8M unverified, left"},
+ {"tmdb_movie_id": 241123, "budget_inr_crore": 42, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.m9.news/movienews/bhai-a-disappointment-at-the-box-office/"}, "notes": "m9: 'said to be made on a budget of Rs.42 crore'; only opening-day figures; 'damp squib'/'unlikely to break even' after day 1 is not a final verdict"},
+ {"tmdb_movie_id": 241165, "budget_inr_crore": null, "revenue_inr_crore": 0.057, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/"}, "notes": "BH India nett ₹0.057 Cr, Flop"},
+ {"tmdb_movie_id": 303264, "budget_inr_crore": null, "revenue_inr_crore": 0.15, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/"}, "notes": "BH India nett ₹0.15 Cr, Flop"},
+ {"tmdb_movie_id": 244492, "budget_inr_crore": null, "revenue_inr_crore": 32, "revenue_scope": "india_gross", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Sringaravelan", "verdict": "https://en.wikipedia.org/wiki/Sringaravelan"}, "notes": "Wiki ₹32 Cr Kerala final run (matches stored)"}
+]

@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 371676, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; 'underperformed' is not a verdict"},
+ {"tmdb_movie_id": 1416339, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank"},
+ {"tmdb_movie_id": 378970, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox ₹5.5 Cr is a 21-day total (partial); stored value equals it, flagged, left"},
+ {"tmdb_movie_id": 330414, "budget_inr_crore": 40, "revenue_inr_crore": 28, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office bomb (filmibeat: 'a disaster')",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/10_Endrathukulla", "revenue": "https://en.wikipedia.org/wiki/10_Endrathukulla", "verdict": "https://en.wikipedia.org/wiki/10_Endrathukulla"}, "notes": "Wiki budget ₹40 Cr (matches stored), gross est. ₹28 Cr; filmibeat Dec 2015 says ₹35 Cr (conflict, Wiki used)"},
+ {"tmdb_movie_id": 456983, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank"}
+]

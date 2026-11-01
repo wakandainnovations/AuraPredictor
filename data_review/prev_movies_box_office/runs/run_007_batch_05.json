@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 483839, "budget_inr_crore": 15, "revenue_inr_crore": 20, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "moderate box office success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vunnadhi_Okate_Zindagi", "revenue": "https://en.wikipedia.org/wiki/Vunnadhi_Okate_Zindagi", "verdict": "https://en.wikipedia.org/wiki/Vunnadhi_Okate_Zindagi"}, "notes": "Wiki budget ₹15 Cr, gross est. ₹20 Cr (match stored; body says ₹20 Cr in 10 days)"},
+ {"tmdb_movie_id": 459698, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no box office; filmibeat only 3-day Kerala ₹6.84 Cr (partial); verdict conflict (filmibeat Kerala 'hit' vs South First 'sank') left NULL; sacnilk ₹0.00"},
+ {"tmdb_movie_id": 466147, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; only BOM partial US $13,125 found"},
+ {"tmdb_movie_id": 493817, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank, no box office section"},
+ {"tmdb_movie_id": 458032, "budget_inr_crore": null, "revenue_inr_crore": 1.92, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/"}, "notes": "Wiki no figures; BH India nett ₹1.92 Cr, Flop"}
+]

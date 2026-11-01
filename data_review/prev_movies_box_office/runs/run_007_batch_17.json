@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 328370, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success; 100-day run",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Drishya"}, "notes": "Wiki no figures"},
+ {"tmdb_movie_id": 323488, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; 'bound to be an average performer' is a review prediction"},
+ {"tmdb_movie_id": 227057, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kotha_Janta"}, "notes": "Stored revenue (≈₹7.5 Cr) is the Wiki distributors' share, not gross — flagged, left"},
+ {"tmdb_movie_id": 263428, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank"},
+ {"tmdb_movie_id": 262119, "budget_inr_crore": null, "revenue_inr_crore": 70, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Legend_(2014_film)"}, "notes": "Wiki gross ₹70 Cr (matches stored); 'highest grosser of his career' is a ranking, no verdict"}
+]

@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 556907, "budget_inr_crore": null, "revenue_inr_crore": 24.77, "revenue_scope": "india_net", "verdict": "avg", "verdict_label": "Average",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"}, "notes": "Wiki infobox blank; BH India lifetime nett ₹24.77 Cr, Average"},
+ {"tmdb_movie_id": 462718, "budget_inr_crore": null, "revenue_inr_crore": 5.5, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "critical and commercial success; sleeper hit",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Pariyerum_Perumal", "verdict": "https://en.wikipedia.org/wiki/Pariyerum_Perumal"}, "notes": "Wiki body: 'collected ₹5.5 Cr in its lifetime' (share ₹3.5 Cr not used); scope not stated"},
+ {"tmdb_movie_id": 493107, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Saamy_Square"}, "notes": "Wiki Saamy_Square: infobox blank, 'became a box office failure'; not on sacnilk; BOI down"},
+ {"tmdb_movie_id": 552436, "budget_inr_crore": null, "revenue_inr_crore": 28, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Blockbuster (BOI, cited by Wiki)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Qismat", "verdict": "https://en.wikipedia.org/wiki/Qismat"}, "notes": "Wiki gross est. ₹28 Cr WW (matches stored); verdict per Wiki-cited BOI article 'Qismat is a Blockbuster'"},
+ {"tmdb_movie_id": 545426, "budget_inr_crore": null, "revenue_inr_crore": 33, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "blockbuster; commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Varathan", "verdict": "https://en.wikipedia.org/wiki/Varathan"}, "notes": "Wiki gross est. ₹33 Cr WW (matches stored)"}
+]

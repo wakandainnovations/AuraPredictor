@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 273866, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki only first-day TN ₹3.35 Cr"},
+ {"tmdb_movie_id": 338694, "budget_inr_crore": 3, "revenue_inr_crore": 7, "revenue_scope": "unknown", "verdict": "avg", "verdict_label": "moderate hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chandrettan_Evideya", "revenue": "https://en.wikipedia.org/wiki/Chandrettan_Evideya", "verdict": "https://en.wikipedia.org/wiki/Chandrettan_Evideya"}, "notes": "Wiki budget ₹3 Cr, gross ₹7 Cr (match stored); 'moderate hit' mapped like 'moderate success' → avg"},
+ {"tmdb_movie_id": 280168, "budget_inr_crore": null, "revenue_inr_crore": 50, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://filmibeat.com/tamil/news/2015/highest-grossing-tamil-movies-of-2015-top-20-films-box-office-207245.html"}, "notes": "Wiki only 4-day TN; filmibeat 2015 top-20: 'collecting 50 Crore rupees' (scope not stated); 'biggest opening' is a ranking"},
+ {"tmdb_movie_id": 318572, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; not in filmibeat 2015 top 20; stored tmdb budget $3.9M unverified, left"},
+ {"tmdb_movie_id": 282593, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "an average venture at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Belli_(film)"}, "notes": "Wiki no figures"}
+]

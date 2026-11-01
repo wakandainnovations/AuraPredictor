@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 280049, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Saagasam: infobox blank; Sify 'average entertainer' is a review, not a verdict"},
+ {"tmdb_movie_id": 398892, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Viraat_(film)"}, "notes": "Wiki infobox blank"},
+ {"tmdb_movie_id": 367778, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no box office; IBTimes/filmibeat only 2–4 day partials"},
+ {"tmdb_movie_id": 368012, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; only 2–4 day partials found"},
+ {"tmdb_movie_id": 368017, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Thanga_Magan_(2015_film)"}, "notes": "Wiki infobox blank"}
+]

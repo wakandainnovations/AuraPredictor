@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 260619, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "settling an 'above average' verdict",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Cuckoo_(2014_film)"}, "notes": "Wiki ₹62 lakh is an opening figure (not stored)"},
+ {"tmdb_movie_id": 464881, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no box office"},
+ {"tmdb_movie_id": 255421, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no box office; filmibeat 'good business in opening weekend' only"},
+ {"tmdb_movie_id": 267369, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank"},
+ {"tmdb_movie_id": 251636, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no box office; 'did not perform well' is not a verdict"}
+]

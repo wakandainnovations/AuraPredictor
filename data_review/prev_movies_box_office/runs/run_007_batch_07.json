@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 463677, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "listed in 'Hit Kannada Films in 2017'",
+  "sources": {"verdict": "https://www.sakshipost.com/hit-kannada-films-in-2017"}, "notes": "Wiki infobox blank; no figures found"},
+ {"tmdb_movie_id": 1100062, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank, no box office section"},
+ {"tmdb_movie_id": 425380, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki only opening day / US weekend partials; stored tmdb budget $524K unverified, left"},
+ {"tmdb_movie_id": 418621, "budget_inr_crore": null, "revenue_inr_crore": 0.18, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "Wiki blank; BH India nett ₹0.18 Cr, Flop"},
+ {"tmdb_movie_id": 409255, "budget_inr_crore": 20, "revenue_inr_crore": 37.95, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "super hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Premam_(2016_film)", "revenue": "https://www.ibtimes.co.in/premam-total-worldwide-box-office-collection-naga-chaitanya-film-fails-cross-rs-100-crore-mark-706121", "verdict": "https://onmanorama.com/entertainment/entertainment-news/premam-telugu-super-hit-naga-chaitanya-director-chandoo.html"}, "notes": "Wiki budget ₹20 Cr (matches stored), Wiki infobox gross ₹37.95 Cr = IBTimes lifetime WW gross; AP7AM WW share ₹21.52 Cr not used"}
+]

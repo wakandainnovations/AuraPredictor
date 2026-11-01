@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 522564, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; not in BH 2014"},
+ {"tmdb_movie_id": 264327, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; one search found nothing"},
+ {"tmdb_movie_id": 286988, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank"},
+ {"tmdb_movie_id": 651878, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Anthology of student shorts; no box office; stored tmdb budget $1,400 left"},
+ {"tmdb_movie_id": 284837, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office blockbuster success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Run_Raja_Run"}, "notes": "Stored revenue (≈₹12 Cr) is the Wiki distributors' share, not gross — flagged, left"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 243708, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no box office figures/verdict"},
+ {"tmdb_movie_id": 418589, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki Jigarthanda_(2016_film): no box office"},
+ {"tmdb_movie_id": 369094, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; verdict conflict (Wiki 'average collections' vs other source 'box office failure') left NULL; The Numbers overseas $42,540 only; stored tmdb budget $2M unverified, left"},
+ {"tmdb_movie_id": 392569, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Aadupuliyattam"}, "notes": "Wiki: ₹15.42 Cr Kerala 'within 50 days' (running total, not stored)"},
+ {"tmdb_movie_id": 396378, "budget_inr_crore": 15, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Supreme_(film)", "verdict": "https://en.wikipedia.org/wiki/Supreme_(film)"}, "notes": "Wiki budget ₹15 Cr (matches stored); no gross"}
+]

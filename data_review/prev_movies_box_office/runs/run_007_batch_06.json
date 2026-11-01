@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 449342, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; only BOM UAE $88,327 found; reviews mixed, no verdict"},
+ {"tmdb_movie_id": 495360, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; not on Sakshi 2017 Kannada hits list"},
+ {"tmdb_movie_id": 440974, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki box office: only '25 days in theatres', no figures/verdict"},
+ {"tmdb_movie_id": 439057, "budget_inr_crore": null, "revenue_inr_crore": 60, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "declared a blockbuster",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Nenu_Local", "verdict": "https://en.wikipedia.org/wiki/Nenu_Local"}, "notes": "Wiki gross est. ₹60 Cr (matches stored)"},
+ {"tmdb_movie_id": 413882, "budget_inr_crore": 27, "revenue_inr_crore": 39.23, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BOI via Wiki; BH Flop)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ok_Jaanu", "revenue": "https://en.wikipedia.org/wiki/Ok_Jaanu", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/"}, "notes": "Wiki budget ₹27 Cr, gross ₹39.23 Cr (match stored); BH nett ₹23.64 Cr Flop"}
+]

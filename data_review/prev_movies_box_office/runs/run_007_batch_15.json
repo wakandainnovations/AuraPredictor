@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 303732, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "a hit at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Pilla_Nuvvu_Leni_Jeevitham"}, "notes": "Stored revenue (≈₹11 Cr) is the Wiki distributors' share, not gross — flagged, left"},
+ {"tmdb_movie_id": 280959, "budget_inr_crore": 20, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kaaviya_Thalaivan_(2014_film)"}, "notes": "Wiki budget ₹20 Cr (matches stored); no gross/verdict"},
+ {"tmdb_movie_id": 295590, "budget_inr_crore": 30, "revenue_inr_crore": 41, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "an average grosser",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Govindudu_Andarivadele", "revenue": "https://en.wikipedia.org/wiki/Govindudu_Andarivadele", "verdict": "https://en.wikipedia.org/wiki/Govindudu_Andarivadele"}, "notes": "Wiki budget ₹30 Cr, gross est. ₹41 Cr (match stored)"},
+ {"tmdb_movie_id": 280948, "budget_inr_crore": 15, "revenue_inr_crore": 44, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Madras_(film)", "revenue": "https://en.wikipedia.org/wiki/Madras_(film)"}, "notes": "Wiki budget ₹15 Cr, gross ₹44 Cr (match stored); no verdict stated"},
+ {"tmdb_movie_id": 302130, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank; stored tmdb revenue $1M unverified, left"}
+]

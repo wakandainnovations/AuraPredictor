@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 415714, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no box office; one search found no figures/verdict"},
+ {"tmdb_movie_id": 415007, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox ₹15.25 Cr = Kerala gross after 25 days (partial running total); stored value equals it, flagged, left"},
+ {"tmdb_movie_id": 411601, "budget_inr_crore": 7.1, "revenue_inr_crore": 20.2, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Srirastu_Subhamastu", "revenue": "https://en.wikipedia.org/wiki/Srirastu_Subhamastu", "verdict": "https://en.wikipedia.org/wiki/Srirastu_Subhamastu"}, "notes": "Wiki budget ₹7.1 Cr, gross est. ₹20.2 Cr (match stored)"},
+ {"tmdb_movie_id": 408633, "budget_inr_crore": null, "revenue_inr_crore": 0.65, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/White_(2016_film)"}, "notes": "Wiki gross 65 lakh (matches stored); no verdict"},
+ {"tmdb_movie_id": 691255, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox blank"}
+]
