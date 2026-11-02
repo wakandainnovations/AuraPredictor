@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 1005167, "budget_inr_crore": null, "budget_usd": 1500000, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chhalla_Mud_Ke_Nahi_Aaya"}, "notes": "Wiki budget $1.5 million (confirms stored); only opening-weekend overseas figures; sacnilk 7 days only (India gross ₹5.04 Cr) — partial, not stored; no verdict"},
+ {"tmdb_movie_id": 927909, "budget_inr_crore": 70, "revenue_inr_crore": 36.90, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/The_Warriorr", "revenue": "https://en.wikipedia.org/wiki/The_Warriorr", "verdict": "https://en.wikipedia.org/wiki/The_Warriorr"}, "notes": "Wiki budget ₹70 Cr, est. gross ₹36.90 Cr, 'became a box-office bomb'"},
+ {"tmdb_movie_id": 965653, "budget_inr_crore": null, "revenue_inr_crore": 20.33, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Khuda_Haafiz:_Chapter_2_%E2%80%93_Agni_Pariksha", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "Wiki gross ₹20.33 Cr (confirms stored); BH 2022 Flop (lifetime ₹14.33 Cr); Wiki no verdict; no budget"},
+ {"tmdb_movie_id": 657997, "budget_inr_crore": 15, "revenue_inr_crore": 50, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Super Hit",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Kaduva_2022", "revenue": "https://en.wikipedia.org/wiki/Kaduva", "verdict": "https://www.sacnilk.com/movie/Kaduva_2022"}, "notes": "sacnilk budget ₹15.00 Cr, verdict Super Hit; Wiki 'one of successful ventures' agrees; Wiki gross ₹50 Cr confirms stored. FLAG: sacnilk WW ₹44.93 Cr over 36 days vs Wiki 'over ₹50 Cr' — Wiki kept"},
+ {"tmdb_movie_id": 882416, "budget_inr_crore": 15, "revenue_inr_crore": 65, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Yaanai", "revenue": "https://en.wikipedia.org/wiki/Yaanai", "verdict": "https://en.wikipedia.org/wiki/Yaanai"}, "notes": "Wiki budget ₹15 Cr, gross ₹65 Cr, 'became a commercial success'"}
+]

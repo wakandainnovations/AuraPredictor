@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 584270, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; The Numbers $2,605 / IMDb $9,774 overseas fragments only"},
+ {"tmdb_movie_id": 564181, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 676542, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "absolute disaster / biggest flop",
+  "sources": {"verdict": "https://www.sakshipost.com/entertainment/2019/03/08/ntr-mahanayakudu-biggest-box-office-disaster"}, "notes": "Sakshi: 'absolute disaster … biggest flop in Balayya's career'; its budget '≈₹200 Cr' is for both biopic parts and its total (text ₹7 Cr vs table ₹4.34 Cr, after 2 weeks) conflicts — not stored; Wiki only opening weekend ₹3.4 Cr; DB date 2019-02-06, released 22 Feb 2019"},
+ {"tmdb_movie_id": 412865, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; filmibeat only day 1–4 Kerala multiplex figures"},
+ {"tmdb_movie_id": 579397, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 933833, "budget_inr_crore": 5, "revenue_inr_crore": 14.05, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit / commercial success",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Kooman_2022", "revenue": "https://www.sacnilk.com/movie/Kooman_2022", "verdict": "https://www.sacnilk.com/movie/Kooman_2022"}, "notes": "sacnilk WW ₹14.05 Cr over 35 days (till 8 Dec 2022; India gross ₹10.05 Cr + overseas ₹4.00 Cr), budget ₹5.00 Cr, verdict Hit; Wiki 'commercial success' agrees"},
+ {"tmdb_movie_id": 931132, "budget_inr_crore": 5, "revenue_inr_crore": 46.5, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jaya_Jaya_Jaya_Jaya_Hey", "revenue": "https://en.wikipedia.org/wiki/Jaya_Jaya_Jaya_Jaya_Hey", "verdict": "https://en.wikipedia.org/wiki/Jaya_Jaya_Jaya_Jaya_Hey"}, "notes": "Wiki body: 'made on a budget of ₹5 crores'; infobox gross est. ₹43–50 Cr → midpoint 46.5; 'was a blockbuster at the box office'"},
+ {"tmdb_movie_id": 968602, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict (aha from 3 Dec 2022); sacnilk only day 1 (India gross ₹12 L) — partial, Disaster on 1-day data ignored"},
+ {"tmdb_movie_id": 969797, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Amazon Prime Video, 6 Oct 2022) — no box office"},
+ {"tmdb_movie_id": 1064843, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Totapuri: Chapter 1) no figures/verdict; no sacnilk page"}
+]

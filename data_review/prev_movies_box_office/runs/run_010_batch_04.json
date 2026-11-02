@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 785664, "budget_inr_crore": 30, "revenue_inr_crore": 35.60, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "Above Average",
+  "sources": {"budget": "https://sacnilk.com/movie/Naane_Varuven_2021", "revenue": "https://sacnilk.com/movie/Naane_Varuven_2021", "verdict": "https://sacnilk.com/movie/Naane_Varuven_2021"}, "notes": "sacnilk WW ₹35.60 Cr over 29 days (till 27 Oct 2022; India gross ₹29.60 Cr + overseas ₹6.00 Cr), budget ₹30.00 Cr, verdict Above Average; Wiki only day-1 figure, no verdict"},
+ {"tmdb_movie_id": 921106, "budget_inr_crore": 20, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Aa_Ammayi_Gurinchi_Meeku_Cheppali", "verdict": "https://en.wikipedia.org/wiki/Aa_Ammayi_Gurinchi_Meeku_Cheppali"}, "notes": "Wiki budget ₹20 Cr (confirms stored), 'was a box-office bomb'; sacnilk only 7 days (WW ₹1.47 Cr) — partial, not stored. FLAG: sacnilk budget ₹10.00 Cr vs Wiki ₹20 Cr"},
+ {"tmdb_movie_id": 894762, "budget_inr_crore": 15, "revenue_inr_crore": 121.50, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "major commercial success / sleeper hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Karthikeya_2", "revenue": "https://en.wikipedia.org/wiki/Karthikeya_2", "verdict": "https://en.wikipedia.org/wiki/Karthikeya_2"}, "notes": "Wiki budget ₹15 Cr (other estimates up to ₹30 Cr in efn), WW gross ₹121.50 Cr (distributors' share ₹58.50 Cr), 'major commercial success'"},
+ {"tmdb_movie_id": 784940, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Disney+ Hotstar, 29 Jul 2022) — no box office"},
+ {"tmdb_movie_id": 866437, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "The Quarrel = Vazhakku; Wiki no figures/verdict (festival film, no tracked theatrical run)"}
+]

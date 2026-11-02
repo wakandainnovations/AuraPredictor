@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 791779, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Amazon Prime Video, 7 Apr 2021) — no box office"},
+ {"tmdb_movie_id": 799492, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Anthology; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 800046, "budget_inr_crore": null, "revenue_inr_crore": 5.40, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Chaavu_Kaburu_Challaga", "verdict": "https://en.wikipedia.org/wiki/Chaavu_Kaburu_Challaga"}, "notes": "Wiki gross ₹5.40 Cr (confirms stored), 'was a commercial failure'; no budget"},
+ {"tmdb_movie_id": 587186, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Disney+ Hotstar, 12 Mar 2021) — no box office"},
+ {"tmdb_movie_id": 676159, "budget_inr_crore": null, "revenue_inr_crore": 1.30, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Inspector_Vikram_2021", "verdict": "https://www.sacnilk.com/movie/Inspector_Vikram_2021"}, "notes": "sacnilk India gross ₹1.30 Cr over 21 days (till 25 Feb 2021; overseas '—'), verdict Flop; Wiki no figures/verdict"}
+]

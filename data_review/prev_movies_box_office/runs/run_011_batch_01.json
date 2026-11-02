@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 591086, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; 'released to average response' refers to reception, not a box-office verdict; no sacnilk page"},
+ {"tmdb_movie_id": 592114, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox budget/gross empty (the ₹16 Cr est. gross is the 2017 prequel's); The Numbers $167,777 is overseas-only; no verdict"},
+ {"tmdb_movie_id": 591244, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki only opening-weekend figures (India ₹2.51 Cr, overseas ₹2.25 Cr) — partial; The Numbers $270,348 overseas-only; no verdict"},
+ {"tmdb_movie_id": 599029, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 581640, "budget_inr_crore": null, "revenue_inr_crore": 25, "revenue_scope": "india_gross", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Kodathi_Samaksham_Balan_Vakeel", "verdict": "https://en.wikipedia.org/wiki/Kodathi_Samaksham_Balan_Vakeel"}, "notes": "Wiki: 'a commercial success, grossing over ₹25 crore from Kerala' (Kerala-only lifetime, lower bound; plus US $47,728, NZ ₹5.91 L not added); no budget"}
+]

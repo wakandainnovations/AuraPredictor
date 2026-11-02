@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 397488, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 413640, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 390329, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "English-language anthology (Tribeca 2016) — no Indian box office"},
+ {"tmdb_movie_id": 1295274, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article — likely a short / campaign film"},
+ {"tmdb_movie_id": 391329, "budget_inr_crore": 10.5, "revenue_inr_crore": 32, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/King_Liar", "revenue": "https://en.wikipedia.org/wiki/King_Liar"}, "notes": "Wiki budget ₹10.5 Cr, gross ₹32 Cr (Manorama; confirm stored); no verdict"}
+]

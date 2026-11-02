@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 993711, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Voot Select, 30 Jun 2022, per Wiki citing New Indian Express) — no box office"},
+ {"tmdb_movie_id": 765019, "budget_inr_crore": 120, "revenue_inr_crore": 140.13, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "Average",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jugjugg_Jeeyo", "revenue": "https://en.wikipedia.org/wiki/Jugjugg_Jeeyo", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "Wiki budget ₹120 Cr, WW ₹140.13 Cr, 'performed average'; BH 2022 Average (lifetime ₹85.03 Cr)"},
+ {"tmdb_movie_id": 972830, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk no data"},
+ {"tmdb_movie_id": 866439, "budget_inr_crore": null, "revenue_inr_crore": 1.8, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Vaashi_(2022_film)"}, "notes": "Wiki gross ₹1.8 Cr (confirms stored); no budget/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 678999, "budget_inr_crore": 85, "revenue_inr_crore": 26.31, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jayeshbhai_Jordaar", "revenue": "https://en.wikipedia.org/wiki/Jayeshbhai_Jordaar", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "Wiki budget ₹85 Cr, est. gross ₹26.31 Cr; BH 2022 Flop (lifetime ₹15.59 Cr); Wiki no verdict"}
+]

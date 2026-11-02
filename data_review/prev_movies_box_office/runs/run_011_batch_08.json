@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1008301, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Short film released on YouTube (20 Mar 2018) — no box office"},
+ {"tmdb_movie_id": 510333, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: 'performed poorly at the box office' — not a verdict; no figures"},
+ {"tmdb_movie_id": 499588, "budget_inr_crore": null, "revenue_inr_crore": 25, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "successful … commercially",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Aapla_Manus", "verdict": "https://en.wikipedia.org/wiki/Aapla_Manus"}, "notes": "Wiki: 'successful both critically and commercially … completed theatrical run with collection of ₹25 crore' (confirms stored); no budget"},
+ {"tmdb_movie_id": 468799, "budget_inr_crore": 3, "revenue_inr_crore": 4.5, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "sleeper hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dandupalya_3", "revenue": "https://en.wikipedia.org/wiki/Dandupalya_3", "verdict": "https://en.wikipedia.org/wiki/Dandupalya_3"}, "notes": "Wiki budget ₹3 Cr, gross ₹4.5 Cr (confirm stored); 'emerged as a sleeper hit at box office'; released 16 Mar 2018 (DB 2018-02-02)"},
+ {"tmdb_movie_id": 464670, "budget_inr_crore": null, "revenue_inr_crore": 50, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "major commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Aadhi", "verdict": "https://en.wikipedia.org/wiki/Aadhi"}, "notes": "Wiki: 'grossed ₹50 Crore from the box office worldwide' (confirms stored); 'a major commercial success'; no budget"}
+]

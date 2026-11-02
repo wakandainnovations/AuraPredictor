@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 512534, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office failure / disaster",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/NOTA_(film)"}, "notes": "Wiki lead 'a box-office failure', body 'a disaster at the box office'. Infobox gross ₹25.50 Cr is the first-weekend worldwide gross ('on the first weekend') — stored revenue ≈ it, running total, flagged, left; Wiki budget field empty (stored $8.1M unverified)"},
+ {"tmdb_movie_id": 441717, "budget_inr_crore": 8, "revenue_inr_crore": 50, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/%2796_(film)", "revenue": "https://en.wikipedia.org/wiki/%2796_(film)", "verdict": "https://en.wikipedia.org/wiki/%2796_(film)"}, "notes": "Wiki ('96) budget ₹8 Cr, gross ₹50 Cr (both confirm stored); 'The film's commercial success also led to…'"},
+ {"tmdb_movie_id": 531729, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 552963, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 415193, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Imaikkaa_Nodigal"}, "notes": "Wiki lead: 'was a commercial success'; no figures"}
+]

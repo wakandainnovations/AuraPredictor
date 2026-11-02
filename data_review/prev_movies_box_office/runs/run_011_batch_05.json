@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 561347, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 567792, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 560805, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 726821, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article, not in BH 2018 table — likely a short / non-theatrical title"},
+ {"tmdb_movie_id": 538858, "budget_inr_crore": 5, "revenue_inr_crore": 15.46, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Tumbbad", "revenue": "https://en.wikipedia.org/wiki/Tumbbad", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"}, "notes": "Wiki budget ₹5 Cr (BOI-cited, confirms stored). Revenue corrected: stored ≈₹38 Cr is the 2024 re-release gross → initial 2018 run ₹15.46 Cr (Wiki infobox, BOI-cited). BH 2018 India lifetime nett ₹13.57 Cr, Flop; Wiki no verdict for the original run"}
+]

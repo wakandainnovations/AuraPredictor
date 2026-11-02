@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 66503, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Raana_(2022_film)"}, "notes": "Wiki: 'became an average grosser at the box office'; no figures; sacnilk no data (default Disaster ignored)"},
+ {"tmdb_movie_id": 915831, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Netflix, 11 Nov 2022) — no box office"},
+ {"tmdb_movie_id": 977673, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Theatrical; Wiki no figures/verdict; not in BH 2022 table; sacnilk no data"},
+ {"tmdb_movie_id": 899425, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk only 2 days (India gross ₹50 L till 5 Nov 2022) — partial, not stored"},
+ {"tmdb_movie_id": 903142, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; one search found nothing tied to the title"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 889114, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict (Disney+ Hotstar from 20 May 2022); no sacnilk page"},
+ {"tmdb_movie_id": 677300, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk no data (default Disaster ignored)"},
+ {"tmdb_movie_id": 681169, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hit Punjabi cinema); no sacnilk page"},
+ {"tmdb_movie_id": 928618, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk only day 1 (₹35 L) — partial, not stored"},
+ {"tmdb_movie_id": 803666, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (SonyLIV, 17 Mar 2022) — no box office"}
+]

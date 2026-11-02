@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 891354, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk page has no data"},
+ {"tmdb_movie_id": 1055536, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Disney+ Hotstar, 1 Dec 2022; remake of Dejavu) — no box office"},
+ {"tmdb_movie_id": 927325, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/1744_White_Alto"}, "notes": "Wiki: 'became a box office bomb'; no figures; sacnilk no data (default Disaster ignored)"},
+ {"tmdb_movie_id": 974466, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (SonyLIV, 18 Nov 2022) — no box office"},
+ {"tmdb_movie_id": 1129607, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Malayalam version of bilingual Yugi; Wiki no figures; sacnilk India gross ₹24 L only till release day (partial, not stored); sacnilk Disaster on 1-day data ignored"}
+]

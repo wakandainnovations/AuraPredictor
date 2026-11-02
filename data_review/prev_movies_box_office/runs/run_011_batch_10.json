@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 439128, "budget_inr_crore": 10, "revenue_inr_crore": 15, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Newton_(film)", "revenue": "https://en.wikipedia.org/wiki/Newton_(film)"}, "notes": "Wiki budget ₹10 Cr, gross ₹15 Cr (confirm stored); verdict conflict: Wiki 'commercial success' vs BH 2017 Average (lifetime nett ₹22.80 Cr) → NULL"},
+ {"tmdb_movie_id": 512507, "budget_inr_crore": 1.35, "revenue_inr_crore": 3.9, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vitamin_She", "revenue": "https://en.wikipedia.org/wiki/Vitamin_She"}, "notes": "Wiki budget ₹1.35 Cr, gross ₹3.9 Cr (confirm stored); '7th highest grossing Gujarati film' is a ranking, not a verdict"},
+ {"tmdb_movie_id": 456756, "budget_inr_crore": 15, "revenue_inr_crore": 9.85, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bank_Chor", "revenue": "https://en.wikipedia.org/wiki/Bank_Chor", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/"}, "notes": "Wiki budget ₹15 Cr, gross ₹9.85 Cr (BOI-cited; confirm stored); BH 2017 Flop (lifetime nett ₹7.32 Cr); Wiki no verdict"},
+ {"tmdb_movie_id": 412991, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "first hit film",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Rangoon_(2017_Tamil_film)"}, "notes": "Wiki: 'The film turned out to be the first hit film for Gautham Karthik'; no figures"},
+ {"tmdb_movie_id": 458641, "budget_inr_crore": 20, "revenue_inr_crore": 50, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "box office success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Rarandoi_Veduka_Chudham", "revenue": "https://en.wikipedia.org/wiki/Rarandoi_Veduka_Chudham", "verdict": "https://en.wikipedia.org/wiki/Rarandoi_Veduka_Chudham"}, "notes": "Wiki budget ₹20 Cr; 'total gross of ₹50 Crores and a share of ₹28 Crores worldwide in its lifetime run' (confirm stored); 'termed a box office success'"}
+]

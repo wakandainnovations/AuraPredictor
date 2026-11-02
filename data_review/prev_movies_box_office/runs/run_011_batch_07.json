@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 544758, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 278358, "budget_inr_crore": null, "revenue_inr_crore": 50, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Vishwaroopam_II"}, "notes": "Wiki infobox est. gross ₹50 Cr (Times of India); 'one of the highest grossing Tamil films of 2018' is a ranking, not a verdict; no budget"},
+ {"tmdb_movie_id": 440792, "budget_inr_crore": null, "revenue_inr_crore": 1.63, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"}, "notes": "BH 2018 India lifetime nett ₹1.63 Cr, Flop; Wiki (Beyond the Clouds (2017 film)) no figures/verdict"},
+ {"tmdb_movie_id": 1577409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article"},
+ {"tmdb_movie_id": 611321, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"}
+]

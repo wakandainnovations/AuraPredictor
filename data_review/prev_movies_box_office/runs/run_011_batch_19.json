@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 1132070, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article"},
+ {"tmdb_movie_id": 357708, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Size Zero, Telugu-Tamil bilingual) no figures/verdict"},
+ {"tmdb_movie_id": 369865, "budget_inr_crore": 2.8, "revenue_inr_crore": 18, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chhello_Divas", "revenue": "https://en.wikipedia.org/wiki/Chhello_Divas", "verdict": "https://en.wikipedia.org/wiki/Chhello_Divas"}, "notes": "Wiki budget ₹2.8 Cr, 'a commercial success and grossed ₹18 crore' (both confirm stored)"},
+ {"tmdb_movie_id": 368373, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki only 14-day gross ₹2.85 Cr — partial; no verdict"},
+ {"tmdb_movie_id": 339043, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Canadian English-language film; Wiki no figures/verdict"}
+]

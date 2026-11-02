@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 389231, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "blockbuster hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Ambarsariya"}, "notes": "Wiki: 'Film was blockbuster hit with a box office collection of ₹7 crore from four-day run in India'. Infobox est. gross ₹24.88 Cr is cited to a BOI article of 4 Apr 2016 ('Continues Strong Run', day 10) — running total; stored value equals it, flagged, left; no budget"},
+ {"tmdb_movie_id": 386587, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; stored tmdb $360,000 unverified"},
+ {"tmdb_movie_id": 408014, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "sleeper hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Guntur_Talkies"}, "notes": "Wiki: 'released on 4 March 2016 and was a sleeper hit'; no figures"},
+ {"tmdb_movie_id": 370870, "budget_inr_crore": null, "revenue_inr_crore": 2.5, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "BH 2016 India lifetime nett ₹2.5 Cr, Flop; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 381418, "budget_inr_crore": 19.5, "revenue_inr_crore": 16.03, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "commercial failure in its first release / Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sanam_Teri_Kasam_(2016_film)", "revenue": "https://en.wikipedia.org/wiki/Sanam_Teri_Kasam_(2016_film)", "verdict": "https://en.wikipedia.org/wiki/Sanam_Teri_Kasam_(2016_film)"}, "notes": "Wiki budget ₹14–25 Cr → midpoint 19.5 (confirms stored). Revenue corrected: stored ≈₹41 Cr is the 2025 re-release gross → initial-run ₹16.03 Cr (Wiki infobox, BH-cited). 'a commercial failure in its first release'; BH 2016 Flop (lifetime nett ₹9.11 Cr) agrees"}
+]

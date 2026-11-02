@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1107029, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits are the 2003 film The Hero: Love Story of a Spy — different film); not in BH 2016 table"},
+ {"tmdb_movie_id": 397365, "budget_inr_crore": null, "revenue_inr_crore": 28.7, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Madaari_(2016_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "Wiki infobox gross ₹287 million (BOI-cited) replaces tmdb $4.2M (≈₹28 Cr); BH 2016 Flop (lifetime nett ₹18.07 Cr); Wiki no verdict; DB date 2016-06-10, BH release 22 Jul 2016"},
+ {"tmdb_movie_id": 318579, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "above average success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Idhu_Namma_Aalu_(2016_film)"}, "notes": "Wiki: 'became an above average success at the box office'; no figures"},
+ {"tmdb_movie_id": 401947, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 371429, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article found (Maruthu (film) / (2016 film) missing)"}
+]

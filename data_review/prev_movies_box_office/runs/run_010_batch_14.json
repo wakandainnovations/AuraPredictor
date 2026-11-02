@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 766426, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (aha, 20 Nov 2020) — no box office"},
+ {"tmdb_movie_id": 738567, "budget_inr_crore": null, "revenue_inr_crore": 4.32, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Suraj_Pe_Mangal_Bhari", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2020/"}, "notes": "Wiki est. gross ₹4.32 Cr (confirms stored); BH 2020 Flop (lifetime ₹3.90 Cr); Wiki no verdict; no budget"},
+ {"tmdb_movie_id": 764245, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 764667, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Dhira (film)) no figures/verdict"},
+ {"tmdb_movie_id": 595228, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Amazon Prime Video, 12 Nov 2020) — no box office"}
+]

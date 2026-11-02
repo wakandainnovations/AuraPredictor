@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 458926, "budget_inr_crore": 1.5, "revenue_inr_crore": 8, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Karsandas_Pay_%26_Use", "revenue": "https://en.wikipedia.org/wiki/Karsandas_Pay_%26_Use"}, "notes": "Wiki infobox est. budget ₹1.5 Cr (new); 'grossed over ₹8 crore in total' (confirms stored); no verdict"},
+ {"tmdb_movie_id": 462682, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: 'received a huge response at the box office' — not a verdict; no figures"},
+ {"tmdb_movie_id": 405684, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki only first-weekend TN gross (₹12 Cr) and US $313,227 — partial; no verdict"},
+ {"tmdb_movie_id": 447458, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 443653, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"}
+]

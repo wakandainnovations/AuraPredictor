@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 516063, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "huge flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Raju_Kannada_Medium"}, "notes": "Wiki: 'S Sivaraman of The Hindu stated Raju Kannada Medium is a huge flop'; no figures"},
+ {"tmdb_movie_id": 456289, "budget_inr_crore": 35, "revenue_inr_crore": 86, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "box office success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Velaikkaran_(2017_film)", "revenue": "https://en.wikipedia.org/wiki/Velaikkaran_(2017_film)", "verdict": "https://en.wikipedia.org/wiki/Velaikkaran_(2017_film)"}, "notes": "Wiki budget ₹35 Cr, 'collected over ₹86 crore at the worldwide box office and was declared a box office success' (both confirm stored)"},
+ {"tmdb_movie_id": 494480, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Aadu_2"}, "notes": "Wiki: 'a commercial success at the box office'; only opening-weekend Kerala ₹13 Cr and UAE 3-week $548,189 (partial)"},
+ {"tmdb_movie_id": 493274, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 615344, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Hampi (film)) no figures/verdict"}
+]

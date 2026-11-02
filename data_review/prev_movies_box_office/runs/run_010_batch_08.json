@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 855397, "budget_inr_crore": 75, "revenue_inr_crore": 71.40, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Etharkkum_Thunindhavan", "revenue": "https://sacnilk.com/movie/Suriya_40_2021", "verdict": "https://sacnilk.com/movie/Suriya_40_2021"}, "notes": "Wiki budget ₹75 Cr (confirms stored). Revenue corrected: stored ≈₹135.7 Cr was the midpoint of Wiki's '₹71.4–200 Cr' range, which combines two sources (Hindustan Times ₹71.40 Cr vs Telegraph ₹200 Cr) → sacnilk WW ₹71.40 Cr over 36 days (till 14 Apr 2022; India gross ₹57.40 Cr + overseas ₹14.00 Cr), matching HT. sacnilk verdict Flop; Wiki no verdict. FLAG: sacnilk budget ₹60 Cr vs Wiki ₹75 Cr (Wiki kept)"},
+ {"tmdb_movie_id": 804309, "budget_inr_crore": 15, "revenue_inr_crore": 88.1, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Blockbuster",
+  "sources": {"budget": "https://sacnilk.com/movie/Bheeshma_Parvam_2021", "revenue": "https://en.wikipedia.org/wiki/Bheeshma_Parvam", "verdict": "https://sacnilk.com/movie/Bheeshma_Parvam_2021"}, "notes": "Wiki est. gross ₹88.1 Cr (confirms stored; sacnilk WW ₹88.20 Cr over 36 days agrees); sacnilk budget ₹15.00 Cr, verdict Blockbuster; Wiki no verdict"},
+ {"tmdb_movie_id": 897525, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Disney+ Hotstar, 17 Feb 2022) — no box office"},
+ {"tmdb_movie_id": 911645, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Amazon Prime Video, 11 Feb 2022) — no box office"},
+ {"tmdb_movie_id": 591108, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk no data"}
+]

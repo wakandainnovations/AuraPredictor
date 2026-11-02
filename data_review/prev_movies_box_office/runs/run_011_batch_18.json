@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 460562, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 376998, "budget_inr_crore": null, "revenue_inr_crore": 40.1, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Nenu_Sailaja", "verdict": "https://en.wikipedia.org/wiki/Nenu_Sailaja"}, "notes": "Wiki est. gross ₹40.1 Cr (IBTimes 'final total WW collections'; confirms stored); 'This film was a commercial success'; no budget"},
+ {"tmdb_movie_id": 713115, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the film (search hits are people named Zoya)"},
+ {"tmdb_movie_id": 280877, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1773169, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"}
+]

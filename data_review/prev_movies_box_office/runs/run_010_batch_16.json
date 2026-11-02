@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 714338, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Netflix, 24 Jun 2020) — no box office"},
+ {"tmdb_movie_id": 617251, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Vaanam Kottattum) no figures/verdict; sacnilk no data; BOM only overseas ~$20.5K"},
+ {"tmdb_movie_id": 504409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk no data"},
+ {"tmdb_movie_id": 413135, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2019 sequel (search hit the 1980 original); no figures found"},
+ {"tmdb_movie_id": 649487, "budget_inr_crore": 72, "revenue_inr_crore": 49.17, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Pagalpanti_(2019_film)", "revenue": "https://en.wikipedia.org/wiki/Pagalpanti_(2019_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"}, "notes": "Wiki budget ₹72 Cr, est. gross ₹49.17 Cr (confirm stored); BH 2019 Flop (lifetime ₹33.01 Cr); Wiki no verdict"}
+]

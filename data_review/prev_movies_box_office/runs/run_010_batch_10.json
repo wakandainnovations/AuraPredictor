@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 801518, "budget_inr_crore": null, "revenue_inr_crore": 4.5, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Lakshya_(2021_film)"}, "notes": "Wiki gross ₹4.5 Cr (confirms stored; tagged 'citation needed'); no budget/verdict"},
+ {"tmdb_movie_id": 690907, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; one search found nothing"},
+ {"tmdb_movie_id": 891479, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Disney+ Hotstar, 19 Nov 2021) — no box office"},
+ {"tmdb_movie_id": 842992, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki only day-1 gross ₹1.25 Cr; sacnilk 7 days only (till 18 Nov 2021; header totals inconsistent) — partial, not stored"},
+ {"tmdb_movie_id": 878470, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk 7 days only (till 18 Nov 2021; India net ₹2.65 Cr > 'gross' ₹65 L, inconsistent) — partial, not stored"}
+]

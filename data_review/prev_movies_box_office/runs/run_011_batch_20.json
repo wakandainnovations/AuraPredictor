@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 371231, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki only 2-day Kerala gross ₹1.22 Cr — partial; no verdict"},
+ {"tmdb_movie_id": 315009, "budget_inr_crore": 70, "revenue_inr_crore": 84, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Rudhramadevi_(film)", "revenue": "https://en.wikipedia.org/wiki/Rudhramadevi_(film)", "verdict": "https://en.wikipedia.org/wiki/Rudhramadevi_(film)"}, "notes": "Budget corrected: tmdb $7.5M (≈₹49 Cr) → Wiki ₹60–80 Cr midpoint 70; 'The film grossed ₹84 crore worldwide' (confirms stored); 'turned out to be a success'"},
+ {"tmdb_movie_id": 377668, "budget_inr_crore": null, "revenue_inr_crore": 33.95, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Subramanyam_for_Sale"}, "notes": "Wiki est. gross ₹33.95 Cr (IBTimes 'final gross'; confirms stored); no verdict; no budget"},
+ {"tmdb_movie_id": 346667, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 495142, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Charlie (2015 Kannada film)) no figures/verdict"}
+]

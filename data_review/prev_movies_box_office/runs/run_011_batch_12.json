@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 441547, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BH 2017 table"},
+ {"tmdb_movie_id": 848910, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1061043, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Short film (Wiki: 'this short film') — no box office"},
+ {"tmdb_movie_id": 502403, "budget_inr_crore": null, "revenue_inr_crore": 0.04, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "BH 2016 India lifetime nett ₹0.04 Cr, Flop; Wiki no figures"},
+ {"tmdb_movie_id": 671626, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Short film (Wiki: 'a 2016 Hindi dark comedy short film') — no box office"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 865497, "budget_inr_crore": 25, "revenue_inr_crore": 66, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bangarraju", "revenue": "https://en.wikipedia.org/wiki/Bangarraju", "verdict": "https://www.sacnilk.com/movie/Bangaraju_2022"}, "notes": "Wiki budget ₹25 Cr, gross ₹66 Cr (confirm stored); sacnilk verdict Hit (WW ₹61.80 Cr over 42 days); Wiki no verdict"},
+ {"tmdb_movie_id": 889595, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 414177, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: Tamil version premiered directly on streaming (Astro Vaanavil, mid-2022); no figures/verdict"},
+ {"tmdb_movie_id": 618911, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Disney+ Hotstar, 24 Dec 2021) — no box office"},
+ {"tmdb_movie_id": 755836, "budget_inr_crore": 40, "revenue_inr_crore": 41.23, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chandigarh_Kare_Aashiqui", "revenue": "https://en.wikipedia.org/wiki/Chandigarh_Kare_Aashiqui", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2021/"}, "notes": "Wiki budget ₹40 Cr, gross ₹41.23 Cr (confirm stored); BH 2021 Flop (lifetime ₹28.26 Cr); Wiki no verdict"}
+]

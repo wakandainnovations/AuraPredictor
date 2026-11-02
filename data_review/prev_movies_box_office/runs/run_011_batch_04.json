@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 578432, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Birbal Trilogy) no figures/verdict"},
+ {"tmdb_movie_id": 565688, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 497227, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Seethakaathi) no figures/verdict; 'becomes a success' is in the plot"},
+ {"tmdb_movie_id": 565277, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kavacham_(2018_film)"}, "notes": "Wiki lead: 'became a commercial failure'; no figures"},
+ {"tmdb_movie_id": 572931, "budget_inr_crore": null, "revenue_inr_crore": 11, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Mulshi_Pattern"}, "notes": "Wiki infobox gross ₹11 Cr (Times Now) confirms stored; 'After the success of' (sequel section) not a clear box-office verdict; no budget"}
+]

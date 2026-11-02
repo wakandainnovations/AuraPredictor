@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 801505, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk only early-run figures, inconsistent across its pages — partial, not stored"},
+ {"tmdb_movie_id": 951904, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 858333, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Amazon Prime Video, 14 Oct 2021) — no box office"},
+ {"tmdb_movie_id": 860878, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Qismat 2) no figures/verdict; sacnilk WW ₹25.50 Cr is a 15-day total (till 7 Oct 2021; day-wise table India gross ₹11.60 Cr vs header ₹17.40 Cr) — partial, not stored. FLAG: stored tmdb revenue $4.7M (≈₹35 Cr) not confirmed by any source"},
+ {"tmdb_movie_id": 811938, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Disney+ Hotstar, 17 Sep 2021) — no box office"}
+]

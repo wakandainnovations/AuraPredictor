@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 695951, "budget_inr_crore": 25, "revenue_inr_crore": 8.26, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chehre", "revenue": "https://en.wikipedia.org/wiki/Chehre", "verdict": "https://en.wikipedia.org/wiki/Chehre"}, "notes": "Wiki budget ₹25 Cr, gross ₹8.26 Cr (confirm stored), 'was a box office disaster'; BH 2021 verdict 'Pending' (lifetime ₹2.55 Cr) — no conflict"},
+ {"tmdb_movie_id": 795141, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Ichata Vahanamulu Niluparadu) no figures/verdict"},
+ {"tmdb_movie_id": 590397, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Disney+ Hotstar, 13 Aug 2021) — no box office"},
+ {"tmdb_movie_id": 796011, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Amazon Prime Video, 22 Jul 2021) — no box office"},
+ {"tmdb_movie_id": 665133, "budget_inr_crore": 27, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Malik_(2021_film)"}, "notes": "Wiki infobox budget ₹27 Cr (confirms stored; body says 'estimated ₹25 crore'); direct-to-streaming (Amazon Prime Video, 15 Jul 2021) — no box office"}
+]

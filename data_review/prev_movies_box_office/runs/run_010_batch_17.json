@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 585561, "budget_inr_crore": 8.5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.dtnext.in/entertainment/cinema/balas-varma-to-have-a-digital-release"}, "notes": "DT Next (10 Dec 2019): 'made on a budget of Rs 8.5 crore'; 'theatrical collection came up to Rs 6 crore' (scope unclear, ~3 weeks in — not stored); 'commercially viable venture' not a clear verdict → NULL; Wiki only opening weekend ₹6.86 Cr"},
+ {"tmdb_movie_id": 622478, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 705244, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict. FLAG: stored tmdb revenue $5,780 is Box Office Mojo's UAE-only gross (11 theatres), not the film's total — left (apply can't null)"},
+ {"tmdb_movie_id": 719665, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 657457, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"}
+]

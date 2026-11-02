@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 422592, "budget_inr_crore": null, "revenue_inr_crore": 25, "revenue_scope": "unknown", "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Ism_(film)", "verdict": "https://en.wikipedia.org/wiki/Ism_(film)"}, "notes": "Wiki infobox est. gross ₹250 million (IBTimes 2016 top-25 list; confirms stored); 'became an average grosser at the box office'; no budget"},
+ {"tmdb_movie_id": 433618, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kavi_Uddheshichathu..%3F"}, "notes": "Wiki: 'completed 50 days at the Kerala box office and went on to become an average hit' → avg; no figures"},
+ {"tmdb_movie_id": 408475, "budget_inr_crore": 11, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Devi_(2016_film)", "verdict": "https://en.wikipedia.org/wiki/Devi_(2016_film)"}, "notes": "Wiki (Devi (2016 film)) budget ₹11 Cr (BOI-cited; confirms stored); 'Devi and Abhinetri were commercial successes'; no gross"},
+ {"tmdb_movie_id": 419245, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 496635, "budget_inr_crore": null, "revenue_inr_crore": 1.99, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "BH 2016 India lifetime nett ₹1.99 Cr, Flop; Wiki no figures"}
+]

@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 579681, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 577745, "budget_inr_crore": 15, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Seetharama_Kalyana"}, "notes": "Wiki budget ₹15 Cr (confirms stored); infobox gross ₹20 Cr is cited to a dead '7th day total / first weekend' article — running total, stored value equals it, flagged, left; no verdict"},
+ {"tmdb_movie_id": 580386, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; stored tmdb $21,100 unverified"},
+ {"tmdb_movie_id": 569494, "budget_inr_crore": null, "revenue_inr_crore": 0.53, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"}, "notes": "BH 2019 India lifetime nett ₹0.53 Cr, Flop (replaces tmdb $77,275 — close); Wiki only opening week ₹52 L nett"},
+ {"tmdb_movie_id": 573257, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Mikhael_(film)"}, "notes": "Wiki lead: 'became an \"average grosser\" at the box office'; no figures"}
+]
