@@ -1,0 +1,49 @@
+[
+ {
+  "tmdb_movie_id": 69508,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Mappillai_(2011_film)"
+  },
+  "notes": "Wiki 'a decent hit at the box office'; only opening-weekend figure",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 729156,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict (review wording only)"
+ },
+ {
+  "tmdb_movie_id": 57010,
+  "budget_inr_crore": 4,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Ala_Modalaindi",
+   "verdict": "https://en.wikipedia.org/wiki/Ala_Modalaindi"
+  },
+  "notes": "Wiki budget ₹4 Cr (confirms); 'became a commercial success'; FLAG: stored revenue ≈₹15 Cr = infobox estimated distributors' share, left",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 92209,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Marathi; no Wiki article"
+ },
+ {
+  "tmdb_movie_id": 554287,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; not in BH table"
+ }
+]

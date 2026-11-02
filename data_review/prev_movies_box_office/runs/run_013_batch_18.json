@@ -1,0 +1,54 @@
+[
+ {
+  "tmdb_movie_id": 605796,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Marathi; Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 280323,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Pandurangadu"
+  },
+  "notes": "Wiki 'became a box office bomb'",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 84967,
+  "budget_inr_crore": 1,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Twenty:20_(film)"
+  },
+  "notes": "Wiki budget ₹10 million (nowrunning-cited; confirms stored); FLAG: stored tmdb revenue $4.8M unverified (Wiki only first-week ₹7.54 Cr gross, Kerala share ₹10.5 Cr); no stated verdict"
+ },
+ {
+  "tmdb_movie_id": 41911,
+  "budget_inr_crore": 3,
+  "revenue_inr_crore": 0.555,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Sirf_(film)",
+   "revenue": "https://en.wikipedia.org/wiki/Sirf_(film)"
+  },
+  "notes": "Wiki budget ₹3 Cr, gross '₹55,50 lakh' = ₹0.555 Cr (both confirm); not in BH table",
+  "revenue_scope": "unknown"
+ },
+ {
+  "tmdb_movie_id": 69515,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Yaaradi_Nee_Mohini"
+  },
+  "notes": "Wiki 'became highly successful at the box office'",
+  "verdict_label": "hit"
+ }
+]

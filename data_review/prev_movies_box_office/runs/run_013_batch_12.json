@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 22159,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki search matched the 2008 US 'Bachelor Party 2' — not used; not in BH table"
+ },
+ {
+  "tmdb_movie_id": 152357,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 21826,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict; not in BH table"
+ },
+ {
+  "tmdb_movie_id": 21823,
+  "budget_inr_crore": 6,
+  "revenue_inr_crore": 2.57,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Quick_Gun_Murugun",
+   "revenue": "https://en.wikipedia.org/wiki/Quick_Gun_Murugun",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/"
+  },
+  "notes": "Wiki budget ₹60 million, gross ₹25.7 million (both confirm); BH 2009 Flop (nett ₹1.87 Cr)",
+  "revenue_scope": "unknown",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 48528,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Punjabi; no Wiki article"
+ }
+]

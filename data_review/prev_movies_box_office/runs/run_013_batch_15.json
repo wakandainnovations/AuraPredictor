@@ -1,0 +1,50 @@
+[
+ {
+  "tmdb_movie_id": 1324937,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (short film)"
+ },
+ {
+  "tmdb_movie_id": 59262,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 6,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Ek:_The_Power_of_One",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/"
+  },
+  "notes": "Wiki gross ₹6 Cr (confirms); BH 2009 Flop, nett ₹6.31 Cr",
+  "revenue_scope": "unknown",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 256159,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Veera_Madakari_(film)"
+  },
+  "notes": "Wiki 'was a blockbuster at the box office'",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 474998,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article"
+ },
+ {
+  "tmdb_movie_id": 226846,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ }
+]

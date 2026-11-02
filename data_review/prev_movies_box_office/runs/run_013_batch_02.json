@@ -1,0 +1,52 @@
+[
+ {
+  "tmdb_movie_id": 79843,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 224595,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 2,
+  "verdict": "hit",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Lifeu_Ishtene",
+   "verdict": "https://en.wikipedia.org/wiki/Lifeu_Ishtene"
+  },
+  "notes": "Wiki gross ₹2 Cr (confirms); 'emerged as a commercial success'",
+  "revenue_scope": "unknown",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 124734,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki: 'average business commercially and due to its big budget, failed to recover costs' — mixed wording, verdict left NULL"
+ },
+ {
+  "tmdb_movie_id": 110488,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.35,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"
+  },
+  "notes": "BH 2011 table: lifetime nett ₹0.35 Cr, Flop (bulk Wiki search matched Stand by Me — not used)",
+  "revenue_scope": "india_net",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 69539,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki only UK two-week ₹10.75 lakh (partial); no verdict"
+ }
+]

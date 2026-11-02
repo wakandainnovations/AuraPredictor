@@ -1,0 +1,54 @@
+[
+ {
+  "tmdb_movie_id": 158503,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 16,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Natarang"
+  },
+  "notes": "Wiki 'Natarang' gross ₹16 Cr lifetime (confirms); 'opened to a successful run' not taken as a verdict",
+  "revenue_scope": "unknown"
+ },
+ {
+  "tmdb_movie_id": 171514,
+  "budget_inr_crore": 1.25,
+  "revenue_inr_crore": 0.69,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/10ml_Love",
+   "revenue": "https://en.wikipedia.org/wiki/10ml_Love",
+   "verdict": "https://en.wikipedia.org/wiki/10ml_Love"
+  },
+  "notes": "Wiki 'reported a box office failure, gross estimate ₹0.69 Cr against a budget of ₹1.25 Cr'; theatrical release 7 Dec 2012 (DB 2010-01-01, DB-date rate used)",
+  "revenue_scope": "unknown",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 1131350,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article"
+ },
+ {
+  "tmdb_movie_id": 40571,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 34763,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Arya_2"
+  },
+  "notes": "Wiki 'distributor's share of ₹12 crore, emerging as an average to an above average success' → avg; ₹25 Cr first week partial",
+  "verdict_label": "avg"
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 380516,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict; not in BH table"
+ },
+ {
+  "tmdb_movie_id": 81898,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Prayanam_(2009_film)"
+  },
+  "notes": "Wiki: 'considered \"below average\" by Box Office India' → flop",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 339864,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 634304,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Cannes market premiere 2009, release 2019; no figures"
+ },
+ {
+  "tmdb_movie_id": 60807,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Kick_(2009_film)"
+  },
+  "notes": "Wiki 'a major commercial success'; FLAG: stored revenue ≈₹29 Cr = the ₹25–30 Cr distributors' share, left",
+  "verdict_label": "hit"
+ }
+]

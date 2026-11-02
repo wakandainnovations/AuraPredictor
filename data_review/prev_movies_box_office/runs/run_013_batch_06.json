@@ -1,0 +1,59 @@
+[
+ {
+  "tmdb_movie_id": 52645,
+  "budget_inr_crore": 50,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Manmadan_Ambu",
+   "verdict": "https://en.wikipedia.org/wiki/Manmadan_Ambu"
+  },
+  "notes": "Wiki budget ₹50 Cr (confirms); 'Sify declared the film as \"average\"'; only Chennai/overseas partials",
+  "verdict_label": "avg"
+ },
+ {
+  "tmdb_movie_id": 123196,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki Super (2010) box office text is cn-tagged and about the Telugu dub ('scored good success'); verdict left NULL"
+ },
+ {
+  "tmdb_movie_id": 340735,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.11,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"
+  },
+  "notes": "BH 2010: lifetime nett ₹0.11 Cr, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 56986,
+  "budget_inr_crore": 38,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Khaleja",
+   "verdict": "https://en.wikipedia.org/wiki/Khaleja"
+  },
+  "notes": "Wiki budget ₹38 Cr (confirms); 'a box office failure'; FLAG: stored revenue ≈₹18.08 Cr = distributors' share, left",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 53283,
+  "budget_inr_crore": 4.5,
+  "revenue_inr_crore": 8.1,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Khichdi:_The_Movie",
+   "revenue": "https://en.wikipedia.org/wiki/Khichdi:_The_Movie"
+  },
+  "notes": "Wiki budget ₹4.5 Cr, gross ₹8.1 Cr (both confirm); verdict conflict: Wiki 'moderate commercial success'/'termed a hit' vs BH Flop (nett ₹5.10 Cr) → NULL",
+  "revenue_scope": "unknown"
+ }
+]

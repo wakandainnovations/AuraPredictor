@@ -1,0 +1,49 @@
+[
+ {
+  "tmdb_movie_id": 977041,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "TIFF 2007 premiere; Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 1620172,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 25827,
+  "budget_inr_crore": 19,
+  "revenue_inr_crore": 2.29,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Marigold_(2007_film)",
+   "revenue": "https://en.wikipedia.org/wiki/Marigold_(2007_film)"
+  },
+  "notes": "Wiki budget ₹19 Cr, gross ₹2.29 Cr (both confirm; BOI-cited); not in BH 2007 table; no verdict",
+  "revenue_scope": "unknown"
+ },
+ {
+  "tmdb_movie_id": 280184,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Hallo_(film)"
+  },
+  "notes": "Wiki 'Hallo was a blockbuster at the box office'",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 115938,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article"
+ }
+]

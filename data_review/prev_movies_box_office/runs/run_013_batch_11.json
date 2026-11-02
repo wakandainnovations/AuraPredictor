@@ -1,0 +1,53 @@
+[
+ {
+  "tmdb_movie_id": 1298288,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 262564,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 302918,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.13,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2009/"
+  },
+  "notes": "BH 2009: lifetime nett ₹0.13 Cr, Flop; no Wiki article",
+  "revenue_scope": "india_net",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 234593,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Robin_Hood_(2009_film)"
+  },
+  "notes": "Wiki 'became commercially successful at the box office'",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 23784,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 20,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Sankham"
+  },
+  "notes": "Wiki 'Sankham' gross ₹20 Cr (confirms); no verdict",
+  "revenue_scope": "unknown"
+ }
+]

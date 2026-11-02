@@ -1,0 +1,45 @@
+[
+ {
+  "tmdb_movie_id": 46405,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict; not in BH table"
+ },
+ {
+  "tmdb_movie_id": 1247142,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures; 'average reviews' is not a verdict"
+ },
+ {
+  "tmdb_movie_id": 85810,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Konchem_Ishtam_Konchem_Kashtam"
+  },
+  "notes": "Wiki 'a commercial success'; FLAG: stored revenue ≈₹18 Cr = distributors' share, left",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 115888,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Bengali; Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 120805,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "IFFK 2008 premiere, theatrical 2012; Wiki no figures/verdict"
+ }
+]

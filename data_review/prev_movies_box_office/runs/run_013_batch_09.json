@@ -1,0 +1,49 @@
+[
+ {
+  "tmdb_movie_id": 55283,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Leader_(2010_film)"
+  },
+  "notes": "Wiki 'a commercial success'; FLAG: stored revenue ≈₹10 Cr = distributors' share, left",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 68380,
+  "budget_inr_crore": 21.7,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Aasal",
+   "verdict": "https://en.wikipedia.org/wiki/Aasal"
+  },
+  "notes": "Wiki budget ₹21.7 Cr (confirms); 'only became an average grosser'",
+  "verdict_label": "avg"
+ },
+ {
+  "tmdb_movie_id": 78593,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict (film leaked pre-release)"
+ },
+ {
+  "tmdb_movie_id": 69512,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki only Malaysia gross $110,342 (partial); no verdict"
+ },
+ {
+  "tmdb_movie_id": 512773,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ }
+]

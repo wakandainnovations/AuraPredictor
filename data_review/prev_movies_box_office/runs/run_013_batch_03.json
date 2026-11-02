@@ -1,0 +1,52 @@
+[
+ {
+  "tmdb_movie_id": 545754,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Ek Din Achanak' is the 1989 Mrinal Sen film — not used; nothing found"
+ },
+ {
+  "tmdb_movie_id": 77024,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Punjabi; Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 81768,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Chaappa Kurishu' no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 75064,
+  "budget_inr_crore": 7,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Kanchana_(2011_film)",
+   "verdict": "https://en.wikipedia.org/wiki/Kanchana_(2011_film)"
+  },
+  "notes": "Wiki budget ₹7 Cr (confirms); 'became a commercial success'; only an expected TN share, no gross",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 256049,
+  "budget_inr_crore": 0.5,
+  "revenue_inr_crore": 3,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Kirataka",
+   "revenue": "https://en.wikipedia.org/wiki/Kirataka",
+   "verdict": "https://en.wikipedia.org/wiki/Kirataka"
+  },
+  "notes": "Wiki 'Kirataka' budget ₹50 lakh, gross ₹3 Cr (both confirm); 'a success at the domestic box-office'",
+  "revenue_scope": "unknown",
+  "verdict_label": "hit"
+ }
+]

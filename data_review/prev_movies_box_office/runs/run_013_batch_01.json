@@ -1,0 +1,56 @@
+[
+ {
+  "tmdb_movie_id": 251918,
+  "budget_inr_crore": 40,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Rajapattai"
+  },
+  "notes": "Wiki budget ₹40 Cr (confirms stored); no gross/verdict on Wiki (a mirror's ₹52 Cr not used)"
+ },
+ {
+  "tmdb_movie_id": 94935,
+  "budget_inr_crore": 5.5,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Deool"
+  },
+  "notes": "Wiki budget ₹5.5 Cr (confirms); only first-week ₹2.5 Cr (partial, not stored); no verdict"
+ },
+ {
+  "tmdb_movie_id": 225179,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 8,
+  "verdict": "hit",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Paramathma_(film)",
+   "verdict": "https://www.thenewsminute.com/flix/puneeth-rajkumar-and-fans-celebrate-8-years-paramathma-110364"
+  },
+  "notes": "Wiki gross ₹8 Cr (Bangalore Mirror; confirms stored); News Minute 'went on to become a big hit'",
+  "revenue_scope": "unknown",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 1048178,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.057,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Chargesheet_(film)",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"
+  },
+  "notes": "Wiki gross ₹0.57 million (BOI-cited; confirms stored); BH Flop, BH nett ₹0.03 Cr",
+  "revenue_scope": "unknown",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 1662795,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; not in BH table"
+ }
+]

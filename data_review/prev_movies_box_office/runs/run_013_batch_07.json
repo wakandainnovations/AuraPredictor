@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 51867,
+  "budget_inr_crore": 6,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Boss_Engira_Bhaskaran",
+   "verdict": "https://en.wikipedia.org/wiki/Boss_Engira_Bhaskaran"
+  },
+  "notes": "Wiki 'made on a budget of ₹6 crore' (journalist estimate) and 'became commercially successful'; ₹20 Cr 'as of late September' is a running total, not stored",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 627200,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures; 'average reviews' is not a box-office verdict"
+ },
+ {
+  "tmdb_movie_id": 282531,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 1055530,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (Alphonse Puthren short film)"
+ },
+ {
+  "tmdb_movie_id": 558075,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Bengali; Wiki 'Le Chakka' no figures/verdict"
+ }
+]

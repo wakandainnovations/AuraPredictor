@@ -1,0 +1,58 @@
+[
+ {
+  "tmdb_movie_id": 278159,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 991352,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 4.5,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Johny_Mera_Naam_Preethi_Mera_Kaam"
+  },
+  "notes": "Wiki gross ₹4.5 Cr (Bangalore Mirror; confirms); no verdict",
+  "revenue_scope": "unknown"
+ },
+ {
+  "tmdb_movie_id": 71481,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.99,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"
+  },
+  "notes": "BH 2011: '404' lifetime nett ₹0.99 Cr, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 63683,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 5.88,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"
+  },
+  "notes": "BH 2011: lifetime nett ₹5.88 Cr, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 105315,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/City_of_God_(2011_film)"
+  },
+  "notes": "Wiki 'an average venture at the box office'",
+  "verdict_label": "avg"
+ }
+]

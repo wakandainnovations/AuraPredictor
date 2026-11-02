@@ -1,0 +1,56 @@
+[
+ {
+  "tmdb_movie_id": 995368,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 218710,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.05,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"
+  },
+  "notes": "BH 2010: lifetime nett ₹0.05 Cr, Flop; no Wiki article",
+  "revenue_scope": "india_net",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 64766,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.07,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"
+  },
+  "notes": "BH 2010: lifetime nett ₹0.07 Cr, Flop; no Wiki article",
+  "revenue_scope": "india_net",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 63414,
+  "budget_inr_crore": 23,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Darling_(2010_film)",
+   "verdict": "https://en.wikipedia.org/wiki/Darling_(2010_film)"
+  },
+  "notes": "Wiki budget ₹23 Cr (confirms); 'a commercial success'; FLAG: stored revenue ≈₹18 Cr = distributors' share, left",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 63662,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Kacheri Aarambam' no figures/verdict"
+ }
+]

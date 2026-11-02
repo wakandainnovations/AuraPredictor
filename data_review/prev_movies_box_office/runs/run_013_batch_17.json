@@ -1,0 +1,44 @@
+[
+ {
+  "tmdb_movie_id": 168144,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 66219,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures/verdict"
+ },
+ {
+  "tmdb_movie_id": 474948,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Mira Nair short (8 anthology); no box office"
+ },
+ {
+  "tmdb_movie_id": 15490,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no figures; 'mixed reviews' only"
+ },
+ {
+  "tmdb_movie_id": 112241,
+  "budget_inr_crore": 27,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Satyam_(2008_film)"
+  },
+  "notes": "Wiki budget ₹27 Cr (confirms; filmibeat also ₹27 Cr); no gross/verdict found"
+ }
+]
