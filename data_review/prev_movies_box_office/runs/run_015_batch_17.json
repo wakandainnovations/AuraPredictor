@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 604198, "budget_inr_crore": null, "revenue_inr_crore": 0.31, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop / HUGE disaster",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"},
+  "notes": "BH 2023 table lifetime ₹0.31 Cr, Flop; Wiki 'unsuccessful at the box office' (BH 'HUGE disaster') agrees"},
+ {"tmdb_movie_id": 847732, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (ZEE5, 28 Apr 2023) — no box office"},
+ {"tmdb_movie_id": 1092670, "budget_inr_crore": 7, "revenue_inr_crore": 5.68, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Maharashtra_Shahir", "revenue": "https://en.wikipedia.org/wiki/Maharashtra_Shahir"},
+  "notes": "Wiki budget est. ₹7 Cr (Sakal) / 'grossed over ₹5.68 crore… in India' (Lokshahi) confirm stored; 'underperformed at the box-office' not a verdict"},
+ {"tmdb_movie_id": 1119099, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'positive reviews' only; sacnilk page has no data"},
+ {"tmdb_movie_id": 1136789, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'mixed reviews' only; no figures"}
+]

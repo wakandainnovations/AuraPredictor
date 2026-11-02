@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 1265508, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming/TV (JioCinema + Colors Tamil, 14 Apr 2024) — no box office"},
+ {"tmdb_movie_id": 1250852, "budget_inr_crore": null, "revenue_inr_crore": 4.91, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Geethanjali_Malli_Vachindhi_2024"},
+  "notes": "sacnilk India gross ₹4.91 Cr (38 days, till 18 May 2024; WW header ₹84 L below India gross -> India line used; overseas —); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1225414, "budget_inr_crore": null, "revenue_inr_crore": 0.46, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Powder_2024"},
+  "notes": "sacnilk India gross ₹46 L (12 days, till 3 Sep 2024 — implies 23 Aug 2024 release, DB 2024-04-05; overseas —); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 969173, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Amazon Prime Video, 21 Mar 2024) — no box office"},
+ {"tmdb_movie_id": 1262003, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "sacnilk only 7 days (India gross ₹61 L till 21 Mar 2024) — partial, not stored; no Wiki article"}
+]

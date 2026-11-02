@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 1092654, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Disney+ Hotstar, 31 Mar 2023) — no box office"},
+ {"tmdb_movie_id": 895309, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; sacnilk only 7 days (India net ₹53 L till 30 Mar 2023) — partial; its 'Disaster' on partial data not used"},
+ {"tmdb_movie_id": 1097586, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article; no sacnilk page"},
+ {"tmdb_movie_id": 1094184, "budget_inr_crore": null, "revenue_inr_crore": 0.01, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"},
+  "notes": "BH 2023 table lifetime ₹0.01 Cr, Flop"},
+ {"tmdb_movie_id": 1093536, "budget_inr_crore": null, "revenue_inr_crore": 0.88, "revenue_scope": "india_net", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Mitran_Da_Naa_Chalda_2023"},
+  "notes": "sacnilk India net ₹88 L (9 days, till 16 Mar 2023; gross and overseas not listed — Punjabi overseas untracked); Wiki no figures/verdict"}
+]

@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 1315794, "budget_inr_crore": null, "revenue_inr_crore": 10.14, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Fakt_Purusho_Maate_2024"},
+  "notes": "sacnilk India gross ₹10.14 Cr (52 days, till 13 Oct 2024; WW header ₹8.40 Cr below India gross -> India line used; overseas —); Wiki box-office section uncited and self-inconsistent (₹5 Cr week 1, ₹7.28 Cr after week 2, '≈₹1.65 Cr total'), 'performed well on its opening weekend' not a verdict"},
+ {"tmdb_movie_id": 1414280, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article; a.k.a. Jhansi Ka Rajkumar (THR India review 19 Dec 2024) — release mode unclear (likely streaming); no box-office data found"},
+ {"tmdb_movie_id": 1082411, "budget_inr_crore": null, "revenue_inr_crore": 0.69, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Adios_Amigo_2024"},
+  "notes": "sacnilk India gross ₹69 L (25 days, till 26 Aug 2024; overseas —); Wiki 'mixed reviews' only"},
+ {"tmdb_movie_id": 1229078, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (changed to ZEE5 release, 12 Jul 2024) — no box office"},
+ {"tmdb_movie_id": 985439, "budget_inr_crore": null, "revenue_inr_crore": 4.46, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "moderate success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Ullozhukku", "verdict": "https://en.wikipedia.org/wiki/Ullozhukku"},
+  "notes": "Wiki infobox ₹4.46 Cr WW (TOI day-34 article, effectively end of run) confirms stored; Wiki lead 'achieved moderate success' (Onmanorama year-end 'only 22 made money' list) used; the 'commercial success' line cites a News Minute article dated before release -> ignored"}
+]

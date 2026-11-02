@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1046924, "budget_inr_crore": null, "revenue_inr_crore": 9.18, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Singapore_Saloon_2024"},
+  "notes": "sacnilk India gross ₹9.18 Cr (32 days, till 25 Feb 2024; overseas —); Wiki 'mixed reviews' only"},
+ {"tmdb_movie_id": 1043311, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office success / profitable",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Mission:_Chapter_1"},
+  "notes": "Wiki lead 'became a box office success' + Deccan Chronicle 'successful 25-day run… proved to be profitable'; stored revenue ≈₹23 Cr = Wiki infobox cited to a TOI article dated 19 Jan 2024 (day 7) vs sacnilk India gross ₹6.16 Cr (35 days, overseas untracked) -> flagged, left"},
+ {"tmdb_movie_id": 1218528, "budget_inr_crore": null, "revenue_inr_crore": 0.03, "revenue_scope": "india_net", "verdict": null,
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2024/"},
+  "notes": "BH 2024 table lifetime ₹0.03 Cr; BH verdict 'Pending' (not mapped)"},
+ {"tmdb_movie_id": 1086500, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (ZEE5, 29 Dec 2023) — no box office"},
+ {"tmdb_movie_id": 1108194, "budget_inr_crore": 3, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Queen_Elizabeth_(2023_film)"},
+  "notes": "Wiki infobox budget ₹3 Cr (uncited); no gross; sacnilk page has no figures"}
+]

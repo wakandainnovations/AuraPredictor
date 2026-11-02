@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 1188542, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Short film, JioCinema Film Fest (8 Oct 2023) — no box office"},
+ {"tmdb_movie_id": 957999, "budget_inr_crore": 45, "revenue_inr_crore": 9.64, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop / failed at the box office",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Thank_You_for_Coming", "revenue": "https://en.wikipedia.org/wiki/Thank_You_for_Coming", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"},
+  "notes": "Wiki budget ₹45 Cr / gross est. ₹9.64 Cr (BH) confirm stored; BH 2023 table Flop (lifetime ₹7.33 Cr) and Wiki 'failed at the box office' (BOI) agree"},
+ {"tmdb_movie_id": 1050437, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article; no sacnilk page"},
+ {"tmdb_movie_id": 1046620, "budget_inr_crore": 10, "revenue_inr_crore": 9.47, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/The_Vaccine_War", "revenue": "https://en.wikipedia.org/wiki/The_Vaccine_War", "verdict": "https://en.wikipedia.org/wiki/The_Vaccine_War"},
+  "notes": "Wiki budget est. ₹10 Cr / WW est. ₹9.47 Cr (India ₹7.14 + overseas ₹2.33 Cr) confirm stored; Wiki 'became a box office bomb' (Indian Express); BH verdict 'Pending' (lifetime ₹6 Cr) — no conflict"},
+ {"tmdb_movie_id": 923035, "budget_inr_crore": null, "revenue_inr_crore": 4.0, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "bombed at the box office",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Chaaver_2023", "verdict": "https://en.wikipedia.org/wiki/Chaaver"},
+  "notes": "sacnilk India gross ₹4.00 Cr (15 days, till 19 Oct 2023; overseas — ; Wiki lists small UAE/NZ/AU grosses); Wiki lead 'bombed at the box office'"}
+]

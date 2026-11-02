@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 1151612, "budget_inr_crore": null, "revenue_inr_crore": 1.03, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Kadha_Innuvare_2024"},
+  "notes": "sacnilk India gross ₹1.03 Cr (35-day table, till 20 Oct 2024; overseas —); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1357445, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Karki' (alt title Karki Nanu BA, LLB) no figures/verdict; no sacnilk page; search found nothing"},
+ {"tmdb_movie_id": 1171133, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (JioCinema, 6 Sep 2024) — no box office"},
+ {"tmdb_movie_id": 818176, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "sacnilk only 7 days (India gross ₹84 L till 5 Sep 2024) — partial, not stored; Wiki Pepe (2024 Indian film) no figures/verdict"},
+ {"tmdb_movie_id": 1051426, "budget_inr_crore": null, "revenue_inr_crore": 39.5, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success / sleeper hit",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Vaazhai_2024", "verdict": "https://en.wikipedia.org/wiki/Vaazhai"},
+  "notes": "sacnilk WW ₹39.50 Cr (52 days, till 13 Oct 2024; India gross ₹33.40 Cr + overseas ₹6.10 Cr); Wiki gross inconsistent (lead ≈₹45 Cr vs section ≈₹35 Cr) and its budget '₹5 crore' is cited to a News18 article about Lubber Pandhu -> budget not stored (flag); Wiki 'became a commercial success' / 'sleeper hit'"}
+]

@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 968070, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Kick (2023 film) no figures/verdict (negative reviews only); sacnilk page has no data"},
+ {"tmdb_movie_id": 1073074, "budget_inr_crore": null, "revenue_inr_crore": 0.01, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"},
+  "notes": "BH 2023 table 'Mystery Of The Tattoo' lifetime ₹0.01 Cr, Flop"},
+ {"tmdb_movie_id": 1158378, "budget_inr_crore": null, "revenue_inr_crore": 4.83, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"},
+  "notes": "BH 2023 table lifetime ₹4.83 Cr, Flop; Wiki infobox 'est. ₹7 crore' cites a BH page dated release day (not used)"},
+ {"tmdb_movie_id": 939464, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article found; no data"},
+ {"tmdb_movie_id": 992883, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (reviews only); sacnilk page has no data"}
+]

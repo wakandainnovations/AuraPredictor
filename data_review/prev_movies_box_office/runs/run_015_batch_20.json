@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 1235448, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (one review only)"},
+ {"tmdb_movie_id": 1089188, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'mixed reviews' only; no sacnilk page"},
+ {"tmdb_movie_id": 1090940, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article; no sacnilk page"},
+ {"tmdb_movie_id": 1001342, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'collected Rs 1.67 crores' (TOI 'mints Rs 1.67 crores', publication date not given — likely a running total) not stored, flagged; sacnilk page has no data (default 'Disaster' ignored)"},
+ {"tmdb_movie_id": 850180, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Festival premieres (Chicago SAFF 2022, IFFI) then direct-to-streaming (ZEE5, 16 Feb 2023) — no box office"}
+]

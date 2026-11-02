@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1284568, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "sacnilk only 7 days (India gross ₹10 L till 7 Mar 2024) — partial, not stored; no Wiki article"},
+ {"tmdb_movie_id": 1443674, "budget_inr_crore": null, "revenue_inr_crore": 1.65, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Por_2024"},
+  "notes": "sacnilk India gross ₹1.65 Cr (14-day table, till 10 Mar 2024; overseas —) — Tamil version of the Dange/Por bilingual; Wiki 'mixed reviews' only"},
+ {"tmdb_movie_id": 1251656, "budget_inr_crore": null, "revenue_inr_crore": 0.28, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/For_Regn_2024"},
+  "notes": "sacnilk India gross ₹28 L (24 days, till 17 Mar 2024; overseas —); Wiki 'underperformed at the box-office' (not a verdict)"},
+ {"tmdb_movie_id": 1032706, "budget_inr_crore": null, "revenue_inr_crore": 1.5, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2024/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2024/"},
+  "notes": "BH 2024 table lifetime ₹1.50 Cr, Flop; Wiki stub no figures"},
+ {"tmdb_movie_id": 1230559, "budget_inr_crore": null, "revenue_inr_crore": 0.46, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Shakhahaari_2024"},
+  "notes": "sacnilk India gross ₹46 L (40 days, till 26 Mar 2024; overseas —); Wiki '50 day run in selected theatres' only"}
+]

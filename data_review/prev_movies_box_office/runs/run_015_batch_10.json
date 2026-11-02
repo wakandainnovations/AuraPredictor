@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 1118232, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Saba_Nayagan"},
+  "notes": "Wiki lead 'became a commercial success'; no figures; sacnilk page has no data"},
+ {"tmdb_movie_id": 998106, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article found (Pulli_(2023_film)/(film) 404); no sacnilk page"},
+ {"tmdb_movie_id": 1255626, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article found; sacnilk page has no data"},
+ {"tmdb_movie_id": 1000065, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (reviews only); sacnilk page has no data"},
+ {"tmdb_movie_id": 1072758, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "IFFI premiere 22 Nov 2023 then direct-to-streaming (ZEE5, 8 Dec 2023) — no box office"}
+]

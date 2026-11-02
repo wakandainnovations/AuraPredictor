@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1244323, "budget_inr_crore": null, "revenue_inr_crore": 1.34, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Pabaar_-_Kichhi_Satya_Ghatana_Ru_Anupranita_2024"},
+  "notes": "sacnilk 'Pabaar - Kichhi Satya Ghatana Ru Anupranita' India gross ₹1.34 Cr (44 days, till 25 Jul 2024; release 12 Jun 2024; overseas —); no Wiki article"},
+ {"tmdb_movie_id": 1177157, "budget_inr_crore": 10, "revenue_inr_crore": 2.55, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Satyabhama_(2024_film)", "revenue": "https://en.wikipedia.org/wiki/Satyabhama_(2024_film)", "verdict": "https://en.wikipedia.org/wiki/Satyabhama_(2024_film)"},
+  "notes": "Wiki budget ₹10 Cr / gross ₹2.55 Cr confirm stored (citation dates mis-entered as 2022); Wiki 'became a box office bomb' (cited to The Hindu release-date article — weak cite, no conflicting source)"},
+ {"tmdb_movie_id": 1222140, "budget_inr_crore": null, "revenue_inr_crore": 2.88, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Golam_2024"},
+  "notes": "sacnilk India gross ₹2.88 Cr (49-day table, till 16 Jul 2024; overseas —); no Wiki article found"},
+ {"tmdb_movie_id": 955593, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Festival film (premiere 2024, festival screenings into 2025); no Indian theatrical box office found; not in BH 2024 table"},
+ {"tmdb_movie_id": 1264800, "budget_inr_crore": 20, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Savi_(film)"},
+  "notes": "Wiki budget est. ₹20 Cr (Lehren) confirms stored; stored revenue ≈₹17.81 Cr = Wiki 'est.' WW from Firstpost 'becomes a hit globally' vs BH lifetime ₹7.97 Cr India -> flagged, left; verdict conflict (Firstpost hit vs BH Flop) left NULL"}
+]

@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 1034164, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "sacnilk only 3 days (India net ₹59 L till 4 Jun 2023) — partial, not stored; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 880555, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Theatrical 27 May 2023, Sun NXT from 23 Jun 2023; sacnilk only 2 days (₹9 L net) with default-looking 'Disaster' — not used; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1130781, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (JioCinema, 27 May 2023) — no box office"},
+ {"tmdb_movie_id": 801049, "budget_inr_crore": 25, "revenue_inr_crore": 1.75, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jogira_Sara_Ra_Ra", "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"},
+  "notes": "Wiki budget est. ₹25 Cr / gross est. ₹1.75 Cr (uncited) confirm stored; BH 2023 table lifetime ₹1.75 Cr, Flop"},
+ {"tmdb_movie_id": 945825, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article found; sacnilk page has no data"}
+]
