@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 1199638, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Thiru._Manickam) no figures/verdict; no sacnilk page; ZEE5 premiere 24 Jan 2025"},
+ {"tmdb_movie_id": 1296484, "budget_inr_crore": null, "revenue_inr_crore": 2.08, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "box office disaster",
+  "sources": {"revenue": "https://www.koimoi.com/box-office/padakkalam-box-office-collection-day-33-remains-699-higher-than-suraj-venjaramoodus-last-solo-theatrical-outing/", "verdict": "https://www.koimoi.com/box-office/padakkalam-box-office-collection-day-33-remains-699-higher-than-suraj-venjaramoodus-last-solo-theatrical-outing/"},
+  "notes": "Koimoi (Padakkalam day-33 article): ED Extra Decent 'was a box office disaster, earning only 2.08 crores in its lifetime' (scope not stated); no Wiki article, no sacnilk page"},
+ {"tmdb_movie_id": 1371030, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2024/"},
+  "notes": "BH 2024 table Flop (lifetime nett ₹4.56 Cr); revenue flagged, left: stored ≈₹6.37 Cr = Wiki 'worldwide gross within the first 14 days' (BH page) vs sacnilk India gross ₹5.83 Cr (12 days); Wiki no verdict"},
+ {"tmdb_movie_id": 1042824, "budget_inr_crore": null, "revenue_inr_crore": 0.88, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Rudhiram_2024"},
+  "notes": "sacnilk India gross ₹88 L (19 days, till 31 Dec 2024; overseas —); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1351991, "budget_inr_crore": null, "revenue_inr_crore": 4.7, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Miss_You_2024"},
+  "notes": "sacnilk India gross ₹4.70 Cr (WW header ₹30 L is below India gross -> India line used; 19 days, till 31 Dec 2024); Wiki no figures/verdict"}
+]

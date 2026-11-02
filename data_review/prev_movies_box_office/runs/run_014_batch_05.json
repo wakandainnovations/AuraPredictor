@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 343061, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict (positive reviews only)"},
+ {"tmdb_movie_id": 76965, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 4500000, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success / major success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Sandakozhi", "verdict": "https://en.wikipedia.org/wiki/Sandakozhi"},
+  "notes": "Wiki box office section 'a commercial success grossing $4.5 million' (stated in USD); Telugu dub distributors' share ₹2.5–3 Cr not used; no budget"},
+ {"tmdb_movie_id": 35643, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Aaru_(film)"}, "notes": "Wiki 'not well-received by critics but became a commercial success'; no figures"},
+ {"tmdb_movie_id": 39218, "budget_inr_crore": 2.5, "revenue_inr_crore": 3.37, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Main,_Meri_Patni_Aur_Woh", "revenue": "https://en.wikipedia.org/wiki/Main,_Meri_Patni_Aur_Woh"},
+  "notes": "Wiki budget ₹2.5 Cr, gross ₹3.37 Cr (both confirm stored); no verdict; not in BH 2005 table"},
+ {"tmdb_movie_id": 546865, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BH 2005 table"}
+]

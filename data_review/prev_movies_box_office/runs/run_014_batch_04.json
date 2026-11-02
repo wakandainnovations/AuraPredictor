@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 317760, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "sleeper hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Dosar"}, "notes": "Wiki 'The film was a sleeper hit at the box office'; no figures"},
+ {"tmdb_movie_id": 226837, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 544278, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Hindi film (DB language english); Wiki no figures/verdict; not in BH 2006 table"},
+ {"tmdb_movie_id": 280188, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 233296, "budget_inr_crore": null, "revenue_inr_crore": 4.72, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/"},
+  "notes": "BH 2006 table Flop, lifetime nett ₹4.72 Cr; Wiki no figures (Taran Adarsh 'a poor show')"}
+]

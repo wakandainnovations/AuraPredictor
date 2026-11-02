@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1182973, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "sacnilk only 6-day ₹6 L (partial, not stored); no Wiki article"},
+ {"tmdb_movie_id": 1433161, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki/sacnilk page found"},
+ {"tmdb_movie_id": 1232976, "budget_inr_crore": null, "revenue_inr_crore": 5.6, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (sacnilk)",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Faati_Ne_2025", "verdict": "https://www.sacnilk.com/movie/Faati_Ne_2025"},
+  "notes": "sacnilk India gross ₹5.60 Cr (164 days, till 13 Jul 2025; overseas —) with verdict Disaster on a page with real figures; no Wiki article"},
+ {"tmdb_movie_id": 280951, "budget_inr_crore": 15, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office success / Super Hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Madha_Gaja_Raja", "verdict": "https://en.wikipedia.org/wiki/Madha_Gaja_Raja"},
+  "notes": "Wiki budget ₹15 Cr (Onmanorama) confirms stored; Wiki 'a box office success' + sacnilk Super Hit; revenue flagged, left: stored ≈₹75 Cr = Wiki (TOI listicle 'est.') vs sacnilk WW ₹62.50 Cr (38 days, till 18 Feb 2025)"},
+ {"tmdb_movie_id": 1022986, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "sacnilk only 6-day ₹7 L (partial, not stored); no Wiki figures"}
+]

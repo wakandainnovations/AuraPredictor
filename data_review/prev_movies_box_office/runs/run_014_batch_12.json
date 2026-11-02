@@ -1,0 +1,17 @@
+[
+ {"tmdb_movie_id": 1407437, "budget_inr_crore": null, "revenue_inr_crore": 32.5, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "flopped / Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Andhra_King_Taluka", "verdict": "https://en.wikipedia.org/wiki/Andhra_King_Taluka"},
+  "notes": "Wiki WW ₹32.50 Cr (T2BLive total, Mar 2026) confirms stored; sacnilk WW ₹32.46 Cr (26 days) + verdict Flop agrees with Wiki 'flopped at the box office'; no budget"},
+ {"tmdb_movie_id": 1575782, "budget_inr_crore": null, "revenue_inr_crore": 0.68, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/I_Am_God_2025"},
+  "notes": "sacnilk India gross ₹68 L (16-day table, figures till 20 Nov 2025; overseas —); no Wiki figures"},
+ {"tmdb_movie_id": 1396869, "budget_inr_crore": 24, "revenue_inr_crore": 82.18, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Blockbuster (sacnilk)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Dies_Irae_2025", "revenue": "https://en.wikipedia.org/wiki/Dies_Irae_(2025_film)", "verdict": "https://www.sacnilk.com/movie/Dies_Irae_2025"},
+  "notes": "Wiki WW ₹82.18 Cr confirms stored (= sacnilk WW, 38 days, till 7 Dec 2025); budget ₹24 Cr and verdict Blockbuster from sacnilk; Wiki only rankings"},
+ {"tmdb_movie_id": 1321108, "budget_inr_crore": 27.5, "revenue_inr_crore": 114.3, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success / Super Hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dude_(2025_film)", "revenue": "https://www.sacnilk.com/movie/Dude_2025", "verdict": "https://en.wikipedia.org/wiki/Dude_(2025_film)"},
+  "notes": "Revenue corrected: stored ≈₹106.6 Cr = midpoint of Wiki '₹100–113.25 crore' (100 = day-10 figure) -> sacnilk WW ₹114.30 Cr (38 days, till 23 Nov 2025); budget Wiki ₹25–30 Cr midpoint 27.5 confirms stored (sacnilk says ₹35 Cr, Wiki kept); Wiki 'commercial success' + sacnilk Super Hit"},
+ {"tmdb_movie_id": 1310779, "budget_inr_crore": null, "revenue_inr_crore": 0.4, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Maine_Pyar_Kiya_2025"},
+  "notes": "sacnilk India gross ₹40 L (14 days, till 11 Sep 2025; overseas —); Wiki no figures/verdict"}
+]

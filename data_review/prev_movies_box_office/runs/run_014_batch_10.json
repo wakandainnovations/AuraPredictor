@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 523197, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; not in BH 2005 table"},
+ {"tmdb_movie_id": 21905, "budget_inr_crore": 7, "revenue_inr_crore": 12.08, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Shabd_(film)", "revenue": "https://en.wikipedia.org/wiki/Shabd_(film)"},
+  "notes": "Wiki budget Rs 7 Cr, gross Rs 12.08 Cr (both confirm stored); verdict conflict: Wiki 'below expectations... despite being profitable' vs BH 2005 Flop (lifetime nett ₹5.47 Cr) -> NULL"},
+ {"tmdb_movie_id": 74154, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Nuvvostanante_Nenoddantana"}, "notes": "Wiki 'one of the biggest hits of 2005... a blockbuster in Telugu cinema'; no figures"},
+ {"tmdb_movie_id": 311142, "budget_inr_crore": null, "revenue_inr_crore": 5.41, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "BH 2005 table Flop, lifetime nett ₹5.41 Cr; Wiki (Vaada_(2005_film)) no figures/verdict"},
+ {"tmdb_movie_id": 311545, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; NFDC festival film (IFFI 2005), no theatrical figures"}
+]

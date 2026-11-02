@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 53122, "budget_inr_crore": 19, "revenue_inr_crore": 75, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "major box office success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chandramukhi", "revenue": "https://en.wikipedia.org/wiki/Chandramukhi", "verdict": "https://en.wikipedia.org/wiki/Chandramukhi"},
+  "notes": "Wiki budget ₹19 Cr; gross 'est. ₹60–90 crore' -> midpoint 75 (both confirm stored); 'a major box office success'"},
+ {"tmdb_movie_id": 69587, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 569844, "budget_inr_crore": 1.5, "revenue_inr_crore": 0.035, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Disaster (BOI via Wiki)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Naam_Gum_Jaayega", "revenue": "https://en.wikipedia.org/wiki/Naam_Gum_Jaayega", "verdict": "https://en.wikipedia.org/wiki/Naam_Gum_Jaayega"},
+  "notes": "Wiki budget ₹1.50 Cr, gross ₹3.50 lakh (both confirm stored); 'termed Disaster by Boxofficeindia.com'"},
+ {"tmdb_movie_id": 137303, "budget_inr_crore": null, "revenue_inr_crore": 0.05, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/My_Brother..._Nikhil"},
+  "notes": "Wiki box office ₹5 lakh (confirms stored); no budget/verdict; not in BH 2005 table"},
+ {"tmdb_movie_id": 1013454, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BH 2005 table"}
+]

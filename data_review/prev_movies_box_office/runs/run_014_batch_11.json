@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 587330, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BH 2005 table (BH/filmibeat release date 3 Jun 2005, DB 2005-01-01)"},
+ {"tmdb_movie_id": 1566740, "budget_inr_crore": null, "revenue_inr_crore": 1.79, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Seetha_Payanam_2026"},
+  "notes": "sacnilk India gross ₹1.79 Cr (21-day run, figures till 5 Mar 2026; WW header = India, overseas —); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1054493, "budget_inr_crore": null, "revenue_inr_crore": 1.12, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Pennum_Porattum_2026"},
+  "notes": "sacnilk India gross ₹1.12 Cr (28-day table; overseas —); Netflix rights pre-sold; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1112564, "budget_inr_crore": 40, "revenue_inr_crore": 10, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vaa_Vaathiyaar", "revenue": "https://en.wikipedia.org/wiki/Vaa_Vaathiyaar", "verdict": "https://en.wikipedia.org/wiki/Vaa_Vaathiyaar"},
+  "notes": "Wiki budget ₹40 Cr, gross 'est. ₹10 crore' (Cinema Express 27 Jan 2026, early OTT premiere) (both confirm stored); 'a box-office bomb'; sacnilk page 404"},
+ {"tmdb_movie_id": 1557961, "budget_inr_crore": null, "revenue_inr_crore": 0.55, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Bank_Of_Bhagyalakshmi_2025"},
+  "notes": "sacnilk India gross ₹55 L (14 days, figures till 10 Dec 2025; overseas —); Wiki no figures/verdict"}
+]

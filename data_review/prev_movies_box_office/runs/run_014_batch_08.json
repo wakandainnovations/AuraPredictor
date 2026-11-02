@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 165195, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Kaalpurush_(2005_film)) no figures/verdict"},
+ {"tmdb_movie_id": 115066, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 77081, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success / super hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Ullam_Ketkumae"}, "notes": "Wiki 'became a commercial success... pundits describing the film as a super hit'; no figures"},
+ {"tmdb_movie_id": 20132, "budget_inr_crore": null, "revenue_inr_crore": 28.5, "revenue_scope": "unknown", "verdict": "avg", "verdict_label": "Average / average success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Kaal_(2005_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"},
+  "notes": "Wiki gross ₹28.5 Cr (confirms stored); Wiki 'an average success' and BH 2005 Average (lifetime nett ₹19.09 Cr) agree; no budget"},
+ {"tmdb_movie_id": 279461, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "disaster / flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Subash_Chandra_Bose_(film)"}, "notes": "Wiki 'a disaster at the box office' / 'became a flop'; no figures"}
+]

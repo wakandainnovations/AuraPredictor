@@ -1,0 +1,17 @@
+[
+ {"tmdb_movie_id": 1044944, "budget_inr_crore": null, "revenue_inr_crore": 6.5, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://sacnilk.com/movie/JSK__Janaki_V_vs_State_of_Kerala_2025"},
+  "notes": "sacnilk India gross ₹6.50 Cr (22 days, till 7 Aug 2025; overseas — ; BOM intl $179,205 not added); Wiki no figures/verdict; Koimoi day-7 'fails to make an impact' not a verdict"},
+ {"tmdb_movie_id": 1135447, "budget_inr_crore": null, "revenue_inr_crore": 0.51, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://sacnilk.com/movie/Apoorva_Puthranmaar_2025"},
+  "notes": "sacnilk (Apoorva Puthranmaar) India gross ₹51 L (14 days, till 31 Jul 2025; overseas —); no Wiki article"},
+ {"tmdb_movie_id": 1312559, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/"},
+  "notes": "BH 2025 table Flop (lifetime nett ₹19.20 Cr); revenue flagged, left: stored ≈₹26.30 Cr = Wiki 'est.' cited to BH collection page vs BH table nett ₹19.20 Cr / sacnilk India gross ₹29.51 Cr (net 25.04, 28 days) — scope unclear; Wiki no verdict"},
+ {"tmdb_movie_id": 1399654, "budget_inr_crore": null, "revenue_inr_crore": 0.62, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Soothravakyam_2025"},
+  "notes": "sacnilk India gross ₹62 L (14 days, till 24 Jul 2025; overseas —); no Wiki figures"},
+ {"tmdb_movie_id": 1487113, "budget_inr_crore": 15, "revenue_inr_crore": null, "revenue_usd": 8200000, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "hit / major box office success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sardaar_Ji_3", "revenue": "https://en.wikipedia.org/wiki/Sardaar_Ji_3", "verdict": "https://en.wikipedia.org/wiki/Sardaar_Ji_3"},
+  "notes": "Wiki budget ₹15 Cr (uncited), gross '₹70 crores (approximately US$8.2 million)' (Pinkvilla 4 Aug 2025) — both confirm stored; overseas-only release (not released in India); 'emerged as a hit'"}
+]

@@ -1,0 +1,17 @@
+[
+ {"tmdb_movie_id": 443624, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures; 'lambasted by critics' only; not in BH 2007 table"},
+ {"tmdb_movie_id": 9703, "budget_inr_crore": null, "budget_usd": 67000000, "revenue_inr_crore": null, "revenue_usd": 25700000,
+  "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/The_Last_Legion", "revenue": "https://en.wikipedia.org/wiki/The_Last_Legion", "verdict": "https://en.wikipedia.org/wiki/The_Last_Legion"},
+  "notes": "Wiki budget $67M, gross $25.7M (both confirm stored); 'box-office bomb' (Men's Journal)"},
+ {"tmdb_movie_id": 15986, "budget_inr_crore": 12, "revenue_inr_crore": 24, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Provoked_(film)", "revenue": "https://en.wikipedia.org/wiki/Provoked_(film)"},
+  "notes": "Wiki budget ₹120M, gross ₹240M (both confirm stored); verdict conflict: Wiki 'did well at the UK box-office... a winner' vs BH 2007 Flop (lifetime ₹2.41 Cr) -> NULL"},
+ {"tmdb_movie_id": 269421, "budget_inr_crore": null, "budget_usd": 700000, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Parzania"},
+  "notes": "Wiki budget US$700,000; no gross/verdict; not in BH 2007 table; not released in Gujarat"},
+ {"tmdb_movie_id": 199806, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "moderate success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Annavaram_(film)"},
+  "notes": "Wiki 'a moderate success at the box office' (Idlebrain 'mild success'); no figures"}
+]

@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 1054626, "budget_inr_crore": null, "revenue_inr_crore": 6.1, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/"}, "notes": "BH 2025 table Flop, lifetime nett ₹6.10 Cr; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 619987, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk only 7-day ₹65 L (partial, not stored)"},
+ {"tmdb_movie_id": 1354069, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Revenue flagged, left: stored ≈₹5.65 Cr = Wiki infobox '[citation needed]' vs sacnilk India gross ₹3.25 Cr (19-day table, overseas —); no verdict"},
+ {"tmdb_movie_id": 1454405, "budget_inr_crore": null, "revenue_inr_crore": 9.2, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Akaal_2025"},
+  "notes": "sacnilk India gross ₹9.20 Cr (36 days, till 15 May 2025; overseas not tracked); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1099485, "budget_inr_crore": null, "revenue_inr_crore": 12.15, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Dilruba_2025"},
+  "notes": "sacnilk WW ₹12.15 Cr (India gross 8.15 + overseas 4.00; 15 days, till 28 Mar 2025); no Wiki article found"}
+]

@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 927965, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Thanthra / Thanthra_(film) 404)"},
+ {"tmdb_movie_id": 8014, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; stored tmdb budget $6M / revenue $130,742 unverified (left)"},
+ {"tmdb_movie_id": 1686881, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BH 2006 table; no figures found"},
+ {"tmdb_movie_id": 53590, "budget_inr_crore": 8, "revenue_inr_crore": 0.56, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Alag", "revenue": "https://en.wikipedia.org/wiki/Alag"},
+  "notes": "Wiki budget ₹8 Cr, gross ₹56 lakh (both confirm stored); 'earned only one-sixteenth of its budget' — no stated verdict; not in BH 2006 table"},
+ {"tmdb_movie_id": 81051, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "significant commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Godavari_(2006_film)"},
+  "notes": "Wiki 'achieved significant commercial success at the box office'; no figures"}
+]

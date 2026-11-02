@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1142460, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2005 film (disambiguation lists 1988/2022 films only)"},
+ {"tmdb_movie_id": 549268, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; not in BH 2005 table"},
+ {"tmdb_movie_id": 158946, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Chanthupottu"}, "notes": "Wiki 'a commercial success at the box office'; no figures"},
+ {"tmdb_movie_id": 1721629, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; Taran Adarsh 'a poor show' is a review; not in BH 2005 table"},
+ {"tmdb_movie_id": 33460, "budget_inr_crore": 4, "revenue_inr_crore": 2.4, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "flopped at the box office",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sehar", "revenue": "https://en.wikipedia.org/wiki/Sehar", "verdict": "https://en.wikipedia.org/wiki/Sehar"},
+  "notes": "Wiki budget ₹4 Cr, gross ₹2.4 Cr (both confirm stored); 'flopped at the box office'"}
+]

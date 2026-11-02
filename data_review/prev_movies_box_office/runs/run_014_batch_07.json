@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 117409, "budget_inr_crore": 9, "revenue_inr_crore": 18.51, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Viruddh..._Family_Comes_First", "revenue": "https://en.wikipedia.org/wiki/Viruddh..._Family_Comes_First", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"},
+  "notes": "Wiki budget ₹90M, gross ₹185.1M (both confirm stored); BH 2005 table Flop (lifetime nett ₹10.07 Cr); Wiki no verdict"},
+ {"tmdb_movie_id": 630974, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only 2005 list entry); not in BH 2005 table"},
+ {"tmdb_movie_id": 282030, "budget_inr_crore": 3.5, "revenue_inr_crore": 1.08, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Fareb_(2005_film)", "revenue": "https://en.wikipedia.org/wiki/Fareb_(2005_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"},
+  "notes": "Wiki budget ₹3.50 Cr, gross ₹1.08 Cr (both confirm stored); BH 2005 table Flop (lifetime nett ₹0.74 Cr)"},
+ {"tmdb_movie_id": 230097, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 202635, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; Taran Adarsh review wording only; not in BH 2005 table"}
+]
