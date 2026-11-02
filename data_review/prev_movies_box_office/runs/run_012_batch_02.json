@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 337520, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Gaddar: The Traitor' has no budget/gross/verdict"},
+ {"tmdb_movie_id": 341900, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 322178, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 329591, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 332827, "budget_inr_crore": null, "revenue_inr_crore": 12, "revenue_scope": "india_gross", "verdict": "hit", "verdict_label": "commercial success; Kerala Film Producers Association: 'Hit'", "sources": {"revenue": "https://en.wikipedia.org/wiki/Ennum_Eppozhum", "verdict": "https://en.wikipedia.org/wiki/Ennum_Eppozhum"}, "notes": "Wiki infobox ₹12 Cr (Kerala only, Pinkvilla-cited; confirms stored); 'commercial success', FPAK called it a 'Hit'"}
+]

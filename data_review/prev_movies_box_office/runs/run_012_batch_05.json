@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1565850, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki only satellite rights ₹1.6 Cr (not box office)"},
+ {"tmdb_movie_id": 547203, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 308279, "budget_inr_crore": 3.5, "revenue_inr_crore": 10, "revenue_scope": "india_net", "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Ormayundo_Ee_Mukham", "revenue": "https://en.wikipedia.org/wiki/Ormayundo_Ee_Mukham"}, "notes": "Wiki budget ₹3.5 Cr, gross '₹10 crore net' (both confirm stored); no verdict"},
+ {"tmdb_movie_id": 280884, "budget_inr_crore": 20, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Jaihind_2"}, "notes": "Wiki 'Jaihind 2': 'budgeted at ₹20 crore' at launch; verdict split ('commercial success in Kannada, but did not perform well in Tamil and Telugu') → NULL"},
+ {"tmdb_movie_id": 296627, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Njaan' (2014) no figures/verdict"}
+]

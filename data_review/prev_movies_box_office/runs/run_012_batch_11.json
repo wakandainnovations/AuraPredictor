@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 228356, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Heer and Hero' no figures/verdict"},
+ {"tmdb_movie_id": 247821, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 468652, "budget_inr_crore": 4, "revenue_inr_crore": 0.13, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop", "sources": {"budget": "https://en.wikipedia.org/wiki/Maazii", "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/"}, "notes": "Wiki: 'production budget was around Rs. Four Crores' (uncited); BH 2013 India lifetime nett ₹0.13 Cr, Flop"},
+ {"tmdb_movie_id": 214348, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Qissa (film)' no figures/verdict; festival film"},
+ {"tmdb_movie_id": 215053, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Marathi film; Wiki no figures/verdict"}
+]

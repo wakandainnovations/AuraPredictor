@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 229345, "budget_inr_crore": 10, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Ladies_and_Gentleman"}, "notes": "Wiki budget ₹10 Cr (confirms stored); 'did not maintain the reception in the following weeks' — not a verdict"},
+ {"tmdb_movie_id": 200342, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 282597, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "disaster", "sources": {"verdict": "https://en.wikipedia.org/wiki/Andhar_Bahar"}, "notes": "Wiki 'Andhar Bahar': 'The movie ended as a disaster'; no figures"},
+ {"tmdb_movie_id": 245148, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 191112, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"}
+]

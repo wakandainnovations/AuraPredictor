@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 291200, "budget_inr_crore": 7.5, "revenue_inr_crore": 11.5, "revenue_scope": "unknown", "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Pyaar_Vali_Love_Story", "revenue": "https://en.wikipedia.org/wiki/Pyaar_Vali_Love_Story"}, "notes": "Marathi film. Wiki budget ₹7.5 Cr, gross ₹11.5 Cr lifetime (both confirm stored); 'fared well on weekdays' not a verdict"},
+ {"tmdb_movie_id": 278403, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercially successful", "sources": {"verdict": "https://en.wikipedia.org/wiki/RajadhiRaja"}, "notes": "TMDB 'King of Kings' = RajadhiRaja (2014, Mammootty, Ajai Vasudev). Wiki: 'became commercially successful at the box office'; only an 8-day Kerala figure (₹14 Cr, partial, not stored); budget/gross 'contested', blank"},
+ {"tmdb_movie_id": 288790, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 643681, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Bangladeshi film; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 290565, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"}
+]

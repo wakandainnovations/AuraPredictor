@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 116647, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; 'enduring a good run at the box office' not mapped to a verdict; stored tmdb budget $1.82M unverified (left)"},
+ {"tmdb_movie_id": 321267, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article"},
+ {"tmdb_movie_id": 149262, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "successful at the box office", "sources": {"verdict": "https://en.wikipedia.org/wiki/Yeto_Vellipoyindhi_Manasu"}, "notes": "Wiki: 'received five Nandi Awards and was successful at the box office'. FLAG: stored revenue (≈₹8.5 Cr) is the Wiki infobox DISTRIBUTORS' SHARE, not gross — left"},
+ {"tmdb_movie_id": 577292, "budget_inr_crore": 2.4, "revenue_inr_crore": 2, "revenue_scope": "unknown", "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Idiot_(2012_film)", "revenue": "https://en.wikipedia.org/wiki/Idiot_(2012_film)"}, "notes": "Bengali. Wiki budget ₹2.4 Cr, gross ₹2 Cr (both 'citation needed'; confirm stored); no verdict"},
+ {"tmdb_movie_id": 151036, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial hit", "sources": {"verdict": "https://en.wikipedia.org/wiki/My_Boss"}, "notes": "Wiki: 'declared a commercial hit', 'became a commercial success'; no figures"}
+]

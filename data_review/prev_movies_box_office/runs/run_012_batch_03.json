@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 332831, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "sleeper hit; commercial success", "sources": {"verdict": "https://en.wikipedia.org/wiki/Yevade_Subramanyam"}, "notes": "Wiki: 'sleeper hit', 'received positive reviews and was a commercial success'; no budget/gross on Wiki or web search"},
+ {"tmdb_movie_id": 331330, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki only a 2-day figure (₹2.1 Cr) — partial, not stored; no verdict"},
+ {"tmdb_movie_id": 526981, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; web search found none"},
+ {"tmdb_movie_id": 329143, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 342817, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"}
+]

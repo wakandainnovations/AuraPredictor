@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 326153, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki (Malli Malli Idi Rani Roju) no figures/verdict"},
+ {"tmdb_movie_id": 358220, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 324496, "budget_inr_crore": 4, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercially successful; profitable", "sources": {"budget": "https://en.wikipedia.org/wiki/Picket_43", "verdict": "https://en.wikipedia.org/wiki/Picket_43"}, "notes": "Wiki: producer complaint cites 'agreed ₹4 crore budget' (₹70 L overrun); 'profitable film', HT/Manorama: commercially successful. KFPA 'collected just ₹1.8 crore from Kerala' (April 2015, scope unclear) not stored"},
+ {"tmdb_movie_id": 691243, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office hit", "sources": {"verdict": "https://en.wikipedia.org/wiki/Siddhartha_(2015_film)"}, "notes": "Wiki: 'The film was a box office hit'; no figures"},
+ {"tmdb_movie_id": 308034, "budget_inr_crore": 16, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "moderately successful", "sources": {"budget": "https://en.wikipedia.org/wiki/Chinnadana_Nee_Kosam", "verdict": "https://en.wikipedia.org/wiki/Chinnadana_Nee_Kosam"}, "notes": "Wiki budget ₹16 Cr (confirms stored); 'moderately successful' → avg"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 208756, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 155491, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures; Rediff review's 'disaster' is a quality judgement, not a box-office verdict → NULL"},
+ {"tmdb_movie_id": 139586, "budget_inr_crore": null, "revenue_inr_crore": 12, "revenue_scope": "unknown", "verdict": null, "sources": {"revenue": "https://en.wikipedia.org/wiki/Balak-Palak"}, "notes": "Wiki 'Balak-Palak' gross ₹12 Cr lifetime (India Today-cited; confirms stored); no budget/verdict"},
+ {"tmdb_movie_id": 155518, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success", "sources": {"verdict": "https://en.wikipedia.org/wiki/Annayum_Rasoolum"}, "notes": "Wiki: 'was also a commercial success at the box office' (IBN Live: first commercial success in Malayalam in 2013); no figures"},
+ {"tmdb_movie_id": 510832, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BH 2013 table"}
+]

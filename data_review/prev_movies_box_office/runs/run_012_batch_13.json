@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 361778, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Pakistani TV film (Hum TV) — no box office"},
+ {"tmdb_movie_id": 1743279, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 190742, "budget_inr_crore": 1.5, "revenue_inr_crore": 18, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success", "sources": {"budget": "https://en.wikipedia.org/wiki/Neram", "revenue": "https://en.wikipedia.org/wiki/Neram", "verdict": "https://en.wikipedia.org/wiki/Neram"}, "notes": "Wiki budget ₹1.5 Cr, gross (est.) ₹18 Cr — both confirm stored; both versions 'a commercial success at the box-office'"},
+ {"tmdb_movie_id": 1022711, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1085230, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"}
+]

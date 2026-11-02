@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 655873, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada film; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 122835, "budget_inr_crore": 14, "revenue_inr_crore": 4.60, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "flop", "sources": {"budget": "https://en.wikipedia.org/wiki/Spanish_Masala", "revenue": "https://en.wikipedia.org/wiki/Spanish_Masala", "verdict": "https://en.wikipedia.org/wiki/Spanish_Masala"}, "notes": "Wiki budget ₹14 Cr, gross ₹4.60 Cr (both confirm stored); 'became a flop at the box office'"},
+ {"tmdb_movie_id": 1142463, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1155812, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2012 film (bulk search matched the 1953 Jhansi Ki Rani — not used)"},
+ {"tmdb_movie_id": 281951, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kshetram (film)' no figures/verdict"}
+]
