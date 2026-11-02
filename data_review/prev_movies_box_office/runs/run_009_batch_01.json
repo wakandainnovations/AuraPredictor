@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 117051, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Chukkallo_Chandrudu"}, "notes": "Wiki: 'emerged as a commercial failure at the box office'; no figures"},
+ {"tmdb_movie_id": 136542, "budget_inr_crore": 25, "revenue_inr_crore": 14.59, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Family_(2006_film)", "revenue": "https://en.wikipedia.org/wiki/Family_(2006_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2006/"}, "notes": "Wiki infobox (BOI-cited) ₹25 Cr / ₹14.59 Cr; BH 2006 table: Flop, India nett ₹8.59 Cr; Wiki states no verdict"},
+ {"tmdb_movie_id": 278143, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Bus_Conductor_(film)"}, "notes": "Wiki Box office: 'The film was an average grosser.'; no figures"},
+ {"tmdb_movie_id": 612059, "budget_inr_crore": 50, "revenue_inr_crore": 31.1, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "financial failure",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Taj_Mahal:_An_Eternal_Love_Story", "revenue": "https://en.wikipedia.org/wiki/Taj_Mahal:_An_Eternal_Love_Story", "verdict": "https://en.wikipedia.org/wiki/Taj_Mahal:_An_Eternal_Love_Story"}, "notes": "Wiki: budget ₹500 million, WW ₹311 million (BOI); 'the film was a financial failure in India'; not in BH 2005 table"},
+ {"tmdb_movie_id": 48759, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "performed commercially well",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Sivakasi_(film)"}, "notes": "Wiki: 'ran for 150 days in Tamil Nadu theatres and performed commercially well'; no figures"}
+]

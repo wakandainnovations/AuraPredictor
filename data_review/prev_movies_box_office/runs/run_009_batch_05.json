@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1455440, "budget_inr_crore": 15, "revenue_inr_crore": 2.40, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "box office bomb / Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ajey:_The_Untold_Story_of_a_Yogi", "revenue": "https://www.sacnilk.com/movie/Ajey_The_Untold_Story_of_a_Yogi_2025", "verdict": "https://en.wikipedia.org/wiki/Ajey:_The_Untold_Story_of_a_Yogi"}, "notes": "Wiki budget ₹15 Cr; stored revenue ₹1.4 Cr was cited to a day-1 article → corrected to sacnilk India gross ₹2.40 Cr over 32 days (till 20 Oct 2025, overseas '—'); Wiki 'became a box office bomb', BH 2025 Flop (nett ₹1.50 Cr)"},
+ {"tmdb_movie_id": 1352526, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; no sacnilk page; not in BH 2025 table"},
+ {"tmdb_movie_id": 1280611, "budget_inr_crore": null, "revenue_inr_crore": 1.22, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Paradha_2025", "verdict": "https://en.wikipedia.org/wiki/Paradha"}, "notes": "sacnilk India gross ₹1.22 Cr over 10 days (till 31 Aug 2025, day 10 ₹1 L), overseas '—'; Wiki 'It became a box office bomb.'"},
+ {"tmdb_movie_id": 1182487, "budget_inr_crore": null, "revenue_inr_crore": 2.47, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Sahasam_2025"}, "notes": "sacnilk India gross ₹2.47 Cr over 28 days (till 4 Sep 2025), overseas '—'; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1290709, "budget_inr_crore": null, "revenue_inr_crore": 0.36, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Meesha_2025"}, "notes": "sacnilk India gross ₹36 L over 10 days (till 10 Aug 2025, day 10 ₹1 L), overseas '—'; Wiki no figures/verdict"}
+]

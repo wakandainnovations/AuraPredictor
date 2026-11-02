@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 446688, "budget_inr_crore": null, "revenue_inr_crore": 8.22, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "BH 2005 table: lifetime India nett ₹8.22 Cr, Flop; Wiki no figures"},
+ {"tmdb_movie_id": 31364, "budget_inr_crore": 16, "revenue_inr_crore": 42.48, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Waqt:_The_Race_Against_Time", "revenue": "https://en.wikipedia.org/wiki/Waqt:_The_Race_Against_Time"}, "notes": "Wiki infobox ₹16 Cr / ₹42.48 Cr WW. Verdict conflict: Wiki 'box-office success' vs BH 2005 'Average' (nett ₹20.25 Cr) — NULL"},
+ {"tmdb_movie_id": 69572, "budget_inr_crore": 4.5, "revenue_inr_crore": 5.17, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Mumbai_Xpress", "revenue": "https://en.wikipedia.org/wiki/Mumbai_Xpress", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "Wiki (BOI) ₹4.50 Cr / ₹5.17 Cr; Wiki: BOI certified 'flop'; BH 2005 Flop (Hindi version nett ₹3.50 Cr)"},
+ {"tmdb_movie_id": 640982, "budget_inr_crore": 4.5, "revenue_inr_crore": 1.04, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Khamoshh..._Khauff_Ki_Raat", "revenue": "https://en.wikipedia.org/wiki/Khamoshh..._Khauff_Ki_Raat"}, "notes": "Wiki (BOI) ₹4.50 Cr / ₹1.04 Cr; no verdict stated; not in BH 2005 table"},
+ {"tmdb_movie_id": 586077, "budget_inr_crore": 1.5, "revenue_inr_crore": 0.5253, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chand_Sa_Roshan_Chehra", "revenue": "https://en.wikipedia.org/wiki/Chand_Sa_Roshan_Chehra"}, "notes": "Wiki ₹1.50 Cr / ₹52.53 lakh; 'underperformed' is not a verdict; not in BH 2005 table"}
+]

@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1068344, "budget_inr_crore": 9, "revenue_inr_crore": 29.2, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bheema_(2024_film)", "revenue": "https://en.wikipedia.org/wiki/Bheema_(2024_film)"}, "notes": "Wiki budget ₹8–10 Cr → midpoint 9 (stored); 'final collections were reported to be ₹29.20 crores' (stored); sacnilk India gross ₹26.04 Cr/83 days; no verdict"},
+ {"tmdb_movie_id": 1105682, "budget_inr_crore": null, "revenue_inr_crore": 1.73, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Level_Cross_2024"}, "notes": "sacnilk India gross ₹1.73 Cr over 20 days (WW header ₹1.44 Cr below India gross — ignored); no Wiki figures/verdict"},
+ {"tmdb_movie_id": 1032240, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jilebi (2023 film)' no figures/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 1171099, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Netflix, 21 Jun 2024) — no box office"},
+ {"tmdb_movie_id": 1283181, "budget_inr_crore": null, "revenue_inr_crore": 4.76, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Trisha_on_the_Rocks_2024"}, "notes": "sacnilk India gross ₹4.76 Cr over 35 days (WW header ₹1.92 Cr below India gross — ignored); Wiki no figures/verdict"}
+]

@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 79210, "budget_inr_crore": 12.5, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chatrapathi_(2005_film)", "verdict": "https://en.wikipedia.org/wiki/Chatrapathi_(2005_film)"}, "notes": "Wiki: 'emerged as a blockbuster, collecting an estimated distributors' share of ₹19.25 crore against a budget of ₹12.5 crore'. FLAG: stored revenue $4,386,465 ≈ ₹19.25 Cr = distributors' share, not gross — left"},
+ {"tmdb_movie_id": 596092, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures, no verdict"},
+ {"tmdb_movie_id": 216696, "budget_inr_crore": 3.5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Yahaan"}, "notes": "Wiki infobox budget ₹3.5 crore (Telegraph); 'performed poorly at box office' is not a verdict; not in BH 2005 table"},
+ {"tmdb_movie_id": 148839, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'average grosser' sentence is ambiguous (reads as the 2007 Hindi version 'Robbery') — NULL; no figures"},
+ {"tmdb_movie_id": 279533, "budget_inr_crore": 20, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Narasimhudu", "verdict": "https://en.wikipedia.org/wiki/Narasimhudu"}, "notes": "Wiki: 'significant budget of approximately ₹20 crore'; 'leading the film to become a box-office bomb'"}
+]

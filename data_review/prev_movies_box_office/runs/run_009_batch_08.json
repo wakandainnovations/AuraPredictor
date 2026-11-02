@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1103756, "budget_inr_crore": null, "revenue_inr_crore": 3.65, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Aghathiyaa_2025"}, "notes": "sacnilk India gross ₹3.65 Cr over 28 days (till 27 Mar 2025), overseas '—'; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1290218, "budget_inr_crore": 5, "revenue_inr_crore": 4.13, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Painkili", "revenue": "https://www.sacnilk.com/movie/Painkili_2025"}, "notes": "Wiki budget ₹5 Cr (TOI; stored); sacnilk India gross ₹4.13 Cr over 41 days (till 26 Mar 2025), overseas '—'; no verdict"},
+ {"tmdb_movie_id": 1149783, "budget_inr_crore": 4.55, "revenue_inr_crore": 7.23, "revenue_scope": "unknown", "verdict": "avg", "verdict_label": "moderate success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Oru_Jaathi_Jaathakam", "revenue": "https://en.wikipedia.org/wiki/Oru_Jaathi_Jaathakam", "verdict": "https://en.wikipedia.org/wiki/Oru_Jaathi_Jaathakam"}, "notes": "Wiki ₹4.55 Cr / ₹7.23 Cr (stored); 'was a moderate success at box office' → avg"},
+ {"tmdb_movie_id": 1275462, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2024 table; stored tmdb budget $778,000 unverified, left"},
+ {"tmdb_movie_id": 970231, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (ManoramaMAX, 29 Nov 2024) — no box office"}
+]

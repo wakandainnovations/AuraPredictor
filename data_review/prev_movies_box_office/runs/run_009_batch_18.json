@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 882401, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Bagheera_(2023_film)"}, "notes": "Wiki: 'became a box-office failure'; sacnilk only 7 days (net ₹6.34 Cr) — partial, not stored"},
+ {"tmdb_movie_id": 901489, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk day 1 only; ZEE5 7 Apr 2023"},
+ {"tmdb_movie_id": 915388, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk 'Disaster' on a page with no data — ignored"},
+ {"tmdb_movie_id": 953120, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk 'Disaster' on a page with no data — ignored"},
+ {"tmdb_movie_id": 981371, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk only 7 days (net ₹2.89 Cr) — partial, not stored"}
+]

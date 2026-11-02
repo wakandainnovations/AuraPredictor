@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 238674, "budget_inr_crore": null, "revenue_inr_crore": 4.24, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "BH 2005 table: India nett ₹4.24 Cr, Flop; Wiki: 'the film failed at the box office'"},
+ {"tmdb_movie_id": 140231, "budget_inr_crore": null, "revenue_inr_crore": 7.52, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2005/"}, "notes": "BH 2005 table: India nett ₹7.52 Cr, Flop; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1601762, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 1074048, "budget_inr_crore": null, "revenue_inr_crore": 4.76, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Revolver_Rita_2025"}, "notes": "sacnilk: India gross ₹4.76 Cr over 21 days (figures till 18 Dec 2025), overseas '—'; Wiki no figures/verdict; Netflix from 26 Dec 2025"},
+ {"tmdb_movie_id": 885206, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Anthology; no Wiki article; no sacnilk page"}
+]

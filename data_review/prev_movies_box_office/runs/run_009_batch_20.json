@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 945482, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 862618, "budget_inr_crore": 14, "revenue_inr_crore": 18.30, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Kaapa_2022", "revenue": "https://www.sacnilk.com/movie/Kaapa_2022"}, "notes": "stored ₹17 Cr was Wiki's TOI 'crosses Rs 17 crores' running total → sacnilk WW ₹18.30 Cr over 18 days (till 8 Jan 2023; India gross ₹13.59 Cr + overseas ₹4.71 Cr); sacnilk budget ₹14.00 Cr; no verdict; Netflix 19 Jan 2023"},
+ {"tmdb_movie_id": 1601385, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 850837, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (ZEE5, 9 Dec 2022) — no box office"},
+ {"tmdb_movie_id": 881983, "budget_inr_crore": 15, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Salaam_Venky_2022", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"}, "notes": "sacnilk budget ₹15.00 Cr; BH 2022 Flop (nett ₹1.25 Cr). FLAG: stored Wiki gross ₹1.99 Cr vs sacnilk 7-day WW ₹3.36 Cr — conflict, left"}
+]

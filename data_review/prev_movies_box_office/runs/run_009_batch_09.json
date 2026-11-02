@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1052381, "budget_inr_crore": null, "revenue_inr_crore": 1.19, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Naam_2024", "verdict": "https://www.sacnilk.com/movie/Naam_2024"}, "notes": "sacnilk India gross ₹1.19 Cr over 33 days (WW header ₹92 L is below India gross — ignored), verdict Disaster; BH 2024 'Pending'; Wiki no figures"},
+ {"tmdb_movie_id": 1233327, "budget_inr_crore": null, "revenue_inr_crore": 4.61, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Matka_2024"}, "notes": "sacnilk India gross ₹4.61 Cr over 21 days (WW header ₹20 L wrong); Wiki 'underperformed' is not a verdict"},
+ {"tmdb_movie_id": 1148172, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (Netflix, 25 Oct 2024) — no box office"},
+ {"tmdb_movie_id": 1237537, "budget_inr_crore": null, "revenue_inr_crore": 0.76, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Utsavam_2024"}, "notes": "sacnilk India gross ₹76 L over 14 days, overseas '—'; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 989880, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming (ZEE5 original, 4 Oct 2024) — no box office"}
+]

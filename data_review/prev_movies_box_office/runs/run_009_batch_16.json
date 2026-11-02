@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1022971, "budget_inr_crore": 4, "revenue_inr_crore": 10, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Madhura_Manohara_Moham", "revenue": "https://en.wikipedia.org/wiki/Madhura_Manohara_Moham"}, "notes": "Wiki ₹4 Cr / ₹10 Cr (stored); sacnilk WW ₹9.70 Cr/35 days; no verdict"},
+ {"tmdb_movie_id": 1048291, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 937053, "budget_inr_crore": null, "revenue_inr_crore": 10, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Neymar_(film)"}, "notes": "Wiki gross est. ₹10 Cr (stored); sacnilk page no data; no verdict"},
+ {"tmdb_movie_id": 1069937, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "sacnilk only 7 days (WW ₹5.60 Cr) — partial, not stored; Wiki no figures/verdict; Prime Video 2 Jun 2023"},
+ {"tmdb_movie_id": 587471, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk page no data; ZEE5 16 Jun 2023"}
+]

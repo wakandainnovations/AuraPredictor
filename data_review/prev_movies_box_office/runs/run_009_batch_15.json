@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 979808, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Karumegangal Kalaigindrana' no figures/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 1034155, "budget_inr_crore": 56, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Gandeevadhari_Arjuna"}, "notes": "Wiki infobox budget '56 crore' (uncited). FLAG: Wiki gross '1.5 crore' uncited and below sacnilk 7-day WW ₹3.00 Cr — not stored; Netflix 24 Sep 2023"},
+ {"tmdb_movie_id": 898976, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article found; sacnilk only 4 days (net ₹1.82 Cr) — partial, not stored"},
+ {"tmdb_movie_id": 1071249, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; sacnilk page has no data"},
+ {"tmdb_movie_id": 1136736, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming anthology (Netflix, 29 Jun 2023) — no box office"}
+]

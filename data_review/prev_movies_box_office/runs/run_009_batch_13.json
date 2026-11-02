@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1077696, "budget_inr_crore": null, "revenue_inr_crore": 4.57, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Thankamani_(film)"}, "notes": "Wiki final run: Kerala ₹3.4 Cr + rest of India ₹27 L + overseas ₹90 L = ₹4.57 Cr; 'underperformed' is not a verdict"},
+ {"tmdb_movie_id": 1034158, "budget_inr_crore": null, "revenue_inr_crore": 10.30, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Operation_Valentine_2024"}, "notes": "sacnilk WW ₹10.30 Cr over 28 days (India gross ₹9.80 Cr); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1145807, "budget_inr_crore": null, "revenue_inr_crore": 0.86, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Thundu_2024"}, "notes": "sacnilk India gross ₹86 L over 16 days, overseas '—'; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1393817, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; Aha streaming 28 Nov 2024"},
+ {"tmdb_movie_id": 1216909, "budget_inr_crore": null, "revenue_inr_crore": 8.33, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Ole_Aale"}, "notes": "Wiki gross ₹8.33 Cr (stored); sacnilk India gross ₹8.60 Cr/220 days; no verdict"}
+]

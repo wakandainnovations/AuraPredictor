@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1005156, "budget_inr_crore": null, "revenue_inr_crore": 1.44, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "box office failure / Flop",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Nikita_Roy_2025", "verdict": "https://en.wikipedia.org/wiki/Nikita_Roy"}, "notes": "sacnilk India gross ₹1.44 Cr over 14 days (till 31 Jul 2025), overseas '—'; Wiki 'did not recoup its budget and is considered a box office failure'; BH 2025 Flop (nett ₹0.89 Cr)"},
+ {"tmdb_movie_id": 1305322, "budget_inr_crore": null, "revenue_inr_crore": 4.26, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Phoenix_2025"}, "notes": "stored tmdb revenue $4,001 implausible → sacnilk India gross ₹4.26 Cr over 132 days (till 12 Nov 2025), overseas '—'; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1433112, "budget_inr_crore": null, "revenue_inr_crore": 1.35, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Love_Marriage_2025"}, "notes": "sacnilk India gross ₹1.35 Cr over 14 days (till 10 Jul 2025), overseas '—'; Wiki 'average reviews' is critical, not a verdict"},
+ {"tmdb_movie_id": 1101684, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki no figures/verdict; no sacnilk page"},
+ {"tmdb_movie_id": 1132152, "budget_inr_crore": null, "revenue_inr_crore": 10.55, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Ace_2025", "verdict": "https://en.wikipedia.org/wiki/Ace_(film)"}, "notes": "sacnilk India gross ₹10.55 Cr over 27 days (till 18 Jun 2025), overseas '—'; Wiki 'The film was a box-office bomb.'; Prime Video from 13 Jun 2025"}
+]

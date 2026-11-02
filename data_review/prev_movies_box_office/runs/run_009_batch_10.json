@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1221981, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk only 6 days (₹9 L, till 9 Oct 2024) — partial, not stored"},
+ {"tmdb_movie_id": 1185591, "budget_inr_crore": null, "revenue_inr_crore": 2.54, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Hitler_2024"}, "notes": "sacnilk India gross ₹2.54 Cr over 19 days (WW header ₹1.10 Cr below India gross — ignored); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1321820, "budget_inr_crore": null, "revenue_inr_crore": 0.94, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Bharathanatyam_2024"}, "notes": "sacnilk India gross ₹94 L, overseas '—'; Wiki 'underperformed in theatres' is not a verdict"},
+ {"tmdb_movie_id": 1148486, "budget_inr_crore": 60, "revenue_inr_crore": 30.00, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vedaa", "revenue": "https://www.sacnilk.com/movie/Vedaa_2024", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2024/"}, "notes": "Wiki budget ₹60 Cr (stored); stored revenue ₹26.71 Cr (BH est.) ≈ India gross only (sacnilk India gross ₹26.75 Cr) → sacnilk WW ₹30.00 Cr over 51 days (overseas ₹3.25 Cr); BH 2024 Flop (nett ₹20.25 Cr); Wiki 'underperformed at the box office'"},
+ {"tmdb_movie_id": 904704, "budget_inr_crore": null, "revenue_inr_crore": 6.11, "revenue_scope": "india_gross", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Andhagan_2024", "verdict": "https://en.wikipedia.org/wiki/Andhagan"}, "notes": "sacnilk India gross ₹6.11 Cr over 61 days, overseas '—'; Wiki lead: 'became a commercial success' (box-office section notes an event celebrating its 'apparent success')"}
+]

@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 1090566, "budget_inr_crore": null, "revenue_inr_crore": 1.04, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Grrr_2024", "verdict": "https://www.sacnilk.com/movie/Grrr_2024"}, "notes": "sacnilk India gross ₹1.04 Cr over 20 days (overseas '—'), verdict Disaster; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1186312, "budget_inr_crore": null, "revenue_inr_crore": 59.50, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Super Hit",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Garudan_2024", "verdict": "https://www.sacnilk.com/movie/Garudan_2024"}, "notes": "sacnilk WW ₹59.50 Cr over 154 days (India gross ₹51.00 Cr + overseas ₹8.50 Cr), verdict Super Hit; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1293900, "budget_inr_crore": null, "revenue_inr_crore": 8.59, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Love_Me_2024"}, "notes": "sacnilk WW ₹8.59 Cr over 20 days (India gross ₹8.09 Cr + overseas ₹50 L); Wiki 'Love Me (2024 Indian film)' no figures/verdict"},
+ {"tmdb_movie_id": 703701, "budget_inr_crore": null, "revenue_inr_crore": 0.42, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/O2_2024"}, "notes": "sacnilk India gross ₹42 L over 25 days, overseas '—'; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1219162, "budget_inr_crore": null, "revenue_inr_crore": 1.32, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Sanju_Weds_Geetha_2_2025"}, "notes": "sacnilk (page dated 2025, 173 days to 1 Jul 2025 → released Jan 2025; DB date 2024-04-01, so 2024 rate used) India gross ₹1.32 Cr, overseas '—'; Wiki search hit the 2011 original only"}
+]
