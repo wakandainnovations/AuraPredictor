@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 890453, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; sacnilk only 6 days (₹2.45 Cr India gross, India-only, no overseas) not stored; stored tmdb $226,378 (≈₹1.7 Cr, likely overseas-only) unverified, flagged, left; sacnilk 'Disaster' on a 6-day page not used"},
+ {"tmdb_movie_id": 855400, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Prime Video, 2 Nov 2021) — no box office"},
+ {"tmdb_movie_id": 883173, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (ZEE5, 29 Oct 2021) — no box office"},
+ {"tmdb_movie_id": 790019, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Disney+ Hotstar, 15 Oct 2021) — no box office"},
+ {"tmdb_movie_id": 794819, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (ZEE5, 15 Oct 2021) — no box office"}
+]

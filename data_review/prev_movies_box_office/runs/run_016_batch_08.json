@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 883125, "budget_inr_crore": 10.0, "revenue_inr_crore": 13.0, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chup:_Revenge_of_the_Artist", "revenue": "https://en.wikipedia.org/wiki/Chup:_Revenge_of_the_Artist"},
+  "notes": "Wiki budget ₹10 Cr (ABP), WW lifetime ₹13 Cr (BH) — stored values confirmed; verdict conflict Wiki 'a modest success' vs BH 2022 table Flop (nett ₹9.75 Cr) → NULL"},
+ {"tmdb_movie_id": 943301, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; sacnilk only day 1 (₹47 L India gross) not stored"},
+ {"tmdb_movie_id": 1009723, "budget_inr_crore": null, "revenue_inr_crore": 0.50, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "BH 2022 table lifetime ₹0.50 Cr, Flop"},
+ {"tmdb_movie_id": 1052671, "budget_inr_crore": null, "revenue_inr_crore": 0.001, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "BH 2022 table lifetime ₹0.001 Cr, Flop"},
+ {"tmdb_movie_id": 835761, "budget_inr_crore": 15.0, "revenue_inr_crore": 9.55, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Pathonpatham_Noottandu_2022", "revenue": "https://www.sacnilk.com/movie/Pathonpatham_Noottandu_2022"},
+  "notes": "sacnilk India gross ₹9.55 Cr (15 days, till 22 Sep 2022; its WW header ₹7.10 Cr is below India gross, so India gross line stored; overseas ₹30 L), budget ₹15 Cr; no verdict on sacnilk or Wiki"}
+]

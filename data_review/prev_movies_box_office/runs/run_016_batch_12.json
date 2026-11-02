@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 915867, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (ZEE5, 24 Jun 2022) — no box office"},
+ {"tmdb_movie_id": 934878, "budget_inr_crore": null, "revenue_inr_crore": 0.10, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "Revenue corrected: stored ≈₹10 Cr = Wiki infobox 'Box office ₹10 crore' (same value and cite as its budget; Asianet report retrieved 26 Jun 2022, two days after release) → BH 2022 table lifetime ₹0.10 Cr, Flop; stored budget ₹10 Cr (same weak cite) left unconfirmed"},
+ {"tmdb_movie_id": 768466, "budget_inr_crore": 12.0, "revenue_inr_crore": 5.12, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Janhit_Mein_Jaari", "revenue": "https://en.wikipedia.org/wiki/Janhit_Mein_Jaari", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "Wiki budget ₹12 Cr (BH '50% loss of approx. Rs. 6 cr.'), gross est. ₹5.12 Cr (BH) — stored values confirmed; BH 2022 table nett ₹4.11 Cr, Flop"},
+ {"tmdb_movie_id": 829130, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (SonyLIV, 9 Jun 2022) — no box office"},
+ {"tmdb_movie_id": 904718, "budget_inr_crore": null, "revenue_inr_crore": 12.00, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Nenjuku_Needhi_2022", "verdict": "https://www.sacnilk.com/movie/Nenjuku_Needhi_2022"},
+  "notes": "sacnilk WW ₹12.00 Cr (14 days, till 2 Jun 2022; India gross 11.10 + overseas 0.90 — film ran 50 days per Wiki, so figure may be partial), verdict 'Hit'"}
+]

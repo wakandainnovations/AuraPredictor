@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 894758, "budget_inr_crore": 16.0, "revenue_inr_crore": 22.96, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/18_Pages", "revenue": "https://www.sacnilk.com/movie/18_Pages_2022", "verdict": "https://www.sacnilk.com/movie/18_Pages_2022"},
+  "notes": "Revenue corrected: stored ₹25 Cr = Wiki 'est. ₹25 crore' cited to a TOI 'Day 10' article (running total) → sacnilk WW ₹22.96 Cr (21 days, till 12 Jan 2023); budget Wiki ₹16 Cr confirmed (sacnilk ₹15 Cr); verdict sacnilk 'Hit' (page has real figures)"},
+ {"tmdb_movie_id": 938497, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; sacnilk 'No box office figures yet' (default Disaster ignored)"},
+ {"tmdb_movie_id": 1061647, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article; sacnilk 404"},
+ {"tmdb_movie_id": 1046991, "budget_inr_crore": null, "revenue_inr_crore": 0.60, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "BH 2022 table lifetime ₹0.60 Cr, Flop; Wiki (Vadh_(2022_film)) no figures"},
+ {"tmdb_movie_id": 1048687, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article"}
+]

@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 944410, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Prime Video, 18 Mar 2022) — no box office"},
+ {"tmdb_movie_id": 828378, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'highly positive reviews' only; sacnilk no data (default Disaster ignored)"},
+ {"tmdb_movie_id": 665685, "budget_inr_crore": 22.0, "revenue_inr_crore": 15.16, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "flop / Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jhund_(film)", "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://en.wikipedia.org/wiki/Jhund_(film)"},
+  "notes": "BH 2022 table lifetime ₹15.16 Cr, Flop; Wiki budget ₹22 Cr (DNA 2018), lead 'a flop at the box office'; Wiki body '₹29.6 crores' final figure (BH 'till now' page) conflicts with its own infobox — not used"},
+ {"tmdb_movie_id": 828901, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (ZEE5, 25 Feb 2022) — no box office"},
+ {"tmdb_movie_id": 667255, "budget_inr_crore": 10.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/FIR_2022"},
+  "notes": "Budget sacnilk ₹10 Cr; stored revenue ≈₹24 Cr = Wiki 'est. ₹24 crore' cited to TOI 'grosses more than its budget within a week' (18 Feb 2022, running total) vs sacnilk WW ₹10.50 Cr (13 days, till 23 Feb) — 2× gap, sacnilk may not be end-of-run → flagged, left; verdict conflict Wiki 'commercial success' vs sacnilk 'Average' → NULL"}
+]

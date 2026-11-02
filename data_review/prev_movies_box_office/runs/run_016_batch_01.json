@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1022469, "budget_inr_crore": null, "revenue_inr_crore": 0.55, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"},
+  "notes": "BH 2023 table lifetime ₹0.55 Cr, Flop; Wiki no budget"},
+ {"tmdb_movie_id": 1026769, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; sacnilk 'No box office figures yet' (default Disaster ignored)"},
+ {"tmdb_movie_id": 1078414, "budget_inr_crore": null, "revenue_inr_crore": 7.0, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Dr._Bezbaruah_2"},
+  "notes": "Wiki ₹7 Cr (ThePrint 25 Feb 2023), Koimoi Roi Roi Binale article also says ₹7 Cr gross; sacnilk 15-day ₹5.65 Cr partial; '4th highest grossing Assamese' is a ranking, no verdict"},
+ {"tmdb_movie_id": 938890, "budget_inr_crore": 14.0, "revenue_inr_crore": 1.93, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Hunt_(2023_film)", "revenue": "https://en.wikipedia.org/wiki/Hunt_(2023_film)", "verdict": "https://en.wikipedia.org/wiki/Hunt_(2023_film)"},
+  "notes": "Wiki budget ₹14 Cr, gross 'est. ₹1.93 crore' (cite dated 14 Feb 2023); sacnilk only 3 days (₹2.74 Cr India gross) — stored values confirmed"},
+ {"tmdb_movie_id": 1067209, "budget_inr_crore": null, "revenue_inr_crore": 2.40, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"},
+  "notes": "BH 2023 table lifetime ₹2.40 Cr, Flop; Wiki no figures"}
+]

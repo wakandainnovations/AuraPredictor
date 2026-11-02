@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 963682, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Festival-only (Busan 2022, IFFI 2022) then Disney+ Hotstar 28 Jan 2025 — no theatrical release"},
+ {"tmdb_movie_id": 950284, "budget_inr_crore": 15.0, "revenue_inr_crore": 39.0, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success / Super Hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Rorschach_(film)", "revenue": "https://en.wikipedia.org/wiki/Rorschach_(film)", "verdict": "https://en.wikipedia.org/wiki/Rorschach_(film)"},
+  "notes": "Wiki WW ₹39 Cr, budget ₹15 Cr (HT success-meet article) — stored revenue confirmed; sacnilk WW ₹39.13 Cr (28 days), budget ₹15 Cr, 'Super Hit' agree"},
+ {"tmdb_movie_id": 982363, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article"},
+ {"tmdb_movie_id": 868666, "budget_inr_crore": null, "revenue_inr_crore": 10.50, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb / Disaster",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/The_Ghost_2022", "verdict": "https://en.wikipedia.org/wiki/The_Ghost_(2022_film)"},
+  "notes": "sacnilk WW ₹10.50 Cr (10 days, till 14 Oct 2022; India gross 9.00 + overseas 1.50); Wiki infobox uncited 'Box office 7 crore' (below sacnilk's 10-day figure) not used; budget conflict Wiki uncited ₹45 Cr vs sacnilk ₹25 Cr → left NULL (flagged); verdict Wiki 'box-office bomb' + sacnilk 'Disaster'"},
+ {"tmdb_movie_id": 900471, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; sacnilk 404"}
+]

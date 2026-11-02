@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 729700, "budget_inr_crore": 70.0, "revenue_inr_crore": 61.61, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office failure / Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Raksha_Bandhan_(film)", "revenue": "https://en.wikipedia.org/wiki/Raksha_Bandhan_(film)", "verdict": "https://en.wikipedia.org/wiki/Raksha_Bandhan_(film)"},
+  "notes": "Wiki budget ₹70 Cr (Business Today), WW est. ₹61.61 Cr (BH) — stored values confirmed; verdict Wiki 'box office failure' + BH 2022 table Flop (nett ₹44.39 Cr)"},
+ {"tmdb_movie_id": 886447, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'mixed reviews' only; sacnilk only 6 days (India gross ₹1.19 Cr) not stored; its 'Disaster' on a 6-day page not used"},
+ {"tmdb_movie_id": 845343, "budget_inr_crore": 10.0, "revenue_inr_crore": 28.20, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success / Hit",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Paappan_2022", "revenue": "https://www.sacnilk.com/movie/Paappan_2022", "verdict": "https://en.wikipedia.org/wiki/Paappan"},
+  "notes": "Revenue corrected: stored ≈₹50 Cr = Wiki 'est. ₹50 crore' cited to Manorama 'enters Rs 50 crore club, continues run' (20-day running claim) → sacnilk WW ₹28.20 Cr (42 days, till 8 Sep 2022; India gross 19.60 + overseas 8.60); budget sacnilk ₹10 Cr; verdict Wiki 'commercial success' + sacnilk 'Hit'"},
+ {"tmdb_movie_id": 1472793, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article"},
+ {"tmdb_movie_id": 1002041, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article"}
+]

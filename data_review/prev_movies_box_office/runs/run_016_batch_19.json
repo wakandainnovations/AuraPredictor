@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 881478, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Konda_Polam"},
+  "notes": "Wiki lead 'ended up as a commercial failure' (Hans India 'Konda Polam encounters big losses!'); 'recovered its budget from satellite and streaming rights' is non-theatrical; no figures (₹3.5 Cr Prime rights is not gross)"},
+ {"tmdb_movie_id": 879803, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Disney+ Hotstar, 1 Oct 2021) — no box office"},
+ {"tmdb_movie_id": 613713, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 870706, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (theatrical 3 Sep 2021)"},
+ {"tmdb_movie_id": 606517, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (SonyLIV, 27 Aug 2021) — no box office"}
+]

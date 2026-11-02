@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 1055772, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (theatrical 9 Dec 2022, Aha 3 Feb 2023)"},
+ {"tmdb_movie_id": 1060899, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Documentary premiered on MX Player 29 Nov 2022 — no box office"},
+ {"tmdb_movie_id": 864687, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki (Aanaparambile_World_Cup) no figures/verdict"},
+ {"tmdb_movie_id": 1046083, "budget_inr_crore": 3.0, "revenue_inr_crore": 9.20, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Blockbuster",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Gaalodu_2022", "revenue": "https://www.sacnilk.com/movie/Gaalodu_2022", "verdict": "https://www.sacnilk.com/movie/Gaalodu_2022"},
+  "notes": "Revenue corrected: stored ≈₹10.46 Cr = Wiki infobox cited to bollywoodmoviereviewz 'Day 26' page → sacnilk WW ₹9.20 Cr (28 days, till 15 Dec 2022; India gross 9.00 + overseas 0.20); budget sacnilk ₹3 Cr; verdict sacnilk 'Blockbuster' (Wiki only 'positive reviews')"},
+ {"tmdb_movie_id": 1040393, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Festival-only (Tallinn 2022, Shanghai, UKAFF, IFFM, IFFI 2023); no commercial release found; not in BH table"}
+]

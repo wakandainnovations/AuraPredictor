@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 1033866, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (only '₹7 Cr worldwide theatrical rights' sale — not gross); sacnilk 7-day partial, self-conflicting (WW 3.68 vs India gross 5.62) not stored"},
+ {"tmdb_movie_id": 851731, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; sacnilk 'No box office figures yet' (default Disaster ignored)"},
+ {"tmdb_movie_id": 1031577, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (OTTplay review 'bites the dust' is about quality)"},
+ {"tmdb_movie_id": 1035672, "budget_inr_crore": null, "revenue_inr_crore": 0.02, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "BH 2022 table ('Kahani Rubber Band Ki') lifetime ₹0.02 Cr, Flop; Wiki no figures"},
+ {"tmdb_movie_id": 1110866, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article (Champion_(2022_film) 404)"}
+]

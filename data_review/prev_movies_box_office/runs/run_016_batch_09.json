@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 856007, "budget_inr_crore": null, "revenue_inr_crore": 3.94, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Natchathiram_Nagargiradhu_2022"},
+  "notes": "sacnilk WW ₹3.94 Cr (8 days, till 7 Sep 2022; India gross 3.44 + overseas 0.50) — short run, may be slightly partial; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 512533, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Adho_Andha_Paravai_Pola' describes an older film (100+/150-day run, 2014 re-release) — wrong article, not used; nothing found for the 2022 Amala Paul film"},
+ {"tmdb_movie_id": 807598, "budget_inr_crore": null, "revenue_inr_crore": 4.50, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Diary_2022"},
+  "notes": "sacnilk WW ₹4.50 Cr (10 days, till 4 Sep 2022; India gross 3.87 + overseas 0.63); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 887960, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 1013615, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Laung_Laachi_2 redirects to the 2018 original (not used); sacnilk only 7 days (India gross ₹2.49 Cr) not stored"}
+]

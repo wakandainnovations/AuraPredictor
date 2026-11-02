@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1009432, "budget_inr_crore": null, "revenue_inr_crore": 48.99, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Uunchai", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "Wiki WW ₹48.99 Cr (BH: India 40.71 + overseas 8.28) — stored confirmed; BH 2022 table lifetime nett ₹34.20 Cr, Flop; Wiki 'emerged victorious' vs Rocket Gang is a clash comparison, not a verdict; no budget"},
+ {"tmdb_movie_id": 1045069, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "1980 film released after 40-year delay on 5 Nov 2022 (2K remaster); Wiki no figures/verdict"},
+ {"tmdb_movie_id": 726207, "budget_inr_crore": 45.0, "revenue_inr_crore": 18.73, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Phone_Bhoot", "revenue": "https://en.wikipedia.org/wiki/Phone_Bhoot"},
+  "notes": "Wiki budget ₹45 Cr (Economic Times), gross est. ₹18.73 Cr (BH) — stored confirmed; BH 2022 table nett ₹14.01 Cr with verdict 'Pending' → verdict NULL"},
+ {"tmdb_movie_id": 962194, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office disaster",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Saturday_Night_(2022_film)"},
+  "notes": "Wiki lead 'gradually it became box office disaster'; no figures"},
+ {"tmdb_movie_id": 984631, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Coffee_with_Kadhal"},
+  "notes": "Wiki lead 'was a box-office bomb' (uncited; Asianet day-1 article on poor collection); no figures"}
+]

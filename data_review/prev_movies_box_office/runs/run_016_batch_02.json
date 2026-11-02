@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 969831, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (theatrical 20 Jan 2023, ZEE5 24 Mar 2023)"},
+ {"tmdb_movie_id": 751534, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; sacnilk Djinn_2023 404"},
+ {"tmdb_movie_id": 868553, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Apparently unreleased: no Wiki article, not in BH 2022 table, last news July 2021 (50% shot)"},
+ {"tmdb_movie_id": 932242, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'positive reviews' only; sacnilk 7-day partial (India net ₹1.12 Cr, self-conflicting gross) not stored"},
+ {"tmdb_movie_id": 1022973, "budget_inr_crore": 3.5, "revenue_inr_crore": 52.40, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success / Blockbuster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Malikappuram", "revenue": "https://www.sacnilk.com/movie/Malikappuram_2022", "verdict": "https://en.wikipedia.org/wiki/Malikappuram"},
+  "notes": "Revenue corrected: stored ≈₹99 Cr = Wiki 'est. ₹99 crore' cited to a News18 article in which producer Venu Kunnappilly says the film did NOT earn ₹100 Cr (Asianet also reports his denial of the ₹100 Cr posters) → sacnilk WW ₹52.40 Cr (46 days, till 13 Feb 2023, OTT 15 Feb; India gross 41.90 + overseas 10.50); budget Wiki ₹3.5 Cr (Manorama 'മുടക്ക് 3.50 കോടി'; sacnilk ₹3.25 Cr); verdict Wiki 'commercial success', sacnilk 'Blockbuster'"}
+]

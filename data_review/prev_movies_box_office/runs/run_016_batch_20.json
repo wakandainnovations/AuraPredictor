@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 859946, "budget_inr_crore": 10.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Paagal_2021"},
+  "notes": "Budget sacnilk ₹10 Cr; stored revenue ≈₹20.60 Cr = Wiki 'est.' cited to T2Blive 'Paagal Total World Wide Collections!' (31 Aug 2021) vs sacnilk WW ₹10.50 Cr (13 days, till 26 Aug) — 2× gap, flagged, left; verdict conflict Wiki 'a moderate success' vs sacnilk 'Flop' → NULL"},
+ {"tmdb_movie_id": 666564, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Prime Video, 20 Jul 2021) — no box office"},
+ {"tmdb_movie_id": 844710, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Disney+ Hotstar, 9 Jul 2021) — no box office"},
+ {"tmdb_movie_id": 833414, "budget_inr_crore": 5.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ek_Mini_Katha"},
+  "notes": "Wiki budget ₹5 Cr (TOI) — stored confirmed; direct-to-streaming (Prime Video, 27 May 2021; ₹9 Cr rights sale is not gross) — no box office"},
+ {"tmdb_movie_id": 734780, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Netflix, 18 May 2021) — no box office"}
+]
