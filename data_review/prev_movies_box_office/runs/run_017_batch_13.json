@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 603110, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki only opening-weekend Chennai ₹1 Cr (IBT) — partial, not stored; no verdict"},
+ {"tmdb_movie_id": 569113, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox budget/gross blank (editor comment demands a reliable source); body 'ended as a financial success, with a worldwide gross of ₹18.5 crore' cited to an unrelated Bigil/Asuran article → not used, flagged; UAE 3-week $172,068, US $18,710"},
+ {"tmdb_movie_id": 607310, "budget_inr_crore": 8.0, "revenue_inr_crore": 10.0, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Evaru", "revenue": "https://en.wikipedia.org/wiki/Evaru"},
+  "notes": "Wiki budget ₹8 Cr, gross 'est. ₹10 crore' (Sakshi 31 Dec 2019 year-end + IBT Tollywood 2019 report) — stored confirmed; no verdict stated"},
+ {"tmdb_movie_id": 543693, "budget_inr_crore": null, "revenue_inr_crore": 21.13, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Jabariya_Jodi", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"},
+  "notes": "Wiki WW gross ₹21.13 Cr (BH) — stored confirmed; BH 2019 lifetime nett ₹16.33 Cr, Flop; stored budget ≈₹29 Cr = Wiki infobox but its Dainik Bhaskar cite title says ₹22 Cr → not confirmed, flagged, left"},
+ {"tmdb_movie_id": 496029, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Theatrical 9 Aug 2019; Wiki no figures/verdict"}
+]

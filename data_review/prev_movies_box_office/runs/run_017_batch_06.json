@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 713496, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Amazon Prime Video, 19 Jun 2020) — no box office"},
+ {"tmdb_movie_id": 680691, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Unreleased: Rishab Shetty directorial postponed in 2020; filmibeat lists an unconfirmed 6 Nov 2026 date (box office TBA)"},
+ {"tmdb_movie_id": 574830, "budget_inr_crore": 15.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Gypsy_2020"},
+  "notes": "sacnilk budget ₹15 Cr; sacnilk WW ₹10.85 Cr is only 7 days (till 12 Mar 2020, run cut short by COVID lockdown) → partial, not stored; Wiki no figures/verdict"},
+ {"tmdb_movie_id": 682661, "budget_inr_crore": 10.0, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "a failure at the box-office",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Drona_2020", "verdict": "https://en.wikipedia.org/wiki/Drona_(2020_film)"},
+  "notes": "Wiki 'was a failure at the box-office' / 'flopped'; sacnilk budget ₹10 Cr; sacnilk WW ₹2.20 Cr only 7 days (till 12 Mar 2020, COVID shutdown) → not stored"},
+ {"tmdb_movie_id": 661671, "budget_inr_crore": null, "revenue_inr_crore": 8.15, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Shikara_(2020_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2020/"},
+  "notes": "Wiki ₹8.15 Cr = BH lifetime nett (BH 2020 table ₹8.15 Cr, Flop) — stored confirmed"}
+]

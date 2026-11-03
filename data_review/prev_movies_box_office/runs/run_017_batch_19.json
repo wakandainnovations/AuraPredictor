@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 584786, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox gross blank; uncited 'good response at the box office' / 'one of the highest grossers of 2019' / 'one of the biggest films' are rankings, not verdicts → NULL (100-day run noted)"},
+ {"tmdb_movie_id": 598048, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Festival (Busan 2018, KIFF) then direct-to-streaming (ZEE5, 3 May 2019) — no box office"},
+ {"tmdb_movie_id": 580381, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 581449, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Bhai: Vyakti Ki Valli covers both parts; budget/gross blank, no verdict (Wiki gives part 2 release 8 Feb 2019 vs DB 2019-01-04)"},
+ {"tmdb_movie_id": 494918, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox budget/gross blank, no verdict"}
+]

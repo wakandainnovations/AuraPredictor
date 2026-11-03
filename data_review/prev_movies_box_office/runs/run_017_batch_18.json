@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 590548, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 589200, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 535144, "budget_inr_crore": 22.0, "revenue_inr_crore": 10.42, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sonchiriya", "revenue": "https://en.wikipedia.org/wiki/Sonchiriya", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"},
+  "notes": "Wiki budget ₹22 Cr (Yahoo 8 Mar 2019 'Sonchiriya Is A Disaster'), gross 'est. ₹10.42 crore' (BH) — stored confirmed; BH 2019 lifetime nett ₹6.60 Cr, Flop"},
+ {"tmdb_movie_id": 613169, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article (Ti Ani Ti 404); no figures found"},
+ {"tmdb_movie_id": 621602, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict"}
+]

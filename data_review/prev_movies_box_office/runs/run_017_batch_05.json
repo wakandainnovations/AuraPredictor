@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 556270, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming in India (Disney+ Hotstar, 28 Aug 2020; US theatrical via Gravitas) — no box office"},
+ {"tmdb_movie_id": 523030, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Simply South / ShemarooMe etc., 6 Oct 2020); never had a theatrical run — no box office"},
+ {"tmdb_movie_id": 745275, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Pay-per-view (Zee Plex, 2 Oct 2020), then ZEE5; only drive-in screenings — no box office"},
+ {"tmdb_movie_id": 683342, "budget_inr_crore": 25.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/V_(2020_film)"},
+  "notes": "Wiki budget ₹25 Cr (Sakshi Post); direct-to-streaming (Amazon Prime Video, 4 Sep 2020; token theatrical re-release 1 Jan 2021) — no box office"},
+ {"tmdb_movie_id": 732957, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Aha, 15 Aug 2020) — no box office"}
+]

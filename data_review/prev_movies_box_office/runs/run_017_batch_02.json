@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 799991, "budget_inr_crore": 10.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/A1_Express_2021"},
+  "notes": "sacnilk budget ₹10 Cr; stored revenue ≈₹5 Cr = Wiki 'est.' from Mint 9 Mar 2021 = opening-weekend total (running total, flagged, left); sacnilk only 6 days (WW ₹7.20 Cr till 10 Mar) → partial, not stored; its 'Average' on a 6-day page not used"},
+ {"tmdb_movie_id": 800682, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures; sacnilk only 4 days (₹14 L) → partial, not stored; 'Flop' on 4-day page not used"},
+ {"tmdb_movie_id": 797967, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success / Blockbuster",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Naandhi"},
+  "notes": "Verdict: Wiki 'became a commercial success' + sacnilk 'Blockbuster' agree → hit; budget conflict Wiki ₹6 Cr (cited to a Sakshi 5th-day collection article) vs sacnilk ₹4 Cr → stored not confirmed, left; stored revenue ≈₹9.5 Cr = Wiki T2BLive 'Total World Wide Collections' (possible share) vs sacnilk 14-day WW ₹8.50 Cr (till 4 Mar) → not confirmed, left"},
+ {"tmdb_movie_id": 721636, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Festival premiere (IFFK Feb 2021), then direct-to-streaming (SonyLIV, 19 Nov 2021) — no box office"},
+ {"tmdb_movie_id": 786341, "budget_inr_crore": null, "revenue_inr_crore": 0.85, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Below Average",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Kutty_Story_2021", "verdict": "https://www.sacnilk.com/movie/Kutty_Story_2021"},
+  "notes": "Theatrical anthology (12 Feb 2021); sacnilk WW ₹85 L (14 days, till 25 Feb; India gross ₹74 L + overseas ₹11 L), verdict Below Average; Wiki no figures"}
+]

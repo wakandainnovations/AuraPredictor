@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 614179, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Amazon Prime Video, 25 Dec 2020) — no box office"},
+ {"tmdb_movie_id": 773911, "budget_inr_crore": null, "revenue_inr_crore": 0.33, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2020/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2020/"},
+  "notes": "Theatrical 25 Dec 2020 (UFO Moviez); BH 2020 table lifetime nett ₹0.33 Cr, Flop; Wiki no figures"},
+ {"tmdb_movie_id": 693838, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2020/"},
+  "notes": "BH 2020 table lifetime nett ₹1.06 Cr, Flop; stored revenue ≈₹1.52 Cr = Wiki infobox (BH movie page cite, likely gross) — not corrected (scope differs), left"},
+ {"tmdb_movie_id": 767374, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "TV premiere (Zee Cinema, 29 Nov 2020) — no box office"},
+ {"tmdb_movie_id": 605456, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (ZEE5, 29 Oct 2020; film + series) — no box office"}
+]

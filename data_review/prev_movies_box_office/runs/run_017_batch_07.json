@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 672128, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office success / commercially successful",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Dia_(film)"},
+  "notes": "Wiki lead 'was a box office success'; Box office section 'one of the few commercially successful Kannada films in 2020' (Bangalore Mirror '2020: A flop show'); no figures"},
+ {"tmdb_movie_id": 673383, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict ('positive reviews' is critical); sacnilk Gentleman_2020 404"},
+ {"tmdb_movie_id": 535172, "budget_inr_crore": 30.0, "revenue_inr_crore": 26.0, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Disco_Raja", "revenue": "https://www.sacnilk.com/movie/Disco_Raja_2020", "verdict": "https://en.wikipedia.org/wiki/Disco_Raja"},
+  "notes": "Wiki budget ₹30 Cr (Deccan Chronicle) — stored confirmed; Wiki lead 'became a box-office bomb' (DC 'flop streak continues'); revenue sacnilk WW ₹26.00 Cr (14 days, till 6 Feb 2020; India gross ₹24 Cr + overseas ₹2 Cr)"},
+ {"tmdb_movie_id": 655459, "budget_inr_crore": null, "revenue_inr_crore": 2.51, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2020/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2020/"},
+  "notes": "BH 2020 table lifetime nett ₹2.51 Cr, Flop; Wiki no figures"},
+ {"tmdb_movie_id": 661397, "budget_inr_crore": 5.0, "revenue_inr_crore": 4.5, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Dhamaka_2020", "revenue": "https://www.sacnilk.com/movie/Dhamaka_2020"},
+  "notes": "Malayalam Dhamaka (Omar Lulu): sacnilk budget ₹5 Cr, WW ₹4.50 Cr (15 days, till 16 Jan 2020; India gross ₹4.20 Cr + overseas ₹30 L); no verdict on sacnilk or Wiki"}
+]

@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 624124, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Jada_(2019_film) no figures/verdict"},
+ {"tmdb_movie_id": 640340, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (negative reviews only)"},
+ {"tmdb_movie_id": 651353, "budget_inr_crore": 3.0, "revenue_inr_crore": 20.0, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kettyolaanu_Ente_Malakha", "revenue": "https://en.wikipedia.org/wiki/Kettyolaanu_Ente_Malakha", "verdict": "https://en.wikipedia.org/wiki/Kettyolaanu_Ente_Malakha"},
+  "notes": "Wiki (title spelled Kettyolaanu Ente Malakha) infobox budget ₹3 Cr, gross ₹20 Cr — both uncited; stored values confirmed; 'became commercial success' (uncited) + Asif Ali article 'a box office success'"},
+ {"tmdb_movie_id": 1188027, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 635233, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'underperformed at the box office' (uncited) — not a verdict → NULL; no figures"}
+]

@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 697045, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki (Adyaksha_in_America) no figures/verdict"},
+ {"tmdb_movie_id": 564704, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Jallikattu_(2019_film)"},
+  "notes": "Wiki 'grossed ₹7.3 crores in its first week run in Kerala and became a commercial success' (Firstpost 14 Oct 2019); week-1 Kerala figure not stored; stored tmdb budget $404,220 unverified (left)"},
+ {"tmdb_movie_id": 621005, "budget_inr_crore": 20.0, "revenue_inr_crore": 5.9, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "bombed / Flop",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=5712", "revenue": "https://en.wikipedia.org/wiki/Prassthanam", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"},
+  "notes": "Wiki budget ₹20 Cr, gross ₹5.9 Cr (both cited to BOI movie page) — stored confirmed; Wiki 'bombed at the box-office' + BH 2019 Flop (nett ₹4.75 Cr) agree"},
+ {"tmdb_movie_id": 632658, "budget_inr_crore": 7.5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Nikka_Zaildar_3"},
+  "notes": "Wiki budget ₹7.50 Cr (uncited) — stored confirmed; stored revenue ≈₹17.95 Cr = Wiki infobox cited to an unrelated BH 'War overseas' article, body has a later ₹22.4 Cr WW (11 Oct 2019, Facebook cite) → not confirmed, flagged, left; no verdict"},
+ {"tmdb_movie_id": 507941, "budget_inr_crore": null, "revenue_inr_crore": 12.35, "revenue_scope": "india_net", "verdict": "avg", "verdict_label": "Average",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Section_375", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"},
+  "notes": "Wiki ₹12.35 Cr = BH 2019 lifetime nett ₹12.35 Cr, Average — stored confirmed"}
+]

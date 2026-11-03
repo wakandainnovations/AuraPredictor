@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 648543, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; stored tmdb budget $78,773 unverified (left)"},
+ {"tmdb_movie_id": 609448, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Aakasha_Ganga_2 no figures/verdict; only BOM UAE gross $9,306 (not stored); 'failed' claim only on a Wiki mirror (not used)"},
+ {"tmdb_movie_id": 729792, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict; filmibeat 2019 half-year report says it 'couldn't do well' (not a clear verdict)"},
+ {"tmdb_movie_id": 607885, "budget_inr_crore": null, "revenue_inr_crore": 20.0, "revenue_scope": "unknown", "verdict": "avg", "verdict_label": "an average grosser",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Chanakya_(2019_film)", "verdict": "https://en.wikipedia.org/wiki/Chanakya_(2019_film)"},
+  "notes": "Wiki 'turned out to be an average grosser, grossing over ₹20 crore' (IBT year-end Tollywood report, 22 Dec 2019) — stored confirmed; sacnilk 404"},
+ {"tmdb_movie_id": 640076, "budget_inr_crore": null, "revenue_inr_crore": 12.81, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Made_in_China_(2019_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"},
+  "notes": "Wiki ₹12.81 Cr = BH India gross ₹11.46 Cr + overseas ₹1.35 Cr — stored confirmed; BH 2019 table lifetime nett ₹9.63 Cr, Flop"}
+]

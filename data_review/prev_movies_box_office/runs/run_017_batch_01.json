@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 679844, "budget_inr_crore": 90.0, "revenue_inr_crore": 18.33, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Radhe_(2021_film)", "revenue": "https://en.wikipedia.org/wiki/Radhe_(2021_film)"},
+  "notes": "Wiki budget ₹90 Cr (BH 20 May 2021), gross ₹18.33 Cr (BH) — stored confirmed; hybrid release (ZEE5 Pay-per-view + restricted theatrical, mostly overseas); Salman's apology for 'poor collection' is not a stated verdict → NULL"},
+ {"tmdb_movie_id": 802403, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Netflix, 16 Apr 2021) anthology — no box office"},
+ {"tmdb_movie_id": 812547, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "= Bansuri: The Flute; Wiki says theatrical 16 Apr 2021 but no budget/gross/verdict anywhere; festival film (Imagine India)"},
+ {"tmdb_movie_id": 802463, "budget_inr_crore": 5.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Sashi_2021"},
+  "notes": "sacnilk budget ₹5 Cr; sacnilk only 3 days (₹70 L India gross, till 21 Mar 2021) → partial, not stored; its 'Disaster' rests on 3 days → not used; Wiki no figures"},
+ {"tmdb_movie_id": 741354, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures; sacnilk Hero_2021 only 3 days (₹78 L, till 7 Mar 2021) → partial, not stored; 'Disaster' on 3-day page not used"}
+]

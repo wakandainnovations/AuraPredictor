@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 586893, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "super hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kolaigaran"},
+  "notes": "Wiki lead 'became a super hit at the box office' (IBT 10 Jun 2019 'Kolaigaran overpowers Bharat, impacts NGK business'); infobox gross blank"},
+ {"tmdb_movie_id": 584795, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (negative reviews only)"},
+ {"tmdb_movie_id": 854461, "budget_inr_crore": null, "revenue_inr_crore": 0.01, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"},
+  "notes": "Shorts anthology; BH 2019 table lifetime nett ₹0.01 Cr, Flop"},
+ {"tmdb_movie_id": 604434, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Sita_(2019_film)"},
+  "notes": "Wiki lead 'eventually became a box office failure' (uncited); infobox budget/gross blank"},
+ {"tmdb_movie_id": 613045, "budget_inr_crore": null, "revenue_inr_crore": 25.52, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Muklawa"},
+  "notes": "Wiki gross ₹25.52 Cr (cited to Box Office India) — stored confirmed; 'blockbuster' appears only as an uncited label in the Awards section → not used; Reception '$474,162 worldwide' uncited (not used)"}
+]

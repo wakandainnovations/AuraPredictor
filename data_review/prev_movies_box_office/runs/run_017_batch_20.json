@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 500971, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Adanga_Maru"},
+  "notes": "Wiki lead 'became a commercial success' (Cinema Express 3 Jan 2019 'Adanga Maru's success proves…'); infobox budget/gross blank"},
+ {"tmdb_movie_id": 536595, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 566486, "budget_inr_crore": 27.5, "revenue_inr_crore": 16.1, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Antariksham_9000_KMPH", "revenue": "https://en.wikipedia.org/wiki/Antariksham_9000_KMPH"},
+  "notes": "Wiki budget ₹25–30 Cr (Indian Express) → midpoint 27.5; gross ₹16.1 Cr (Andhraboxoffice 'Final Total WW Collections', 2 Jan 2019) — stored confirmed; no verdict"},
+ {"tmdb_movie_id": 568026, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict"},
+ {"tmdb_movie_id": 504227, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki gross blank, no verdict ('low budgeted' is about production, after Kaali's failure)"}
+]

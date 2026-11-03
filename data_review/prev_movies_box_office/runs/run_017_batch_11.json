@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 621003, "budget_inr_crore": 35.0, "revenue_inr_crore": 2.36, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Laal_Kaptaan", "revenue": "https://en.wikipedia.org/wiki/Laal_Kaptaan", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2019/"},
+  "notes": "Wiki budget 'est. ₹30-40 crore' → midpoint 35; Wiki ₹2.36 Cr = BH 2019 table lifetime nett ₹2.36 Cr, Flop — stored confirmed"},
+ {"tmdb_movie_id": 639411, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Netflix, 18 Oct 2019) — no box office"},
+ {"tmdb_movie_id": 640337, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article (Thelivu / Thelivu_(film) 404); no figures found"},
+ {"tmdb_movie_id": 624401, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no figures/verdict (reviews only)"},
+ {"tmdb_movie_id": 696436, "budget_inr_crore": 1.7, "revenue_inr_crore": 10.0, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ratnakar_(film)", "revenue": "https://en.wikipedia.org/wiki/Ratnakar_(film)"},
+  "notes": "Assamese; Wiki budget ₹1.7 Cr (uncited), gross 'est. ₹10 crore' (Asomiya Pratidin 17 Nov 2019, ~5 weeks after release) — stored confirmed; '80% occupancy first three days' is not a verdict"}
+]
