@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 505175, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-Netflix (14 Feb 2018) — no box office"},
+ {"tmdb_movie_id": 462201, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Prema Baraha (bilingual): 'commercial success at the box office of Karnataka, but had a decent run in Tamil' — this tmdb entry is the Tamil version; 'decent run' is not a clear verdict → NULL; budget/gross blank"},
+ {"tmdb_movie_id": 464979, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Hey_Jude_(film)"},
+  "notes": "Wiki 'The film was a box office bomb.' (OTTPlay cite); budget/gross blank; stored tmdb revenue left"},
+ {"tmdb_movie_id": 997335, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Long-delayed (shot ~2012) Bengali film; no figures/verdict found in one search"},
+ {"tmdb_movie_id": 468469, "budget_inr_crore": null, "revenue_inr_crore": 6.34, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki budget/gross blank; BH 2018 table Flop, lifetime nett ₹6.34 Cr"}
+]

@@ -1501,3 +1501,92 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 566486,tt7853292,Antariksham 9000 KMPH,2018-12-20,telugu,verdict,not found in web search,"Wiki budget ₹25–30 Cr (Indian Express) → midpoint 27.5; gross ₹16.1 Cr (Andhraboxoffice 'Final Total WW Collections', 2 Jan 2019) — stored confirmed; no verdict",17,20
 568026,tt7537860,Johnny,2018-12-14,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,17,20
 504227,tt8011302,Thimiru Pudichavan,2018-11-16,tamil,budget;revenue;verdict,not found in web search,"Wiki gross blank, no verdict ('low budgeted' is about production, after Kaali's failure)",17,20
+547227,tt8426964,Drama,2018-11-01,malayalam,budget;revenue;verdict,not found in web search,"Wiki Drama (2018 film) infobox budget/gross blank, no verdict",18,1
+1222400,tt9053536,Family Circus,2018-10-19,gujarati,budget;revenue;verdict,not found in web search,"Wiki Family Circus (2018 film) has no budget/gross, no verdict",18,1
+500366,tt7938444,Sandakozhi 2,2018-10-18,tamil,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; only a commented-out Telugu-version first-weekend distributors' share; 'mixed reviews' only,18,1
+555137,tt8532782,Aanakallan,2018-10-18,malayalam,budget;revenue;verdict,not found in web search,"Wiki Aanakkallan budget/gross blank, no verdict; BOM has only a UAE gross $61,961 (partial territory, not stored); filmibeat TBA",18,1
+549938,tt8650508,Ee Maaya Peremito,2018-09-21,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox budget/gross blank, no verdict",18,2
+571273,tt2802062,Ishqeria,2018-09-21,hindi,budget,not found in web search,"Wiki budget/gross blank; BH 2018 table Flop, lifetime nett ₹0.04 Cr",18,2
+549521,tt8408216,Mangalyam Thanthunanena,2018-09-20,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox budget/gross blank; reviews only, no box-office verdict",18,3
+444000,tt3823392,Love Sonia,2018-09-14,hindi,budget,not found in web search,"Wiki no budget/gross; BH 2018 table Flop, lifetime nett ₹1.75 Cr",18,3
+512391,tt7585270,Theevandi,2018-09-07,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox budget/gross blank, ratings only; stored tmdb budget left",18,3
+540620,tt8011276,Laila Majnu,2018-09-07,hindi,budget,not found in web search,"Wiki gross est. ₹2.18–3.25 Cr (initial run) → midpoint 2.715 — stored confirmed; 2024 re-release (₹11.5 Cr, citation needed) not used; Wiki 'failed commercially at the box office' + BH 2018 Flop (lifetime ₹2.89 Cr)",18,3
+547723,tt5020726,Silvat,2018-09-07,hindi,budget;revenue;verdict,not found in web search,"TV premiere (Zindagi, 2016) / ZEE5 streaming — no theatrical box office",18,3
+370721,,Vinodhan,2018-09-01,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Vinodhan' is a redirect to Prabhu Deva — no film article, no figures",18,4
+459377,tt7853268,Echcharikkai,2018-08-24,tamil,budget;revenue;verdict,not found in web search,Wiki no budget/gross; 'poor reviews' is not a box-office verdict,18,4
+494836,tt7850980,Ghajinikanth,2018-08-03,tamil,budget;revenue;verdict,not found in web search,Wiki infobox budget/gross blank; reviews only,18,4
+666311,tt8269216,Parichayam,2018-07-21,telugu,budget;revenue;verdict,not found in web search,No Wiki article (Parichayam_(2018_film) 404),18,5
+502963,tt7470414,Nieraali,2018-07-13,malayalam,budget;revenue,not found in web search,Wiki Neerali: 'This movie was a box-office bomb.'; budget/gross blank,18,5
+1199137,tt7561860,Kannadakkaagi Ondannu Otti,2018-07-06,kannada,budget;revenue;verdict,not found in web search,Wiki article has no budget/gross/verdict (only a song 'became a hit'),18,5
+531897,tt8071688,Jamba Lakidi Pamba,2018-06-22,telugu,budget;revenue;verdict,not found in web search,Wiki no budget/gross; review ratings only,18,6
+517975,tt6923462,Manto,2018-05-24,hindi,budget,not found in web search,"Wiki gross ₹3.71 Cr (BH) = BH 2018 table lifetime nett ₹3.71 Cr, Flop; stored confirmed (DB date is the Cannes premiere 2018-05-24; India release 21 Sep 2018)",18,6
+526770,tt8269204,Ammammagarillu,2018-05-24,telugu,budget;revenue;verdict,not found in web search,"Wiki budget blank, no gross; reviews only",18,6
+526772,tt8133888,Nela Ticket,2018-05-24,telugu,budget;verdict,not found in web search,"Wiki gross ₹20.1 Cr (Andhraboxoffice 'Final Total WW Collections', 13 Jun 2018) — stored confirmed; no box-office verdict (reviews 1.5/5 only)",18,6
+487593,tt7179784,Irumbu Thirai,2018-05-11,tamil,budget,not found in web search,"Wiki gross ₹61 Cr WW (cite 'Irumbu Thirai lifetime box office collection … blockbuster', 2 Jul 2018) — stored confirmed; 'became a commercial success', 100 days",18,6
+523762,tt7458714,Mehbooba,2018-05-11,telugu,budget;revenue;verdict,not found in web search,Wiki Mehbooba (2018 film) budget/gross blank; reviews only,18,7
+522988,tt8415272,Amoli,2018-05-07,hindi,budget;revenue;verdict,not found in web search,30-minute short documentary — no theatrical box office,18,7
+506076,tt7095392,Achari America Yatra,2018-04-27,telugu,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; reviews only,18,7
+612362,tt8396226,Dhwaja,2018-04-27,kannada,budget;revenue;verdict,not found in web search,Wiki Dhwaja (film) budget/gross blank; reviews only,18,7
+463291,tt7881558,Mercury,2018-04-13,tamil,budget;revenue;verdict,not found in web search,Wiki Mercury (film) no budget/gross; 'mixed reviews' only,18,7
+500565,tt7770192,Krishnarjuna Yudham,2018-04-12,telugu,budget,not found in web search,"Wiki gross est. ₹28.60 Cr (IBTimes 2018 year-end report) — stored confirmed; body 'made on a budget of 30 crores and only recovered 14.50 crores' reads as theatrical business vs share, not production budget → budget left; 'Nani's first disaster since 2014'",18,8
+512098,tt6972140,Blackmail,2018-04-06,hindi,verdict,not found in web search,"Wiki budget ₹18 Cr (DNA), gross ₹28.81 Cr (BH worldwide) — stored confirmed; verdict conflict: Wiki 'Sleeper Hit' vs BH 2018 table Flop (₹20.35 Cr) → NULL",18,8
+479491,tt2302416,Gali Guleiyan,2018-03-15,hindi,budget,not found in web search,"BH 2018 table Flop, lifetime nett ₹0.28 Cr; Wiki 'estimated at Rs.50 lakhs' (Koimoi 'Commercial Disasters', 14 Sep 2018) — BH figure stored",18,8
+506456,tt7275232,Welcome to New York,2018-02-23,hindi,budget;revenue,not found in web search,"BH 2018 table Flop, lifetime nett ₹2.38 Cr; stored revenue = Wiki ₹6.95 Cr (BH movie page, accessed 20 Mar 2018) disagrees with the BH lifetime 2.38 nett — flagged, left",18,8
+505175,tt7853242,Love per Square Foot,2018-02-14,hindi,budget;revenue;verdict,not found in web search,Direct-to-Netflix (14 Feb 2018) — no box office,18,9
+462201,,Sollividava,2018-02-09,tamil,budget;revenue;verdict,not found in web search,"Wiki Prema Baraha (bilingual): 'commercial success at the box office of Karnataka, but had a decent run in Tamil' — this tmdb entry is the Tamil version; 'decent run' is not a clear verdict → NULL; budget/gross blank",18,9
+464979,tt6385856,Hey Jude,2018-02-02,malayalam,budget;revenue,not found in web search,Wiki 'The film was a box office bomb.' (OTTPlay cite); budget/gross blank; stored tmdb revenue left,18,9
+997335,tt6216288,Jole Jongole,2018-01-18,bengali,budget;revenue;verdict,not found in web search,Long-delayed (shot ~2012) Bengali film; no figures/verdict found in one search,18,9
+468469,tt6102396,Kaalakaandi,2018-01-12,hindi,budget,not found in web search,"Wiki budget/gross blank; BH 2018 table Flop, lifetime nett ₹6.34 Cr",18,9
+611507,tt7994158,Brihaspathi,2018-01-05,kannada,budget;revenue;verdict,not found in web search,Wiki Brihaspathi (film) budget/gross blank; reviews only,18,10
+458741,tt6915596,Mayaanadhi,2017-12-22,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank; 'critical acclaim' only, no box-office verdict",18,10
+459726,tt6346952,Vimanam,2017-12-22,malayalam,budget;revenue;verdict,not found in web search,"Wiki Vimaanam budget/gross blank, no verdict",18,10
+481138,tt7510870,Sakka Podu Podu Raja,2017-12-22,tamil,budget;revenue;verdict,not found in web search,"Wiki Sakka Podu Podu Raja (2017 film) budget/gross blank, no verdict",18,10
+495009,tt6774092,Masterpiece,2017-12-21,malayalam,budget;revenue,not found in web search,"Wiki lead + Box office section 'became a commercial success' (News Minute 28 Jun 2019, re: Mammootty–Ajai Vasudev reunion); Wiki '~₹40 crore WW final run' is cited to a pre-release motion-poster article (28 Jul 2017) → not stored",18,10
+539470,tt6514010,Brij Mohan Amar Rahe!,2017-12-13,hindi,budget;revenue;verdict,not found in web search,Direct-to-Netflix (3 Aug 2018) — no box office,18,11
+410190,tt7297586,Richie,2017-12-08,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox gross '~₹12.65 crore' has no citation (stored value matches it) — not confirmed, flagged; no verdict",18,11
+492261,tt7684228,Malli Raava,2017-12-08,telugu,budget;revenue,not found in web search,"Wiki 'went to become a box office hit' (Sakshi Post 'First Weekend Collections', 11 Dec 2017); budget/gross blank",18,11
+547724,tt7998228,Athiratha,2017-11-24,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",18,11
+510296,tt7580570,Love Ni Bhavai,2017-11-17,gujarati,budget,not found in web search,Wiki gross ₹8 Cr (India; BookMyShow collections page) — stored confirmed; 'achieved critical and commercial success and ran for more than 100 days',18,11
+570064,tt7145652,Jaali Baaru Mattu Poli Hudugaru,2017-11-03,english,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank; reviews only (Kannada film, tmdb language 'english')",18,12
+423593,tt6118058,Maroon,2017-10-24,hindi,budget;revenue;verdict,not found in web search,No Wiki article found (Maroon_(film) 404); no figures,18,12
+522437,,Sathya Harishchandra,2017-10-20,kannada,budget;revenue;verdict,not found in web search,"Wiki Satya Harishchandra (2017 film) budget/gross blank, no verdict; filmibeat TBA",18,12
+716328,tt7342028,Dayavittu Gamanisi,2017-10-20,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no reception section",18,12
+456431,tt7322850,Raja the Great,2017-10-18,telugu,budget,not found in web search,"Wiki gross est. ₹52 Cr (TOI 'Raja The Great final collections … grosses Rs 52 crore approximately', 16 Dec 2017) — stored confirmed; 'It was a commercial success'",18,12
+578435,tt7493710,Anukul,2017-10-04,hindi,budget;revenue;verdict,not found in web search,21-minute short film released on YouTube (Large Short Films) — no box office,18,13
+470317,tt6212984,Parava,2017-09-21,malayalam,budget,not found in web search,"Wiki gross ₹20.27 Cr (Kerala box office; cite 'Mollywood in 2017: Top Malayalam movies that earned big at Kerala box office', 20 Dec 2017) — stored confirmed; 'The film was commercial success', ran 100 days",18,13
+596201,,Rajahamsa,2017-09-08,kannada,budget;revenue;verdict,not found in web search,Wiki 'Rajahamsa' is the 1998 Telugu film; no article for the 2017 Kannada film,18,13
+470642,tt6354784,The Hungry,2017-09-01,hindi,budget;revenue;verdict,not found in web search,TIFF 2017 premiere; no India theatrical release or box office stated on Wiki,18,13
+471331,tt7188742,Paisa Vasool,2017-09-01,telugu,verdict,not found in web search,"Wiki budget ₹28 Cr, gross est. ₹36 Cr ('Paisa Vasool Final Total WW Collections') — stored confirmed; no box-office verdict (critics 'average')",18,13
+459725,tt6789174,Velipadinte Pusthakam,2017-08-31,malayalam,budget;verdict,not found in web search,"Wiki 'grossed ₹15–20 crore from worldwide Box office' (Forbes India 1 Jan 2018, HT 28 Dec 2017) → midpoint 17.5 — filled; no verdict",18,14
+463476,tt7249874,LIE,2017-08-11,telugu,budget;revenue;verdict,not found in web search,"Wiki Lie (film): budget ₹32 Cr and gross ₹17 Cr both cited to Tupaki 'LIE Worldwide Total Collections' (6 Sep 2017) — Tupaki totals are usually distributors' shares and the 'budget' looks like pre-release business → not stored, flagged; no verdict",18,14
+411722,tt6278350,Kootathil Oruthan,2017-07-28,tamil,budget;revenue;verdict,not found in web search,Wiki no budget/gross; reviews only,18,14
+418235,tt4807830,Lipstick Under My Burkha,2017-07-21,hindi,verdict,not found in web search,"Wiki budget ₹6 Cr, gross ₹26.68 Cr (BH worldwide) — stored confirmed; verdict conflict: Wiki 'declared as an Hit' vs BH 2017 table Average (₹19.21 Cr) → NULL",18,14
+477367,tt8712610,Dandupalya 2,2017-07-14,kannada,revenue,not found in web search,"Wiki budget ₹1.5 Cr (cite 'The Dandupalya 2 film budget is said to be ₹1.5 crore') — stored confirmed; gross ₹10.25 Cr reuses the same budget cite (unsupported) → stored revenue not confirmed, flagged; 'went on to become a box-office hit at both Karnataka and Andhra Pradesh'",18,15
+461942,tt6253546,Role Models,2017-06-25,malayalam,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; 'positive reviews' only; stored tmdb revenue left,18,15
+449739,tt6735754,Vanamagan,2017-06-23,tamil,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; reviews only,18,15
+461940,tt5969628,Avarude Raavukal,2017-06-23,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget blank, no gross; 'mixed reviews' only; stored tmdb budget left",18,15
+460738,tt5891348,Super Singh,2017-06-16,punjabi,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; only screen count (1100 worldwide); reviews only,18,15
+460122,tt6941654,Hanuman Da Damdaar,2017-06-02,hindi,budget,not found in web search,"Wiki gross ₹2 Cr (BH movie page) — stored confirmed; BH 2017 table Flop, lifetime nett ₹1.39 Cr",18,16
+459132,tt6330202,Sargoshiyan,2017-05-26,hindi,budget,not found in web search,"BH 2017 table Flop, lifetime nett ₹0.001 Cr (= ₹10,000 as listed)",18,16
+571988,tt6926436,Bangara s/o Bangarada Manushya,2017-05-19,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank; only TV (BARC) ratings, no box-office verdict",18,16
+546856,tt13155624,Maasthi Gudi,2017-05-17,kannada,budget;revenue;verdict,not found in web search,Wiki no budget/gross; review only,18,16
+467586,tt6774538,Durga Sohay,2017-04-28,bengali,budget;revenue;verdict,not found in web search,"Wiki budget blank, no gross, no verdict; stored tmdb budget left",18,16
+414824,tt6734886,Pa Paandi,2017-04-14,tamil,budget;revenue,not found in web search,"Wiki Pa. Pandi lead 'became a commercial success' (cite is an HT piece on VIP 2, 16 Aug 2017 — weak support); budget/gross blank",18,17
+669750,,Hukumat Ki Aandhi,2017-04-13,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in BH 2017 table,18,17
+451316,tt5289170,Laali Ki Shaadi Mein Laaddoo Deewana,2017-04-07,hindi,budget,not found in web search,"BH 2017 table Flop, lifetime nett ₹0.81 Cr (= Wiki ₹8.1 million) — filled; Wiki budget '₹ 20 crore' is uncited → stored budget not confirmed, flagged",18,17
+447965,tt6010240,Guru,2017-03-31,telugu,budget;verdict,not found in web search,"Wiki gross ₹18.52–21.97 Cr (boxofficeandhra / telugupremiere 'Total Worldwide Collections') → midpoint 20.245; stored value was the range top (21.97) — corrected; 'positive reviews' only, no verdict",18,17
+440794,tt6522398,Katamarayudu,2017-03-24,telugu,verdict,not found in web search,"Wiki budget ₹70 Cr, gross est. ₹97.5 Cr (IBTimes 'Tollywood in 2017: 15 highest grossing', 17 Dec 2017) — stored confirmed; only verdict wording is an IBTimes 10-day headline '…churns out another flop' (not in article text) → NULL",18,17
+489620,,8½ Intercuts : Life and Films of K.G. George,2017-03-24,malayalam,budget;revenue;verdict,not found in web search,Documentary on K. G. George (lead is the subject); no Wiki article — no box office,18,18
+1191883,,In Defence Of Freedom,2017-03-23,hindi,budget;revenue;verdict,not found in web search,Nandita Das short film on Manto (lead = Nawazuddin) — no theatrical box office,18,18
+431892,tt6206564,Trapped,2017-03-17,hindi,verdict,not found in web search,"Wiki budget ₹5 Cr, gross ₹3.53 Cr (BOI) — stored confirmed (body says ₹2.85 Cr; BH 2017 lifetime ₹2.83 Cr nett); verdict conflict: Wiki 'considered a commercial success' vs BH Flop → NULL",18,18
+456770,tt6426980,Ayal Jeevichirippundu,2017-03-10,malayalam,budget;revenue;verdict,not found in web search,No Wiki article; no figures,18,18
+465145,tt5933664,Samarppanam,2017-03-10,malayalam,budget;revenue;verdict,not found in web search,No Wiki article for the 2017 film ('Samarppanam' redirects to a 1987 film),18,19
+485667,tt6268302,Dushman,2017-03-03,punjabi,budget;revenue;verdict,not found in web search,No Wiki article (Dushman_(2017_film) 404),18,19
+370800,tt6495714,Motta Shiva Ketta Shiva,2017-02-24,tamil,budget;revenue,not found in web search,Wiki 'received mixed reviews and did middling business at the box office' (Deccan Chronicle 27 Mar 2017); no budget/gross,18,19
+541628,tt6437870,Duniyadari,2017-02-17,gujarati,budget;revenue;verdict,not found in web search,Wiki Duniyadari (2017 film) budget/gross blank; review only,18,19
+459448,tt6110822,Aaba,2017-02-09,hindi,budget;revenue;verdict,not found in web search,Amar Kaushik short film (festival) — no theatrical box office; no Wiki article,18,19
+1299423,tt6283222,Pinjra,2017-01-16,hindi,budget;revenue;verdict,not found in web search,Not in BH 2017 table; no Wiki article — no figures,18,20
+412998,tt6354638,Mo,2016-12-30,tamil,budget;revenue;verdict,not found in web search,"Wiki Mo (2016 film) budget/gross blank, no verdict",18,20
+998180,tt18749696,Dastaan-E-Rafi,2016-12-23,hindi,budget;revenue;verdict,not found in web search,Documentary on Mohammed Rafi (subject listed as lead) — no box office,18,20
+512005,tt6376380,Double Feluda,2016-12-16,bengali,budget;revenue;verdict,not found in web search,"Wiki budget blank, no gross; review ratings only",18,20
+466681,tt6326420,Marupadi,2016-12-09,malayalam,budget;revenue;verdict,not found in web search,Wiki no budget/gross; reviews only,18,20

@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 578435, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "21-minute short film released on YouTube (Large Short Films) — no box office"},
+ {"tmdb_movie_id": 470317, "budget_inr_crore": null, "revenue_inr_crore": 20.27, "revenue_scope": "india_gross", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Parava_(film)", "verdict": "https://en.wikipedia.org/wiki/Parava_(film)"},
+  "notes": "Wiki gross ₹20.27 Cr (Kerala box office; cite 'Mollywood in 2017: Top Malayalam movies that earned big at Kerala box office', 20 Dec 2017) — stored confirmed; 'The film was commercial success', ran 100 days"},
+ {"tmdb_movie_id": 596201, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Rajahamsa' is the 1998 Telugu film; no article for the 2017 Kannada film"},
+ {"tmdb_movie_id": 470642, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "TIFF 2017 premiere; no India theatrical release or box office stated on Wiki"},
+ {"tmdb_movie_id": 471331, "budget_inr_crore": 28, "revenue_inr_crore": 36, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Paisa_Vasool_(2017_film)", "revenue": "https://en.wikipedia.org/wiki/Paisa_Vasool_(2017_film)"},
+  "notes": "Wiki budget ₹28 Cr, gross est. ₹36 Cr ('Paisa Vasool Final Total WW Collections') — stored confirmed; no box-office verdict (critics 'average')"}
+]

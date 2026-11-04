@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 459725, "budget_inr_crore": null, "revenue_inr_crore": 17.5, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Velipadinte_Pusthakam"},
+  "notes": "Wiki 'grossed ₹15–20 crore from worldwide Box office' (Forbes India 1 Jan 2018, HT 28 Dec 2017) → midpoint 17.5 — filled; no verdict"},
+ {"tmdb_movie_id": 460699, "budget_inr_crore": 12, "revenue_inr_crore": 45, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Nene_Raju_Nene_Mantri", "revenue": "https://en.wikipedia.org/wiki/Nene_Raju_Nene_Mantri", "verdict": "https://en.wikipedia.org/wiki/Nene_Raju_Nene_Mantri"},
+  "notes": "Wiki budget ₹12 Cr (Deccan Chronicle), gross est. ₹45 Cr (Sakshi Post year-end, 31 Dec 2017) — stored confirmed; 'The film was a blockbuster at the box office.'"},
+ {"tmdb_movie_id": 463476, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Lie (film): budget ₹32 Cr and gross ₹17 Cr both cited to Tupaki 'LIE Worldwide Total Collections' (6 Sep 2017) — Tupaki totals are usually distributors' shares and the 'budget' looks like pre-release business → not stored, flagged; no verdict"},
+ {"tmdb_movie_id": 411722, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no budget/gross; reviews only"},
+ {"tmdb_movie_id": 418235, "budget_inr_crore": 6, "revenue_inr_crore": 26.68, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Lipstick_Under_My_Burkha", "revenue": "https://en.wikipedia.org/wiki/Lipstick_Under_My_Burkha"},
+  "notes": "Wiki budget ₹6 Cr, gross ₹26.68 Cr (BH worldwide) — stored confirmed; verdict conflict: Wiki 'declared as an Hit' vs BH 2017 table Average (₹19.21 Cr) → NULL"}
+]

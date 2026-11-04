@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 570064, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank; reviews only (Kannada film, tmdb language 'english')"},
+ {"tmdb_movie_id": 423593, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article found (Maroon_(film) 404); no figures"},
+ {"tmdb_movie_id": 522437, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Satya Harishchandra (2017 film) budget/gross blank, no verdict; filmibeat TBA"},
+ {"tmdb_movie_id": 716328, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no reception section"},
+ {"tmdb_movie_id": 456431, "budget_inr_crore": null, "revenue_inr_crore": 52, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Raja_the_Great", "verdict": "https://en.wikipedia.org/wiki/Raja_the_Great"},
+  "notes": "Wiki gross est. ₹52 Cr (TOI 'Raja The Great final collections … grosses Rs 52 crore approximately', 16 Dec 2017) — stored confirmed; 'It was a commercial success'"}
+]

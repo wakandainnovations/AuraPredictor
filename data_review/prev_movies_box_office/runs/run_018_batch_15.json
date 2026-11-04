@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 477367, "budget_inr_crore": 1.5, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box-office hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dandupalya_2", "verdict": "https://en.wikipedia.org/wiki/Dandupalya_2"},
+  "notes": "Wiki budget ₹1.5 Cr (cite 'The Dandupalya 2 film budget is said to be ₹1.5 crore') — stored confirmed; gross ₹10.25 Cr reuses the same budget cite (unsupported) → stored revenue not confirmed, flagged; 'went on to become a box-office hit at both Karnataka and Andhra Pradesh'"},
+ {"tmdb_movie_id": 461942, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank; 'positive reviews' only; stored tmdb revenue left"},
+ {"tmdb_movie_id": 449739, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank; reviews only"},
+ {"tmdb_movie_id": 461940, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget blank, no gross; 'mixed reviews' only; stored tmdb budget left"},
+ {"tmdb_movie_id": 460738, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank; only screen count (1100 worldwide); reviews only"}
+]

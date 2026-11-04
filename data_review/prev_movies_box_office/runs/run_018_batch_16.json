@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 460122, "budget_inr_crore": null, "revenue_inr_crore": 2, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Hanuman:_Da%27_Damdaar", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/"},
+  "notes": "Wiki gross ₹2 Cr (BH movie page) — stored confirmed; BH 2017 table Flop, lifetime nett ₹1.39 Cr"},
+ {"tmdb_movie_id": 459132, "budget_inr_crore": null, "revenue_inr_crore": 0.001, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/"},
+  "notes": "BH 2017 table Flop, lifetime nett ₹0.001 Cr (= ₹10,000 as listed)"},
+ {"tmdb_movie_id": 571988, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank; only TV (BARC) ratings, no box-office verdict"},
+ {"tmdb_movie_id": 546856, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no budget/gross; review only"},
+ {"tmdb_movie_id": 467586, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget blank, no gross, no verdict; stored tmdb budget left"}
+]

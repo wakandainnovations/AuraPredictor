@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 370721, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Vinodhan' is a redirect to Prabhu Deva — no film article, no figures"},
+ {"tmdb_movie_id": 536429, "budget_inr_crore": 24, "revenue_inr_crore": 37, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Shailaja_Reddy_Alludu", "revenue": "https://en.wikipedia.org/wiki/Shailaja_Reddy_Alludu", "verdict": "https://en.wikipedia.org/wiki/Shailaja_Reddy_Alludu"},
+  "notes": "Wiki budget ₹24 Cr, gross ₹37 Cr (T2BLive total collections, 9 Oct 2018); lead says 'grossed over ₹37 crore' and 4-day WW gross was ₹28.29 Cr (share ₹17.25 Cr), so 37 is a gross, not a share — stored confirmed; 'declared as an average grosser'"},
+ {"tmdb_movie_id": 459377, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no budget/gross; 'poor reviews' is not a box-office verdict"},
+ {"tmdb_movie_id": 545620, "budget_inr_crore": 15, "revenue_inr_crore": 7.5, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Genius_(2018_Hindi_film)", "revenue": "https://en.wikipedia.org/wiki/Genius_(2018_Hindi_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki budget ₹15 Cr (BOI), gross est. ₹7.50 Cr (BH) — stored confirmed; BH 2018 table Flop, lifetime nett ₹4.32 Cr"},
+ {"tmdb_movie_id": 494836, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox budget/gross blank; reviews only"}
+]

@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 531897, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no budget/gross; review ratings only"},
+ {"tmdb_movie_id": 517975, "budget_inr_crore": null, "revenue_inr_crore": 3.71, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Manto_(2018_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki gross ₹3.71 Cr (BH) = BH 2018 table lifetime nett ₹3.71 Cr, Flop; stored confirmed (DB date is the Cannes premiere 2018-05-24; India release 21 Sep 2018)"},
+ {"tmdb_movie_id": 526770, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget blank, no gross; reviews only"},
+ {"tmdb_movie_id": 526772, "budget_inr_crore": null, "revenue_inr_crore": 20.1, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Nela_Ticket"},
+  "notes": "Wiki gross ₹20.1 Cr (Andhraboxoffice 'Final Total WW Collections', 13 Jun 2018) — stored confirmed; no box-office verdict (reviews 1.5/5 only)"},
+ {"tmdb_movie_id": 487593, "budget_inr_crore": null, "revenue_inr_crore": 61, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success / 'blockbuster'",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Irumbu_Thirai_(2018_film)", "verdict": "https://en.wikipedia.org/wiki/Irumbu_Thirai_(2018_film)"},
+  "notes": "Wiki gross ₹61 Cr WW (cite 'Irumbu Thirai lifetime box office collection … blockbuster', 2 Jul 2018) — stored confirmed; 'became a commercial success', 100 days"}
+]

@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 545273, "budget_inr_crore": 20, "revenue_inr_crore": 8.24, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Helicopter_Eela", "revenue": "https://en.wikipedia.org/wiki/Helicopter_Eela", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki budget ₹20 Cr, gross ₹8.24 Cr (BH cites) — stored confirmed; BH 2018 table Flop, lifetime nett ₹4.13 Cr"},
+ {"tmdb_movie_id": 549829, "budget_inr_crore": 32, "revenue_inr_crore": 18.14, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Loveyatri", "revenue": "https://en.wikipedia.org/wiki/Loveyatri", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki budget ₹32 Cr (BOI), gross est. ₹18.14 Cr (BH) — stored confirmed; BH 2018 table Flop, lifetime nett ₹11.24 Cr"},
+ {"tmdb_movie_id": 542460, "budget_inr_crore": 12, "revenue_inr_crore": 6.95, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Pataakha", "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki budget ₹12 Cr (BH), gross ₹6.95 Cr = BH 2018 table lifetime nett ₹6.95 Cr — stored confirmed; BH Flop"},
+ {"tmdb_movie_id": 549938, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 571273, "budget_inr_crore": null, "revenue_inr_crore": 0.04, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki budget/gross blank; BH 2018 table Flop, lifetime nett ₹0.04 Cr"}
+]

@@ -1,0 +1,17 @@
+[
+ {"tmdb_movie_id": 496527, "budget_inr_crore": 33, "revenue_inr_crore": 58.41, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "modest commercial success / BH Average",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/October_(2018_film)", "revenue": "https://en.wikipedia.org/wiki/October_(2018_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki budget ₹33 Cr (BOI) — filled; gross ₹58.41 Cr (BH) — stored confirmed; Wiki 'only a modest commercial success' + BH 2018 Average (lifetime nett ₹39.06 Cr)"},
+ {"tmdb_movie_id": 500565, "budget_inr_crore": null, "revenue_inr_crore": 28.6, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "disaster",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Krishnarjuna_Yudham", "verdict": "https://en.wikipedia.org/wiki/Krishnarjuna_Yudham"},
+  "notes": "Wiki gross est. ₹28.60 Cr (IBTimes 2018 year-end report) — stored confirmed; body 'made on a budget of 30 crores and only recovered 14.50 crores' reads as theatrical business vs share, not production budget → budget left; 'Nani's first disaster since 2014'"},
+ {"tmdb_movie_id": 512098, "budget_inr_crore": 18, "revenue_inr_crore": 28.81, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Blackmail_(2018_film)", "revenue": "https://en.wikipedia.org/wiki/Blackmail_(2018_film)"},
+  "notes": "Wiki budget ₹18 Cr (DNA), gross ₹28.81 Cr (BH worldwide) — stored confirmed; verdict conflict: Wiki 'Sleeper Hit' vs BH 2018 table Flop (₹20.35 Cr) → NULL"},
+ {"tmdb_movie_id": 479491, "budget_inr_crore": null, "revenue_inr_crore": 0.28, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop / commercial disaster",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "BH 2018 table Flop, lifetime nett ₹0.28 Cr; Wiki 'estimated at Rs.50 lakhs' (Koimoi 'Commercial Disasters', 14 Sep 2018) — BH figure stored"},
+ {"tmdb_movie_id": 506456, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "BH 2018 table Flop, lifetime nett ₹2.38 Cr; stored revenue = Wiki ₹6.95 Cr (BH movie page, accessed 20 Mar 2018) disagrees with the BH lifetime 2.38 nett — flagged, left"}
+]

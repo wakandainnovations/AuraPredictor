@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 1299423, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Not in BH 2017 table; no Wiki article — no figures"},
+ {"tmdb_movie_id": 412998, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Mo (2016 film) budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 998180, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Documentary on Mohammed Rafi (subject listed as lead) — no box office"},
+ {"tmdb_movie_id": 512005, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget blank, no gross; review ratings only"},
+ {"tmdb_movie_id": 466681, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki no budget/gross; reviews only"}
+]

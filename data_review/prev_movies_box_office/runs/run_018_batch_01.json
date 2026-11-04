@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 538126, "budget_inr_crore": 3.5, "revenue_inr_crore": 1.57, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Lupt", "revenue": "https://en.wikipedia.org/wiki/Lupt", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki budget ₹3.50 Cr, gross ₹1.57 Cr (both cited to BOI) — stored confirmed; BH 2018 table Flop, lifetime ₹1.59 Cr"},
+ {"tmdb_movie_id": 547227, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Drama (2018 film) infobox budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 1222400, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Family Circus (2018 film) has no budget/gross, no verdict"},
+ {"tmdb_movie_id": 500366, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank; only a commented-out Telugu-version first-weekend distributors' share; 'mixed reviews' only"},
+ {"tmdb_movie_id": 555137, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki Aanakkallan budget/gross blank, no verdict; BOM has only a UAE gross $61,961 (partial territory, not stored); filmibeat TBA"}
+]

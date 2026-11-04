@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 539470, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-Netflix (3 Aug 2018) — no box office"},
+ {"tmdb_movie_id": 410190, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox gross '~₹12.65 crore' has no citation (stored value matches it) — not confirmed, flagged; no verdict"},
+ {"tmdb_movie_id": 492261, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Malli_Raava"},
+  "notes": "Wiki 'went to become a box office hit' (Sakshi Post 'First Weekend Collections', 11 Dec 2017); budget/gross blank"},
+ {"tmdb_movie_id": 547724, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 510296, "budget_inr_crore": null, "revenue_inr_crore": 8, "revenue_scope": "india_gross", "verdict": "hit", "verdict_label": "critical and commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Love_Ni_Bhavai", "verdict": "https://en.wikipedia.org/wiki/Love_Ni_Bhavai"},
+  "notes": "Wiki gross ₹8 Cr (India; BookMyShow collections page) — stored confirmed; 'achieved critical and commercial success and ran for more than 100 days'"}
+]

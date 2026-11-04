@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 540189, "budget_inr_crore": 6, "revenue_inr_crore": 25, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Goodachari", "revenue": "https://en.wikipedia.org/wiki/Goodachari", "verdict": "https://en.wikipedia.org/wiki/Goodachari"},
+  "notes": "Wiki budget ₹6 Cr (Telangana Today), gross est. ₹25 Cr (IBTimes 2018 Tollywood year-end report, 23 Nov 2018) — stored confirmed; the Wiki body line '₹25 crore in its first weekend' is wrong (IBTimes first-weekend WW ₹10.20 Cr), so 25 is the lifetime figure; 'became a commercial success'"},
+ {"tmdb_movie_id": 666311, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article (Parichayam_(2018_film) 404)"},
+ {"tmdb_movie_id": 502963, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Neerali"},
+  "notes": "Wiki Neerali: 'This movie was a box-office bomb.'; budget/gross blank"},
+ {"tmdb_movie_id": 535369, "budget_inr_crore": 2, "revenue_inr_crore": 26.2, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "huge success at the box office",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/RX_100_(film)", "revenue": "https://en.wikipedia.org/wiki/RX_100_(film)", "verdict": "https://en.wikipedia.org/wiki/RX_100_(film)"},
+  "notes": "Wiki budget ₹2 Cr, gross est. ₹25–27.4 Cr (IBTimes 2018 year-end report) → midpoint 26.2 — stored confirmed; total share ₹12.45 Cr; 'huge success at the box office'"},
+ {"tmdb_movie_id": 1199137, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki article has no budget/gross/verdict (only a song 'became a hit')"}
+]

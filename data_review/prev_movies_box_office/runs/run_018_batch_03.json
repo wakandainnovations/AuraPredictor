@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 549521, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox budget/gross blank; reviews only, no box-office verdict"},
+ {"tmdb_movie_id": 444000, "budget_inr_crore": null, "revenue_inr_crore": 1.75, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2018/"},
+  "notes": "Wiki no budget/gross; BH 2018 table Flop, lifetime nett ₹1.75 Cr"},
+ {"tmdb_movie_id": 512391, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox budget/gross blank, ratings only; stored tmdb budget left"},
+ {"tmdb_movie_id": 540620, "budget_inr_crore": null, "revenue_inr_crore": 2.715, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "failed commercially / BH Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Laila_Majnu_(2018_film)", "verdict": "https://en.wikipedia.org/wiki/Laila_Majnu_(2018_film)"},
+  "notes": "Wiki gross est. ₹2.18–3.25 Cr (initial run) → midpoint 2.715 — stored confirmed; 2024 re-release (₹11.5 Cr, citation needed) not used; Wiki 'failed commercially at the box office' + BH 2018 Flop (lifetime ₹2.89 Cr)"},
+ {"tmdb_movie_id": 547723, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "TV premiere (Zindagi, 2016) / ZEE5 streaming — no theatrical box office"}
+]

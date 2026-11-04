@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 449361, "budget_inr_crore": 5.75, "revenue_inr_crore": 1.48, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "commercial failure / BH Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Anaarkali_of_Aarah", "revenue": "https://en.wikipedia.org/wiki/Anaarkali_of_Aarah", "verdict": "https://en.wikipedia.org/wiki/Anaarkali_of_Aarah"},
+  "notes": "Wiki budget ₹5.75 Cr, gross ₹1.48 Cr WW (BOI) — stored confirmed; 'emerging as a commercial failure' + BH 2017 Flop (₹0.89 Cr)"},
+ {"tmdb_movie_id": 489620, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Documentary on K. G. George (lead is the subject); no Wiki article — no box office"},
+ {"tmdb_movie_id": 1191883, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Nandita Das short film on Manto (lead = Nawazuddin) — no theatrical box office"},
+ {"tmdb_movie_id": 431892, "budget_inr_crore": 5, "revenue_inr_crore": 3.53, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Trapped_(2016_Hindi_film)", "revenue": "https://en.wikipedia.org/wiki/Trapped_(2016_Hindi_film)"},
+  "notes": "Wiki budget ₹5 Cr, gross ₹3.53 Cr (BOI) — stored confirmed (body says ₹2.85 Cr; BH 2017 lifetime ₹2.83 Cr nett); verdict conflict: Wiki 'considered a commercial success' vs BH Flop → NULL"},
+ {"tmdb_movie_id": 456770, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article; no figures"}
+]
