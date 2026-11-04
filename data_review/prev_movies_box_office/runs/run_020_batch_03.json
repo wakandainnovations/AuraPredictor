@@ -1,0 +1,44 @@
+[
+ {
+  "tmdb_movie_id": 294655,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict; only a Wiki mirror's 'commercial success' found in search (not used)"
+ },
+ {
+  "tmdb_movie_id": 296023,
+  "budget_inr_crore": 9,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Super_Ranga"
+  },
+  "notes": "Wiki infobox budget ₹9 Cr (cite: NIE 25 Aug 2014 pre-release article) — confirms stored; gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 280064,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki blank; search found only Chennai first-weekend figure (₹77 lakh, IBTimes) — partial, not stored"
+ },
+ {
+  "tmdb_movie_id": 308257,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 325722,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Tirupathi Express' budget/gross blank, no verdict"
+ }
+]

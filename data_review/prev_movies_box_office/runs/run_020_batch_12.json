@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 222979,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Ya_Ya_(film)"
+  },
+  "notes": "Wiki: 'received mixed reviews from critics, but become a decent success at the box office' → avg (moderate success)",
+  "verdict_label": "decent success at the box office"
+ },
+ {
+  "tmdb_movie_id": 258895,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 218217,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 1653789,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; not in BH 2013 table; no figures"
+ },
+ {
+  "tmdb_movie_id": 194924,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Ainthu_Ainthu_Ainthu"
+  },
+  "notes": "Wiki: 'was regarded as a comeback hit for Bharath, becoming the highest-grossing film of his career'",
+  "verdict_label": "comeback hit"
+ }
+]

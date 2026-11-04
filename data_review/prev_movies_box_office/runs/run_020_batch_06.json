@@ -1,0 +1,53 @@
+[
+ {
+  "tmdb_movie_id": 285958,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 1135705,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 434109,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict; stored tmdb budget left"
+ },
+ {
+  "tmdb_movie_id": 276935,
+  "budget_inr_crore": 39,
+  "revenue_inr_crore": 169.62,
+  "revenue_scope": "worldwide",
+  "verdict": "hit",
+  "verdict_label": "Hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Ek_Villain",
+   "revenue": "https://en.wikipedia.org/wiki/Ek_Villain",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"
+  },
+  "notes": "Wiki budget ₹39 Cr (BOI) and WW ₹169.62 Cr (BH) confirm stored; BH 2014 lifetime nett ₹105.62 Cr, Hit; Wiki 'major box-office success' agrees"
+ },
+ {
+  "tmdb_movie_id": 327905,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.07,
+  "revenue_scope": "india_net",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"
+  },
+  "notes": "BH 2014 table lifetime ₹0.07 Cr nett, Flop; Wiki fields blank"
+ }
+]

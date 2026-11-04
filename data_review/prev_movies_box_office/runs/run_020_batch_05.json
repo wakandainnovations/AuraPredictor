@@ -1,0 +1,52 @@
+[
+ {
+  "tmdb_movie_id": 310584,
+  "budget_inr_crore": 4,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "verdict_label": "surprise hit at the box office",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Geethanjali_(2014_film)",
+   "verdict": "https://www.filmcompanion.in/news/geethanjali-malli-vachindhi-teaser-anjali-anchors-this-horror-comedy-sequel"
+  },
+  "notes": "Wiki budget ₹4 Cr confirms stored; FLAG: stored revenue ($1.64M ≈ ₹10 Cr) is the Wiki infobox distributors' share, not gross — left; Film Companion: 'a surprise hit at the box office for a small film'"
+ },
+ {
+  "tmdb_movie_id": 228194,
+  "budget_inr_crore": null,
+  "budget_usd": 22000000,
+  "revenue_inr_crore": null,
+  "revenue_usd": 94300000,
+  "revenue_scope": "worldwide",
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/The_Hundred-Foot_Journey_(film)",
+   "revenue": "https://en.wikipedia.org/wiki/The_Hundred-Foot_Journey_(film)"
+  },
+  "notes": "Wiki/BOM $22M budget, $94.3M WW — confirms stored; no verdict stated"
+ },
+ {
+  "tmdb_movie_id": 315286,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Astu' budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 675794,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 463185,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ }
+]

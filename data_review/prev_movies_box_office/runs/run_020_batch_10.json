@@ -1,0 +1,55 @@
+[
+ {
+  "tmdb_movie_id": 262918,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/The_Royal_Bengal_Tiger"
+  },
+  "notes": "Wiki: 'It was a box office hit.'; infobox blank",
+  "verdict_label": "box office hit"
+ },
+ {
+  "tmdb_movie_id": 463975,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 31,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Shravani_Subramanya",
+   "revenue": "https://en.wikipedia.org/wiki/Shravani_Subramanya"
+  },
+  "notes": "Wiki box office section: ₹12 Cr first week, ₹31 Cr after 100 days (scope not stated); 'one of the major blockbusters of 2013'",
+  "verdict_label": "one of the major blockbusters of 2013",
+  "revenue_scope": "unknown"
+ },
+ {
+  "tmdb_movie_id": 456145,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Pakistani film; Wiki gross PKR 1.5 crore (dead-link cite) ≈ stored tmdb $140,000; not INR — left; no verdict"
+ },
+ {
+  "tmdb_movie_id": 231298,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 50,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Pandiya_Naadu",
+   "revenue": "https://en.wikipedia.org/wiki/Pandiya_Naadu"
+  },
+  "notes": "Wiki infobox ₹50 Cr confirms stored (body also says ₹52.35 Cr full run); 'termed a Super hit by Behindwoods.com'",
+  "verdict_label": "Super hit (Behindwoods)",
+  "revenue_scope": "unknown"
+ },
+ {
+  "tmdb_movie_id": 278125,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "short film (Anurag Kashyap, YouTube); no box office"
+ }
+]

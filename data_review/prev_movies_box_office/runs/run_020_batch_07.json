@@ -1,0 +1,53 @@
+[
+ {
+  "tmdb_movie_id": 270781,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Un_Samayal_Arayil"
+  },
+  "notes": "Wiki: 'The Tamil and the Telugu versions were unsuccessful at the box office, while the Kannada version became a major success' (row is the Tamil version)",
+  "verdict_label": "unsuccessful at the box office"
+ },
+ {
+  "tmdb_movie_id": 273862,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 316826,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 2.15,
+  "revenue_scope": "india_net",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"
+  },
+  "notes": "BH 2014 table lifetime ₹2.15 Cr nett, Flop; Wiki fields blank"
+ },
+ {
+  "tmdb_movie_id": 273421,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 17,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Mr._Fraud"
+  },
+  "notes": "Wiki infobox gross ₹17 Cr (uncited) confirms stored; body says '₹13 crore distributor's share in one month'; no verdict"
+ },
+ {
+  "tmdb_movie_id": 337348,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank; theatrical release was 2018 but not in BH 2018 table; stored tmdb revenue left"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 219423,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "FLAG: stored revenue (₹12 Cr 'est.') is cited to a Hindu article dated 16 Mar 2013, three months before release — suspect, left; no verdict"
+ },
+ {
+  "tmdb_movie_id": 722194,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Bangladeshi film; Wiki only says 'The sequel is also a successful film' — no explicit verdict for this film; no figures"
+ },
+ {
+  "tmdb_movie_id": 931201,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Pavitra (2013 film)' budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 205277,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 181930,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "FLAG: stored revenue ($2.41M ≈ ₹13 Cr) is the Wiki infobox distributors' share (Andhraboxoffice), not gross — left; no verdict"
+ }
+]

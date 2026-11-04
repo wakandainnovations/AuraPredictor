@@ -1,0 +1,53 @@
+[
+ {
+  "tmdb_movie_id": 198185,
+  "budget_inr_crore": null,
+  "budget_usd": 25000000,
+  "revenue_inr_crore": null,
+  "revenue_usd": 39200000,
+  "revenue_scope": "worldwide",
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Million_Dollar_Arm",
+   "revenue": "https://en.wikipedia.org/wiki/Million_Dollar_Arm"
+  },
+  "notes": "Wiki $25M budget (Variety), $39.2M WW (BOM) — confirms stored; no verdict stated"
+ },
+ {
+  "tmdb_movie_id": 1078807,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 306418,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.07,
+  "revenue_scope": "india_net",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"
+  },
+  "notes": "BH 2014 table lifetime ₹0.07 Cr nett, Flop; Wiki fields blank"
+ },
+ {
+  "tmdb_movie_id": 263434,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 262699,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ }
+]

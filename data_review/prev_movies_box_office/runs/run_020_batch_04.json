@@ -1,0 +1,45 @@
+[
+ {
+  "tmdb_movie_id": 280873,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict; search found only an IMDb user list 'blockbuster' and a mirror's ₹80 Cr — not used"
+ },
+ {
+  "tmdb_movie_id": 287477,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "short film (Sukumar / Allu Arjun); no box office"
+ },
+ {
+  "tmdb_movie_id": 440003,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "short film; no Wiki article, no box office"
+ },
+ {
+  "tmdb_movie_id": 285930,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 286569,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Njan_Steve_Lopez"
+  },
+  "notes": "Wiki 'Njan Steve Lopez': 'The lack of commercialization made it a failure in the box office'",
+  "verdict_label": "failure in the box office"
+ }
+]

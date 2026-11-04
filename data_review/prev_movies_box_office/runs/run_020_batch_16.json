@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 717956,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 179375,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict; filmibeat 'TBA'"
+ },
+ {
+  "tmdb_movie_id": 146584,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki has only first-weekend TN/UK/US figures — partial, not stored; no verdict"
+ },
+ {
+  "tmdb_movie_id": 201944,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Cowboy_(2013_film)"
+  },
+  "notes": "Wiki: 'released to a lukewarm critical reception and was a commercial failure'",
+  "verdict_label": "commercial failure"
+ },
+ {
+  "tmdb_movie_id": 169533,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 5,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Attahasa"
+  },
+  "notes": "Vana Yuddham redirects to Attahasa (Kannada/Tamil bilingual); infobox ₹5 Cr (Deccan Herald) confirms stored; no verdict"
+ }
+]

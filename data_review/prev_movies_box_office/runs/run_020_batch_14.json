@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 302241,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank; NIE review 'Verdict:' is a review, not box office"
+ },
+ {
+  "tmdb_movie_id": 934468,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Mrs. Sen' budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 203599,
+  "budget_inr_crore": 6.75,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Jatt_%26_Juliet_2",
+   "budget": "https://en.wikipedia.org/wiki/Jatt_%26_Juliet_2"
+  },
+  "notes": "Wiki budget ₹6.75 Cr confirms stored; FLAG: stored revenue ₹38.9 Cr (infobox, TOI cite) conflicts with Wiki body (~₹20 Cr all-India, WW 'in excess of ₹18 Cr') — left; 'emerged as the biggest blockbuster of Punjabi cinema'",
+  "verdict_label": "biggest blockbuster of Punjabi cinema"
+ },
+ {
+  "tmdb_movie_id": 224363,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Paisa Paisa (2013 film)' budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 676822,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ }
+]

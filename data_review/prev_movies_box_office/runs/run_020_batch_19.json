@@ -1,0 +1,64 @@
+[
+ {
+  "tmdb_movie_id": 629360,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 87827,
+  "budget_inr_crore": null,
+  "budget_usd": 120000000,
+  "revenue_inr_crore": null,
+  "revenue_usd": 609000000,
+  "revenue_scope": "worldwide",
+  "verdict": "hit",
+  "verdict_label": "commercial success",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Life_of_Pi_(film)",
+   "revenue": "https://en.wikipedia.org/wiki/Life_of_Pi_(film)",
+   "verdict": "https://en.wikipedia.org/wiki/Life_of_Pi_(film)"
+  },
+  "notes": "Wiki $120M (The Numbers) / $609M WW (BOM) confirm stored; 'The film became a commercial success'"
+ },
+ {
+  "tmdb_movie_id": 82693,
+  "budget_inr_crore": null,
+  "budget_usd": 21000000,
+  "revenue_inr_crore": null,
+  "revenue_usd": 236400000,
+  "revenue_scope": "worldwide",
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+   "revenue": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook"
+  },
+  "notes": "Wiki/BOM $21M / $236.4M WW confirm stored; no box-office verdict stated (Turan 'complete success' is a review)"
+ },
+ {
+  "tmdb_movie_id": 63668,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Podaa_Podi"
+  },
+  "notes": "Wiki: 'received mixed reviews and performed average at the box office'",
+  "verdict_label": "performed average at the box office"
+ },
+ {
+  "tmdb_movie_id": 154027,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.01,
+  "revenue_scope": "india_net",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/"
+  },
+  "notes": "BH 2012 table lifetime ₹0.01 Cr nett, Flop; Wiki fields blank"
+ }
+]

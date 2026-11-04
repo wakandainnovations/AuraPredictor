@@ -1,0 +1,50 @@
+[
+ {
+  "tmdb_movie_id": 651744,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 1328515,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "documentary/TV special on Shiva (1989) at 25 years; no box office"
+ },
+ {
+  "tmdb_movie_id": 295814,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Yoddha:_The_Warrior"
+  },
+  "notes": "Wiki 'Yoddha: The Warrior' (Raj Chakraborty, Dev): 'became a box office failure … considered a disaster'; infobox blank",
+  "verdict_label": "box office failure / disaster"
+ },
+ {
+  "tmdb_movie_id": 295615,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.54,
+  "revenue_scope": "india_net",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"
+  },
+  "notes": "BH 2014 table lifetime ₹0.54 Cr nett, Flop; Wiki fields blank"
+ },
+ {
+  "tmdb_movie_id": 925648,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article (search hit Go Goa Gone); not in BH 2014 table"
+ }
+]

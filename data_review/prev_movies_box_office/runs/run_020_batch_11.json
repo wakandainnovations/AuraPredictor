@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 264023,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki blank; search found only opening-week share (₹8.4 Cr) and a Wiki mirror's 'average hit' — not used"
+ },
+ {
+  "tmdb_movie_id": 253229,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 212754,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict; not in BH 2013 table"
+ },
+ {
+  "tmdb_movie_id": 248211,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "festival film; Wiki budget/gross blank, no verdict; not in BH 2013 table"
+ },
+ {
+  "tmdb_movie_id": 224339,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki: 'performed fairly well at the box-office' — not a verdict; no figures"
+ }
+]

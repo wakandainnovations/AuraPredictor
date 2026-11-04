@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 115458,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 134016,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Sundarapandian"
+  },
+  "notes": "Wiki: 'was a critical and commercial success'",
+  "verdict_label": "critical and commercial success"
+ },
+ {
+  "tmdb_movie_id": 136411,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Molly_Aunty_Rocks!"
+  },
+  "notes": "Wiki: 'Sify.com updated the Box Office status of Molly Aunty Rocks as \"Molly Aunty is a Winner at BO\"'",
+  "verdict_label": "Winner at BO (Sify)"
+ },
+ {
+  "tmdb_movie_id": 155730,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "verdict conflict: search snippet of Deccan Chronicle 'declared a box office hit' vs BH 'Flop' (BH page has only ₹0.04 Cr, a data gap); first week ₹22.25 Cr (filmibeat) partial — left NULL"
+ },
+ {
+  "tmdb_movie_id": 151377,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki: 'critical acclaim but underperformed at the box office' — not a verdict; no figures"
+ }
+]

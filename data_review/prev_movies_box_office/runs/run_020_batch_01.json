@@ -1,0 +1,50 @@
+[
+ {
+  "tmdb_movie_id": 279451,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article for the 2014 Maruthi/Venkatesh 'Radha' (search hits: Radha the actress, the 2017 Sharwanand film); no figures"
+ },
+ {
+  "tmdb_movie_id": 300506,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 331939,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Current_Theega"
+  },
+  "notes": "Wiki lead: 'was a commercial success just like the original'; infobox blank",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 522629,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article (Neeraj Vora film, appears unreleased); not in BH 2014 table"
+ },
+ {
+  "tmdb_movie_id": 548402,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.09,
+  "revenue_scope": "india_net",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"
+  },
+  "notes": "BH 2014 table lifetime ₹0.09 Cr nett, Flop; Wiki fields blank"
+ }
+]
