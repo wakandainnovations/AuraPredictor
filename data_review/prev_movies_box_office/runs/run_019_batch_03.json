@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 414957, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Punjabi 'Tiger' (Sippy Gill) — no Wiki article (only the 2016 Punjabi films list); search found no figures"},
+ {"tmdb_movie_id": 416239, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Pakistani film: Wiki gross PKR 300 million (PKR 240m Pakistan + 60m overseas per 4 Oct 2016 report); no INR/USD figure, so stored tmdb .6M / .8M left — flagged: PKR 300m ≈ .9M, stored revenue looks high"},
+ {"tmdb_movie_id": 428337, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Not in BH 2016 table; Wiki 'Dark Chocolate (film)' budget/gross blank"},
+ {"tmdb_movie_id": 1020707, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Bengali; no Wiki article — no figures"},
+ {"tmdb_movie_id": 429782, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Dum (2016 film)' budget/gross blank, no verdict"}
+]

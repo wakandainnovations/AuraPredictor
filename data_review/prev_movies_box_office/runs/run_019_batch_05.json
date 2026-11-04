@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 567148, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "profitable venture / 'a much needed hit' (trade analyst)",
+  "sources": {"verdict": "https://www.sakshipost.com/movie-review-jakkanna-a-profitable-venture"},
+  "notes": "Sakshi 13 Aug 2016: trade analyst Trinath 'turned out to be a profitable venture… a much needed hit'; ₹16 Cr gross after two weeks is a running total → not stored; Wiki fields blank"},
+ {"tmdb_movie_id": 1629074, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 418770, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Pa Va' budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 410986, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 404711, "budget_inr_crore": null, "revenue_inr_crore": 12, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Dhilluku_Dhuddu"},
+  "notes": "Wiki infobox gross ₹12 Cr (uncited, scope not stated) — stored confirmed; no verdict"}
+]

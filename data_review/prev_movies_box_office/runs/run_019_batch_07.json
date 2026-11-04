@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 407398, "budget_inr_crore": 6, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/James_%26_Alice"},
+  "notes": "Wiki budget ₹6 Cr (uncited) — stored confirmed; Wiki gross ₹13 Cr is cited to an IBTimes weekly Kerala box-office round-up (likely a running total) — stored left, flagged; no verdict"},
+ {"tmdb_movie_id": 391036, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "critical and commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kali_(2016_film)"},
+  "notes": "Wiki 'released … to critical and commercial success'; only a Kerala gross (₹16.4 Cr) is reported — stored tmdb revenue $2.4M left"},
+ {"tmdb_movie_id": 280152, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Valeba_Raja"}, "notes": "Wiki 'Valeba Raja' lead: 'was a box office failure'; no figures"},
+ {"tmdb_movie_id": 579411, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 680365, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Kannada; no Wiki article — no figures"}
+]

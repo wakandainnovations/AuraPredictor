@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 400067, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Malayalam 'Thilothama' — no Wiki article; no figures"},
+ {"tmdb_movie_id": 373593, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki only 3-day / 7-day Kerala figures (₹1.55 / ₹3.36 Cr) — partial; no verdict"},
+ {"tmdb_movie_id": 371107, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Anarkali_(2015_film)"}, "notes": "Wiki 'was a commercial success'; budget/gross blank"},
+ {"tmdb_movie_id": 363178, "budget_inr_crore": null, "revenue_inr_crore": 50, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Thoongaavanam"},
+  "notes": "Wiki gross 'est. ₹50 Cr' / 'grossed over ₹50 crore worldwide' (uncited) — stored confirmed; no verdict"},
+ {"tmdb_movie_id": 368377, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Kanal (2015 film)' only Kerala 3-day / 14-day figures (₹4.76 Cr in 14 days) — partial; no verdict"}
+]

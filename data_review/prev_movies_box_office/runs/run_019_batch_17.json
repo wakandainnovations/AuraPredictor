@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 327709, "budget_inr_crore": null, "revenue_inr_crore": 19, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://filmibeat.com/tamil/news/2015/highest-grossing-tamil-movies-of-2015-top-20-films-box-office-207245.html"},
+  "notes": "Filled: filmibeat 2015 Tamil top-20 #20 '19 Crore rupees from all over the world'; Wiki fields blank; no verdict"},
+ {"tmdb_movie_id": 332608, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Jil (film)' budget/gross blank, reviews only (bulk search had matched Jil Jung Juk — wrong film)"},
+ {"tmdb_movie_id": 339795, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/"},
+  "notes": "BH 2015 table lifetime ₹0.98 Cr, Flop; stored revenue = Wiki ₹13.3 million (BOI, likely India gross) — left; BH nett not substituted"},
+ {"tmdb_movie_id": 358219, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki only '100 days run … in Karnataka' — not a stated verdict; no figures"},
+ {"tmdb_movie_id": 270770, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Mahabalipuram (film)' budget/gross blank, no verdict"}
+]

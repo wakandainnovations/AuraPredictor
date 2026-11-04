@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 665372, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Indo-Bangladesh co-production: Wiki budget BDT 6 crore, gross BDT 6.4 crore (Bangladesh) — no INR/USD figure, left"},
+ {"tmdb_movie_id": 402537, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 410662, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 398786, "budget_inr_crore": 7.80, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "super hit / 'blockbuster'",
+  "sources": {"budget": "http://www.ibtimes.co.in/kammatipaadam-box-office-heres-final-kerala-collection-report-dulquer-salmaan-movie-691766", "verdict": "https://en.wikipedia.org/wiki/Kammatipaadam"},
+  "notes": "Budget corrected: stored tmdb $1.5M → IBTimes 30 Aug 2016 budget ₹7.80 Cr; Wiki 'The film was a super hit', IBTimes 'third back-to-back blockbuster'; only a Kerala final gross ₹15.10 Cr exists (state-only) → revenue not stored"},
+ {"tmdb_movie_id": 402217, "budget_inr_crore": null, "revenue_inr_crore": 13.70, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "surprise hit",
+  "sources": {"revenue": "http://www.ibtimes.co.in/happy-wedding-completes-101-days-heres-worldwide-box-office-collection-surprise-hit-photos-690873", "verdict": "http://www.ibtimes.co.in/happy-wedding-completes-101-days-heres-worldwide-box-office-collection-surprise-hit-photos-690873"},
+  "notes": "Revenue corrected: stored ₹14.5 Cr (Wiki infobox) but its own cite (IBTimes 23 Aug 2016, 101 days) says ₹13.70 Cr WW; 'surprise hit'; budget left: Wiki ₹1.7 Cr (uncited) vs IBTimes 'approximately ₹2 Cr' — conflict"}
+]

@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 412107, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Inspector Dawood Ibrahim' budget/gross blank; search found only an IBTimes 3-day headline (partial)"},
+ {"tmdb_movie_id": 412428, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 363192, "budget_inr_crore": null, "revenue_inr_crore": 0.66, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "BH 2016 table lifetime ₹0.66 Cr, Flop; Wiki budget/gross blank"},
+ {"tmdb_movie_id": 403858, "budget_inr_crore": null, "revenue_inr_crore": 1.85, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "BH 2016 table 'Budhia Singh – Born To Run' lifetime ₹1.85 Cr, Flop; Wiki budget/gross blank"},
+ {"tmdb_movie_id": 409398, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kismath_(2016_film)"}, "notes": "Wiki 'The film was a commercial success'; budget/gross blank"}
+]

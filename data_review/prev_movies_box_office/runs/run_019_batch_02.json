@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 420680, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank; only a 'blockbuster' remark about the composers' earlier film Sairat (not this film)"},
+ {"tmdb_movie_id": 422579, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Eedu Gold Ehe' budget/gross blank; no figures found (search: only a Chitramala 'turns winner' headline, not read)"},
+ {"tmdb_movie_id": 423335, "budget_inr_crore": 5.5, "revenue_inr_crore": 22, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "a hit at worldwide box office",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Thoppil_Joppan", "revenue": "http://www.ibtimes.co.in/thoppil-joppan-final-collection-mammootty-starrer-hit-worldwide-box-office-707041", "verdict": "http://www.ibtimes.co.in/thoppil-joppan-final-collection-mammootty-starrer-hit-worldwide-box-office-707041"},
+  "notes": "Wiki budget ₹5.5 Cr (Manorama 2016 yearender) and gross ₹22 Cr — stored confirmed; IBTimes 5 Dec 2016 final collection ≈₹22 Cr WW (Kerala ₹15.50 Cr), 'has become a hit'"},
+ {"tmdb_movie_id": 403517, "budget_inr_crore": null, "revenue_inr_crore": 13.24, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Banjo_(2016_film)", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"},
+  "notes": "Wiki WW lifetime ₹13.24 Cr (BH worldwide breakup; India nett ₹8.80 Cr) — stored confirmed; BH table Flop, Wiki 'declared a flop'"},
+ {"tmdb_movie_id": 409254, "budget_inr_crore": 15, "revenue_inr_crore": 28.40, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://www.ibtimes.co.in/majnu-total-worldwide-box-office-collection-nanis-film-fails-cross-rs-30-crore-mark-702454", "revenue": "https://www.ibtimes.co.in/majnu-total-worldwide-box-office-collection-nanis-film-fails-cross-rs-30-crore-mark-702454"},
+  "notes": "IBTimes 3 Nov 2016 'total worldwide': ₹28.40 Cr gross in 35 days, budget ₹15 Cr, distributors' share ₹15.30 Cr; 'decent collection' / 'fails to cross ₹30 Cr' — no verdict; Wiki fields blank"}
+]

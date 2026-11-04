@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 410556, "budget_inr_crore": null, "revenue_inr_crore": 0.1, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "BH 2016 table lifetime ₹0.1 Cr, Flop; Wiki fields blank"},
+ {"tmdb_movie_id": 418775, "budget_inr_crore": null, "revenue_inr_crore": 10, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Kiragoorina_Gayyaligalu"},
+  "notes": "Wiki gross ₹10 Cr (IBTimes 'highest-grossing Kannada movies of 2016') — stored confirmed; no verdict"},
+ {"tmdb_movie_id": 369939, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 387842, "budget_inr_crore": 3, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kalyana_Vaibhogame"},
+  "notes": "Wiki budget ₹3 Cr (The Hindu 'Million dollar films') — stored confirmed; only US figures (10-day $227,092) — no WW gross, no verdict"},
+ {"tmdb_movie_id": 420506, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"}
+]

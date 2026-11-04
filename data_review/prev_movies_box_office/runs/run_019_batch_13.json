@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 509331, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Malayalam 'Nikkah' (2015) — no Wiki article (search matched the 2014 Tamil Thirumanam Enum Nikkah); no figures"},
+ {"tmdb_movie_id": 573071, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Marathi film (DB language hindi); not in BH 2015 table; Wiki budget/gross blank"},
+ {"tmdb_movie_id": 1616715, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article — no figures"},
+ {"tmdb_movie_id": 369001, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank; Sify 'above average' is a review verdict, not box office → NULL"},
+ {"tmdb_movie_id": 361519, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"}
+]

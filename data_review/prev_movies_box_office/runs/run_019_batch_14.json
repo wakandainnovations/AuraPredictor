@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 361378, "budget_inr_crore": 4, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "a success at the box office",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jamna_Pyari", "verdict": "https://en.wikipedia.org/wiki/Jamna_Pyari"},
+  "notes": "Wiki budget ₹4 Cr — stored confirmed; 'became a success at the box office'; stored revenue = Wiki ₹7.4 Cr, which the body says is the Kerala collection (state-only) — left, flagged"},
+ {"tmdb_movie_id": 352113, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 665058, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Ek Nadir Galpo: Tale of a River' (IFFI 2008, theatrical 2015) — no figures"},
+ {"tmdb_movie_id": 1099961, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article for this 2015 Hindi 'Jai Hind' (search hit is a disambiguation page); not in BH 2015 table"},
+ {"tmdb_movie_id": 310567, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Sundance 2015 film; not in BH 2015 table; Wiki budget/gross blank"}
+]

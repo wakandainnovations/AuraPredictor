@@ -1590,3 +1590,100 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 998180,tt18749696,Dastaan-E-Rafi,2016-12-23,hindi,budget;revenue;verdict,not found in web search,Documentary on Mohammed Rafi (subject listed as lead) — no box office,18,20
 512005,tt6376380,Double Feluda,2016-12-16,bengali,budget;revenue;verdict,not found in web search,"Wiki budget blank, no gross; review ratings only",18,20
 466681,tt6326420,Marupadi,2016-12-09,malayalam,budget;revenue;verdict,not found in web search,Wiki no budget/gross; reviews only,18,20
+412193,tt6236404,Kadavul Irukaan Kumaru,2016-11-18,tamil,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; search found only a day-1 Behindwoods figure (partial) — no lifetime total or verdict,19,1
+426780,tt6046994,Dongri Ka Raja,2016-11-11,hindi,budget,not found in web search,"BH 2016 table lifetime ₹0.30 Cr, Flop; Wiki budget/gross blank",19,1
+416730,tt6103292,Lock,2016-10-14,punjabi,revenue;verdict,not found in web search,"Wiki infobox budget ₹5 Cr (uncited) — stored confirmed; gross blank, no verdict",19,1
+421515,tt5637188,Saat Uchakkey,2016-10-14,hindi,budget,not found in web search,"BH 2016 table 'Saat Uchhakkey' lifetime ₹2 Cr, Flop; Wiki budget/gross blank",19,1
+869757,,Dialogue in the Dark,2016-10-08,telugu,budget;revenue;verdict,not found in web search,No Wiki article or box-office report found; likely a short film,19,1
+420680,tt6129358,Jaundya Na Balasaheb,2016-10-07,marathi,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; only a 'blockbuster' remark about the composers' earlier film Sairat (not this film),19,2
+422579,tt6255734,Edu Gold Ehe,2016-10-07,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Eedu Gold Ehe' budget/gross blank; no figures found (search: only a Chitramala 'turns winner' headline, not read)",19,2
+403517,tt5755606,Banjo,2016-09-23,hindi,budget,not found in web search,"Wiki WW lifetime ₹13.24 Cr (BH worldwide breakup; India nett ₹8.80 Cr) — stored confirmed; BH table Flop, Wiki 'declared a flop'",19,2
+409254,tt6056644,Majnu,2016-09-23,telugu,verdict,not found in web search,"IBTimes 3 Nov 2016 'total worldwide': ₹28.40 Cr gross in 35 days, budget ₹15 Cr, distributors' share ₹15.30 Cr; 'decent collection' / 'fails to cross ₹30 Cr' — no verdict; Wiki fields blank",19,2
+414957,tt5017192,Tiger,2016-09-09,punjabi,budget;revenue;verdict,not found in web search,Punjabi 'Tiger' (Sippy Gill) — no Wiki article (only the 2016 Punjabi films list); search found no figures,19,3
+416239,tt5333612,Actor in Law,2016-09-08,urdu,budget;revenue;verdict,not found in web search,"Pakistani film: Wiki gross PKR 300 million (PKR 240m Pakistan + 60m overseas per 4 Oct 2016 report); no INR/USD figure, so stored tmdb .6M / .8M left — flagged: PKR 300m ≈ .9M, stored revenue looks high",19,3
+428337,tt5872506,Dark Chocolate,2016-09-02,hindi,budget;revenue;verdict,not found in web search,Not in BH 2016 table; Wiki 'Dark Chocolate (film)' budget/gross blank,19,3
+1020707,tt11340822,Tobu Aporichito,2016-09-02,bengali,budget;revenue;verdict,not found in web search,Bengali; no Wiki article — no figures,19,3
+429782,tt5833824,Dum,2016-08-26,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Dum (2016 film)' budget/gross blank, no verdict",19,3
+412107,tt5606132,IDI: Inspector Dawood Ibrahim,2016-08-12,malayalam,budget;revenue;verdict,not found in web search,Wiki 'Inspector Dawood Ibrahim' budget/gross blank; search found only an IBTimes 3-day headline (partial),19,4
+412428,tt5533990,Marubhoomiyile Aana,2016-08-12,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,4
+363192,tt3224258,The Legend of Michael Mishra,2016-08-05,hindi,budget,not found in web search,"BH 2016 table lifetime ₹0.66 Cr, Flop; Wiki budget/gross blank",19,4
+403858,tt5805252,Budhia Singh: Born to Run,2016-08-05,hindi,budget,not found in web search,"BH 2016 table 'Budhia Singh – Born To Run' lifetime ₹1.85 Cr, Flop; Wiki budget/gross blank",19,4
+409398,tt5900118,Kismath,2016-07-29,malayalam,budget;revenue,not found in web search,Wiki 'The film was a commercial success'; budget/gross blank,19,4
+567148,tt10127628,Jakkanna,2016-07-29,telugu,budget;revenue,not found in web search,Sakshi 13 Aug 2016: trade analyst Trinath 'turned out to be a profitable venture… a much needed hit'; ₹16 Cr gross after two weeks is a running total → not stored; Wiki fields blank,19,5
+1629074,tt5933608,Santheyalli Nintha Kabira,2016-07-29,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,5
+418770,tt5611416,Pa.Va,2016-07-22,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Pa Va' budget/gross blank, no verdict",19,5
+410986,,Arthanari,2016-07-08,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,5
+404711,tt5860564,Dhilluku Dhuddu,2016-07-07,tamil,budget;verdict,not found in web search,"Wiki infobox gross ₹12 Cr (uncited, scope not stated) — stored confirmed; no verdict",19,5
+665372,tt5809170,Badsha - the Don,2016-07-06,bengali,budget;revenue;verdict,not found in web search,"Indo-Bangladesh co-production: Wiki budget BDT 6 crore, gross BDT 6.4 crore (Bangladesh) — no INR/USD figure, left",19,6
+402537,tt5833252,Muthina Kathirika,2016-06-17,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,6
+410662,tt5784470,Angane Thanne Nethave Anchettennam Pinnale,2016-06-03,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,6
+398786,tt5458088,Kammatti Paadam,2016-05-20,malayalam,revenue,not found in web search,"Budget corrected: stored tmdb $1.5M → IBTimes 30 Aug 2016 budget ₹7.80 Cr; Wiki 'The film was a super hit', IBTimes 'third back-to-back blockbuster'; only a Kerala final gross ₹15.10 Cr exists (state-only) → revenue not stored",19,6
+402217,tt5528278,Happy Wedding,2016-05-20,malayalam,budget,not found in web search,"Revenue corrected: stored ₹14.5 Cr (Wiki infobox) but its own cite (IBTimes 23 Aug 2016, 101 days) says ₹13.70 Cr WW; 'surprise hit'; budget left: Wiki ₹1.7 Cr (uncited) vs IBTimes 'approximately ₹2 Cr' — conflict",19,6
+407398,tt5356300,James and Alice,2016-05-05,malayalam,revenue;verdict,not found in web search,"Wiki budget ₹6 Cr (uncited) — stored confirmed; Wiki gross ₹13 Cr is cited to an IBTimes weekly Kerala box-office round-up (likely a running total) — stored left, flagged; no verdict",19,7
+391036,tt5335128,Kali,2016-03-26,malayalam,budget;revenue,not found in web search,Wiki 'released … to critical and commercial success'; only a Kerala gross (₹16.4 Cr) is reported — stored tmdb revenue $2.4M left,19,7
+280152,tt3566718,Vaaliba Raja,2016-03-25,tamil,budget;revenue,not found in web search,Wiki 'Valeba Raja' lead: 'was a box office failure'; no figures,19,7
+579411,,Sangabora,2016-03-25,bengali,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,7
+680365,tt5584612,Cinema My Darling,2016-03-25,kannada,budget;revenue;verdict,not found in web search,Kannada; no Wiki article — no figures,19,7
+410556,tt3590416,Global Baba,2016-03-11,hindi,budget,not found in web search,"BH 2016 table lifetime ₹0.1 Cr, Flop; Wiki fields blank",19,8
+418775,tt5537724,Kiragoorina Gayyaligalu,2016-03-11,kannada,budget;verdict,not found in web search,Wiki gross ₹10 Cr (IBTimes 'highest-grossing Kannada movies of 2016') — stored confirmed; no verdict,19,8
+369939,tt5495258,Pokkiri Raja,2016-03-04,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,8
+387842,tt5523516,Kalyana Vaibhogame,2016-03-04,telugu,revenue;verdict,not found in web search,"Wiki budget ₹3 Cr (The Hindu 'Million dollar films') — stored confirmed; only US figures (10-day $227,092) — no WW gross, no verdict",19,8
+420506,tt5523544,Shourya,2016-03-04,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,8
+468853,tt3116888,...Re,2016-03-04,kannada,budget;revenue;verdict,not found in web search,"Wiki '...Re' budget/gross blank, no verdict",19,9
+427905,tt5130348,Love Shagun,2016-02-26,hindi,budget,not found in web search,"BH 2016 table lifetime ₹0.04 Cr, Flop",19,9
+349740,tt5500416,Kanithan,2016-02-25,tamil,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; search found only opening-week IBTimes reports (partial) — no total or verdict,19,9
+386275,tt4979160,Ishq Forever,2016-02-19,hindi,budget,not found in web search,"BH 2016 table lifetime ₹0.28 Cr, Flop",19,9
+386365,tt4340180,Direct Ishq,2016-02-19,hindi,revenue,not found in web search,"Wiki budget ₹22 Cr (BOI) — stored confirmed; BH table lifetime ₹0.11 Cr, Flop; stored revenue = Wiki '₹56 lakh' (uncited) conflicts with BH ₹0.11 Cr nett — left, flagged",19,9
+371813,tt5323568,Puthiya Niyamam,2016-02-12,malayalam,budget;verdict,not found in web search,"Wiki gross 'est. ₹14 Cr' (IBTimes Kerala box-office report, 6 Apr 2016, ~8 weeks in; Kerala ₹8.12 Cr) — stored confirmed; no verdict",19,10
+384420,tt5457840,Krishna Gaadi Veera Prema Gaadha,2016-02-12,telugu,revenue;verdict,not found in web search,"Budget filled: Wiki ₹14 Cr (greatandhra 'Economics of KGVPG', 27 Feb 2016); Wiki box office ₹13.34 Cr is a distributors' share → not stored (tracktollywood closing page 403); no verdict stated",19,10
+400484,tt3453964,Jugni,2016-01-22,hindi,budget,not found in web search,"BH 2016 table lifetime ₹0.11 Cr, Flop",19,10
+422134,tt4594194,2 Penkuttikal,2016-01-22,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,10
+378891,tt5320522,Monsoon Mangoes,2016-01-15,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,10
+386243,tt5239564,Style,2016-01-02,malayalam,budget;revenue,not found in web search,Wiki 'the film was a commercial success'; budget/gross blank,19,11
+460769,tt5227998,Abbayitho Ammayi,2016-01-01,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,11
+401901,tt5295670,Mama Manchu Alludu Kanchu,2015-12-25,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,11
+374755,tt5271432,Adi Kapyare Kootamani,2015-12-24,malayalam,budget;revenue,not found in web search,"Wiki lead 'became a blockbuster'; only 3-day (₹2.24 Cr) / week-1 (₹4.6 Cr) figures — partial, not stored",19,11
+280878,tt5290414,Eetti,2015-12-11,tamil,budget;revenue;verdict,not found in web search,"Current Wiki budget/gross blank, no verdict (older Wiki mirrors show ₹12 Cr / 'commercial hit' — not on the live page, not used); Behindwoods ₹4 Cr TN opening weekend is partial",19,11
+400067,tt5271528,Thilothama,2015-11-27,malayalam,budget;revenue;verdict,not found in web search,Malayalam 'Thilothama' — no Wiki article; no figures,19,12
+373593,tt5214394,Su.. Su... Sudhi Vathmeekam,2015-11-23,malayalam,budget;revenue;verdict,not found in web search,Wiki only 3-day / 7-day Kerala figures (₹1.55 / ₹3.36 Cr) — partial; no verdict,19,12
+371107,tt4947084,Anarkali,2015-11-13,malayalam,budget;revenue,not found in web search,Wiki 'was a commercial success'; budget/gross blank,19,12
+363178,tt4937812,Thoongaavanam,2015-11-10,tamil,budget;verdict,not found in web search,Wiki gross 'est. ₹50 Cr' / 'grossed over ₹50 crore worldwide' (uncited) — stored confirmed; no verdict,19,12
+368377,tt5032818,Kanal,2015-10-22,malayalam,budget;revenue;verdict,not found in web search,Wiki 'Kanal (2015 film)' only Kerala 3-day / 14-day figures (₹4.76 Cr in 14 days) — partial; no verdict,19,12
+509331,tt14434152,Nikkah,2015-10-16,malayalam,budget;revenue;verdict,not found in web search,Malayalam 'Nikkah' (2015) — no Wiki article (search matched the 2014 Tamil Thirumanam Enum Nikkah); no figures,19,13
+573071,tt5125576,Rajwade and Sons,2015-10-16,hindi,budget;revenue;verdict,not found in web search,Marathi film (DB language hindi); not in BH 2015 table; Wiki budget/gross blank,19,13
+1616715,tt14434198,Namukkore Aakasham,2015-10-09,malayalam,budget;revenue;verdict,not found in web search,No Wiki article — no figures,19,13
+369001,tt4974230,Urumbukal Urangarilla,2015-09-19,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank; Sify 'above average' is a review verdict, not box office → NULL",19,13
+361519,tt5022424,Kohinoor,2015-09-18,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,13
+361378,tt4974192,Jamnapyari,2015-08-21,malayalam,revenue,not found in web search,"Wiki budget ₹4 Cr — stored confirmed; 'became a success at the box office'; stored revenue = Wiki ₹7.4 Cr, which the body says is the Kerala collection (state-only) — left, flagged",19,14
+352113,tt4922694,Vasuvum Saravananum Onna Padichavanga,2015-08-14,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,14
+665058,tt2511784,Ek Nadir Galpo,2015-08-14,bengali,budget;revenue;verdict,not found in web search,"Wiki 'Ek Nadir Galpo: Tale of a River' (IFFI 2008, theatrical 2015) — no figures",19,14
+1099961,,Jai Hind,2015-08-12,hindi,budget;revenue;verdict,not found in web search,No Wiki article for this 2015 Hindi 'Jai Hind' (search hit is a disambiguation page); not in BH 2015 table,19,14
+310567,tt2614722,Umrika,2015-07-29,hindi,budget;revenue;verdict,not found in web search,Sundance 2015 film; not in BH 2015 table; Wiki budget/gross blank,19,14
+351147,tt4876528,Ahalya,2015-07-21,bengali,budget;revenue;verdict,not found in web search,Sujoy Ghosh short film (YouTube release) — no box office,19,15
+311166,tt4859246,Maari,2015-07-17,tamil,budget;verdict,not found in web search,"Filled: filmibeat 'highest grossing Tamil movies of 2015' (3 Dec 2015) #15 '38 Crores worldwide'; Wiki gross blank (only opening-weekend ₹20.1 Cr / 'reportedly ₹50 Cr' after a week, running totals); no verdict",19,15
+413437,tt4801682,Tiger,2015-06-26,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Tiger (2015 film)' (Vi Anand, Sundeep Kishan) budget/gross blank; 'positive reviews' only",19,15
+366111,tt4760086,Lukka Chuppi,2015-06-05,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,15
+530581,tt4641602,365 Days,2015-05-22,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,15
+1049695,tt4654776,Endendigu,2015-05-01,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,16
+336082,tt4463780,Dohchay,2015-04-24,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,16
+628803,tt4594848,Luckhnowi Ishq,2015-04-03,hindi,budget;revenue;verdict,not found in web search,Not in BH 2015 table; Wiki budget/gross blank; stored tmdb budget left,19,16
+327709,tt4546024,Komban,2015-03-27,tamil,budget;verdict,not found in web search,Filled: filmibeat 2015 Tamil top-20 #20 '19 Crore rupees from all over the world'; Wiki fields blank; no verdict,19,17
+332608,tt4523622,Jil,2015-03-27,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Jil (film)' budget/gross blank, reviews only (bulk search had matched Jil Jung Juk — wrong film)",19,17
+339795,tt4556848,Barkhaa,2015-03-27,hindi,budget;revenue,not found in web search,"BH 2015 table lifetime ₹0.98 Cr, Flop; stored revenue = Wiki ₹13.3 million (BOI, likely India gross) — left; BH nett not substituted",19,17
+358219,tt3813880,Krishna Leela,2015-03-20,kannada,budget;revenue;verdict,not found in web search,Wiki only '100 days run … in Karnataka' — not a stated verdict; no figures,19,17
+270770,tt4522210,Mahabalipuram,2015-03-13,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Mahabalipuram (film)' budget/gross blank, no verdict",19,17
+330407,,Iravum Pagalum Varum,2015-03-13,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict; not in filmibeat 2015 Tamil top-20",19,18
+280172,tt3885758,Serndhu Polama,2015-03-06,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,18
+307002,tt4047104,Enakkul Oruvan,2015-03-06,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Enakkul Oruvan (2015 film)' budget/gross blank, no verdict",19,18
+335457,tt4581026,Haram,2015-02-20,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Haram (film)' budget/gross blank, no verdict",19,18
+494152,tt4471622,Mitwa,2015-02-13,marathi,budget;verdict,not found in web search,"Wiki 'Mitwaa' gross ₹13.5 Cr (lifetime; Indian Television Dot Com, 8 Jun 2015, 'after a long run') — stored confirmed; no verdict (bulk search had matched Ghayal — wrong film)",19,18
+637863,tt6597162,Kanchenjungha Express,2015-02-13,bengali,budget;revenue;verdict,not found in web search,Bengali; no Wiki article — no figures,19,19
+611470,tt4231836,Pocket Gangsters,2015-01-03,hindi,budget;revenue;verdict,not found in web search,Not in BH 2015 table; Wiki budget/gross blank,19,19
+425482,tt4200804,Shivam,2015-01-02,kannada,revenue;verdict,not found in web search,"Wiki budget ₹15 Cr (uncited) — stored confirmed; gross blank, no verdict",19,19
+264041,tt3885724,Meaghamann,2014-12-25,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict; stored tmdb revenue $420,000 left",19,19
+1046678,,Kali-Katha: The Prologue to Ugly,2014-12-23,hindi,budget;revenue;verdict,not found in web search,No Wiki article (search hits only the Anurag Kashyap filmography) — no figures,19,19
+370235,tt2767712,Badlapur Boys,2014-12-12,hindi,budget,not found in web search,"BH 2014 table lifetime ₹0.89 Cr, Flop; Wiki fields blank",19,20
+282589,,Cm,2014-11-30,english,budget;revenue;verdict,not found in web search,'Cm' (Raghuram / Shiva Rajkumar) — no Wiki article found; no figures,19,20
+301668,tt4087914,Rowdy Fellow,2014-11-21,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,20
+309138,tt4219300,Gollu Aur Pappu,2014-11-21,hindi,budget,not found in web search,"BH 2014 table lifetime ₹0.01 Cr, Flop; Wiki fields blank",19,20
+412844,tt4087908,Ice Cream 2,2014-11-21,telugu,budget;revenue,not found in web search,Wiki 'Ice Cream (2014 film)': 'the sequel didn't perform as well … and was a flop'; Ice Cream 2 page budget/gross blank,19,20

@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 334383, "budget_inr_crore": 5, "revenue_inr_crore": 20, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/36_Vayadhinile", "revenue": "https://filmibeat.com/tamil/news/2015/highest-grossing-tamil-movies-of-2015-top-20-films-box-office-207245.html", "verdict": "https://en.wikipedia.org/wiki/36_Vayadhinile"},
+  "notes": "Wiki budget ₹5 Cr (Firstpost) — stored confirmed; revenue filled: filmibeat 2015 Tamil top-20 #19 '20 Crores' (scope not stated; Wiki only '₹15 Cr within two weeks'); Wiki 'became a commercial success', 'highly successful' (Sreedhar Pillai)"},
+ {"tmdb_movie_id": 1049695, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 337525, "budget_inr_crore": 3, "revenue_inr_crore": 0.14, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jai_Ho_Democracy", "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/"},
+  "notes": "= 'Jai Ho Democracy' (same directors Ranjit Kapoor & Bikramjeet Bhullar, Aamir Bashir, 24 Apr 2015): Wiki budget ₹3 Cr (uncited) — stored confirmed; BH 2015 table 'Jai Ho! Democracy' lifetime ₹0.14 Cr, Flop"},
+ {"tmdb_movie_id": 336082, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 628803, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Not in BH 2015 table; Wiki budget/gross blank; stored tmdb budget left"}
+]

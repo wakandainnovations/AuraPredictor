@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 412193, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank; search found only a day-1 Behindwoods figure (partial) — no lifetime total or verdict"},
+ {"tmdb_movie_id": 426780, "budget_inr_crore": null, "revenue_inr_crore": 0.30, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "BH 2016 table lifetime ₹0.30 Cr, Flop; Wiki budget/gross blank"},
+ {"tmdb_movie_id": 416730, "budget_inr_crore": 5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Lock_(film)"}, "notes": "Wiki infobox budget ₹5 Cr (uncited) — stored confirmed; gross blank, no verdict"},
+ {"tmdb_movie_id": 421515, "budget_inr_crore": null, "revenue_inr_crore": 2, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "BH 2016 table 'Saat Uchhakkey' lifetime ₹2 Cr, Flop; Wiki budget/gross blank"},
+ {"tmdb_movie_id": 869757, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article or box-office report found; likely a short film"}
+]

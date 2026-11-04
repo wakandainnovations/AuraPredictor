@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 371813, "budget_inr_crore": null, "revenue_inr_crore": 14, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Puthiya_Niyamam"},
+  "notes": "Wiki gross 'est. ₹14 Cr' (IBTimes Kerala box-office report, 6 Apr 2016, ~8 weeks in; Kerala ₹8.12 Cr) — stored confirmed; no verdict"},
+ {"tmdb_movie_id": 384420, "budget_inr_crore": 14, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Krishna_Gaadi_Veera_Prema_Gaadha"},
+  "notes": "Budget filled: Wiki ₹14 Cr (greatandhra 'Economics of KGVPG', 27 Feb 2016); Wiki box office ₹13.34 Cr is a distributors' share → not stored (tracktollywood closing page 403); no verdict stated"},
+ {"tmdb_movie_id": 400484, "budget_inr_crore": null, "revenue_inr_crore": 0.11, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2016/"}, "notes": "BH 2016 table lifetime ₹0.11 Cr, Flop"},
+ {"tmdb_movie_id": 422134, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 378891, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"}
+]

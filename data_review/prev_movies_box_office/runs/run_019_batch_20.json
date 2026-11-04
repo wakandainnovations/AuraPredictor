@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 370235, "budget_inr_crore": null, "revenue_inr_crore": 0.89, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"}, "notes": "BH 2014 table lifetime ₹0.89 Cr, Flop; Wiki fields blank"},
+ {"tmdb_movie_id": 282589, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "'Cm' (Raghuram / Shiva Rajkumar) — no Wiki article found; no figures"},
+ {"tmdb_movie_id": 301668, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 309138, "budget_inr_crore": null, "revenue_inr_crore": 0.01, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2014/"}, "notes": "BH 2014 table lifetime ₹0.01 Cr, Flop; Wiki fields blank"},
+ {"tmdb_movie_id": 412844, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Ice_Cream_(2014_film)"},
+  "notes": "Wiki 'Ice Cream (2014 film)': 'the sequel didn't perform as well … and was a flop'; Ice Cream 2 page budget/gross blank"}
+]

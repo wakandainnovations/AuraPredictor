@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 386243, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Style_(2016_film)"}, "notes": "Wiki 'the film was a commercial success'; budget/gross blank"},
+ {"tmdb_movie_id": 460769, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 401901, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"},
+ {"tmdb_movie_id": 374755, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Adi_Kapyare_Kootamani"},
+  "notes": "Wiki lead 'became a blockbuster'; only 3-day (₹2.24 Cr) / week-1 (₹4.6 Cr) figures — partial, not stored"},
+ {"tmdb_movie_id": 280878, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Current Wiki budget/gross blank, no verdict (older Wiki mirrors show ₹12 Cr / 'commercial hit' — not on the live page, not used); Behindwoods ₹4 Cr TN opening weekend is partial"}
+]
