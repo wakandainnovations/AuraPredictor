@@ -27,6 +27,7 @@ statuses in `processed.csv` (no new row), and tags the `changes.csv` rows with `
 - **Only figures read from a source page.** No estimates, no memory. Every number carries a source URL.
 - **Budget:** production budget. Ranges ("₹40–50 crore") → midpoint, noted.
 - **Revenue:** worldwide gross preferred; if only India gross/net exists use it and set `revenue_scope`.
+- **Source priority for budget / revenue: Wikipedia first, then Box Office India (BOI), then the rest** (BH year table, sacnilk, Koimoi, news). Use a BOI figure only when Wikipedia has no usable figure for that field (blank, uncited, `{{citation needed}}`, a distributors' share, or a partial running total). When a cited Wikipedia figure and BOI disagree, keep Wikipedia and note the BOI value. Check BOI for **every** movie (see "Box Office India" below); a BOI verdict counts like any other source, so a BOI-vs-Wiki/BH verdict conflict → NULL.
 - **Currency:** INR figures entered in crore; the script converts at the `currency_rate_xe` INR→USD rate nearest the release date (≤120 days away; the corrupt 3.75 rows are ignored). Figures given only in USD are entered as USD.
 - **hit_flop_avg** (new text column) from a source's stated verdict or clear verdict wording:
   - `hit`: Semi-Hit, Hit, Super Hit, Blockbuster, All-Time Blockbuster, "commercial success"
@@ -72,7 +73,7 @@ Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 2,200.
 - **Bollywood Hungama year tables** give a verdict + India lifetime nett for nearly every Hindi release:
   `https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/<YEAR>/` — fetch once per year and ask only for the titles you need.
 - Per movie, fetch `https://en.wikipedia.org/wiki/<Title>` (try `_(<year>_film)` / `_(film)` on 404) and ask for the infobox Budget / Box office verbatim plus any verdict sentence.
-- **Also check Box Office India** (`https://boxofficeindia.com/`) for every movie. It has budget, India nett / worldwide gross and a verdict for many Indian films, regional ones included. Search `site:boxofficeindia.com <Title> <year>` and fetch the movie's page. Use its figures when Wikipedia/BH have none, and cite its URL. If its verdict differs from Wikipedia's or BH's, the conflict rule still applies: leave the verdict NULL.
+- **Also check Box Office India** for every movie — see the "Box Office India" section below. Wikipedia figures are preferred; BOI fills what Wikipedia lacks.
 - **Watch for "distributors' share"** in infoboxes (common for Telugu/Tamil) — it is not gross; don't store it as revenue.
 - Conflicting verdicts between sources (e.g. Wikipedia "commercial success" vs BH "Flop") → leave NULL, note the conflict.
 - "Underperformed" / "poor opening" alone is not a verdict → NULL.
@@ -90,7 +91,7 @@ Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 2,200.
 - **sacnilk's "Worldwide gross" header is often wrong for small films** (lower than its own India gross, run 5). When overseas is "—"/0, store the India gross line as `india_gross`. If 'figures till' is the release day or the end of week 1, it is a partial total → don't store.
 - **BH 2005–2009 year tables list only the bigger releases**; most small Hindi films from those years have no BH entry (run 5).
 - **sacnilk shows a default "Disaster" verdict on pages with ₹0.00 data** (e.g. Pranaya Vilasam, a Wiki "super hit"). Use a sacnilk verdict only when the page has real figures (run 6).
-- **Box Office India may be down** (run 6: maintenance page, and `site:boxofficeindia.com` searches return nothing). If so, note it in the run log and continue with Wiki / BH / sacnilk.
+- **Box Office India was down from run 6 to run 22** (maintenance page / HTTP 500); it is **back up as of 2026-11-07**. The run-log notes "Box Office India not tried" for runs 6–22 are history, not instructions — check BOI on every run. If it is down again, note it in the run log and continue with Wiki / BH / sacnilk.
 - **Wiki infobox ranges are sometimes stored at the range top** instead of the midpoint (run 6: Yashoda, Major). Re-derive the midpoint and correct it.
 - **Fetching Wikipedia in parallel trips HTTP 429** (run 7). Query the API one request at a time with a short sleep and back off on 429.
 - **filmibeat's 'highest grossing Tamil movies of <year>' list** (e.g. the 2015 one) gives lifetime figures for the year's top 20 Tamil films; scope is usually not stated → `unknown`. Sakshi's 'Hit Kannada Films in <year>' list is a usable verdict source for Kannada films (run 7).
@@ -117,6 +118,37 @@ Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 2,200.
 - **2006–2010 lists: the BH year tables carry none of the small Hindi titles** (run 22: 0 of ~20; tables list ~50 bigger releases per year), and a quarter of the list has no Wiki article. Telugu 2007–2008 stored revenues are again infobox distributors' shares (5 of 100). One web search per notable South film; Koimoi retrospective pieces (Ready) carry usable verdicts.
 - Wiki raw wikitext (`https://en.wikipedia.org/w/index.php?title=<Title>&action=raw`) and the search API (`/w/api.php?action=query&list=search`) are faster than rendered pages for infobox budget/gross. BH year tables and sacnilk movie pages can also be fetched directly.
 
+## Box Office India (BOI)
+
+Back up as of 2026-11-07 (checked: plain curl → HTTP 200). Use it for every movie, **after** Wikipedia.
+
+**Finding the page.** Movie pages are `https://boxofficeindia.com/movie.php?movieid=<id>`. To get the id:
+1. Look in the cached Wikipedia raw wikitext for a cite to `boxofficeindia.com/movie.php?movieid=` (many Hindi pages cite it for runtime, budget or gross; 14 of run 22's 100 pages had one).
+2. Otherwise one web search: `boxofficeindia <Title> <year>`. General search engines index BOI poorly, so no hit is not proof that BOI has no page.
+3. Don't use BOI's own search: `search?search=` renders without results for curl, and the `getSearch.php` autocomplete is behind a Cloudflare bot check. Don't try to get around the check.
+
+Always check the page's title/year/language line ("Toss (2009) Hindi") — ids for same-named films are easy to mix up.
+
+**Reading the page** (plain curl works; strip tags). Fields, in INR rupees written with Indian digit grouping (`3,00,00,000` = ₹3 Cr):
+- `Budget:` → `budget_inr_crore`
+- `Worldwide Gross :` → revenue with `revenue_scope: worldwide` when `Overseas Gross` has a figure. When overseas is `$---`, Worldwide just repeats `India Gross` → store that figure with `india_gross`.
+- `Total Nett Gross :` → `india_net`, only when the page has no gross line at all.
+- Ignore `Adjusted Nett Gross` (inflation-adjusted), `First Day`, `First Weekend` and `Footfalls`.
+- The verdict label at the top of the page (Disaster / Flop / Below Average / Average / Above Average / Semi Hit / Hit / Super Hit / Blockbuster / All Time Blockbuster) → map with the `hit_flop_avg` rules. `User Verdict` is a reader poll — ignore it.
+
+**Priority.** Wikipedia first: use BOI for a field only when Wikipedia has no usable figure for it (blank, uncited, `{{citation needed}}`, distributors' share, partial running total). When a cited Wikipedia figure disagrees with BOI by more than ~3%, keep Wikipedia and note the BOI value. Cite the BOI movie URL in `sources`; `budget_source` / `revenue_source` becomes `websearch:boxofficeindia.com`.
+
+Example (run 22, not yet applied): Toss (`movieid=1097`) — Budget 3,00,00,000 (₹3 Cr), Worldwide Gross 19,50,000 (₹0.195 Cr — matches the stored Wiki ₹19 lakh, which is itself cited to BOI), verdict **Disaster** → `flop`.
+
+## Recheck: gap movies from runs 6–22 against BOI
+
+Runs 6–22 never checked BOI; 1,570 of their movies are in `missing_data.csv` (as of 2026-11-07). After each regular run, or as dedicated recheck runs, go back over them:
+- Take movies from `missing_data.csv` with `run` between 6 and 22 (its `run` column), oldest run first, in groups of 5. Hindi films first (BOI coverage is best for them), then Telugu / Tamil / others.
+- Only fill fields listed as gaps for that movie; the same Wikipedia-first rule applies (Wikipedia was already checked in the original run, so BOI fills what is left).
+- Write `runs/run_NNN_recheck_BB.json` (NNN = the run being rechecked, BB = a running batch number for that run) and apply with
+  `venv/bin/python scripts/prev_movies_bo_review.py apply runs/run_NNN_recheck_BB.json --run NNN --batch BB --recheck`.
+- Log each recheck session as a line under the run log: date, runs covered, movies checked, budget / revenue / verdict filled.
+
 ## Prompt for the next run
 
 ```
@@ -124,7 +156,8 @@ Continue the india_prev_movies_data_collection budget/revenue/verdict review.
 Read data_review/prev_movies_box_office/PROGRESS.md and follow its rules exactly.
 Run `venv/bin/python scripts/prev_movies_bo_review.py next` to get this run's 100
 movies (it resumes an unfinished run automatically). For each batch of 5: web-search
-each movie's budget, worldwide gross and box-office verdict, write the findings to
+each movie's budget, worldwide gross and box-office verdict — Wikipedia first, then
+Box Office India (see the "Box Office India" section), then the other sources — write the findings to
 runs/run_NNN_batch_BB.json and apply with
 `venv/bin/python scripts/prev_movies_bo_review.py apply <file> --run N --batch B`.
 Leave anything not found as null. When all 20 batches are done, update the run log
