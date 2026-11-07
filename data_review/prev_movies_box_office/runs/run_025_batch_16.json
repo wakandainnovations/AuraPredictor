@@ -1,0 +1,50 @@
+[
+ {
+  "tmdb_movie_id": 1192941,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 8.0,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Ekda_Yeun_Tar_Bagha"
+  },
+  "revenue_scope": "unknown",
+  "notes": "Wiki 'est. ₹8 crore… in its final theatrical run' (TOI cite, 21 Feb 2024); Wiki budget 'est. ₹4 Cr' cited to a Medium blog dated 2 days before release — not stored; no verdict"
+ },
+ {
+  "tmdb_movie_id": 1237714,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; sacnilk page 'No box office figures yet'"
+ },
+ {
+  "tmdb_movie_id": 1048643,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox no figures; sacnilk page 'No box office figures yet'"
+ },
+ {
+  "tmdb_movie_id": 1263017,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; sacnilk page 'No box office figures yet'"
+ },
+ {
+  "tmdb_movie_id": 1099967,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.1,
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Starfish_(2023_film)",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"
+  },
+  "revenue_scope": "india_net",
+  "notes": "Stored ≈₹10 L = Wiki infobox ₹0.10 Cr (BH cite) — confirmed; BH 2023 table lifetime nett ₹0.10 Cr, verdict Flop; not in BOI index"
+ }
+]

@@ -1,0 +1,55 @@
+[
+ {
+  "tmdb_movie_id": 1241219,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.15,
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2024/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2024/"
+  },
+  "revenue_scope": "india_net",
+  "notes": "Stored ≈₹10.36 Cr = Wiki infobox cited to a Financial Express 'Rs 10.36 crore in 3 weeks' running total (producer figure) → BH 2024 table lifetime nett ₹0.15 Cr, verdict Flop; not in BOI index"
+ },
+ {
+  "tmdb_movie_id": 1388901,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search matched Parinayam 1994 — wrong film); no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 1243124,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.48,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Raajadhani_Files_2024",
+   "verdict": "https://www.sacnilk.com/movie/Raajadhani_Files_2024"
+  },
+  "revenue_scope": "india_gross",
+  "notes": "No Wiki article; sacnilk India gross ₹1.48 Cr (26 days, figures till 11 Mar 2024; 'Worldwide gross ₹1.02 Cr' header below India gross); sacnilk verdict Disaster on real figures"
+ },
+ {
+  "tmdb_movie_id": 1241204,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 1219158,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 9.44,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Lover_2024"
+  },
+  "revenue_scope": "india_gross",
+  "notes": "Wiki infobox no figures (Wiki release 9 Feb 2024); sacnilk India gross ₹9.44 Cr (51 days, figures till 30 Mar 2024; table total ₹9.27 Cr; overseas —); no verdict"
+ }
+]

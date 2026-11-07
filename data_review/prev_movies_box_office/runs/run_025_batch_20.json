@@ -1,0 +1,45 @@
+[
+ {
+  "tmdb_movie_id": 1192906,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "English-language UK film (London Independent Film Festival premiere); no box office found"
+ },
+ {
+  "tmdb_movie_id": 1147927,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox no figures; sacnilk ₹6.35 Cr India gross stops at day 8 (partial, not stored)"
+ },
+ {
+  "tmdb_movie_id": 1183149,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.17,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Uyir_Thamizhukku_2024"
+  },
+  "revenue_scope": "india_gross",
+  "notes": "No Wiki article; released May 2024 (DB 2023-09-28); sacnilk India gross ₹17 L (8 days to 17 May 2024, table runs to day 11; overseas —); no verdict"
+ },
+ {
+  "tmdb_movie_id": 1174110,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Peddha Kapu 1' infobox no figures (release 29 Sep 2023); no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 1179112,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; not found"
+ }
+]

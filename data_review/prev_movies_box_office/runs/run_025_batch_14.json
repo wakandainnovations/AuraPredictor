@@ -1,0 +1,55 @@
+[
+ {
+  "tmdb_movie_id": 1229045,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.38,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Sridevi_Prasanna_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹1.38 Cr (31–35 days, figures till 3 Mar 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1230097,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 10.32,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Blue_Star_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹10.32 Cr (37 days, figures till 1 Mar 2024; table ₹10.22 Cr; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 967353,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.76,
+  "verdict": "flop",
+  "verdict_label": "commercial flop",
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Qalb_2024",
+   "verdict": "https://en.wikipedia.org/wiki/Qalb_(film)"
+  },
+  "revenue_scope": "india_gross",
+  "notes": "Wiki infobox no figures; Wiki body 'performed poorly… regarded as a commercial flop' (sentence uncited); sacnilk India gross ₹76 L (34–35 days, figures till 14 Feb 2024; overseas —)"
+ },
+ {
+  "tmdb_movie_id": 1222718,
+  "budget_inr_crore": 3.5,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Tik_Tok_(2023_film)"
+  },
+  "notes": "Stored budget = Wiki ₹3.5 Cr (TOI cite) — confirmed; no gross; producer says it 'underperformed' (not a verdict); Wiki release 23 Dec 2023 (DB 2023-12-29)"
+ },
+ {
+  "tmdb_movie_id": 1213076,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹10.85 Cr stops at day 7 (partial, not stored)"
+ }
+]

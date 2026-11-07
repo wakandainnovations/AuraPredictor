@@ -1,0 +1,57 @@
+[
+ {
+  "tmdb_movie_id": 1184245,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 7.58,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Kudi_Haryane_Val_Di_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹7.58 Cr (day-wise table 28 days, figures till 7 Jul 2024; its 'Worldwide gross ₹3.18 Cr' header is below India gross, overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1304113,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.53,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/DNA_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹53 L (26 days, figures till 9 Jul 2024; Malayalam, released 14 Jun 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 975223,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.42,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Haraa_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹42 L (14 days, figures till 20 Jun 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1189826,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.57,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Little_Hearts_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk Little_Hearts_2024 (Malayalam) India gross ₹1.57 Cr (23–25 days, figures till 29 Jun 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1243093,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 5.07,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Ni_Main_Sass_Kuttni_2_2024"
+  },
+  "notes": "No Wiki article; sacnilk India gross ₹5.07 Cr (day-wise table 36 days, figures till 4 Jul 2024; its 'Worldwide gross ₹1.63 Cr' header is below India gross, overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ }
+]

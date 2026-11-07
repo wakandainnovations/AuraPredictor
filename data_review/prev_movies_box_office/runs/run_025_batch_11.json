@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 1244729,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 1250180,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search matched Hridayam — wrong film); no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 1177652,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Aanandhapuram Diaries' infobox no figures; no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 1242191,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox no figures; sacnilk ₹1.48 Cr India gross stops at day 7 (partial, not stored)"
+ },
+ {
+  "tmdb_movie_id": 1243118,
+  "budget_inr_crore": 8.0,
+  "revenue_inr_crore": 0.12,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6652",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6652",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6652"
+  },
+  "revenue_scope": "india_gross",
+  "notes": "Wiki infobox no figures; BOI budget ₹8 Cr, India gross ₹12,00,000 (overseas $---), verdict Disaster; BH nett ₹0.08 Cr Flop (agrees)"
+ }
+]

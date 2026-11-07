@@ -1,0 +1,47 @@
+[
+ {
+  "tmdb_movie_id": 1187054,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.6992,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6286",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6286"
+  },
+  "revenue_scope": "worldwide",
+  "notes": "Wiki infobox no figures; BOI WW ₹69,92,000 (India gross ₹50 L + overseas $24,000), budget '--', verdict Disaster; BH nett ₹0.40 Cr Flop (agrees)"
+ },
+ {
+  "tmdb_movie_id": 1195924,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 1457933,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox no figures; sacnilk page 'No box office figures yet'"
+ },
+ {
+  "tmdb_movie_id": 1184551,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Festival screenings (IFFLA / MAMI 2023, IFFM 2024), then released on ZEE5 13 Sep 2024 — no theatrical box office"
+ },
+ {
+  "tmdb_movie_id": 1034766,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox no figures (Wiki release 13 Oct 2023); sacnilk page 'No box office figures yet'"
+ }
+]

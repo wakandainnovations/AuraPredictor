@@ -1,0 +1,51 @@
+[
+ {
+  "tmdb_movie_id": 1248965,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Direct-to-streaming (JioCinema, 7 Jun 2024 per Wiki); no box office"
+ },
+ {
+  "tmdb_movie_id": 1291534,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.24,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Cchupp_2024"
+  },
+  "notes": "No Wiki article; sacnilk India gross ₹24 L (10 days, figures till 16 Jun 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1377187,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 2.39,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Swargarath_2024"
+  },
+  "notes": "No Wiki article; sacnilk India gross ₹2.39 Cr (day-wise 49 days, figures till 1 Dec 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1298418,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.24,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Kudumba_Sthreeyum_Kunjadum_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹24 L (24 days, figures till 23 Jun 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1298674,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; sacnilk ₹7 L stops at day 7 (partial, not stored)"
+ }
+]

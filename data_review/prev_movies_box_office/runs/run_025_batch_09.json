@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 1267903,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.54,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Double_Tuckerr_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹54 L (17–29 days, figures till 21 Apr 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1231925,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Bhojpuri/Hindi; no Wiki article; not in BOI / BH; sacnilk page 'No box office figures yet'"
+ },
+ {
+  "tmdb_movie_id": 1265977,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Direct-to-streaming (ZEE5, 29 Mar 2024, 'without any theatrical release' per Wiki); no box office"
+ },
+ {
+  "tmdb_movie_id": 1322547,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Japanese Takarazuka stage production of RRR (not an Indian theatrical film); no box office"
+ },
+ {
+  "tmdb_movie_id": 1093134,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.25,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Secret_Home_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹25 L (16–20 days, figures till 6 Apr 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ }
+]

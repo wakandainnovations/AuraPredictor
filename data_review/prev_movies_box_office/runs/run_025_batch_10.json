@@ -1,0 +1,59 @@
+[
+ {
+  "tmdb_movie_id": 1196856,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.89,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Rebel_2024",
+   "verdict": "https://en.wikipedia.org/wiki/Rebel_(2024_film)"
+  },
+  "notes": "Wiki infobox no figures; Wiki lead 'became a box-office bomb'; sacnilk India gross ₹1.89 Cr (15 days in table, figures till 30 Mar 2024; 'Worldwide gross ₹21 L' header below India gross); sacnilk verdict Disaster (agrees)",
+  "revenue_scope": "india_gross",
+  "verdict_label": "box-office bomb"
+ },
+ {
+  "tmdb_movie_id": 1244756,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.09,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Jananam_1947_Pranayam_Thudarunnu_2024"
+  },
+  "notes": "No Wiki article; sacnilk India gross ₹9 L (10–13 days, figures till 24 Mar 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1393508,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox no figures; no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 753522,
+  "budget_inr_crore": 9.0,
+  "revenue_inr_crore": 0.1025,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6297",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6297",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6297"
+  },
+  "revenue_scope": "india_gross",
+  "notes": "Wiki infobox no figures; BOI budget ₹9 Cr, India gross ₹10,25,000 (overseas $---), verdict Disaster; BH nett ₹0.10 Cr Flop (agrees)"
+ },
+ {
+  "tmdb_movie_id": 1136463,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.58,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Blink_2024"
+  },
+  "notes": "Wiki infobox no figures (later on Aha); sacnilk India gross ₹58 L (54–59 days, figures till 5 May 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ }
+]

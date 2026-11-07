@@ -1,0 +1,54 @@
+[
+ {
+  "tmdb_movie_id": 1001632,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 5.31,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Krishnamma_2024"
+  },
+  "notes": "No Wiki article; sacnilk India gross ₹5.31 Cr (32 days in table, figures till 30 May 2024) + overseas ₹18 L; 'Worldwide gross ₹1.38 Cr' header is broken (below India gross) → India gross stored; no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1277697,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.28,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Prathinidhi_2_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹28 L (table 23 days, figures till 22 May 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1288304,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.17,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Aarambham_2024"
+  },
+  "notes": "Wiki infobox no figures; theatrical 10 May 2024, ETV Win from 23 May; sacnilk India gross ₹17 L (10 days, figures till 19 May 2024 — near the full theatrical window); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 893570,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; sacnilk ₹19 L stops at day 6 (partial, not stored)"
+ },
+ {
+  "tmdb_movie_id": 1030060,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.55,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Sabari_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹55 L (15–21 days, figures till 23 May 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ }
+]

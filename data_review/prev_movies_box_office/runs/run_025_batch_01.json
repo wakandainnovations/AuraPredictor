@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 932247, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "No Wiki article for Mafia (search returns Rakshasa (2025 film), same director/lead — possibly retitled; not used); no sacnilk page; filmibeat box office TBA; release unconfirmed"},
+ {"tmdb_movie_id": 1317911, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Direct-to-streaming (Disney+ Hotstar); Wiki infobox no figures; not in BOI / BH"},
+ {"tmdb_movie_id": 1492869, "budget_inr_crore": null, "revenue_inr_crore": 0.43, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Raktaksha_2024"},
+  "notes": "No Wiki article; sacnilk India gross ₹43 L (14 days, figures till 8 Aug 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1231978, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox no figures; sacnilk ₹24 L India gross stops at day 7 (partial, not stored)"},
+ {"tmdb_movie_id": 1315918, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox no figures; sacnilk ₹17 L India gross stops at day 7 (partial, not stored)"}
+]

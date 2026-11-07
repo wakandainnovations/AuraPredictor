@@ -1,0 +1,58 @@
+[
+ {
+  "tmdb_movie_id": 1073264,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 12.94,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/PT_Sir_2024"
+  },
+  "notes": "Wiki infobox no figures (body: TOI 'grossed over ₹12 Cr in 12 days', running total); sacnilk India gross ₹12.94 Cr (38–40 days, figures till 30 Jun 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1318310,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 2.09,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Raju_Yadav_2024",
+   "verdict": "https://www.sacnilk.com/movie/Raju_Yadav_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹2.09 Cr (29 days in table, figures till 16 Jul 2024; its 'Worldwide gross ₹17 L' header is below India gross); sacnilk verdict Disaster on real figures",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 1132943,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.73,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Sureshanteyum_Sumalathayudeyum_Hrudayahariyaya_Pranayakadha_2024",
+   "verdict": "https://www.sacnilk.com/movie/Sureshanteyum_Sumalathayudeyum_Hrudayahariyaya_Pranayakadha_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹72.94 L (20 days in table, figures till 30 May 2024; 'Worldwide gross ₹29 L' header below India gross); sacnilk verdict Disaster on real figures",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 1286731,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; not in BOI index or BH 2024 table"
+ },
+ {
+  "tmdb_movie_id": 1278884,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 7.91,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Inga_Naan_Thaan_Kingu_2024"
+  },
+  "notes": "Wiki infobox no figures (Wiki release 17 May 2024; DB 2024-05-11); sacnilk India gross ₹7.91 Cr (29 days, figures till 9 Jun 2024; 'Worldwide gross ₹1.26 Cr' header below India gross, overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ }
+]

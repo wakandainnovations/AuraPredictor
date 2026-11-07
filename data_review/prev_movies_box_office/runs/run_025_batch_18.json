@@ -1,0 +1,47 @@
+[
+ {
+  "tmdb_movie_id": 1196317,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.02,
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"
+  },
+  "revenue_scope": "india_net",
+  "notes": "Wiki infobox no figures; BH 2023 table lifetime nett ₹0.02 Cr, verdict Flop; not in BOI index"
+ },
+ {
+  "tmdb_movie_id": 1221876,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (Telugu-origin film listed as Hindi); not in BOI / BH; not searched further"
+ },
+ {
+  "tmdb_movie_id": 1196095,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Direct-to-streaming (Amazon Prime Video, 28 Jun 2024 per Wiki); no box office"
+ },
+ {
+  "tmdb_movie_id": 1233647,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox no figures (Wiki release 15 Dec 2023; DB 2023-11-01); sacnilk page 'No box office figures yet'"
+ },
+ {
+  "tmdb_movie_id": 1147305,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Direct-to-streaming (JioCinema, 8 Jul 2023 per Wiki); no box office"
+ }
+]

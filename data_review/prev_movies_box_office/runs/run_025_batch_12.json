@@ -1,0 +1,51 @@
+[
+ {
+  "tmdb_movie_id": 1243485,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.74,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Bhoothaddam_Bhaskar_Narayana_2024"
+  },
+  "revenue_scope": "india_gross",
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹74 L (10–15 days, figures till 10 Mar 2024; overseas —); no verdict"
+ },
+ {
+  "tmdb_movie_id": 1243999,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox no figures; no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 1249646,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; sacnilk ₹29 L stops at day 7 (partial, not stored); stored tmdb budget $6.3M unverified (same value as Struggler — suspect)"
+ },
+ {
+  "tmdb_movie_id": 1249641,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search returned other Randeep Hooda films); not in BOI / BH; stored tmdb budget $6.3M unverified (same value as Kreem — suspect)"
+ },
+ {
+  "tmdb_movie_id": 1064356,
+  "budget_inr_crore": 5.0,
+  "revenue_inr_crore": 0.35,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6295",
+   "revenue": "https://en.wikipedia.org/wiki/All_India_Rank",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6295"
+  },
+  "revenue_scope": "india_net",
+  "notes": "Stored ≈₹35 L = Wiki infobox gross (cited to BH, accessed 10 Jun 2024) — confirmed; BH table nett ₹0.35 Cr Flop; BOI India gross ₹36.25 L (+3.6%, Wiki kept), budget ₹5 Cr (filled), verdict Disaster; IFFR premiere Feb 2023, India release 23 Feb 2024"
+ }
+]

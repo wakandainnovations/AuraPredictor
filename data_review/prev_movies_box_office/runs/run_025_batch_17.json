@@ -1,0 +1,59 @@
+[
+ {
+  "tmdb_movie_id": 1185638,
+  "budget_inr_crore": 10.0,
+  "revenue_inr_crore": 2.25,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6291",
+   "revenue": "https://en.wikipedia.org/wiki/Farrey",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6291"
+  },
+  "revenue_scope": "india_net",
+  "notes": "Stored ≈₹2.25 Cr = Wiki infobox (BH cite, accessed 11 Dec 2023) = BH table lifetime nett ₹2.25 Cr Flop — confirmed; BOI India gross ₹2.88 Cr (gross vs nett, Wiki kept), budget ₹10 Cr (filled), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 1215175,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 942411,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Festival premiere (Tallinn BNFF Nov 2023, IFFI Nov 2024), released on ZEE5 Feb 2025 — no theatrical box office"
+ },
+ {
+  "tmdb_movie_id": 1013057,
+  "budget_inr_crore": 35.0,
+  "revenue_inr_crore": 6.0,
+  "verdict": "flop",
+  "verdict_label": "Box Office bomb",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Bandra_(film)",
+   "revenue": "https://en.wikipedia.org/wiki/Bandra_(film)",
+   "verdict": "https://en.wikipedia.org/wiki/Bandra_(film)"
+  },
+  "revenue_scope": "unknown",
+  "notes": "Stored budget ₹35 Cr / gross ₹6 Cr = Wiki infobox (India Today Malayalam, 25 Nov 2023, day 15) — confirmed; Wiki 'The film was a Box Office bomb'; sacnilk only 7 days (₹4.78 Cr India gross table)"
+ },
+ {
+  "tmdb_movie_id": 1182689,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.03,
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"
+  },
+  "revenue_scope": "india_net",
+  "notes": "Wiki infobox no figures (Wiki release 6 Oct 2023); BH 2023 table 'Yaatris' (24 Nov 2023) lifetime nett ₹0.03 Cr, verdict Flop; DB date 2023-11-03; not in BOI index"
+ }
+]

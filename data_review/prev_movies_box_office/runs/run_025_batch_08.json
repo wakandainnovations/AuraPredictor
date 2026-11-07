@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 1276808,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Paarijatha Parvam' infobox no figures; no sacnilk page (both spellings 404)"
+ },
+ {
+  "tmdb_movie_id": 1086729,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Direct-to-streaming (Netflix, 12 Apr 2024; Mumbai premiere 8 Apr); no box office"
+ },
+ {
+  "tmdb_movie_id": 1273005,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.26,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Jeonde_Raho_Bhoot_Ji_2024"
+  },
+  "notes": "No Wiki article; sacnilk India gross ₹26 L (17–28 days, figures till 28 Apr 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1168528,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 3.97,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Jai_Ganesh_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹3.97 Cr (32 days, figures till 12 May 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1288554,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; sacnilk ₹30 L stops at day 7 (partial, not stored; figures till 4 Apr 2024 vs DB 2024-04-08)"
+ }
+]

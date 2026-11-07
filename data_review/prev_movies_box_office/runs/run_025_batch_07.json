@@ -1,0 +1,55 @@
+[
+ {
+  "tmdb_movie_id": 1283166,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.86,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Prasanna_Vadanam_2024",
+   "verdict": "https://www.sacnilk.com/movie/Prasanna_Vadanam_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹1.86 Cr (28 days, figures till 30 May 2024; 'Worldwide gross ₹44 L' header below India gross); sacnilk verdict Disaster on real figures",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 1284480,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 2.33,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Jagat_2024",
+   "verdict": "https://www.sacnilk.com/movie/Jagat_2024"
+  },
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹2.33 Cr (35 days, figures till 6 Jun 2024; 'Worldwide gross ₹1.06 Cr' header below India gross); sacnilk verdict Disaster on real figures",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 1220534,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "English-language film (Rumana Molla); no Wiki article; not searched further"
+ },
+ {
+  "tmdb_movie_id": 1081319,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 8.12,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Pavi_Caretaker_2024"
+  },
+  "notes": "Stored ≈₹7.98 Cr = Wiki infobox cited to a TOI 'day 19' running-total article → sacnilk India gross ₹8.12 Cr (27–33 days, figures till 22 May 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1211233,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; stored tmdb budget $1.35M unverified (left)"
+ }
+]
