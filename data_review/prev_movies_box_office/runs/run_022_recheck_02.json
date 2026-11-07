@@ -1,0 +1,72 @@
+[
+ {
+  "tmdb_movie_id": 161874,
+  "budget_inr_crore": 1,
+  "revenue_inr_crore": 0.005,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=890",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=890",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=890"
+  },
+  "notes": "BOI recheck: Budget 1,00,00,000 (₹1 Cr), India gross 50,000 (overseas $---), verdict Disaster",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 309256,
+  "budget_inr_crore": 1,
+  "revenue_inr_crore": 0.025,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1100",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1100",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1100"
+  },
+  "notes": "BOI recheck: Budget 1,00,00,000 (₹1 Cr), India gross 2,50,000, verdict Disaster",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 435199,
+  "budget_inr_crore": 2.5,
+  "revenue_inr_crore": 0.0725,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1075",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1075",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1075"
+  },
+  "notes": "BOI recheck: Budget 2,50,00,000 (₹2.5 Cr), India gross 7,25,000, verdict Disaster; BOI release 22 May 2009 (Wiki 5 Jun, DB 6 May)",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 544322,
+  "budget_inr_crore": 1.75,
+  "revenue_inr_crore": 0.1075,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1001",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1001",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1001"
+  },
+  "notes": "BOI recheck: (Siddharth - The Prisoner) Budget 1,75,00,000 (₹1.75 Cr), India gross 10,75,000, verdict Disaster; replaces unverified tmdb revenue $26,959",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 233886,
+  "budget_inr_crore": 4.5,
+  "revenue_inr_crore": 1.3,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1332",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1332",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1332"
+  },
+  "notes": "BOI recheck: (Hastey Hastey - Follow Your Heart) Budget 4,50,00,000 (₹4.5 Cr), India gross 1,30,00,000 (₹1.3 Cr), verdict Disaster; release 30 May 2008 (DB 2008-11-07)",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ }
+]

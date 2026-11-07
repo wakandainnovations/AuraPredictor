@@ -1,0 +1,51 @@
+[
+ {
+  "tmdb_movie_id": 21757,
+  "budget_inr_crore": 3,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1097",
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1097"
+  },
+  "notes": "BOI recheck: Budget 3,00,00,000 (₹3 Cr), verdict Disaster; BOI India/WW gross 19,50,000 matches stored Wiki ₹19 lakh"
+ },
+ {
+  "tmdb_movie_id": 383405,
+  "budget_inr_crore": 12.5,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1357",
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1357"
+  },
+  "notes": "BOI recheck: Budget 12,50,00,000 (₹12.5 Cr), verdict Disaster; BOI India gross ₹2.41 Cr vs stored BOM India ,441 (≈₹2.0 Cr) — not a gap, left"
+ },
+ {
+  "tmdb_movie_id": 125289,
+  "budget_inr_crore": 9,
+  "revenue_inr_crore": 3.19,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=184",
+   "budget": "https://boxofficeindia.com/movie.php?movieid=184",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=184"
+  },
+  "notes": "BOI recheck (Superstar 2008): Budget 9,00,00,000 (₹9 Cr), India gross 3,19,00,000 (₹3.19 Cr; overseas $---), verdict Disaster; Wiki 'performed poorly' consistent",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 117361,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1514"
+  },
+  "notes": "BOI recheck: verdict Disaster; BOI India gross ₹2.56 Cr vs stored Wiki ₹6.14 Cr (BOM-cited) — Wikipedia kept per priority, flagged"
+ }
+]

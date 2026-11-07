@@ -1889,7 +1889,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 384031,tt1838630,Punyam Aham,2010-01-22,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,2
 1522845,tt13730178,School Master,2010-01-22,kannada,budget;revenue,not found in web search,Wiki: 'It turned out to be a box-office bomb'; no figures,22,2
 112112,,Porkkalam,2010-01-14,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,2
-161874,tt1948640,The Waiting Room,2010-01-14,hindi,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict; not in BH 2010 table",22,2
 202721,tt1609119,Happy Husbands,2010-01-13,malayalam,budget;revenue,not found in web search,"Wiki: '150-day theatrical run and became a blockbuster' / 'commercial success'; infobox ₹6 Cr budget / ₹12 Cr gross uncited (stored values match, not confirmed); body ₹2.5 Cr is a Kerala 75-day share",22,3
 664845,tt2613766,Tere Ishq Nachaya,2010-01-01,punjabi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,3
 1096511,tt5636160,Target,2010-01-01,marathi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,3
@@ -1899,31 +1898,24 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1107409,tt3171872,Maleyali Jotheyali,2009-12-11,kannada,budget;revenue;verdict,not found in web search,Wiki: '100 days' {{citation needed}}; NIE 'hits jackpot' headline 11 days after release — not a lifetime verdict; no figures,22,4
 94978,tt1579669,Pravarakyudu,2009-12-04,telugu,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,4
 331038,tt1666177,Seetha Kalyanam,2009-11-14,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,4
-51595,tt1464549,Life Goes On,2009-11-13,english,budget;revenue;verdict,not found in web search,"Wiki: Mumbai Film Festival premiere, UK release; no box office",22,4
 132456,tt1605739,Kurradu,2009-11-12,telugu,budget;revenue,not found in web search,Wiki: 'The film was a box office failure'; no figures,22,5
 234636,tt1634561,Swa Le,2009-10-29,malayalam,budget;revenue;verdict,not found in web search,Wiki (Swantham Lekhakan) has no box office; no figures,22,5
-309256,tt1334437,Blue Oranges,2009-09-18,hindi,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict; not in BH 2009 table",22,5
 203567,tt1560171,Parallel Folds,2009-09-04,marathi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,5
-21757,tt1992257,Toss,2009-08-28,hindi,budget;verdict,not found in web search,Wiki gross ₹19 lakh (BOI) re-derived; no verdict; not in BH 2009 table,22,5
 317992,tt1485051,Passage,2009-08-06,english,budget;revenue;verdict,not found in web search,Passage is a Shekhar Kapur short film (festival); no box office,22,6
 208136,tt1207639,Bollywood Beats,2009-08-03,english,budget;revenue;verdict,not found in web search,US indie (Bollywood Beats); Wiki has no box office,22,6
 17601,tt1577854,Munde U.K. De,2009-05-08,punjabi,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,6
-435199,tt0205380,Sanam Teri Kasam,2009-05-06,hindi,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict; not in BH 2009 table",22,6
 716035,tt10334112,Savaari,2009-04-10,kannada,budget;revenue,not found in web search,Wiki (Savari (2009 film)): 'one of the hit films of the year 2009' (Rediff 'Savaari is a hit'); no figures,22,6
-544322,tt1391894,Siddharth: The Prisoner,2009-02-22,hindi,budget;revenue;verdict,not found in web search,"Wiki has reviews only; stored tmdb revenue $26,959 unverified",22,7
 54247,,TN 07 AL 4777,2009-02-21,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,7
 330512,tt1359585,Makante Achan,2009-01-23,malayalam,budget;revenue,not found in web search,Wiki: 'a commercial success at the box office'; no figures,22,7
 69623,tt1496868,Silambattam,2008-12-18,tamil,budget;revenue;verdict,not found in web search,"Wiki has no box office; web search found only Wiki mirrors ('superhit') and BOM Malaysia $245,914 — not used",22,7
 137452,tt1426937,Neninthe,2008-12-18,telugu,budget;revenue,not found in web search,"Wiki: 'was average at the box office'; infobox ₹18 Cr budget / ₹28 Cr gross uncited (stored values match, not confirmed)",22,7
 295245,tt1371619,Chak de Phatte,2008-12-05,punjabi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,8
-233886,tt1079967,Hastey Hastey Follow Your Heart,2008-11-07,hindi,budget;revenue;verdict,not found in web search,"Wiki (Hastey Hastey, released 30 May 2008) has no box office; not in BH 2008 table",22,8
 1052524,tt6805436,Navagraha,2008-11-07,english,revenue,not found in web search,Wiki budget ₹5 Cr (director interview) re-derived; 'became a commercial success'; 2024 re-release ₹68 lakh not stored,22,8
 653289,tt2342405,Uladhaal,2008-11-04,marathi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,8
 82197,tt1296409,Nenu Meeku Telusa...?,2008-10-10,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,8
 320742,tt1309592,Kurukshetra,2008-10-08,malayalam,budget;revenue,not found in web search,Wiki: 'It was a box office success'; no figures,22,9
 425871,tt1327926,Gulmohar,2008-10-07,malayalam,budget;revenue;verdict,not found in web search,no Wiki article for the 2008 film; no figures,22,9
 979514,tt1560706,The Girl Who Cried Flowers,2008-09-28,english,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,9
-383405,tt1255873,Hari Puttar,2008-09-24,hindi,budget;verdict,not found in web search,"BOM India gross $436,441 (only market); Wiki has no figures/verdict; not in BH 2008 table",22,9
 1416760,tt0817178,Gandhi Park,2008-09-16,english,budget;revenue;verdict,not found in web search,no Wiki article; stored tmdb budget $3.5M unverified,22,9
 66502,tt6449994,Durai,2008-09-12,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,10
 895126,tt10825064,Herova? Zerova?,2008-09-11,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,10
@@ -1935,18 +1927,13 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 282622,tt9054840,Bandhu Balaga,2008-06-07,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,11
 117029,tt1194104,Bujjigaadu: Made in Chennai,2008-05-23,telugu,budget;revenue;verdict,not found in web search,"Wiki (Bujjigadu) 'emerged as an commercial success' is cited to a News18 '7 of 16 Prabhas films… flopped' list — conflicting/weak, left NULL",22,11
 1042446,tt1422747,Satyameba Jayate,2008-04-19,bengali,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,11
-1417492,tt0459423,Kahaani Gudiya Ki,2008-04-11,english,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,12
-539733,tt1214948,Bhram: An Illusion,2008-04-04,hindi,budget;revenue,not found in web search,Wiki: 'The film was a disaster at the box office'; not in BH 2008 table,22,12
 282630,tt14254826,Satya In Love,2008-03-29,kannada,budget;revenue;verdict,not found in web search,Wiki: ₹4 Cr opening weekend (partial) and 100 days {{citation needed}} — not stored,22,12
-125289,tt1178657,Super Star,2008-02-08,hindi,budget;revenue;verdict,not found in web search,Wiki (Superstar (2008 Hindi film)): 'performed poorly at the box office' — not mapped to a verdict; no figures,22,12
 117844,tt1150946,Krishnarjuna,2008-02-01,telugu,budget;revenue,not found in web search,Wiki: 'The film was a box-office failure',22,12
 532965,tt1159230,Midnight Lost + Found,2008-02-01,hindi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,13
 661177,tt1863342,Novel,2008-01-25,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,13
 80948,tt1173506,Krishna,2008-01-12,telugu,revenue,not found in web search,"Wiki budget ₹8 Cr (Sify) re-derived; 'a blockbuster at the box office'; stored revenue ≈₹24.6 Cr is the infobox distributors' share (flagged, left; body '₹38 crore worldwide' uncited)",22,13
 467589,tt4556138,8 PM: A Murder Mystery,2008-01-01,hindi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,13
 826411,tt4694992,Rahim Murge Pe Mat Ro,2008-01-01,hindi,budget;revenue;verdict,not found in web search,no Wiki article (short film); no figures,22,13
-901172,,Dhara,2008-01-01,hindi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,14
-117361,tt1169841,Return Of Hanuman,2007-12-28,hindi,verdict,not found in web search,"Wiki budget ₹16 Cr (BOI), gross ₹6.14 Cr (BOM) both re-derived; no verdict",22,14
 1389195,tt14282664,Ee Preethi Yeke Bhoomi Melide,2007-12-28,kannada,budget;revenue;verdict,not found in web search,Wiki: 'performed badly at the box-office' — not mapped to a verdict; no figures,22,14
 21074,tt0940585,Brick Lane,2007-11-16,english,verdict,not found in web search,Wiki $2.5M budget / $3.8M gross (The Numbers) re-derived; no verdict,22,14
 63636,tt0959285,Azhagiya Tamil Magan,2007-11-08,tamil,budget;revenue,not found in web search,"Wiki: 'a moderate success at the box office'; Sify 'above average' grosser; overseas $1,043,064 only (not stored)",22,14
@@ -1955,12 +1942,10 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 757903,tt1305873,Sringaram,2007-10-05,tamil,budget;revenue;verdict,not found in web search,no Wiki box office; no figures,22,15
 1455869,tt0808457,Sambar Salsa,2007-09-21,english,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,15
 25803,tt0907674,Amal,2007-09-13,hindi,budget;revenue;verdict,not found in web search,"TIFF film, Canada release; Wiki budget $5M uncited (stored value matches, not confirmed)",22,15
-26506,tt0870195,Before the Rains,2007-09-07,english,budget;verdict,not found in web search,Wiki gross $1.3M (BOM) re-derived; no verdict,22,16
 888918,tt1440147,Chaka Chaka Bhaunri,2007-08-24,hindi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,16
 82721,tt1583410,Yamagola Malli Modalaindi,2007-08-23,english,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,16
 535020,tt1503180,Thottal Poo Malarum,2007-08-03,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,16
 80926,tt0944195,Dubai Seenu,2007-06-07,telugu,revenue,not found in web search,"Wiki budget ₹9 Cr (Idlebrain interview); 'declared a super hit'; stored revenue ≈₹13 Cr is the infobox distributors' share (T2BLive; flagged, left)",22,16
-322481,tt0470611,Yatra,2007-05-04,hindi,budget;revenue;verdict,not found in web search,Montréal festival film; Wiki has no box office,22,17
 403402,tt1018698,Classmates,2007-04-20,telugu,budget;revenue,not found in web search,Wiki (Sumanth article): 'the film however failed at the box office'; film article has no box office,22,17
 112322,tt0982944,Unnale Unnale,2007-04-14,tamil,budget;revenue,not found in web search,"Wiki: 'became a blockbuster hit at box office'; Malaysia $114,883 only (not stored)",22,17
 69598,tt0458050,Paruthiveeran,2007-02-23,tamil,budget;revenue,not found in web search,Wiki: 'emerged as a huge commercial success'; ₹3.69 Cr TN opening weekend only (not stored),22,17
@@ -1976,7 +1961,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 606058,tt2610296,Lapun Chapun,2006-10-16,marathi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,19
 69434,tt6765648,Vathiyar,2006-10-15,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,19
 136358,tt0892113,Waris Shah: Ishq Daa Waaris,2006-10-06,punjabi,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",22,20
-325143,tt0945349,Jaana... Let's Fall in Love,2006-10-06,english,budget;revenue;verdict,not found in web search,"no Wiki article, not in BH 2006 table; no figures",22,20
 106459,tt0396476,Backwaters,2006-10-01,english,budget;revenue;verdict,not found in web search,no Wiki article; no figures,22,20
 1497684,tt14338048,Jothe Jotheyali,2006-09-21,kannada,budget;revenue;verdict,not found in web search,Wiki: ran 100 days — not a verdict; no figures,22,20
 357854,tt3227016,Aishwarya,2006-09-15,kannada,budget,not found in web search,"Wiki: gross ₹50 million (= ₹5 Cr) 'in its entire run of 100 days' (webindia123 'Hit Kannada Films of 2006'); 'was a commercial success, although it could not reach expectations'",22,20

@@ -13,9 +13,10 @@ as soon as it is verified, so an interrupted run loses at most one batch.
 | `processed.csv` | every movie already reviewed (found or not) — never picked again |
 | `changes.csv` | every DB change: old value → new value, ₹ crore, rate, rate date, source URL |
 | `missing_data.csv` | **movies where budget / revenue / verdict was not found — for manual follow-up** |
+| `boi_index.csv` | Box Office India movie index (5,269 Hindi titles from its sitemap) — title, year, verdict, budget, grosses, page URL; built by `scripts/boi_index.py` |
 | `deleted_pre2005_rows.csv` | the 850 pre-2005 rows deleted on 2026-11-01 (also in table `india_prev_movies_data_collection_pre2005_backup_20261101`) |
 
-Script: `scripts/prev_movies_bo_review.py` (`next`, `apply`, `status`).
+Script: `scripts/prev_movies_bo_review.py` (`next`, `apply`, `status`). BOI index: `scripts/boi_index.py` (crawl / `find <title>`).
 Rechecking gap movies from an earlier run (e.g. against a new source): `apply <file> --run N --batch B --recheck`.
 It only accepts fields listed as gaps in `missing_data.csv`, removes filled gaps from that file, updates the movie's
 statuses in `processed.csv` (no new row), and tags the `changes.csv` rows with `recheck`. Name the files `runs/run_NNN_recheck_BB.json`.
@@ -122,12 +123,15 @@ Total movies after pre-2005 delete: 7,441 → ~75 runs. Reviewed: 2,200.
 
 Back up as of 2026-11-07 (checked: plain curl → HTTP 200). Use it for every movie, **after** Wikipedia.
 
-**Finding the page.** Movie pages are `https://boxofficeindia.com/movie.php?movieid=<id>`. To get the id:
-1. Look in the cached Wikipedia raw wikitext for a cite to `boxofficeindia.com/movie.php?movieid=` (many Hindi pages cite it for runtime, budget or gross; 14 of run 22's 100 pages had one).
-2. Otherwise one web search: `boxofficeindia <Title> <year>`. General search engines index BOI poorly, so no hit is not proof that BOI has no page.
-3. Don't use BOI's own search: `search?search=` renders without results for curl, and the `getSearch.php` autocomplete is behind a Cloudflare bot check. Don't try to get around the check.
+**Local index — use this first.** `boi_index.csv` (this folder) holds every movie page in BOI's sitemap: 5,269 movies (ids 1–6927), one row each with title, year, language, verdict, release date, budget, first day / weekend, total nett, India / overseas / worldwide gross and the page URL. Built 2026-11-07 by `scripts/boi_index.py`.
+- Look a title up: `venv/bin/python scripts/boi_index.py find <title>` (substring match, punctuation ignored), or load the CSV and match on normalised title ± 1 year.
+- **The sitemap is Hindi-only** (5,078 Hindi rows + Hindi dubs of South films, a few Tamil/Telugu/English). Regional films are not in it, so BOI won't fill regional gaps — don't search further for them.
+- Re-running `scripts/boi_index.py` resumes / adds new sitemap ids (2 s pause, one request at a time — agreed with the user; robots.txt allows `/movie`). Run it under `caffeinate -i` on AC power: on battery the Mac drops into Maintenance Sleep and the crawl silently stalls (run 22: two ~18-min stalls). It stops on a Cloudflare challenge — don't work around one.
+- Its parsed figures are fine for matching; **cite and spot-check the live page** (`movie.php?movieid=<id>`) for anything you store.
 
-Always check the page's title/year/language line ("Toss (2009) Hindi") — ids for same-named films are easy to mix up.
+**Not in the index?** Movie pages are `https://boxofficeindia.com/movie.php?movieid=<id>`. A Wikipedia raw-wikitext cite to `boxofficeindia.com/movie.php?movieid=` gives the id; otherwise one web search (`boxofficeindia <Title> <year>` — search engines index BOI poorly). Don't use BOI's own search: `search?search=` renders without results for curl, and the `getSearch.php` autocomplete is behind a Cloudflare bot check.
+
+**Check the match**: title, year and language line ("Toss (2009) Hindi"), and the director/cast on the page when the year differs. BOI records the **India release**, which can be years after a festival premiere (run 22: Life Goes On 2009 fest → BOI 2011; Before the Rains 2007 TIFF → BOI 2009). Same-named films are common (run 22 false hits: Happy Husbands = the 2011 Hindi remake, not the 2010 Malayalam film; Blue ≠ Blue Oranges; Dharm ≠ Dharmapuri).
 
 **Reading the page** (plain curl works; strip tags). Fields, in INR rupees written with Indian digit grouping (`3,00,00,000` = ₹3 Cr):
 - `Budget:` → `budget_inr_crore`
@@ -138,16 +142,24 @@ Always check the page's title/year/language line ("Toss (2009) Hindi") — ids f
 
 **Priority.** Wikipedia first: use BOI for a field only when Wikipedia has no usable figure for it (blank, uncited, `{{citation needed}}`, distributors' share, partial running total). When a cited Wikipedia figure disagrees with BOI by more than ~3%, keep Wikipedia and note the BOI value. Cite the BOI movie URL in `sources`; `budget_source` / `revenue_source` becomes `websearch:boxofficeindia.com`.
 
-Example (run 22, not yet applied): Toss (`movieid=1097`) — Budget 3,00,00,000 (₹3 Cr), Worldwide Gross 19,50,000 (₹0.195 Cr — matches the stored Wiki ₹19 lakh, which is itself cited to BOI), verdict **Disaster** → `flop`.
+Example (applied in run_022_recheck_01): Toss (`movieid=1097`) — Budget 3,00,00,000 (₹3 Cr), Worldwide Gross 19,50,000 (₹0.195 Cr — matches the stored Wiki ₹19 lakh, which is itself cited to BOI), verdict **Disaster** → `flop`.
+
+**What BOI yields for small Hindi films:** nearly all are 'Disaster' with a budget and a tiny India gross (run 22: 16 of 19 Hindi gap films matched, all Disaster). Where a cited Wiki gross disagrees, Wiki is kept and the BOI value noted (Return of Hanuman: Wiki ₹6.14 Cr via BOM vs BOI ₹2.56 Cr India gross).
 
 ## Recheck: gap movies from runs 6–22 against BOI
 
 Runs 6–22 never checked BOI; 1,570 of their movies are in `missing_data.csv` (as of 2026-11-07). After each regular run, or as dedicated recheck runs, go back over them:
-- Take movies from `missing_data.csv` with `run` between 6 and 22 (its `run` column), oldest run first, in groups of 5. Hindi films first (BOI coverage is best for them), then Telugu / Tamil / others.
+- Take movies from `missing_data.csv` with `run` between 6 and 22 (its `run` column), oldest run first, in groups of 5. Match them against `boi_index.csv`; since the index is Hindi-only, in practice this means the Hindi films (plus English-language Indian films BOI lists as Hindi). Skip regional films.
 - Only fill fields listed as gaps for that movie; the same Wikipedia-first rule applies (Wikipedia was already checked in the original run, so BOI fills what is left).
 - Write `runs/run_NNN_recheck_BB.json` (NNN = the run being rechecked, BB = a running batch number for that run) and apply with
   `venv/bin/python scripts/prev_movies_bo_review.py apply runs/run_NNN_recheck_BB.json --run NNN --batch BB --recheck`.
-- Log each recheck session as a line under the run log: date, runs covered, movies checked, budget / revenue / verdict filled.
+- Log each recheck session as a line in the recheck log below: date, runs covered, movies matched, budget / revenue / verdict filled.
+
+**Recheck log**
+
+| Date | Run(s) | Files | Movies matched / gap movies checked | Budget / revenue / verdict filled | Notes |
+|---|---|---|---|---|---|
+| 2026-11-07 | 22 | run_022_recheck_01–04 | 16 / 100 (16 of 19 Hindi; 0 regional — not in the index) | 15 / 12 / 15 (all `flop`, BOI 'Disaster') | 01 from Wiki-cited BOI ids before the index existed; 02–04 from `boi_index.csv`. Not changed (not gaps): Return of Hanuman revenue (Wiki ₹6.14 Cr vs BOI ₹2.56 Cr), Hari Puttar revenue (BOM $436,441 vs BOI ₹2.41 Cr), Before the Rains revenue (BOM WW $1.3M vs BOI India ₹7 lakh). Siddharth: The Prisoner's unverified tmdb revenue replaced by BOI ₹10.75 lakh. No BOI page: Fired, 8 PM, Midnight Lost + Found, Rahim Murge Pe Mat Ro, Salaam Bacche, Chaka Chaka Bhaunri, Amal + English diaspora films. 84 run 22 movies still have gaps |
 
 ## Prompt for the next run
 
@@ -157,7 +169,7 @@ Read data_review/prev_movies_box_office/PROGRESS.md and follow its rules exactly
 Run `venv/bin/python scripts/prev_movies_bo_review.py next` to get this run's 100
 movies (it resumes an unfinished run automatically). For each batch of 5: web-search
 each movie's budget, worldwide gross and box-office verdict — Wikipedia first, then
-Box Office India (see the "Box Office India" section), then the other sources — write the findings to
+Box Office India (look Hindi titles up in boi_index.csv; see the "Box Office India" section), then the other sources — write the findings to
 runs/run_NNN_batch_BB.json and apply with
 `venv/bin/python scripts/prev_movies_bo_review.py apply <file> --run N --batch B`.
 Leave anything not found as null. When all 20 batches are done, update the run log

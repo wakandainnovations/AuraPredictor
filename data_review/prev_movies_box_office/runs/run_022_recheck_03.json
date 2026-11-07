@@ -1,0 +1,70 @@
+[
+ {
+  "tmdb_movie_id": 1417492,
+  "budget_inr_crore": 0.3,
+  "revenue_inr_crore": 0.008,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1325",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1325",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1325"
+  },
+  "notes": "BOI recheck: (Kahaani Gudiya Ki...) Budget 30,00,000 (₹0.3 Cr), India gross 80,000, verdict Disaster",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 539733,
+  "budget_inr_crore": 6,
+  "revenue_inr_crore": 0.53,
+  "verdict": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=218",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=218"
+  },
+  "notes": "BOI recheck: (Bhram) Budget 6,00,00,000 (₹6 Cr), India gross 53,00,000 (₹0.53 Cr); BOI Disaster agrees with stored Wiki flop",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 901172,
+  "budget_inr_crore": 1.25,
+  "revenue_inr_crore": 0.0014,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1316",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1316",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1316"
+  },
+  "notes": "BOI recheck: Budget 1,25,00,000 (₹1.25 Cr), India gross 14,000, verdict Disaster; release 15 Feb 2008",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 322481,
+  "budget_inr_crore": 4.75,
+  "revenue_inr_crore": 0.38,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1464",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1464",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1464"
+  },
+  "notes": "BOI recheck: Budget 4,75,00,000 (₹4.75 Cr), India gross 38,00,000 (₹0.38 Cr), verdict Disaster",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 325143,
+  "budget_inr_crore": 2,
+  "revenue_inr_crore": 0.0175,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1534",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1534",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1534"
+  },
+  "notes": "BOI recheck: (Jaana... Lets Fall In Love) Budget 2,00,00,000 (₹2 Cr), India gross 1,75,000, verdict Disaster",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ }
+]
