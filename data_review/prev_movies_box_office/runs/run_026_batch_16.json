@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 777517, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 895053, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page (404); not found"},
+ {"tmdb_movie_id": 974731, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict (theatrical 30 Dec 2022, aha from 20 Jan 2023); sacnilk 'No box office figures yet'"},
+ {"tmdb_movie_id": 1001948, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 787538, "budget_inr_crore": null, "revenue_inr_crore": 0.47, "verdict": "flop", "verdict_label": "BOI Disaster; BH Flop", "revenue_scope": "india_gross", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=6860", "verdict": "https://boxofficeindia.com/movie.php?movieid=6860"}, "notes": "Wiki infobox no figures; BOI India gross 47,00,000 (overseas $---; nett 39 L; budget --), verdict Disaster; BH 2022 table nett 0.35 Cr, Flop (agrees)"}
+]

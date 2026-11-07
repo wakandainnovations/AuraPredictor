@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 939423, "budget_inr_crore": null, "revenue_inr_crore": 1.215, "verdict": "flop", "verdict_label": "BOI Disaster", "revenue_scope": "worldwide", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=6274", "verdict": "https://boxofficeindia.com/movie.php?movieid=6274"}, "notes": "Wiki infobox no figures; BOI Worldwide Gross 1,21,50,000 (India gross 38.5 L + overseas $100,000; nett 32 L; budget --), verdict Disaster; BH 2023 table nett 0.30 Cr, verdict 'Pending' (not a verdict)"},
+ {"tmdb_movie_id": 1151655, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sari (film)' infobox no figures, no verdict"},
+ {"tmdb_movie_id": 1111206, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 1109057, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 635905, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kolaambi' (2019 IFFI Goa premiere, released 7 Apr 2023) infobox no figures, no verdict"}
+]

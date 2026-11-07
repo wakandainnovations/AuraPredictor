@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1137914, "budget_inr_crore": null, "revenue_inr_crore": 8.0, "verdict": "flop", "verdict_label": "T2BLive DISASTER", "revenue_scope": "worldwide", "sources": {"revenue": "https://t2blive.com/rangabali-total-ww-collections/", "verdict": "https://t2blive.com/rangabali-total-ww-collections/"}, "notes": "Wiki infobox ₹8 crore (cited T2BLive) = stored value (confirmed); T2BLive: WW share 3.85 Cr, '8.00CR~ Gross' (approx), break-even 6.20 Cr, '2.35Cr Loss – DISASTER'"},
+ {"tmdb_movie_id": 1147783, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 1023699, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; no sacnilk page (404)"},
+ {"tmdb_movie_id": 882020, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'"},
+ {"tmdb_movie_id": 893514, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'"}
+]

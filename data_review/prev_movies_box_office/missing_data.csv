@@ -2097,3 +2097,101 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1183149,tt23846990,Uyir Thamizhukku,2023-09-28,tamil,budget;verdict,not found in web search,"No Wiki article; released May 2024 (DB 2023-09-28); sacnilk India gross ₹17 L (8 days to 17 May 2024, table runs to day 11; overseas —); no verdict",25,20
 1174110,tt27901967,Peddha Kapu - 1,2023-09-27,telugu,budget;revenue;verdict,not found in web search,Wiki 'Peddha Kapu 1' infobox no figures (release 29 Sep 2023); no sacnilk page,25,20
 1179112,tt30047930,Demons,2023-09-24,punjabi,budget;revenue;verdict,not found in web search,No Wiki article; not found,25,20
+1036005,tt22797978,Theeppori Benny,2023-09-22,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk page 'No box office figures yet'",26,1
+1145622,tt21767274,Are You Ok Baby?,2023-09-22,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk page 'No box office figures yet'",26,1
+991817,tt21109252,Nadhikalil Sundari Yamuna,2023-09-15,malayalam,budget;revenue,not found in web search,Wiki lead 'became a commercial success' (weak cite: TOI 'crosses Rs 1 crore mark' 20 Sep 2023); infobox no figures; no sacnilk page (404),26,1
+1178524,tt28483848,Hu Ane Tu,2023-09-15,gujarati,budget;revenue;verdict,not found in web search,Wiki 'Hu ane Tu' infobox no figures; sacnilk 'No box office figures yet' (default Disaster ignored),26,1
+1175103,tt25050902,Tamil Kudimagan,2023-09-07,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,1
+1169883,tt28372289,Paramporul,2023-09-01,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,2
+1171506,tt27950392,Njanum Pinnoru Njanum,2023-08-30,malayalam,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,2
+681428,tt12065312,Soorpanagai,2023-08-25,tamil,budget;revenue;verdict,not found in web search,"Wiki article 'Nene Naa' (Telugu-Tamil bilingual, same director/lead/date); infobox no figures; sacnilk Nene_Naa_2023 no figures, Soorpanagai_2023 404",26,2
+1315902,tt32887255,Karsandas Backstory,2023-08-21,english,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,2
+1156588,tt28522235,How Are You?,2023-08-10,kannada,budget;revenue;verdict,not found in web search,No Wiki article (search returned unrelated pages); not found,26,2
+724209,tt13603966,Heart of Stone,2023-08-09,english,budget;revenue;verdict,not found in web search,"Netflix original (direct-to-streaming, no box office); stored budget $150M = Wiki infobox $150 million (confirmed, unchanged)",26,3
+1152059,tt15116506,Samara,2023-08-04,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Samara (2023 film)' infobox no figures, no verdict (release 11 Aug 2023)",26,3
+1077358,tt26439998,Sashiyum Sakunthalayum,2023-07-28,malayalam,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,3
+1079221,tt26459508,Let's Get Married,2023-07-28,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures; sacnilk day-wise page covers week 1 only (India gross ₹4.70 Cr, 7 days; partial, not stored); stored tmdb revenue $1.1M unverified (left, flagged); baapofmovies 'disaster' is an aggregator, not used",26,3
+1157985,tt28329159,Njaan Ippo Entha Cheyya?,2023-07-28,malayalam,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,3
+1168772,tt22751230,Slum Dog Husband,2023-07-28,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,4
+948262,tt24949806,Kurukkan,2023-07-27,malayalam,budget;revenue,not found in web search,"Wiki lead '[[Box-office bomb|underperformed at the box office]]' (as run 12 Double Barrel); weak cite (TOI Twitter-review article, release day); sacnilk no figures",26,4
+1152085,tt28452318,Chandlo,2023-07-22,gujarati,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,4
+883719,tt28544143,Echo,2023-07-21,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,4
+1178689,tt28219494,HER: Chapter 1,2023-07-21,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Her – Chapter 1' infobox no figures; theatrical 21 Jul 2023, Prime Video 15 Sep 2023",26,4
+1132482,tt27862531,Ajmer 92,2023-07-14,hindi,budget,not found in web search,Wiki infobox ₹1 crore (cited BH; BH 2023 table lifetime nett 1.00 Cr) = stored value (confirmed); BH verdict Flop; not in BOI index; released 21 Jul 2023,26,5
+1143547,tt28245754,Kade Dade Diyan Kade Pote Diyan,2023-07-14,punjabi,budget;revenue;verdict,not found in web search,"Wiki infobox no figures; sacnilk stops at day 3 (India net ₹82 L; partial, not stored)",26,5
+767663,tt13491678,72 Hoorain,2023-07-07,hindi,budget,not found in web search,"Wiki has only day 1-3 running totals (not stored); BOI India gross 1,50,00,000 (overseas $---; nett 1.2475 Cr; budget --), verdict Disaster; BH 2023 table nett 1.25 Cr, Flop (agrees)",26,5
+1032268,tt22639512,Bhaag Saale,2023-07-07,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,5
+1032302,tt27525239,Rudrangi,2023-07-07,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures; sacnilk stops at day 5 (India net ₹68 L; partial, not stored; its 'Disaster' on a 5-day page not used)",26,5
+1137914,tt26235062,Rangabali,2023-07-07,telugu,budget,not found in web search,"Wiki infobox ₹8 crore (cited T2BLive) = stored value (confirmed); T2BLive: WW share 3.85 Cr, '8.00CR~ Gross' (approx), break-even 6.20 Cr, '2.35Cr Loss – DISASTER'",26,6
+1147783,tt28285531,Infinity,2023-07-07,tamil,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,6
+1023699,tt27209716,Nalla Nilavulla Rathri,2023-06-30,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; no sacnilk page (404)",26,6
+882020,tt15567974,Manu Charitra,2023-06-23,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,6
+893514,tt15029754,Paayum Oli Nee Yenakku,2023-06-23,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,6
+1143279,tt26733340,Thandatti,2023-06-23,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,7
+457031,tt6860924,Amala,2023-06-16,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Amala (film)' (same lead/date; Wiki credits Nishad Ebrahim as director) infobox no figures, no verdict",26,7
+1141322,,Family Politics of Blood,2023-06-15,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in BOI index or BH 2023 table; not found,26,7
+1099450,tt23813062,Intinti Ramayanam,2023-06-09,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Intinti Ramayanam (2023 film)' infobox no figures, no verdict",26,7
+1120580,tt27655979,O.Baby,2023-06-09,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,7
+1238880,tt27811636,Yadha Yadha Hi,2023-06-02,kannada,budget;revenue,not found in web search,Wiki lead 'it was a commercial failure at the box office' (weak cite: OTTPlay netizens article); infobox no figures,26,8
+1331392,tt27794632,Fouja,2023-06-01,english,budget;revenue;verdict,not found in web search,"Wiki 'Fouja' (Haryanvi film, National Film Award) infobox no figures, no verdict",26,8
+1096417,tt27048587,Sathi Gani Rendu Ekaralu,2023-05-26,telugu,budget;revenue;verdict,not found in web search,Direct-to-streaming: Wiki 'premiered on Aha on 26 May 2023' — no box office,26,8
+752883,tt11580914,Yaadhum Oore Yaavarum Kelir,2023-05-19,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; no sacnilk page (404)",26,8
+946297,tt22015520,Charles Enterprises,2023-05-19,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,8
+1121330,tt27511275,8 A.M. Metro,2023-05-19,hindi,budget,not found in web search,"Wiki infobox no figures; not in BOI index; BH 2023 table lifetime nett 0.07 Cr, verdict Flop",26,9
+1124531,tt20847416,Sidhus of Southall,2023-05-19,punjabi,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,9
+984975,tt11680920,Music School,2023-05-12,telugu,budget;revenue,not found in web search,"Hindi-Telugu bilingual; Wiki infobox no figures; BH 2023 table (Hindi version) nett 0.10 Cr, Flop — Hindi-only figure not stored as revenue; not in BOI index; sacnilk no figures",26,9
+1032553,tt15434268,Farhana,2023-05-12,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Farhana (film)' infobox no figures, no verdict; no sacnilk page (404)",26,9
+1122821,tt27599380,Bushirt T-shirt,2023-05-12,gujarati,budget;revenue;verdict,not found in web search,"Wiki infobox ₹8.72 cr (= stored value) cited to boxofficebusiness.in 'Day 26 Box Office Collection' — running total, flagged, left unchanged; no verdict",26,9
+939423,tt15832148,Afwaah,2023-05-05,hindi,budget,not found in web search,"Wiki infobox no figures; BOI Worldwide Gross 1,21,50,000 (India gross 38.5 L + overseas $100,000; nett 32 L; budget --), verdict Disaster; BH 2023 table nett 0.30 Cr, verdict 'Pending' (not a verdict)",26,10
+1151655,tt27191834,Sari,2023-05-05,marathi,budget;revenue;verdict,not found in web search,"Wiki 'Sari (film)' infobox no figures, no verdict",26,10
+1111206,tt24227752,Raa Raa... Penimiti,2023-04-28,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,10
+1109057,tt27055072,Yaanai Mugathaan,2023-04-21,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",26,10
+635905,tt9182478,Kolambi,2023-04-07,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Kolaambi' (2019 IFFI Goa premiere, released 7 Apr 2023) infobox no figures, no verdict",26,10
+1066380,tt11651650,Higuita,2023-03-31,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Higuita (film)' infobox no figures, no verdict; sacnilk 'No box office figures yet'",26,11
+1106591,tt27043683,Yaaran Diyan Poun Baaran,2023-03-30,punjabi,budget;revenue;verdict,not found in web search,No Wiki article; sacnilk 'No box office figures yet' (default Disaster ignored),26,11
+1094544,tt27079328,Es Jahano Door Kitte Chal Jindiye,2023-03-24,punjabi,budget;revenue;verdict,not found in web search,"No Wiki article; sacnilk India net ₹1.41 Cr / gross ₹1.66 Cr for 8 days only (partial, not stored); no verdict",26,11
+1069895,tt10087728,Phalana Abbayi Phalana Ammayi,2023-03-17,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk India gross ₹2.91 Cr for 5 days only (partial, not stored); BOI-index substring hit 'Naam' rejected",26,11
+880035,tt13563140,Khali Purse of Billionaires,2023-03-10,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",26,11
+935278,tt12780950,Maheshum Marutiyum,2023-03-10,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk stops at day 1 (India net ₹15 L; partial; its 'Disaster' not used)",26,12
+1042054,tt23710126,Kondraal Paavam,2023-03-10,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",26,12
+911326,tt15548354,Pakalum Paathiravum,2023-03-03,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; no sacnilk page (404)",26,12
+1094483,,Kranthi,2023-03-03,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,12
+1095424,tt10392914,Satarcha Salman,2023-03-03,english,budget;revenue;verdict,not found in web search,"Marathi film (DB language 'english'); Wiki infobox no figures, no verdict",26,12
+1092606,tt14781376,#MUTE,2023-02-27,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in BOI index or BH 2023 table; not found,26,13
+1013748,tt21908428,Oh My Darling,2023-02-24,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Oh My Darling (film)' infobox no figures, no verdict",26,13
+1021792,tt23951484,Thugs,2023-02-24,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Thugs (film)' infobox no figures, no verdict",26,13
+1084130,tt26673554,Kuttram Purinthal,2023-02-24,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",26,13
+1392998,tt16914736,Divorce,2023-02-24,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Divorce (2023 film)' infobox no figures, no verdict",26,13
+1008621,tt21609938,Dear Vaappi,2023-02-17,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",26,14
+1026114,tt24342088,Christy,2023-02-17,malayalam,budget;revenue;verdict,not found in web search,Wiki 'Christy (2023 film)' infobox no figures; sacnilk stops at day 1 (₹18 L; partial; its 'Disaster' not used),26,14
+1100590,tt11912042,Gol Gappe,2023-02-17,punjabi,budget;revenue;verdict,not found in web search,"Wiki 'Gol Gappe (film)' infobox no figures, no verdict (search also returned 1989 Ramji Rao Speaking — different film); sacnilk 'No box office figures yet'",26,14
+1092689,tt26450905,Mayagadu,2023-02-15,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,14
+1081988,tt26446979,Fursat,2023-02-03,hindi,budget;revenue;verdict,not found in web search,"Vishal Bhardwaj short film shot on iPhone (Apple promotion, released online) — no box office; not in BOI/BH",26,14
+1090546,tt26542515,Suvarna Sundari,2023-02-03,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Suvarna Sundari (2023 film)' (same lead/date; Wiki director Surendra Madarapu) infobox no figures, no verdict",26,15
+1039062,tt22696258,Eyes on the Sunshine,2023-01-27,assamese,budget;revenue;verdict,not found in web search,"Wiki 'Anur (film)' (IFFK 2022 premiere, released 27 Jan 2023) infobox no figures, no verdict",26,15
+1077101,tt21935486,Sindhooram,2023-01-24,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,15
+1069567,tt20319598,Lakadbaggha,2023-01-13,hindi,budget;verdict,not found in web search,"Wiki infobox no figures; not in BOI index; BH 2023 table lifetime nett 0.11 Cr, verdict 'Pending' (not a verdict)",26,15
+1073922,tt24701256,My Best Friend Daadu,2023-01-13,gujarati,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,15
+777517,tt14151608,Spooky College,2023-01-06,kannada,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",26,16
+895053,tt14338258,Borrder,2023-01-01,tamil,budget;revenue;verdict,not found in web search,No Wiki article; no sacnilk page (404); not found,26,16
+974731,tt21302152,Driver Jamuna,2022-12-30,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict (theatrical 30 Dec 2022, aha from 20 Jan 2023); sacnilk 'No box office figures yet'",26,16
+1001948,tt21338378,Sasanasabha,2022-12-16,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,16
+787538,tt13878694,Maarrich,2022-12-09,hindi,budget,not found in web search,"Wiki infobox no figures; BOI India gross 47,00,000 (overseas $---; nett 39 L; budget --), verdict Disaster; BH 2022 table nett 0.35 Cr, Flop (agrees)",26,16
+804916,tt13130370,Gurtunda Seetakalam,2022-12-09,telugu,budget;revenue;verdict,not found in web search,No Wiki article; no sacnilk page (404); not found,26,17
+970784,tt23897366,Witness,2022-12-09,tamil,budget;revenue;verdict,not found in web search,Direct-to-streaming: Wiki 'released on SonyLIV on 9 December 2022' — no box office,26,17
+1049614,tt23709864,Rathasaatchi,2022-12-09,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",26,17
+1060041,tt23804794,Estate,2022-12-09,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Estate (2022 film)' infobox no figures, no verdict",26,17
+788348,tt13885320,India Lockdown,2022-12-02,hindi,budget;revenue;verdict,not found in web search,Direct-to-streaming: released directly on ZEE5 (Wiki cites BH 'to release directly on ZEE5') — no box office,26,17
+806920,tt23557940,DSP,2022-12-02,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox gross ₹11 crore uncited (= stored value; flagged, left); sacnilk stops at day 7 (India gross ₹4.85 Cr; partial); no verdict (review's 'flop list' remark is not a box-office verdict)",26,18
+959163,tt21617996,Gatta Kusthi,2022-12-02,tamil,revenue,not found in web search,"Wiki lead 'became a commercial success'; sacnilk verdict Hit (agree). Budget: Wiki none, sacnilk ₹5.00 Cr. Revenue: Wiki ₹30 crore (= stored) cited to day-6/7 producer claims (Asianet success meet 8 Dec 2022; Sakshi 'crosses Rs 30 crore says producer') vs sacnilk WW ₹14.58 Cr (header 21 days, day table 15 days) — flagged, left unchanged",26,18
+933925,tt18231758,Padachone Ingalu Kaatholee,2022-11-24,malayalam,budget;revenue;verdict,not found in web search,No Wiki article; no sacnilk page (404),26,18
+741359,tt11561750,Thattassery Koottam,2022-11-11,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet' (default Disaster ignored)",26,18
+1035366,tt21386020,Rocket Gang,2022-11-11,hindi,budget,not found in web search,"Wiki infobox no figures; BOI India gross 26,25,000 (overseas $---; nett 22 L; budget --), verdict Disaster; BH 2022 table nett 0.25 Cr, Flop (agrees)",26,19
+1038355,tt13801458,Vaahlam Jaao Ne,2022-11-04,gujarati,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; no sacnilk page (404)",26,19
+1039502,tt20455272,Oye Makhna,2022-11-04,punjabi,budget;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk WW ₹5.37 Cr over 10 days to 13 Nov 2022 (India gross ₹2.37 Cr + overseas ₹3.00 Cr); no verdict",26,19
+997235,,Subho Bijoya,2022-11-03,bengali,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,19
+1279917,,Stockholm,2022-11-01,malayalam,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,20
+1031916,tt15310188,Jetty,2022-10-28,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,26,20
+1032616,tt22489564,Har Har Mahadev,2022-10-25,marathi,verdict,not found in web search,"Wiki infobox budget ₹10–15 crore → midpoint 12.5 (cited HT Marathi / Asianet); Wiki gross blank; sacnilk India gross ₹11.51 Cr (nett 9.75) over 13 days to 6 Nov 2022 — its 'Worldwide gross' header ₹8.65 Cr is below India gross, so India gross stored; no verdict",26,20
+1033884,tt19488344,Honeymoon,2022-10-25,punjabi,budget;verdict,not found in web search,"Wiki 'Honeymoon (2022 film)' infobox no figures, no verdict; sacnilk India gross ₹6.02 Cr (nett 5.10) over 10 days to 3 Nov 2022 — 'Worldwide gross' header ₹4.50 Cr is below India gross, so India gross stored; no verdict",26,20
+968732,tt19864926,Ammu,2022-10-19,telugu,budget;revenue;verdict,not found in web search,Direct-to-streaming: Wiki infobox distributor Amazon Prime Video (Prime premiere 19 Oct 2022) — no box office,26,20

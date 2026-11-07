@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1036005, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk page 'No box office figures yet'"},
+ {"tmdb_movie_id": 1145622, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk page 'No box office figures yet'"},
+ {"tmdb_movie_id": 991817, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success", "sources": {"verdict": "https://en.wikipedia.org/wiki/Nadhikalil_Sundari_Yamuna"}, "notes": "Wiki lead 'became a commercial success' (weak cite: TOI 'crosses Rs 1 crore mark' 20 Sep 2023); infobox no figures; no sacnilk page (404)"},
+ {"tmdb_movie_id": 1178524, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Hu ane Tu' infobox no figures; sacnilk 'No box office figures yet' (default Disaster ignored)"},
+ {"tmdb_movie_id": 1175103, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1279917, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 1031916, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 1032616, "budget_inr_crore": 12.5, "revenue_inr_crore": 11.51, "verdict": null, "revenue_scope": "india_gross", "sources": {"budget": "https://en.wikipedia.org/wiki/Har_Har_Mahadev", "revenue": "https://www.sacnilk.com/movie/Har_Har_Mahadev_2022"}, "notes": "Wiki infobox budget ₹10–15 crore → midpoint 12.5 (cited HT Marathi / Asianet); Wiki gross blank; sacnilk India gross ₹11.51 Cr (nett 9.75) over 13 days to 6 Nov 2022 — its 'Worldwide gross' header ₹8.65 Cr is below India gross, so India gross stored; no verdict"},
+ {"tmdb_movie_id": 1033884, "budget_inr_crore": null, "revenue_inr_crore": 6.02, "verdict": null, "revenue_scope": "india_gross", "sources": {"revenue": "https://www.sacnilk.com/movie/Honeymoon_2022"}, "notes": "Wiki 'Honeymoon (2022 film)' infobox no figures, no verdict; sacnilk India gross ₹6.02 Cr (nett 5.10) over 10 days to 3 Nov 2022 — 'Worldwide gross' header ₹4.50 Cr is below India gross, so India gross stored; no verdict"},
+ {"tmdb_movie_id": 968732, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming: Wiki infobox distributor Amazon Prime Video (Prime premiere 19 Oct 2022) — no box office"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1168772, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'"},
+ {"tmdb_movie_id": 948262, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "underperformed (linked to Box-office bomb)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Kurukkan"}, "notes": "Wiki lead '[[Box-office bomb|underperformed at the box office]]' (as run 12 Double Barrel); weak cite (TOI Twitter-review article, release day); sacnilk no figures"},
+ {"tmdb_movie_id": 1152085, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 883719, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'"},
+ {"tmdb_movie_id": 1178689, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Her – Chapter 1' infobox no figures; theatrical 21 Jul 2023, Prime Video 15 Sep 2023"}
+]

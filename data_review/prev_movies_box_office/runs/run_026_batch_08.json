@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1238880, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure", "sources": {"verdict": "https://en.wikipedia.org/wiki/Yadha_Yadha_Hi"}, "notes": "Wiki lead 'it was a commercial failure at the box office' (weak cite: OTTPlay netizens article); infobox no figures"},
+ {"tmdb_movie_id": 1331392, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Fouja' (Haryanvi film, National Film Award) infobox no figures, no verdict"},
+ {"tmdb_movie_id": 1096417, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming: Wiki 'premiered on Aha on 26 May 2023' — no box office"},
+ {"tmdb_movie_id": 752883, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; no sacnilk page (404)"},
+ {"tmdb_movie_id": 946297, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet'"}
+]

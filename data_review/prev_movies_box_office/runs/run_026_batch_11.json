@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1066380, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Higuita (film)' infobox no figures, no verdict; sacnilk 'No box office figures yet'"},
+ {"tmdb_movie_id": 1106591, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk 'No box office figures yet' (default Disaster ignored)"},
+ {"tmdb_movie_id": 1094544, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk India net ₹1.41 Cr / gross ₹1.66 Cr for 8 days only (partial, not stored); no verdict"},
+ {"tmdb_movie_id": 1069895, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk India gross ₹2.91 Cr for 5 days only (partial, not stored); BOI-index substring hit 'Naam' rejected"},
+ {"tmdb_movie_id": 880035, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"}
+]
