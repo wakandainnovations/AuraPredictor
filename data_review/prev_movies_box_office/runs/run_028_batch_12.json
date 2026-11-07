@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 811549, "budget_inr_crore": 5.5, "revenue_inr_crore": 1.7, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Disaster (sacnilk)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Chathur_Mukham", "revenue": "https://en.wikipedia.org/wiki/Chathur_Mukham", "verdict": "https://www.sacnilk.com/movie/Chathur_Mukham_2021"},
+  "notes": "Wiki budget ₹5.5 crore = stored (confirmed); Wiki Box office section 'In its final run the movie grossed over ₹1.7 crore against a budget of ₹5.5 crore' (sentence uncited, 'over' = lower bound; scope unknown) → stored; sacnilk Budget ₹3.00 Cr, WW ₹0.50 Cr (2 days only, partial), verdict 'Disaster' (page with real figures) → flop; Wiki has no verdict wording"},
+ {"tmdb_movie_id": 806067, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "TV/OTT premiere (Star Vijay TV, then Netflix, 4–5 Apr 2021); no box office"},
+ {"tmdb_movie_id": 794008, "budget_inr_crore": null, "revenue_inr_crore": 0.52, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI)",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=6129", "verdict": "https://boxofficeindia.com/movie.php?movieid=6129"},
+  "notes": "Wiki 'Koi Jaane Na' infobox budget/gross empty, no verdict; BOI live page: India gross ₹52,00,000, overseas $--- (WW repeats India gross) → india_gross ₹0.52 Cr; nett ₹43 L; budget '--'; verdict Disaster → flop; not in BH 2021 table"},
+ {"tmdb_movie_id": 802068, "budget_inr_crore": 6, "revenue_inr_crore": 7, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Wild_Dog_(film)", "revenue": "https://en.wikipedia.org/wiki/Wild_Dog_(film)"},
+  "notes": "Wiki budget ₹6 crore (uncited) = stored (confirmed, flagged uncited); gross 'est. ₹7 crore' cited to 'Closing Collections: Akkineni Nagarjuna's Wild Dog!' (17 Apr 2021) = stored (confirmed); Netflix premiere 22 Apr after 20-day theatrical run; no verdict"},
+ {"tmdb_movie_id": 814239, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in boi_index.csv or BH 2021 table; festival title; not found"}
+]

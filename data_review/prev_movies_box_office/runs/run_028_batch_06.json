@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 888084, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 872748, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Festival-only: Wiki 'Pedro (2021 film)' premiered at Busan, 'released in film festivals'; no box office"},
+ {"tmdb_movie_id": 874539, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Festival title: Wiki 'The Rapist' premiered at 26th Busan IFF; infobox no figures; not in boi_index.csv or BH 2021 table"},
+ {"tmdb_movie_id": 875546, "budget_inr_crore": null, "revenue_inr_crore": 11.5, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Republic_2021"},
+  "notes": "Wiki 'Republic (film)' infobox budget empty, no gross, no verdict; sacnilk WW ₹11.50 Cr (10 days, till 10 Oct 2021; India gross 10.00 + overseas 1.50) — no budget/verdict on page"},
+ {"tmdb_movie_id": 878667, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chal Mera Putt 3' gross 'est. ₹35.81 crore' (= stored $4,830,769) cited to Box Office Mojo with access-date 4 Oct 2021 (day 3); sacnilk WW ₹26.00 Cr (28 days, till 28 Oct 2021; India gross 11.70 + overseas 14.30) — conflict, flagged, left; Wiki budget blank, no verdict; Punjabi, not in BOI index"}
+]

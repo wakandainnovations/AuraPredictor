@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 897709, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki '21mu Tiffin' infobox has no budget/gross fields, no verdict; not found"},
+ {"tmdb_movie_id": 902577, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk Teeja_Punjab_2021 has week 1 only (India net ₹2.98 Cr, days 1–7, till 9 Dec 2021) → partial, not stored"},
+ {"tmdb_movie_id": 910711, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'Bali (2021 film)' premiered on Amazon Prime Video 9 Dec 2021; no box office"},
+ {"tmdb_movie_id": 950354, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 870130, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only IFFI 2021 list); not in boi_index.csv or BH 2021 table; festival title; not found"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 791303, "budget_inr_crore": 12, "revenue_inr_crore": 18.85, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "moderate commercial success (Wikipedia)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Seetimaarr", "revenue": "https://en.wikipedia.org/wiki/Seetimaarr", "verdict": "https://en.wikipedia.org/wiki/Seetimaarr"},
+  "notes": "Wiki infobox budget ₹12 crore = stored (confirmed; but the Box office section says ₹25 crore citing the same 28 Sep 2020 pre-release article — flagged); gross ₹18.85 crore (T2BLive 'Seetimaarr Total Collections', 11 Oct 2021) = stored (confirmed; not labelled a share, above sacnilk WW ₹14.20 Cr at 14 days); Wiki 'moderate commercial success at the box office' → avg"},
+ {"tmdb_movie_id": 865539, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'released on ZEE5 on 10 September 2021'; no box office"},
+ {"tmdb_movie_id": 862717, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT (ZEE5); Wiki 'Helmet (film)' infobox no figures; not in boi_index.csv or BH 2021 table"},
+ {"tmdb_movie_id": 402354, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'premiered on SonyLiv on 27 August 2021'; no box office"},
+ {"tmdb_movie_id": 861818, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "TV/OTT premiere (Wiki uses Infobox television; premiered 23 Aug 2021); no box office"}
+]

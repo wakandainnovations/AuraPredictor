@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 688618, "budget_inr_crore": 7, "revenue_inr_crore": 0.46, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Flop (sacnilk)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Ramarjuna_2021", "revenue": "https://www.sacnilk.com/movie/Ramarjuna_2021", "verdict": "https://www.sacnilk.com/movie/Ramarjuna_2021"},
+  "notes": "No Wiki article (search empty); sacnilk Budget ₹7.00 Cr, India gross ₹0.46 Cr (21 days, till 18 Feb 2021; overseas —), verdict 'Flop' → flop"},
+ {"tmdb_movie_id": 788902, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Super Over (film)' infobox blank, no verdict (released on aha); not found"},
+ {"tmdb_movie_id": 764179, "budget_inr_crore": 15, "revenue_inr_crore": 9.4, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit (sacnilk)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Eeswaran_2021", "revenue": "https://www.sacnilk.com/movie/Eeswaran_2021", "verdict": "https://www.sacnilk.com/movie/Eeswaran_2021"},
+  "notes": "Wiki 'Eeswaran' infobox has no budget/gross, no verdict; sacnilk Budget ₹15.00 Cr, WW ₹9.40 Cr (29 days, till 11 Feb 2021; India gross 9.20 + overseas 0.20), verdict 'Hit' → hit (sacnilk's verdict, though gross < budget — noted)"},
+ {"tmdb_movie_id": 786064, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'directly released on Neestream ... 15 January 2021'; no box office; stored tmdb budget $888,514 unverified (left)"},
+ {"tmdb_movie_id": 696363, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Avijatrik' (festival 2021, theatrical 26 Nov 2021) infobox budget/gross blank, no verdict; not found"}
+]

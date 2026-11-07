@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 759216, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT (Netflix, 24 Nov 2020); Wiki 'Andhaghaaram' infobox blank; no box office"},
+ {"tmdb_movie_id": 767313, "budget_inr_crore": 7, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Act_1978_2020"},
+  "notes": "Wiki 'Act 1978' infobox budget/gross blank, no verdict; sacnilk Budget ₹7.00 Cr (Wiki blank → fallback); sacnilk WW ₹0.38 Cr covers 4 days only (till 23 Nov 2020) → partial, not stored; no verdict on page"},
+ {"tmdb_movie_id": 667585, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'released on 13 November 2020 on Amazon Prime Video'; no box office"},
+ {"tmdb_movie_id": 679247, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'Halal Love Story' distributor Amazon Prime Video (15 Oct 2020); no box office"},
+ {"tmdb_movie_id": 617341, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"}
+]

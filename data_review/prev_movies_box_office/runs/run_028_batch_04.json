@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 897677, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (festival/award film); not found"},
+ {"tmdb_movie_id": 868882, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jan.E.Man' infobox budget/gross empty, no verdict; sacnilk Jan_E_Man_2021 self-inconsistent (India net ₹0.55 Cr vs India gross ₹4.83 Cr, 13 days, till 1 Dec 2021; default-looking 'Disaster'; a second sacnilk page shows net ₹4.17 Cr) → not stored; Filmibeat ranks it 5th Kerala grosser of 2021 (ranking, not verdict)"},
+ {"tmdb_movie_id": 897842, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 1121994, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty); not found"},
+ {"tmdb_movie_id": 851743, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'released through Disney+ Hotstar on 12 November 2021'; no box office"}
+]

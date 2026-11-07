@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 880058, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Puksatte Lifu' infobox budget/gross empty, no verdict; not found"},
+ {"tmdb_movie_id": 873696, "budget_inr_crore": 11, "revenue_inr_crore": 9.4, "revenue_scope": "india_gross", "verdict": "hit", "verdict_label": "commercial success (Wikipedia)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Kodiyil_Oruvan_2021", "revenue": "https://www.sacnilk.com/movie/Kodiyil_Oruvan_2021", "verdict": "https://en.wikipedia.org/wiki/Kodiyil_Oruvan"},
+  "notes": "Wiki infobox budget/gross empty; Wiki lead 'became a commercial success' → hit; sacnilk Budget ₹11.00 Cr (Wiki blank → fallback), India gross ₹9.40 Cr (10 days, till 26 Sep 2021; overseas — → India gross line; WW header repeats it)"},
+ {"tmdb_movie_id": 874625, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article found (search returned unrelated pages); sacnilk Friendship_2021 day 1 only (₹13 L) → partial, not stored"},
+ {"tmdb_movie_id": 590399, "budget_inr_crore": 100, "revenue_inr_crore": 4.98, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office bomb (Wikipedia); BH Hindi version Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Thalaivii", "revenue": "https://en.wikipedia.org/wiki/Thalaivii", "verdict": "https://en.wikipedia.org/wiki/Thalaivii"},
+  "notes": "Wiki budget ₹100 crore = stored (confirmed), gross ₹4.98 crore (cited to BOI page, 20 Nov 2022) = stored (confirmed); Wiki lead 'was a box office bomb' → flop; BH 2021 table: Hindi version nett ₹1.46 Cr, Flop (consistent); sacnilk Thalaivii_2021 404"},
+ {"tmdb_movie_id": 739146, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT (Disney+ Hotstar); Wiki infobox no figures; not in boi_index.csv or BH 2021 table"}
+]

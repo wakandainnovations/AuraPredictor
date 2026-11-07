@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 800343, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Power Play (2021 film)' says 'released on 5 March 2021 on Amazon Prime Video', but sacnilk Power_Play_2021 shows 3 days of theatrical figures (WW ₹0.32 Cr, 'Disaster') — release mode conflicts; partial figures, verdict left NULL"},
+ {"tmdb_movie_id": 801466, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty); not found"},
+ {"tmdb_movie_id": 695958, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'released worldwide on 26 February 2021 on Netflix'; no box office"},
+ {"tmdb_movie_id": 789358, "budget_inr_crore": 25, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "flop (Wikipedia); Flop (sacnilk)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Check_2021", "verdict": "https://en.wikipedia.org/wiki/Check_(film)"},
+  "notes": "Wiki lead 'became a flop in the box office' + sacnilk 'Flop' → flop; Wiki budget blank → sacnilk Budget ₹25.00 Cr; stored revenue $1,930,759 = Wiki gross 'est. ₹14 crore (3 days)' (uncited, a 3-day running total — flagged, left); sacnilk WW ₹15.55 Cr covers 7 days only (till 4 Mar 2021) → partial, not stored"},
+ {"tmdb_movie_id": 706872, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'Drishyam 2' — producers opted to release through Amazon Prime Video (19 Feb 2021); no box office (not the 2022 Hindi remake)"}
+]

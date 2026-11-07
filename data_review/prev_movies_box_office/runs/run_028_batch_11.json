@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 656113, "budget_inr_crore": 55, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jagame_Thandhiram"},
+  "notes": "Direct-to-OTT: Wiki 'direct-to-streaming release through Netflix on 18 June 2021' — no box office; Wiki budget ₹55 crore = stored (confirmed)"},
+ {"tmdb_movie_id": 674723, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Festival/OTT short-format film: Wiki 'Sheer Qorma (film)' no figures; not in boi_index.csv or BH 2021 table"},
+ {"tmdb_movie_id": 835729, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty); not found"},
+ {"tmdb_movie_id": 819910, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Wolf (2021 Indian film)' infobox budget/gross empty, no verdict (released on ZEE5); not found"},
+ {"tmdb_movie_id": 667957, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'theatrical release was cancelled ... release the film via Disney+ Hotstar on 14 April 2021'; no box office"}
+]

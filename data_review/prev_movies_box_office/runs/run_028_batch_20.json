@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 577922, "budget_inr_crore": null, "revenue_inr_crore": null, "budget_usd": 205000000, "revenue_usd": 376600000, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Tenet_(film)", "revenue": "https://en.wikipedia.org/wiki/Tenet_(film)"},
+  "notes": "Wiki 'Tenet' budget $205 million and gross $376.6 million (lead: 'grossed $376.6 million worldwide on a $205 million budget') = stored (confirmed); no verdict wording (analyst break-even estimate $400–500M is not a verdict); BH 2020 India nett ₹12.57 Cr, verdict 'Pending' → no verdict"},
+ {"tmdb_movie_id": 730428, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'Class of '83' produced for Netflix; no box office"},
+ {"tmdb_movie_id": 846979, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty); stored tmdb budget $20,000 unverified (left)"},
+ {"tmdb_movie_id": 732877, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Detective (2020 film)' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 720796, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'premiered digitally through ZEE5 on 30 July 2020'; BOI '#Yaaram' (2019) is a different film; no box office"}
+]

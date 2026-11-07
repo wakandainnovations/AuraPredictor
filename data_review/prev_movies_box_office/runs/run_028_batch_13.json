@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 810190, "budget_inr_crore": 2, "revenue_inr_crore": 4.2, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit (sacnilk)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Kala_2021", "revenue": "https://www.sacnilk.com/movie/Kala_2021", "verdict": "https://www.sacnilk.com/movie/Kala_2021"},
+  "notes": "Wiki 'Kala (2021 film)' infobox budget '₹1.2 Crore' and gross '₹3 Crore' are both uncited (= stored $165,228 / $413,069) → not usable; corrected to sacnilk Budget ₹2.00 Cr and WW ₹4.20 Cr (22 days, till 15 Apr 2021; India gross 3.10 + overseas 1.10; day-wise table sums to ₹2.00 Cr India — page inconsistency noted); sacnilk verdict 'Hit' → hit"},
+ {"tmdb_movie_id": 786303, "budget_inr_crore": 5, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "Average (sacnilk)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Mohan_Kumar_Fans_2021", "verdict": "https://www.sacnilk.com/movie/Mohan_Kumar_Fans_2021"},
+  "notes": "Wiki infobox budget/gross empty, no verdict; sacnilk Budget ₹5.00 Cr (Wiki blank → fallback), verdict 'Average' → avg; sacnilk WW ₹2.10 Cr covers 4 days only (till 22 Mar 2021) → partial, not stored"},
+ {"tmdb_movie_id": 534081, "budget_inr_crore": 20, "revenue_inr_crore": 0.58125, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box office bomb (Wikipedia); BOI Disaster; BH Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sandeep_Aur_Pinky_Faraar", "revenue": "https://en.wikipedia.org/wiki/Sandeep_Aur_Pinky_Faraar", "verdict": "https://en.wikipedia.org/wiki/Sandeep_Aur_Pinky_Faraar"},
+  "notes": "Wiki budget ₹20 crore and gross ₹58.125 lakh (both cited to BOI) = stored (confirmed); BOI live page movieid=6113 budget 20,00,00,000, WW 58,12,500 (India 40 L + overseas $25,000), Disaster — match; Wiki 'emerging as a box office bomb' → flop; BH 2021 nett ₹0.35 Cr, Flop (consistent)"},
+ {"tmdb_movie_id": 809294, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Disaster (sacnilk)",
+  "sources": {"verdict": "https://www.sacnilk.com/movie/Munduvareda_Adhyaya_2021"},
+  "notes": "Wiki infobox no figures, no verdict; sacnilk verdict 'Disaster' (page with real figures) → flop; sacnilk WW ₹0.52 Cr covers 3 days only (till 21 Mar 2021) → partial, not stored; no budget on page"},
+ {"tmdb_movie_id": 726027, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sreekaram' infobox budget/gross empty, no verdict; sacnilk Sreekaram_2021 404; not found"}
+]

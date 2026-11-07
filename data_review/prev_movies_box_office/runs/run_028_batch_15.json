@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 718814, "budget_inr_crore": 35, "revenue_inr_crore": 18.8, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Chakra_2021", "revenue": "https://www.sacnilk.com/movie/Chakra_2021"},
+  "notes": "Wiki 'Chakra (2021 film)' infobox budget/gross blank; Wiki body 'budget of ₹31.5 crore, collected ₹65 crore and was a moderate success' is tagged {{citation needed}} (not used); sacnilk Budget ₹35.00 Cr, WW ₹18.80 Cr (14 days, till 4 Mar 2021; India gross 18.30 + overseas 0.50; day-wise table only ₹8.65 Cr for 8 days — page inconsistency flagged), verdict 'Flop'; Wiki 'moderate success' (uncited) vs sacnilk Flop → conflict, verdict left NULL"},
+ {"tmdb_movie_id": 791273, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Disaster (sacnilk)",
+  "sources": {"verdict": "https://www.sacnilk.com/movie/Kapatadhaari_2021"},
+  "notes": "Wiki infobox budget/gross blank, no verdict (Prime Video from 30 Mar); sacnilk verdict 'Disaster' (page with real figures) → flop; sacnilk WW ₹0.48 Cr covers 3 days only (till 21 Feb 2021) → partial, not stored"},
+ {"tmdb_movie_id": 718013, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Prem Tame' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 792750, "budget_inr_crore": 1.5, "revenue_inr_crore": 3.6, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Hit (sacnilk)",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Operation_Java_2021", "revenue": "https://www.sacnilk.com/movie/Operation_Java_2021", "verdict": "https://www.sacnilk.com/movie/Operation_Java_2021"},
+  "notes": "Wiki infobox budget/gross blank, no verdict; sacnilk Budget ₹1.50 Cr, WW ₹3.60 Cr (63 days, till 15 Apr 2021; India gross 3.30 + overseas 0.30), verdict 'Hit' → hit"},
+ {"tmdb_movie_id": 719530, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article found; not found"}
+]

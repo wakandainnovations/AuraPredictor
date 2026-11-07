@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 891398, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk Anandham_Vilayadum_Veedu_2021 404; not found"},
+ {"tmdb_movie_id": 717917, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "huge commercial success (Wikipedia)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Tonic_(film)"},
+  "notes": "Wiki lead 'became a huge commercial success ... highest-grossing Bengali film of 2021' → hit; Wiki gross '₹7 Cr approx' (= stored $932,858) is cited to a Hindustan Times Bangla article dated 2021-12-28, 4 days after release → running total (flagged, left); sacnilk Tonic_2021 'No box office figures yet'"},
+ {"tmdb_movie_id": 900076, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox budget/gross fields empty, no verdict; sacnilk page 'No box office figures yet'; not found"},
+ {"tmdb_movie_id": 657644, "budget_inr_crore": 20, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Minnal_Murali"},
+  "notes": "Direct-to-OTT (Netflix, 24 Dec 2021; Mumbai Film Festival premiere 16 Dec) — no box office; Wiki infobox budget ₹20 crore (News18, 14 Jan 2022) = stored (confirmed; body text says ₹18 crore)"},
+ {"tmdb_movie_id": 885240, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; not found"}
+]
