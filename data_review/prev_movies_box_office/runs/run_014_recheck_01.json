@@ -1,0 +1,59 @@
+[
+ {
+  "tmdb_movie_id": 269421,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1423",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1423"
+  },
+  "revenue_inr_crore": 1.06,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Parzania (2007), release 26 Jan 2007): India Gross 1,06,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 443624,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1486",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1486",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1486"
+  },
+  "budget_inr_crore": 4.25,
+  "revenue_inr_crore": 3.51,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "notes": "BOI recheck (Journey Bombay To Goa (2007), release 6 Jul 2007): Budget 4,25,00,000, India Gross 3,51,00,000 (overseas $---), verdict Flop"
+ },
+ {
+  "tmdb_movie_id": 1686881,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1559",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1559",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1559"
+  },
+  "budget_inr_crore": 1.75,
+  "revenue_inr_crore": 0.37,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Husn - Love & Betrayal (2006), release 14 Jul 2006): Budget 1,75,00,000, India Gross 37,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 53590,
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=277"
+  },
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Alag (2006), release 16 Jun 2006): verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 233296,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=383"
+  },
+  "budget_inr_crore": 4.75,
+  "notes": "BOI recheck (Jawani Diwani - A Youtful Joyride (2006), release 6 Jan 2006): Budget 4,75,00,000"
+ }
+]

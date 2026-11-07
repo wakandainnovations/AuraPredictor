@@ -1,0 +1,18 @@
+[
+ {
+  "tmdb_movie_id": 965653,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6190"
+  },
+  "budget_inr_crore": 30.0,
+  "notes": "BOI recheck (Khuda Haafiz Chapter 2 - Agni Pariksha (2022), release 8 Jul 2022): Budget 30,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 738567,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6089"
+  },
+  "budget_inr_crore": 21.0,
+  "notes": "BOI recheck (Suraj Pe Mangal Bhari (2020), release 15 Nov 2020): Budget 21,00,00,000"
+ }
+]

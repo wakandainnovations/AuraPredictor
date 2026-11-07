@@ -1,0 +1,38 @@
+[
+ {
+  "tmdb_movie_id": 321267,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1202",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1202",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1202"
+  },
+  "budget_inr_crore": 1.25,
+  "revenue_inr_crore": 0.0315,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Myoho (2012), release 14 Dec 2012): Budget 1,25,00,000, India Gross 3,15,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 149082,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1039"
+  },
+  "budget_inr_crore": 3.5,
+  "notes": "BOI recheck (Jalpari - The Desert Mermaid (2012), release 31 Aug 2012): Budget 3,50,00,000"
+ },
+ {
+  "tmdb_movie_id": 1155812,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1024",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1024",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1024"
+  },
+  "budget_inr_crore": 2.0,
+  "revenue_inr_crore": 0.085,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Jhansi Ki Rani Laxmibai (2012), release 30 Mar 2012): Budget 2,00,00,000, India Gross 8,50,000 (overseas $---), verdict Disaster; 2012 film (DB 2012-01-01); BOI release 30 Mar 2012"
+ }
+]

@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 38301,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=918",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=918",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=918"
+  },
+  "budget_inr_crore": 1.5,
+  "revenue_inr_crore": 0.5,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (The Japanese Wife (2010), release 9 Apr 2010): Budget 1,50,00,000, India Gross 50,00,000 (overseas $---), verdict Disaster; multilingual (DB language bengali); BOI lists it as Hindi, same release date"
+ }
+]

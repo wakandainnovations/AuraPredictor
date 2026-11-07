@@ -1,0 +1,60 @@
+[
+ {
+  "tmdb_movie_id": 630974,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1690",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1690",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1690"
+  },
+  "budget_inr_crore": 2.0,
+  "revenue_inr_crore": 0.0425,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Hum Tum Aur Mom (2005), release 22 Jul 2005): Budget 2,00,00,000, India Gross 4,25,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 20132,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=398"
+  },
+  "budget_inr_crore": 13.0,
+  "notes": "BOI recheck (Kaal (2005), release 29 Apr 2005): Budget 13,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 311142,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=430"
+  },
+  "budget_inr_crore": 7.0,
+  "notes": "BOI recheck (Vaada (2005), release 7 Jan 2005): Budget 7,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 523197,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1740",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1740",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1740"
+  },
+  "budget_inr_crore": 2.0,
+  "revenue_inr_crore": 3.3074,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "notes": "BOI recheck (Fun... Can Be Dangerous Sometimes (2005), release 25 Feb 2005): Budget 2,00,00,000, Worldwide Gross 3,30,74,000 (overseas $4,000), verdict Flop"
+ },
+ {
+  "tmdb_movie_id": 587330,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1704",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1704",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1704"
+  },
+  "budget_inr_crore": 1.25,
+  "revenue_inr_crore": 0.53,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Time Pass (2005), release 3 Jun 2005): Budget 1,25,00,000, India Gross 53,00,000 (overseas $---), verdict Disaster"
+ }
+]

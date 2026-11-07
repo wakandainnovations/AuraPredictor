@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 64761,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=974"
+  },
+  "budget_inr_crore": 1.25,
+  "notes": "BOI recheck (Ada....A Way of life (2010), release 31 Dec 2010): Budget 1,25,00,000"
+ },
+ {
+  "tmdb_movie_id": 359002,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=960"
+  },
+  "budget_inr_crore": 0.5,
+  "notes": "BOI recheck (Daayen Ya Baayen (2010), release 29 Oct 2010): Budget 50,00,000"
+ },
+ {
+  "tmdb_movie_id": 65624,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=959"
+  },
+  "budget_inr_crore": 4.75,
+  "notes": "BOI recheck (Nakshatra (2010), release 29 Oct 2010): Budget 4,75,00,000"
+ },
+ {
+  "tmdb_movie_id": 330467,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=946"
+  },
+  "budget_inr_crore": 1.5,
+  "notes": "BOI recheck (Life Express (2010), release 17 Sep 2010): Budget 1,50,00,000"
+ },
+ {
+  "tmdb_movie_id": 340728,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=930"
+  },
+  "budget_inr_crore": 1.25,
+  "notes": "BOI recheck (Do Dilon Ke Khel Mein (2010), release 14 May 2010): Budget 1,25,00,000; BOI release 14 May 2010 (DB 2010-03-12)"
+ }
+]

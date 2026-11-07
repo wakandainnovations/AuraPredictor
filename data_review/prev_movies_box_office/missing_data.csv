@@ -410,11 +410,10 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 974966,tt21353352,Kolla,2023-06-09,malayalam,budget;revenue;verdict,not found in web search,"Wiki Kolla_(2023_film): theatrical 9 Jun 2023, no figures/verdict",5,20
 946025,tt18413766,Kathal,2023-05-19,hindi,budget;revenue;verdict,not found in web search,"direct-to-streaming (Netflix, 19 May 2023); no box office",5,20
 1127439,tt24724658,Maruthi Nagar Police Station,2023-05-19,tamil,budget;revenue;verdict,not found in web search,"direct-to-streaming (Aha, 19 May 2023); no box office",5,20
-1125221,tt13545522,Chatrapathi,2023-05-12,hindi,budget;revenue,not found in web search,"sacnilk Chatrapathi_2023 India net ₹2.53 Cr is week-1 only (partial, not stored); not in BH table; Box Office India down (maintenance) this run",6,1
+1125221,tt13545522,Chatrapathi,2023-05-12,hindi,budget,not found in web search,"sacnilk Chatrapathi_2023 India net ₹2.53 Cr is week-1 only (partial, not stored); not in BH table; Box Office India down (maintenance) this run | run 6 b1 recheck; BOI recheck (Chatrapathi (2023), release 12 May 2023): India Gross 1,67,00,000 (overseas $9,000)",6,1
 1074641,tt26324936,Ramabanam,2023-05-05,telugu,budget,not found in web search,"sacnilk WW gross ₹8.30 Cr (14 days, India net 6.83 + overseas 0.30)",6,1
 834660,tt13886392,Neelavelicham,2023-04-20,malayalam,budget;revenue,not found in web search,no figures on Wiki; sacnilk shows ₹0,6,1
 1019412,tt26423773,Madanolsavam,2023-04-14,malayalam,budget;revenue;verdict,not found in web search,Wiki Madanolsavam_(2023_film): no figures/verdict; sacnilk ₹0.15 Cr is day-1 only,6,1
-1081726,tt15680228,Bheed,2023-03-24,hindi,budget,not found in web search,Wiki gross ₹3.33 Cr (matches stored); no budget,6,1
 661078,tt9867628,Thuramukham,2023-03-10,malayalam,budget;revenue,not found in web search,"sacnilk India net ₹4.65 Cr is week-1 only (partial, not stored)",6,2
 1122983,tt9604202,Mandala: The UFO Incident,2023-03-10,kannada,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; not on sacnilk; stored tmdb budget left,6,2
 1008614,tt25377618,Pranaya Vilasam,2023-02-24,malayalam,budget;revenue,not found in web search,sacnilk page has no figures (₹0) and a default 'Disaster' label - ignored as no data,6,2
@@ -428,7 +427,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 963353,tt21855564,Naalam Mura,2022-12-23,malayalam,budget;revenue;verdict,not found in web search,no Wikipedia article; not on sacnilk,6,4
 1064489,tt16961300,10,2022-12-16,kannada,budget;revenue;verdict,not found in web search,"FLAG: Wiki '10 (2022 film)' says 'budget of ₹70 lakh, production budget just under ₹50 lakh' (ambiguous, not stored); Prime Video a week after release; sacnilk no data",6,4
 1036788,tt15465194,Dr. 56,2022-12-09,kannada,budget;revenue;verdict,not found in web search,Wiki Dr._56: no figures/verdict; not on sacnilk,6,4
-882826,tt15600222,An Action Hero,2022-12-02,hindi,budget,not found in web search,BH lifetime nett ₹10.89 Cr; Wiki only 'underperformed' (no conflict),6,4
 939513,tt21983758,The Teacher,2022-12-02,malayalam,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; Netflix 3 weeks after release; sacnilk no data,6,4
 677535,tt11336680,Raymo,2022-11-25,kannada,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; sacnilk ₹0.10 Cr is day-1 only,6,5
 1046902,tt15354928,Pattathu Arasan,2022-11-25,tamil,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; sacnilk ₹1.64 Cr is week-1 only,6,5
@@ -438,7 +436,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 576982,tt15568760,Nitham Oru Vaanam,2022-11-04,tamil,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; sacnilk no data,6,6
 1032287,tt22179702,Like Share & Subscribe,2022-11-04,telugu,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; not on sacnilk,6,6
 922690,tt15576578,Prince,2022-10-21,tamil,verdict,not found in web search,"Wiki gross est. ₹40 Cr (matches stored); sacnilk budget ₹30 Cr, WW ₹41.13 Cr (21 days); verdict conflict: Wiki 'box office bomb' vs sacnilk 'Above Average' → NULL",6,7
-817866,tt14438964,Goodbye,2022-10-07,hindi,budget,not found in web search,Wiki WW gross ₹9.66 Cr (matches stored),6,7
 1014386,tt21848358,Jogi,2022-09-16,hindi,budget;revenue;verdict,not found in web search,"direct-to-streaming (Netflix, 16 Sep 2022); BH year table lists it as Flop ₹0.10 Cr - inconsistent with a Netflix release, not used",6,7
 888319,tt14989778,Kanam,2022-09-09,tamil,budget,not found in web search,Tamil title Kanam = Telugu Oke Oka Jeevitham (bilingual); Wiki gross ₹26.15 Cr (matches stored),6,7
 934772,tt15509564,Ranga Ranga Vaibhavanga,2022-09-02,telugu,revenue,not found in web search,"sacnilk WW ₹6.45 Cr is week-1 only (partial, not stored)",6,7
@@ -450,13 +447,11 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 981189,tt15444506,Sher Bagga,2022-06-24,punjabi,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; sacnilk ₹2.99 Cr is week-1 only,6,9
 916963,tt15483616,Harikathe Alla Girikathe,2022-06-23,kannada,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; sacnilk no data,6,9
 847726,tt14986012,12th Man,2022-05-20,malayalam,budget;revenue;verdict,not found in web search,"direct-to-streaming (Disney+ Hotstar, 20 May 2022); no box office",6,10
-784696,tt12422308,Sarkaru Vaari Paata,2022-05-11,telugu,budget;verdict,not found in web search,"Wiki infobox gross est. ₹180–200 Cr → 190 (matches stored); lead says ₹180–230 Cr; 'second highest-grossing Telugu film of 2022' is a ranking, not a verdict",6,10
 755393,tt13466166,Saani Kaayidham,2022-05-06,tamil,budget;revenue;verdict,not found in web search,"direct-to-streaming (Prime Video, 6 May 2022); no box office",6,10
 865428,tt15554616,Makal,2022-04-29,malayalam,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; sacnilk ₹1.06 Cr is first 4 days only,6,10
 799713,tt14107554,Dasvi,2022-04-07,hindi,budget;revenue;verdict,not found in web search,"direct-to-streaming (Netflix + JioCinema, 7 Apr 2022); no box office",6,11
 888299,tt13349280,Aadavaallu Meeku Johaarlu,2022-03-04,telugu,budget;revenue,not found in web search,"Wiki gives only distributors' share ₹7.72 Cr (not gross, not stored)",6,11
 903283,tt18885164,Sebastian P.C. 524,2022-03-04,telugu,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; sacnilk no data,6,11
-811942,tt14209560,Bheemla Nayak,2022-02-25,telugu,revenue;verdict,not found in web search,FLAG: Wiki infobox gross ₹158.5 Cr contradicts its body (₹192 Cr in 20 days; TOI ₹210.37 Cr; closing total 'not reported') - revenue left null; no verdict,6,11
 799397,tt13439744,Son of India,2022-02-18,telugu,budget;revenue,not found in web search,no figures on Wiki; not on sacnilk,6,11
 794417,tt13299052,Khiladi,2022-02-11,telugu,revenue;verdict,not found in web search,Wiki budget ₹30 Cr (matches stored); 'underperformed' only; no gross,6,12
 937036,tt13245502,DJ Tillu,2022-02-11,telugu,budget,not found in web search,Wiki gross est. ₹30.30 Cr (matches stored),6,12
@@ -481,7 +476,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 680943,tt11731984,Dharala Prabhu,2020-03-13,tamil,revenue;verdict,not found in web search,"sacnilk budget ₹4 Cr; WW ₹3.40 Cr is first 3 days only; run cut short by COVID shutdown; Wiki 'decent hit by its other revenue' refers to non-theatrical income, not a box-office verdict → NULL",6,16
 651719,tt7315232,Katha Sangama,2019-12-06,kannada,budget;revenue;verdict,not found in web search,"Wiki Katha_Sangama_(2019_film): anthology, no figures/verdict",6,16
 623364,tt10955578,Action,2019-11-15,tamil,revenue,not found in web search,"Wiki budget ₹100 Cr (matches stored). FLAG: stored revenue = Wiki infobox est. ₹23.32 Cr, but Wiki body says it 'grossed less than ₹12 crore' (TN 7.7 + AP/TS 4 + overseas 0.57) - revenue left",6,16
-523278,tt8108206,Saand Ki Aankh,2019-10-25,hindi,budget,not found in web search,Wiki gross est. ₹30.7 Cr (matches stored); no budget; no Wiki verdict,6,17
 607693,tt10334624,Aruvam,2019-10-10,tamil,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; not on sacnilk,6,17
 605245,tt10506490,Kousalya Krishnamurthy,2019-08-23,telugu,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; not on sacnilk,6,17
 625453,tt10002654,Pattabhiraman,2019-08-23,malayalam,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; not on sacnilk,6,18
@@ -490,14 +484,11 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 606714,tt10076106,Manmadhudu 2,2019-08-09,telugu,revenue,not found in web search,"Wiki budget ₹30 Cr (matches stored); sacnilk budget ₹50 Cr, WW ₹29 Cr after 3 days (partial)",6,18
 620008,tt9747276,Aadi Lakshmi Puraana,2019-07-19,kannada,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; not on sacnilk,6,18
 610096,tt10207954,Kalki,2019-06-28,telugu,budget;revenue;verdict,not found in web search,Wiki Kalki_(2019_Telugu_film): no figures/verdict; not on sacnilk,6,19
-597089,tt10324144,Article 15,2019-05-28,hindi,budget,not found in web search,Wiki gross est. ₹93.08 Cr (matches stored); no budget; no Wiki verdict,6,19
 581104,tt9304360,Ayogya,2019-05-11,tamil,budget;revenue;verdict,not found in web search,Wiki Ayogya_(2019_film): no figures/verdict; not on sacnilk,6,19
-568856,tt8396186,Amavas,2019-02-07,hindi,budget,not found in web search,Wiki gross est. ₹36 million = ₹3.6 Cr (matches stored),6,19
 563609,tt8016662,Praana,2019-01-18,malayalam,budget;revenue;verdict,not found in web search,"Wiki: no figures/verdict; stored tmdb revenue $135K unverified, left",6,20
 493178,tt7510798,Maari 2,2018-12-21,tamil,budget;revenue;verdict,not found in web search,Wiki: no figures/verdict; sacnilk no data,6,20
 564177,tt8286926,Njan Prakashan,2018-12-21,malayalam,budget;verdict,not found in web search,"Wiki gross est. ₹52 Cr (40 days of a 101-day run; matches stored); 'one of the highest-grossing Malayalam films' is a ranking, not a verdict",6,20
 579605,tt8826936,Mauli,2018-12-14,marathi,budget;revenue;verdict,not found in web search,Wiki Mauli_(film): no figures/verdict; not on sacnilk,6,20
-556907,tt6514196,Baazaar,2018-10-26,hindi,budget,not found in web search,"Wiki infobox blank; BH India lifetime nett ₹24.77 Cr, Average",7,1
 462718,tt8176054,Pariyerum Perumal,2018-09-28,tamil,budget,not found in web search,Wiki body: 'collected ₹5.5 Cr in its lifetime' (share ₹3.5 Cr not used); scope not stated,7,1
 493107,tt6863784,Saamy²,2018-09-21,tamil,budget;revenue,not found in web search,"Wiki Saamy_Square: infobox blank, 'became a box office failure'; not on sacnilk; BOI down",7,1
 552436,tt8665634,Qismat,2018-09-21,punjabi,budget,not found in web search,Wiki gross est. ₹28 Cr WW (matches stored); verdict per Wiki-cited BOI article 'Qismat is a Blockbuster',7,1
@@ -509,7 +500,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 500527,tt7705790,Tholi Prema,2018-02-09,telugu,budget,not found in web search,Wiki gross est. ₹45.1 Cr (matches stored),7,3
 556596,tt7614030,Kanaka,2018-01-26,kannada,budget;revenue;verdict,not found in web search,Wiki Kanaka_(film): infobox blank; one search found nothing,7,3
 495121,tt7756494,Jai Simha,2018-01-12,telugu,budget,not found in web search,Wiki gross est. ₹50 Cr (matches stored),7,4
-194522,tt2198235,Monsoon Shootout,2017-12-15,hindi,budget,not found in web search,"Wiki no figures; BH India nett ₹0.6 Cr, Flop",7,4
 489200,tt6840738,College Kumar,2017-11-10,kannada,budget;revenue,not found in web search,Wiki no figures; no collection figures found (sacnilk College Kumar page is the 2020 remake),7,4
 479192,tt7341406,Rukh,2017-10-27,hindi,budget,not found in web search,"Wiki no figures; BH India nett ₹0.64 Cr, Flop",7,4
 459698,tt6613814,Solo,2017-10-05,malayalam,budget;revenue;verdict,not found in web search,Wiki no box office; filmibeat only 3-day Kerala ₹6.84 Cr (partial); verdict conflict (filmibeat Kerala 'hit' vs South First 'sank') left NULL; sacnilk ₹0.00,7,5
@@ -534,7 +524,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 392569,tt5326230,Aadupuliyattam,2016-05-13,malayalam,budget;revenue,not found in web search,"Wiki: ₹15.42 Cr Kerala 'within 50 days' (running total, not stored)",7,9
 396378,tt5701082,Supreme,2016-05-05,telugu,revenue,not found in web search,Wiki budget ₹15 Cr (matches stored); no gross,7,9
 361249,tt5005684,Nil Battey Sannata,2016-04-22,hindi,budget;verdict,not found in web search,Wiki gross ₹69 million (BH WW; matches stored); verdict conflict: Wiki 'commercial success' vs BH Flop (nett ₹4.82 Cr) → NULL,7,10
-394078,tt2909396,Santa Banta Pvt Ltd,2016-04-22,hindi,budget,not found in web search,"Wiki blank; BH India nett ₹0.66 Cr, Flop",7,10
 419381,tt5544430,Jai Maruthi 800,2016-04-08,kannada,budget;revenue;verdict,not found in web search,Wiki infobox blank; one search found nothing,7,10
 387100,tt2395207,Feast of Varanasi,2016-03-11,english,budget;revenue;verdict,not found in web search,No Wiki article; not in BH 2016,7,10
 385238,tt5324456,Vettah,2016-02-26,malayalam,budget;revenue;verdict,not found in web search,"Wiki: '₹6.54 Cr by 6 April 2016' (running total, not stored); no verdict",7,10
@@ -562,7 +551,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 522564,tt3219554,DOA: Death of Amar,2014-08-16,english,budget;revenue;verdict,not found in web search,Wiki infobox blank; not in BH 2014,7,16
 264327,tt3569794,Kathai Thiraikathai Vasanam Iyakkam,2014-08-15,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; one search found nothing,7,16
 286988,tt3754704,Buno Haansh,2014-08-15,bengali,budget;revenue;verdict,not found in web search,Wiki infobox blank,7,16
-651878,tt4121522,Shuruaat Ka Interval,2014-08-15,english,budget;revenue;verdict,not found in web search,"Anthology of student shorts; no box office; stored tmdb budget $1,400 left",7,16
 284837,tt3916700,Run Raja Run,2014-08-01,telugu,budget;revenue,not found in web search,"Stored revenue (≈₹12 Cr) is the Wiki distributors' share, not gross — flagged, left",7,16
 328370,tt3738624,Drishya,2014-06-20,kannada,budget;revenue,not found in web search,Wiki no figures,7,17
 323488,tt3721272,Ajith,2014-05-09,english,budget;revenue;verdict,not found in web search,Wiki infobox blank; 'bound to be an average performer' is a review prediction,7,17
@@ -576,11 +564,9 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 251636,tt3426262,Pannaiyarum Padminiyum,2014-02-07,tamil,budget;revenue;verdict,not found in web search,Wiki no box office; 'did not perform well' is not a verdict,7,18
 253584,tt2224057,Autonagar Surya,2014-02-07,telugu,revenue;verdict,not found in web search,Wiki budget ₹25 Cr (matches stored); only first-weekend nett ₹6.85 Cr; no verdict,7,19
 253535,tt3506970,1983,2014-01-31,malayalam,budget;revenue,not found in web search,Wiki no figures,7,19
-126318,tt1629715,Miss Lovely,2014-01-17,hindi,budget,not found in web search,"BH India nett ₹0.49 Cr, Flop",7,19
 448802,tt3686226,Ninnindale,2014-01-16,kannada,budget;revenue;verdict,not found in web search,Wiki no box office; 'would've been a disaster' is a review remark,7,19
 233015,tt3253476,All in All Azhagu Raja,2013-11-02,tamil,budget;revenue;verdict,not found in web search,"Wiki no box office; BOM $552K is overseas only; 'flopped' only in an IMDb user review; stored tmdb budget $3.8M unverified, left",7,20
 241123,tt2644178,Bhai,2013-10-25,telugu,revenue;verdict,not found in web search,m9: 'said to be made on a budget of Rs.42 crore'; only opening-day figures; 'damp squib'/'unlikely to break even' after day 1 is not a final verdict,7,20
-241165,tt3005850,Sooper Se Ooper,2013-10-25,english,budget,not found in web search,"BH India nett ₹0.057 Cr, Flop",7,20
 303264,tt2222716,Baat Bann Gayi,2013-10-11,english,budget,not found in web search,"BH India nett ₹0.15 Cr, Flop",7,20
 244492,tt3288670,Sringaravelan,2013-09-14,malayalam,budget,not found in web search,Wiki ₹32 Cr Kerala final run (matches stored),7,20
 198264,tt2988328,Thillu Mullu,2013-06-14,tamil,budget;revenue;verdict,not found in web search,Wiki no budget/gross/verdict; filmibeat budget & box office TBA,8,1
@@ -590,16 +576,11 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 180855,tt2677816,Settai,2013-04-05,tamil,budget;revenue,not found in web search,"Deccan Chronicle 2013 roundup: Arya 'had a disastrous start with the film, Settai'; Wiki only Malaysia $280,086 gross; the-numbers $422K overseas-only",8,1
 433993,tt2437786,Maach Mishti & More,2013-02-17,bengali,revenue;verdict,not found in web search,Wiki budget ₹8 million (cn) = stored; no gross/verdict,8,2
 147815,tt2344672,Kadal,2013-02-01,tamil,revenue,not found in web search,Wiki budget ₹50 Cr = stored; 'became a box-office failure'; only overseas opening figures,8,2
-238165,tt2389486,Mai,2013-01-31,hindi,budget,not found in web search,"BH 'Mai…' India nett ₹0.08 Cr, Flop",8,2
 170458,tt2725022,Kirchiyaan,2013-01-30,hindi,budget;revenue;verdict,not found in web search,"Sudhir Mishra short film; no Wiki article, not in BH 2013 table — no theatrical box office",8,2
-168117,tt2624852,Gangoobai,2013-01-11,hindi,budget,not found in web search,"BH India nett ₹0.01 Cr, Flop",8,3
 536239,tt5650272,Galaate,2013-01-11,kannada,budget;revenue;verdict,not found in web search,Wiki no budget/gross/verdict,8,3
 555474,tt2187003,Paanch Adhyay,2012-10-22,bengali,budget;revenue,not found in web search,Wiki lead: 'a successful six-week run in Bengal'; no figures,8,3
 575760,tt2912138,Challenge 2,2012-10-19,bengali,budget;revenue,not found in web search,"Wiki: 'superhit at the box-office', 2nd highest-grossing Bengali film of 2012; no figures",8,3
 69536,tt2367996,Mugamoodi,2012-08-31,tamil,budget;revenue,not found in web search,"Wiki: 'box office success at the end of its theatrical run'; only 3-day ₹10 Cr / opening-weekend ₹9 Cr (partial, not stored)",8,3
-302963,tt2185084,From Sydney with Love,2012-08-31,hindi,budget,not found in web search,"BH India nett ₹0.13 Cr, Flop",8,4
-401971,tt1725803,Delhi in a Day,2012-08-24,hindi,budget;revenue;verdict,not found in web search,Wiki no budget/gross/verdict; not in BH 2012 table,8,4
-244323,tt2155776,Yeh Jo Mohabbat Hai,2012-08-03,hindi,budget,not found in web search,"BH India nett ₹0.26 Cr, Flop",8,4
 134296,tt2186717,Akashathinte Niram,2012-07-20,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Akasathinte Niram' festival film, no budget/gross/verdict; stored tmdb budget $500,000 unverified, left",8,4
 152875,tt2304573,Daruvu,2012-05-24,telugu,revenue,not found in web search,Wiki budget ₹20 Cr (muvi.com) = stored; 'semihit at the box-office',8,5
 1509711,tt3008348,Dashamukha,2012-04-13,kannada,budget;revenue;verdict,not found in web search,Wiki no budget/gross/verdict,8,5
@@ -607,12 +588,10 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 108340,tt2071418,Bejawada,2011-12-01,telugu,budget;revenue;verdict,not found in web search,Wiki 'disappointing box office reception' is not a verdict; TOI review 'joins the long list of disasters' is a review; no figures,8,5
 76976,tt2072167,Mayakkam Enna,2011-11-25,tamil,budget;revenue;verdict,not found in web search,"Wiki no figures; BOM $395,638 overseas only (not stored); sacnilk page ₹0.00",8,5
 1181141,tt13537106,Jarasandha,2011-11-25,kannada,budget;revenue;verdict,not found in web search,Wiki/filmibeat no figures; filmibeat: makers' box-office claims called false — no verdict,8,6
-240304,tt1725798,Be-Careful,2011-10-21,hindi,budget,not found in web search,"BH India nett ₹0.30 Cr, Flop",8,6
 1263060,tt2086826,Dekh Indian Circus,2011-10-07,hindi,budget;revenue;verdict,not found in web search,Busan 2011 festival premiere (India release 2012); Wiki no figures; not in BH 2011/2012 tables,8,6
 829990,tt13906502,Maryade Ramanna,2011-09-23,kannada,budget;revenue;verdict,not found in web search,Kannada remake of Maryada Ramanna; Wiki/filmibeat no figures or verdict (Telugu original's hit status not used),8,6
 78446,tt1643242,Trapped in Tradition: Rivaaz,2011-09-16,hindi,budget,not found in web search,"BH 'Rivaaz' India nett ₹0.33 Cr, Flop",8,6
 85542,tt1836987,Trishna,2011-09-08,english,budget;revenue;verdict,not found in web search,"Wiki no budget/gross/verdict; stored tmdb revenue $240,381 unverified, left",8,7
-78445,tt1740092,Chitkabrey,2011-08-26,english,budget,not found in web search,"BH 'Chitkabrey – Shades Of Grey' India nett ₹0.26 Cr, Flop",8,7
 879568,tt1776994,The Desire: A Journey of a Woman,2011-08-22,hindi,budget;revenue;verdict,not found in web search,"Wiki 'The Desire (2010 film)' festival release, no figures",8,7
 282599,tt2027125,Jogayya,2011-08-19,kannada,budget;verdict,not found in web search,"Wiki gross ₹8 Cr (Bangalore Mirror) = stored; '50 days' (cn) not a verdict; filmibeat 3-day ₹9.59 Cr exceeds Wiki lifetime — figure conflict noted, stored value left",8,7
 528920,tt2976140,Police Story 3,2011-07-08,kannada,budget;revenue;verdict,not found in web search,Wiki no budget/gross/verdict,8,8
@@ -623,58 +602,40 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 256018,tt1964837,Kempe Gowda,2011-03-11,kannada,budget;verdict,not found in web search,"Wiki gross ₹8 Cr (Bangalore Mirror) = stored; 'one of the highest-grossing Kannada films of 2011' is a ranking, not a verdict",8,9
 1054729,,Facebook,2011-02-14,tamil,budget;revenue;verdict,not found in web search,Atlee short film (pre-Raja Rani); no theatrical box office,8,9
 69927,tt1732724,Parama Veera Chakra,2011-01-12,telugu,budget;revenue;verdict,not found in web search,Current Wiki infobox empty; bharatpedia mirror (old Wiki copy) shows budget ₹32 Cr / box office ₹7 Cr / 'Flop of the year' but unsourced on current Wiki — not used,8,9
-88452,tt1772332,Pappu Can't Dance Saala,2010-12-16,hindi,budget,not found in web search,"BH India nett ₹0.37 Cr, Flop (BH lists 16 Dec 2011; Wiki 'decent collections' is not a verdict)",8,9
 229430,tt2359746,Pancharangi,2010-09-04,kannada,budget;revenue;verdict,not found in web search,Wiki no figures; Yogaraj Bhat Wiki 'fared well at the box-office' / DH 'share of success' too vague for a verdict; IMDb budget estimate not used,8,10
 63469,tt1666308,Golimaar,2010-05-27,telugu,budget;revenue,not found in web search,"Wiki 'became a commercial success'. FLAG: Wiki gross is ₹12 Cr distributors' share (T2BLive); stored revenue $2,570,143 ≈ ₹12 Cr = that share, not gross — left",8,10
 66491,tt1582584,Rama Rama Krishna Krishna,2010-05-12,telugu,budget;revenue;verdict,not found in web search,"Wiki 'fared well' vs profile page 'failed to make a mark' — conflict, NULL; no figures",8,10
 215313,tt1671478,Pramani,2010-03-26,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures; old Wiki revision '₹2.1 Cr share after 25 days' (partial share) not used,8,10
-340729,tt1607607,Mittal v/s Mittal,2010-03-26,hindi,budget,not found in web search,"BH India nett ₹0.20 Cr, Flop; Wiki 'box office failure' agrees",8,10
-158736,tt1612761,Idiot Box,2010-03-19,hindi,budget,not found in web search,"BH India nett ₹0.03 Cr, Flop (Wiki 'Idiot Box (film)' is a 1996 Australian film — not this one)",8,11
 282607,tt13730042,Sugreeva,2010-02-26,kannada,budget;revenue;verdict,not found in web search,Wiki no budget/gross/verdict,8,11
-33384,tt1471247,Road to Sangam,2010-01-29,hindi,budget;revenue;verdict,not found in web search,"Wiki no figures; not in BH 2010 table; a song blog says it 'miserably failed' per BOI (BOI down, unverified) — not used",8,11
 50093,tt1421036,Goa,2010-01-29,tamil,budget;revenue;verdict,not found in web search,Wiki 'number one at Chennai box office in opening week' / 'did fairly well' — not a verdict; mirror (wikimili) budget ₹6 Cr / gross ₹17 Cr not on current Wiki — not used,8,11
 63635,tt1570732,Vettaikaaran,2009-12-18,tamil,budget;revenue,not found in web search,Wiki: 'a commercial success and completed a 100-day theatrical run'; no figures,8,12
 1181508,tt1324074,Ek Tho Chance,2009-12-11,hindi,budget;revenue;verdict,not found in web search,"Wiki: festival screening only (IFFK 2009), no theatrical release — no box office",8,12
-22291,tt1508950,Baabarr,2009-09-11,english,budget,not found in web search,Wiki body: 'managed to gross ₹15.1 million & determined a Flop',8,12
 23788,tt1579526,Anjaneyulu,2009-08-12,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; reviews only,8,12
 1188332,tt9160406,Azhagar Malai,2009-08-07,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,8,13
-20452,tt0453501,Perfect Mismatch,2009-07-24,hindi,budget;revenue;verdict,not found in web search,Wiki 'didn't perform well at the box office in India' — not a verdict; not in BH 2009 table,8,13
-435203,tt1454567,Team: The Force,2009-06-05,hindi,budget;revenue;verdict,not found in web search,"No Wiki article, not in BH 2009 table; Sohail Khan film appears never to have had a theatrical release",8,13
 63664,tt1496872,Siva Manasula Sakthi,2009-02-14,tamil,budget;revenue,not found in web search,Wiki lead: 'became highly successful at the box office'; no figures,8,13
 24383,tt1451763,Villu,2009-01-12,tamil,budget;revenue,not found in web search,"Wiki lead: 'It was a hit at the box office', 'a success at the domestic box office'; no figures",8,13
-1738252,tt1199490,Bad Luck Govind,2009-01-09,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in BH 2009 table,8,14
 173998,tt13576046,Sesh Sanghat,2009-01-01,bengali,budget;revenue;verdict,not found in web search,No Wiki article (Bengali art film),8,14
 234556,tt1640146,Lollipop,2008-12-21,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,8,14
 23735,tt1087526,Tandoori Love,2008-10-10,german,budget;revenue;verdict,not found in web search,Swiss film; Wiki no figures/verdict,8,14
 54389,tt1308015,Saroja,2008-09-05,tamil,budget;revenue,not found in web search,Wiki lead: 'was a commercial success'; no figures,8,14
-710679,tt1283926,My Friend Ganesha 2,2008-08-22,hindi,budget;revenue;verdict,not found in web search,"No own Wiki article (redirects to My Friend Ganesha, whose ₹1.59 Cr / BOI flop is the 2007 first film — not used); not in BH 2008 table",8,15
 115064,tt1479380,Supermen of Malegaon,2008-06-16,english,budget,not found in web search,"Documentary; theatrical release 29 Jun 2012 (DB date 2008 festival); BH India nett ₹0.04 Cr, Flop",8,15
-499257,tt1217608,Yaar Meri Zindagi,2008-04-22,hindi,budget;revenue;verdict,not found in web search,Long-delayed 2008 release; Wiki no figures; not in BH 2008 table,8,15
 293135,tt1043717,Migration,2008-03-07,hindi,budget;revenue;verdict,not found in web search,Mira Nair AIDS Jaago short film — no theatrical box office,8,15
-647873,tt1199534,Tulsi: Mathrudevobhava,2008-01-18,hindi,verdict,not found in web search,"Wiki budget ₹1 Cr / gross '₹1,20 lakh' (BOI) read as ₹1.2 lakh = stored; no verdict",8,15
 63673,tt1034431,Bheema,2008-01-15,tamil,budget;revenue,not found in web search,"Wiki: 'considered above average'; Chennai-only ₹3 Cr and UK+Malaysia $637,779 are partial — not stored",8,16
-544282,tt1152845,Showbiz,2007-12-28,english,budget;revenue;verdict,not found in web search,Hindi film; Wiki no figures; not in BH 2007 table; BH movie page has no data,8,16
 1242164,tt0979902,Jaane Bhi Do Yaaro,2007-12-28,english,budget;revenue;verdict,not found in web search,Wiki 'Jaane Bhi Do Yaaron (2007 film)' no figures; not in BH 2007 table,8,16
 69505,tt0977625,Oram Po,2007-11-30,tamil,budget;revenue,not found in web search,Wiki: 'a decent success at the box office' → avg (moderate success),8,16
 946555,tt1412775,Tsunami 81,2007-11-14,hindi,budget;revenue;verdict,not found in web search,"No Wiki article; stored tmdb budget $78,500 unverified, left",8,16
 1137123,tt5618668,Geleya,2007-10-19,kannada,budget;revenue,not found in web search,Wiki lead: 'The film is a box office success'; no figures,8,17
 458076,tt1281838,Godfather The Legend Continues,2007-10-14,urdu,budget;revenue;verdict,not found in web search,Wiki 'Godfather (2007 film)' (Pakistani Urdu) no figures,8,17
 7861,tt0425326,Outsourced,2007-09-28,english,budget;verdict,not found in web search,"Wiki gross $703,042 worldwide (BOM) = stored; no budget/verdict",8,17
-205032,tt0845494,Nanhe Jaisalmer: A Dream Come True,2007-09-13,hindi,budget;revenue;verdict,not found in web search,Wiki no figures ('might not be a big bait at the box office' is a review); not in BH 2007 table,8,17
-1639972,tt1095038,Victoria No. 203,2007-08-31,hindi,budget;revenue;verdict,not found in web search,Wiki no figures; BH movie page 'lifetime ₹2 cr' belongs to the 1972 original — not used,8,17
-50187,tt0886505,Kaafila,2007-08-10,hindi,budget;revenue;verdict,not found in web search,Wiki no figures; not in BH 2007 table,8,18
 339531,tt0988036,Fear,2007-08-01,hindi,revenue;verdict,not found in web search,Wiki budget ₹2 Cr (TOI) = stored; released online/PC (afaqs) — no box office,8,18
 462352,tt0476761,Deha,2007-01-01,hindi,budget;revenue;verdict,not found in web search,No Wiki article (Deha is disambiguation); BH movie page no data,8,18
 1342089,tt2459174,Salt 'n' Pepper,2007-01-01,hindi,budget;revenue;verdict,not found in web search,No Wiki article,8,18
 48532,tt1024645,Ek Jind Ek Jaan,2006-12-01,punjabi,budget;revenue;verdict,not found in web search,"Wiki stub, no figures",8,18
 1226176,tt0497424,Offshore,2006-10-23,english,budget;revenue;verdict,not found in web search,No Wiki article (US indie),8,19
-321262,tt0489582,Utthaan,2006-10-13,hindi,budget;revenue;verdict,not found in web search,Wiki no figures; not in BH 2006 table; BH movie page no data,8,19
 228699,tt0430193,Hope and a Little Sugar,2006-10-06,english,budget;revenue;verdict,not found in web search,Wiki no figures,8,19
 63815,tt0485486,Something Something… Unakkum Enakkum,2006-06-18,tamil,budget;revenue,not found in web search,"Wiki: 'went on to become profitable, and scored the third straight success for the actor-director duo'; no figures",8,19
 933064,tt1483815,Vidhyaarthi: The Power of Students,2006-06-18,hindi,budget;revenue;verdict,not found in web search,"No Wiki article; stored tmdb budget $700,000 unverified, left",8,19
 226200,tt0471862,Pournami,2006-04-20,telugu,budget;revenue,not found in web search,"Wiki: 'was a commercial failure'. FLAG: Wiki gross is ₹9 Cr distributors' share (News18); stored revenue $1,994,018 ≈ ₹9 Cr = that share, not gross — left",8,20
-1021452,tt0833537,Souten: The Other Woman,2006-03-24,english,budget;revenue;verdict,not found in web search,Hindi film; Wiki no figures; not in BH 2006 table,8,20
-570255,,Holiday,2006-02-10,hindi,budget;revenue;verdict,not found in web search,Wiki no figures; not in BH 2006 table; BH movie page no data,8,20
 115070,tt0925058,Asthram,2006-02-05,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Astram (film)': only the Hindi dub 'was a disaster' — not the Telugu original's verdict, NULL",8,20
 69625,tt0495044,Saravana,2006-02-01,tamil,budget;revenue,not found in web search,Wiki: 'released on 14 January 2006 ... became a commercial success'; no figures,8,20
 117051,tt0483980,Chukkallo Chandrudu,2006-01-14,telugu,budget;revenue,not found in web search,Wiki: 'emerged as a commercial failure at the box office'; no figures,9,1
@@ -682,15 +643,9 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 48759,tt0455767,Sivakasi,2005-11-01,tamil,budget;revenue,not found in web search,Wiki: 'ran for 150 days in Tamil Nadu theatres and performed commercially well'; no figures,9,1
 79210,tt0843328,Chatrapathi,2005-09-30,telugu,revenue,not found in web search,"Wiki: 'emerged as a blockbuster, collecting an estimated distributors' share of ₹19.25 crore against a budget of ₹12.5 crore'. FLAG: stored revenue $4,386,465 ≈ ₹19.25 Cr = distributors' share, not gross — left",9,2
 596092,tt0929620,Political Rowdy,2005-09-29,telugu,budget;revenue;verdict,not found in web search,"Wiki no figures, no verdict",9,2
-216696,tt0473567,Yahaan,2005-07-29,hindi,revenue;verdict,not found in web search,Wiki infobox budget ₹3.5 crore (Telegraph); 'performed poorly at box office' is not a verdict; not in BH 2005 table,9,2
 148839,tt0475735,Super,2005-07-20,telugu,budget;revenue;verdict,not found in web search,Wiki 'average grosser' sentence is ambiguous (reads as the 2007 Hindi version 'Robbery') — NULL; no figures,9,2
 279533,tt0847889,Narasimhudu,2005-05-20,telugu,revenue,not found in web search,Wiki: 'significant budget of approximately ₹20 crore'; 'leading the film to become a box-office bomb',9,2
-446688,tt0436451,Jo Bole So Nihaal,2005-05-13,hindi,budget,not found in web search,"BH 2005 table: lifetime India nett ₹8.22 Cr, Flop; Wiki no figures",9,3
 31364,tt0390614,Waqt,2005-04-22,hindi,verdict,not found in web search,Wiki infobox ₹16 Cr / ₹42.48 Cr WW. Verdict conflict: Wiki 'box-office success' vs BH 2005 'Average' (nett ₹20.25 Cr) — NULL,9,3
-640982,tt0437279,Khamoshh... Khauff Ki Raat,2005-04-15,hindi,verdict,not found in web search,Wiki (BOI) ₹4.50 Cr / ₹1.04 Cr; no verdict stated; not in BH 2005 table,9,3
-586077,tt0466367,Chand Sa Roshan Chehra,2005-03-04,hindi,verdict,not found in web search,Wiki ₹1.50 Cr / ₹52.53 lakh; 'underperformed' is not a verdict; not in BH 2005 table,9,3
-238674,tt0445022,Jurm,2005-02-10,hindi,budget,not found in web search,"BH 2005 table: India nett ₹4.24 Cr, Flop; Wiki: 'the film failed at the box office'",9,4
-140231,tt0416712,Elaan,2005-01-14,hindi,budget,not found in web search,"BH 2005 table: India nett ₹7.52 Cr, Flop; Wiki no figures/verdict",9,4
 1601762,,Raktha Kashmira,2025-12-21,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; no sacnilk page,9,4
 1074048,tt26319590,Revolver Rita,2025-11-28,tamil,budget;verdict,not found in web search,"sacnilk: India gross ₹4.76 Cr over 21 days (figures till 18 Dec 2025), overseas '—'; Wiki no figures/verdict; Netflix from 26 Dec 2025",9,4
 885206,tt15554778,Madhuram Jeevamruthabindu,2025-10-31,malayalam,budget;revenue;verdict,not found in web search,Anthology; no Wiki article; no sacnilk page,9,4
@@ -698,21 +653,17 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1280611,tt28019966,Paradha,2025-08-22,telugu,budget,not found in web search,"sacnilk India gross ₹1.22 Cr over 10 days (till 31 Aug 2025, day 10 ₹1 L), overseas '—'; Wiki 'It became a box office bomb.'",9,5
 1182487,tt35613198,Sahasam,2025-08-08,malayalam,budget;verdict,not found in web search,"sacnilk India gross ₹2.47 Cr over 28 days (till 4 Sep 2025), overseas '—'; Wiki no figures/verdict",9,5
 1290709,tt33291804,Meesha,2025-08-01,malayalam,budget;verdict,not found in web search,"sacnilk India gross ₹36 L over 10 days (till 10 Aug 2025, day 10 ₹1 L), overseas '—'; Wiki no figures/verdict",9,5
-1005156,tt18939362,Nikita Roy,2025-07-18,hindi,budget,not found in web search,"sacnilk India gross ₹1.44 Cr over 14 days (till 31 Jul 2025), overseas '—'; Wiki 'did not recoup its budget and is considered a box office failure'; BH 2025 Flop (nett ₹0.89 Cr)",9,6
 1305322,tt30177354,Phoenix,2025-07-04,tamil,budget;verdict,not found in web search,"stored tmdb revenue $4,001 implausible → sacnilk India gross ₹4.26 Cr over 132 days (till 12 Nov 2025), overseas '—'; Wiki no figures/verdict",9,6
 1433112,tt37023881,Love Marriage,2025-06-27,tamil,budget;verdict,not found in web search,"sacnilk India gross ₹1.35 Cr over 14 days (till 10 Jul 2025), overseas '—'; Wiki 'average reviews' is critical, not a verdict",9,6
 1101684,tt27170332,Written & Directed by God,2025-06-05,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; no sacnilk page,9,6
 1132152,tt27802912,Ace,2025-05-23,tamil,budget,not found in web search,"sacnilk India gross ₹10.55 Cr over 27 days (till 18 Jun 2025), overseas '—'; Wiki 'The film was a box-office bomb.'; Prime Video from 13 Jun 2025",9,6
-1221198,tt28377588,Ground Zero,2025-04-25,hindi,budget,not found in web search,Wiki gross ₹9.25–10.35 Cr → midpoint 9.8 (stored); sacnilk India gross ₹8.39 Cr/38 days; BH 2025 Flop (nett ₹7.54 Cr); Wiki states no verdict,9,7
 1241725,tt28622758,Jack,2025-04-10,telugu,budget;verdict,not found in web search,"sacnilk India gross ₹9.30 Cr over 15 days (till 24 Apr 2025), overseas '—'; Wiki no figures/verdict",9,7
-1428777,tt33097837,Tumko Meri Kasam,2025-03-21,hindi,budget,not found in web search,"sacnilk India gross ₹1.35 Cr over 9 days (till 29 Mar 2025), verdict Disaster; BH 2025 Flop (nett ₹0.50 Cr); Wiki 'disappointed at the box office'",9,7
 1393676,tt29464308,Kingston,2025-03-07,tamil,verdict,not found in web search,"Wiki budget est. ₹20 Cr (stored); stored revenue ₹5.35 Cr est. cited to a Day-7 article → sacnilk India gross ₹5.50 Cr over 20 days (till 26 Mar 2025), overseas '—'; no verdict",9,7
 1062715,tt24330430,Sabdham,2025-02-28,tamil,budget,not found in web search,"sacnilk India gross ₹9.25 Cr over 41 days (till 9 Apr 2025), overseas '—'; Wiki 'It performed moderately at the box office.' → avg; stored tmdb budget $2.5M unverified, left",9,7
 1103756,tt27217053,Aghathiyaa,2025-02-28,tamil,budget;verdict,not found in web search,"sacnilk India gross ₹3.65 Cr over 28 days (till 27 Mar 2025), overseas '—'; Wiki no figures/verdict",9,8
 1290218,tt32607369,Painkili,2025-02-14,malayalam,verdict,not found in web search,"Wiki budget ₹5 Cr (TOI; stored); sacnilk India gross ₹4.13 Cr over 41 days (till 26 Mar 2025), overseas '—'; no verdict",9,8
 1275462,tt18926478,Irani Chai,2024-12-14,hindi,budget;revenue;verdict,not found in web search,"No Wiki article; no sacnilk page; not in BH 2024 table; stored tmdb budget $778,000 unverified, left",9,8
 970231,tt23833570,Her,2024-11-29,malayalam,budget;revenue;verdict,not found in web search,"Direct-to-streaming (ManoramaMAX, 29 Nov 2024) — no box office",9,8
-1052381,tt13562602,Naam,2024-11-22,hindi,budget,not found in web search,"sacnilk India gross ₹1.19 Cr over 33 days (WW header ₹92 L is below India gross — ignored), verdict Disaster; BH 2024 'Pending'; Wiki no figures",9,9
 1233327,tt28258888,Matka,2024-11-14,telugu,budget;verdict,not found in web search,sacnilk India gross ₹4.61 Cr over 21 days (WW header ₹20 L wrong); Wiki 'underperformed' is not a verdict,9,9
 1148172,tt28075881,Do Patti,2024-10-24,hindi,budget;revenue;verdict,not found in web search,"Direct-to-streaming (Netflix, 25 Oct 2024) — no box office",9,9
 1237537,tt31100572,Utsavam,2024-10-11,telugu,budget;verdict,not found in web search,"sacnilk India gross ₹76 L over 14 days, overseas '—'; Wiki no figures/verdict",9,9
@@ -732,7 +683,7 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 703701,tt15427934,O2,2024-04-19,kannada,budget;verdict,not found in web search,"sacnilk India gross ₹42 L over 25 days, overseas '—'; Wiki no figures/verdict",9,12
 1219162,tt28443842,Sanju Weds Geetha 2,2024-04-01,kannada,budget;verdict,not found in web search,"sacnilk (page dated 2025, 173 days to 1 Jul 2025 → released Jan 2025; DB date 2024-04-01, so 2024 rate used) India gross ₹1.32 Cr, overseas '—'; Wiki search hit the 2011 original only",9,12
 1077696,,Thankamani,2024-03-07,malayalam,budget;verdict,not found in web search,Wiki final run: Kerala ₹3.4 Cr + rest of India ₹27 L + overseas ₹90 L = ₹4.57 Cr; 'underperformed' is not a verdict,9,13
-1034158,tt22152120,Operation Valentine,2024-03-01,telugu,budget;verdict,not found in web search,sacnilk WW ₹10.30 Cr over 28 days (India gross ₹9.80 Cr); Wiki no figures/verdict,9,13
+1034158,tt22152120,Operation Valentine,2024-03-01,telugu,verdict,not found in web search,"sacnilk WW ₹10.30 Cr over 28 days (India gross ₹9.80 Cr); Wiki no figures/verdict | run 9 b3 recheck; BOI recheck (Operation Valentine (2024), release 1 Mar 2024): Budget 45,00,00,000; Hindi-version BOI page; budget covers the bilingual film; Hindi-only verdict not used",9,13
 1145807,tt28253200,Thundu,2024-02-16,malayalam,budget;verdict,not found in web search,"sacnilk India gross ₹86 L over 16 days, overseas '—'; Wiki no figures/verdict",9,13
 1393817,tt31579674,Thappinchuku Thiruguvadu Dhanyudu Sumathi,2024-01-23,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; Aha streaming 28 Nov 2024,9,13
 1216909,tt29740052,Ole Aale,2024-01-05,marathi,budget;verdict,not found in web search,Wiki gross ₹8.33 Cr (stored); sacnilk India gross ₹8.60 Cr/220 days; no verdict,9,13
@@ -769,7 +720,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 862618,tt15251536,Kaapa,2022-12-22,malayalam,verdict,not found in web search,stored ₹17 Cr was Wiki's TOI 'crosses Rs 17 crores' running total → sacnilk WW ₹18.30 Cr over 18 days (till 8 Jan 2023; India gross ₹13.59 Cr + overseas ₹4.71 Cr); sacnilk budget ₹14.00 Cr; no verdict; Netflix 19 Jan 2023,9,20
 1601385,tt32359108,Khudiram Bose,2022-12-15,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; no sacnilk page,9,20
 850837,tt15048614,Blurr,2022-12-09,hindi,budget;revenue;verdict,not found in web search,"Direct-to-streaming (ZEE5, 9 Dec 2022) — no box office",9,20
-881983,tt15567704,Salaam Venky,2022-12-09,hindi,revenue,not found in web search,"sacnilk budget ₹15.00 Cr; BH 2022 Flop (nett ₹1.25 Cr). FLAG: stored Wiki gross ₹1.99 Cr vs sacnilk 7-day WW ₹3.36 Cr — conflict, left",9,20
 891354,tt14850886,Panchathantram,2022-12-09,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; sacnilk page has no data,10,1
 1055536,tt21873708,Repeat,2022-12-01,telugu,budget;revenue;verdict,not found in web search,"Direct-to-streaming (Disney+ Hotstar, 1 Dec 2022; remake of Dejavu) — no box office",10,1
 927325,tt18306232,1744 White Alto,2022-11-18,malayalam,budget;revenue,not found in web search,Wiki: 'became a box office bomb'; no figures; sacnilk no data (default Disaster ignored),10,1
@@ -787,7 +737,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 784940,tt13825336,Good Luck Jerry,2022-07-29,hindi,budget;revenue;verdict,not found in web search,"Direct-to-streaming (Disney+ Hotstar, 29 Jul 2022) — no box office",10,4
 866437,tt13748326,The Quarrel,2022-07-29,malayalam,budget;revenue;verdict,not found in web search,"The Quarrel = Vazhakku; Wiki no figures/verdict (festival film, no tracked theatrical run)",10,4
 1005167,tt21309170,Chhalla Mud Ke Nahi Aaya,2022-07-29,punjabi,revenue;verdict,not found in web search,"Wiki budget $1.5 million (confirms stored); only opening-weekend overseas figures; sacnilk 7 days only (India gross ₹5.04 Cr) — partial, not stored; no verdict",10,5
-965653,tt13022984,Khuda Haafiz Chapter 2: Agni Pariksha,2022-07-08,hindi,budget,not found in web search,Wiki gross ₹20.33 Cr (confirms stored); BH 2022 Flop (lifetime ₹14.33 Cr); Wiki no verdict; no budget,10,5
 993711,tt21041972,Dear Vikram,2022-06-30,kannada,budget;revenue;verdict,not found in web search,"Direct-to-streaming (Voot Select, 30 Jun 2022, per Wiki citing New Indian Express) — no box office",10,6
 972830,tt12345200,Vezham,2022-06-24,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; sacnilk no data,10,6
 866439,tt13913068,Vaashi,2022-06-17,malayalam,budget;verdict,not found in web search,Wiki gross ₹1.8 Cr (confirms stored); no budget/verdict; no sacnilk page,10,6
@@ -822,7 +771,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 587186,tt10888824,Teddy,2021-03-12,tamil,budget;revenue;verdict,not found in web search,"Direct-to-streaming (Disney+ Hotstar, 12 Mar 2021) — no box office",10,13
 676159,tt11143176,Inspector Vikram,2021-02-05,kannada,budget,not found in web search,"sacnilk India gross ₹1.30 Cr over 21 days (till 25 Feb 2021; overseas '—'), verdict Flop; Wiki no figures/verdict",10,13
 766426,tt13361920,Anaganaga O Athidhi,2020-11-20,telugu,budget;revenue;verdict,not found in web search,"Direct-to-streaming (aha, 20 Nov 2020) — no box office",10,14
-738567,tt10731264,Suraj Pe Mangal Bhari,2020-11-15,hindi,budget,not found in web search,Wiki est. gross ₹4.32 Cr (confirms stored); BH 2020 Flop (lifetime ₹3.90 Cr); Wiki no verdict; no budget,10,14
 764245,tt13352420,Naanga Romba Busy,2020-11-14,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,10,14
 764667,tt13449672,Dhira,2020-11-14,telugu,budget;revenue;verdict,not found in web search,Wiki (Dhira (film)) no figures/verdict,10,14
 595228,tt10189514,Soorarai Pottru,2020-11-12,tamil,budget;revenue;verdict,not found in web search,"Direct-to-streaming (Amazon Prime Video, 12 Nov 2020) — no box office",10,14
@@ -882,7 +830,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 415193,tt6186910,Imaikkaa Nodigal,2018-08-30,tamil,budget;revenue,not found in web search,Wiki lead: 'was a commercial success'; no figures,11,6
 544758,tt8396272,Aatagallu,2018-08-24,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,11,7
 278358,tt2677064,Vishwaroopam II,2018-08-09,tamil,budget;verdict,not found in web search,"Wiki infobox est. gross ₹50 Cr (Times of India); 'one of the highest grossing Tamil films of 2018' is a ranking, not a verdict; no budget",11,7
-440792,tt3224288,Beyond the Clouds,2018-04-20,hindi,budget,not found in web search,"BH 2018 India lifetime nett ₹1.63 Cr, Flop; Wiki (Beyond the Clouds (2017 film)) no figures/verdict",11,7
 1577409,tt8034094,Krishnatulasi,2018-04-20,kannada,budget;revenue;verdict,not found in web search,No Wiki article,11,7
 611321,tt8431210,Buckasura,2018-04-06,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,11,7
 1008301,,The Other Way,2018-03-20,hindi,budget;revenue;verdict,not found in web search,Short film released on YouTube (20 Mar 2018) — no box office,11,8
@@ -929,7 +876,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 389231,tt5565818,Ambarsariya,2016-03-25,punjabi,budget;revenue,not found in web search,"Wiki: 'Film was blockbuster hit with a box office collection of ₹7 crore from four-day run in India'. Infobox est. gross ₹24.88 Cr is cited to a BOI article of 4 Apr 2016 ('Continues Strong Run', day 10) — running total; stored value equals it, flagged, left; no budget",11,17
 386587,tt5565670,Ardaas,2016-03-11,punjabi,budget;revenue;verdict,not found in web search,"Wiki no figures/verdict; stored tmdb $360,000 unverified",11,17
 408014,tt5914668,Guntur Talkies,2016-03-04,telugu,budget;revenue,not found in web search,Wiki: 'released on 4 March 2016 and was a sleeper hit'; no figures,11,17
-370870,tt5121000,Aligarh,2016-02-26,hindi,budget,not found in web search,"BH 2016 India lifetime nett ₹2.5 Cr, Flop; Wiki no figures/verdict",11,17
 460562,tt4956378,Parapancha,2016-01-15,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,11,18
 376998,tt4417510,Nenu.. Sailaja...,2016-01-01,telugu,budget,not found in web search,Wiki est. gross ₹40.1 Cr (IBTimes 'final total WW collections'; confirms stored); 'This film was a commercial success'; no budget,11,18
 713115,tt5299736,Zoya,2016-01-01,english,budget;revenue;verdict,not found in web search,No Wiki article for the film (search hits are people named Zoya),11,18
@@ -947,7 +893,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 338927,tt4930814,Double Barrel,2015-08-28,malayalam,revenue,not found in web search,Wiki budget ₹16 Cr (New Indian Express; confirms stored); lead links 'disappointed at the box office' to Box-office bomb; no gross,12,1
 1356595,tt4971130,Chimes,2015-08-14,hindi,budget;revenue;verdict,not found in web search,"No Wiki article, not in BH 2015 table — likely a short / non-theatrical title",12,1
 352573,tt4686500,Ayal Njanalla,2015-07-31,malayalam,budget;revenue,not found in web search,Wiki lead: 'opened to mixed reviews and average performance at the box office'; no figures,12,1
-336203,tt4635372,Masaan,2015-07-24,hindi,budget,not found in web search,"BH 2015 India lifetime nett ₹3.65 Cr, Flop; Wiki infobox budget/gross empty, no verdict",12,1
 337520,tt4718728,Gadaar: The Traitor,2015-05-29,punjabi,budget;revenue;verdict,not found in web search,Wiki 'Gaddar: The Traitor' has no budget/gross/verdict,12,2
 341900,tt4183448,Ivide,2015-05-29,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,2
 322178,tt3875512,Vaastu Prakaara,2015-05-01,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,2
@@ -978,13 +923,11 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 415908,tt2208248,Machhli Jal Ki Rani Hai,2014-06-13,hindi,budget,not found in web search,"BH 2014 India lifetime nett ₹1.35 Cr, Flop; Wiki no figures",12,7
 263494,tt3465996,Vaayai Moodi Pesavum,2014-04-25,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,7
 266315,tt3732110,Jatt James Bond,2014-04-25,punjabi,budget;verdict,not found in web search,Wiki gross ₹35 Cr (confirms stored); no budget/verdict,12,8
-264186,tt3672618,Dekh Tamasha Dekh,2014-04-18,hindi,budget,not found in web search,"BH 2014 India lifetime nett ₹0.18 Cr, Flop",12,8
 1129983,,Bombay Mirror,2014-04-17,hindi,budget;revenue;verdict,not found in web search,No Wiki article (bulk search matched Bombay 1995); not in BH 2014 table — festival / small release,12,8
-260318,tt3531604,Gang of Ghosts,2014-03-21,hindi,budget,not found in web search,"Revenue corrected: stored tmdb $5,906 → BH 2014 India lifetime nett ₹1.70 Cr, Flop",12,8
 256039,tt3103410,Rangan Style,2014-02-21,kannada,budget;verdict,not found in web search,Wiki gross ₹5.2 Cr (confirms stored); no budget/verdict,12,9
 259277,tt3553516,Bramman,2014-02-21,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,9
 249772,tt2375559,1: Nenokkadine,2014-01-10,telugu,revenue,not found in web search,"Wiki budget ₹60–70 Cr → midpoint 65 (confirms stored); 'eventually became a box office failure'. Wiki gross blank; stored tmdb revenue $6,019,000 unverified (left)",12,9
-250726,tt2876408,Mr Joe B. Carvalho,2014-01-03,hindi,budget;verdict,not found in web search,BH 2014 India lifetime nett ₹3.08 Cr. Verdict conflict: BH Flop vs Wiki 'more or less managed to recover its money' → NULL. Wiki budget '₹15 million' not used (Wiki's own weekend nett ₹22.5 M exceeds it — figures garbled),12,9
+250726,tt2876408,Mr Joe B. Carvalho,2014-01-03,hindi,verdict,not found in web search,"BH 2014 India lifetime nett ₹3.08 Cr. Verdict conflict: BH Flop vs Wiki 'more or less managed to recover its money' → NULL. Wiki budget '₹15 million' not used (Wiki's own weekend nett ₹22.5 M exceeds it — figures garbled) | run 12 b1 recheck; BOI recheck (Mr. Joe B. Carvalho (2014), release 3 Jan 2014): Budget 17,00,00,000; verdict left NULL (BH Flop vs Wiki 'recovered its money')",12,9
 243706,tt3215518,Endrendrum Punnagai,2013-12-20,tamil,budget;revenue,not found in web search,"Wiki: 'became a commercial success', 'considered a sleeper hit by the trade'; no figures",12,9
 241555,tt3378266,Thagaraaru,2013-12-06,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,10
 69510,tt3107246,Irandam Ulagam,2013-11-22,tamil,budget;revenue,not found in web search,"Wiki: 'In its second week ... the film was considered a ""flop"" by Sify'; Wiki budget/gross blank — stored tmdb budget $9.2M unverified (left)",12,10
@@ -997,7 +940,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 244025,tt3129396,Jagadguru Adi Shankara,2013-08-15,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,12
 1438286,tt3112990,Bhalobasa Aaj Kal,2013-08-09,english,budget;revenue;verdict,not found in web search,Bangladeshi film; no Wiki article,12,12
 217389,tt3124456,Memories,2013-08-08,malayalam,budget;revenue,not found in web search,Wiki: 'released ... to positive reviews from critics and was a commercial success'; no figures,12,12
-1352877,,Boyss Toh Boyss Hain,2013-07-12,hindi,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; not in BH 2013 table,12,12
 234844,tt3708828,God For Sale,2013-06-28,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,12
 361778,tt4920168,Behadd,2013-06-08,urdu,budget;revenue;verdict,not found in web search,Pakistani TV film (Hum TV) — no box office,12,13
 1743279,tt38893247,Jinke Mari,2013-05-24,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,13
@@ -1014,13 +956,11 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 155518,tt2648034,Annayum Rasoolum,2013-01-04,malayalam,budget;revenue,not found in web search,Wiki: 'was also a commercial success at the box office' (IBN Live: first commercial success in Malayalam in 2013); no figures,12,15
 510832,tt1784654,The Coffin Maker,2013-01-01,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in BH 2013 table,12,15
 116647,tt2342227,Neethaane En Ponvasantham,2012-12-14,tamil,budget;revenue;verdict,not found in web search,Wiki no figures; 'enduring a good run at the box office' not mapped to a verdict; stored tmdb budget $1.82M unverified (left),12,16
-321267,tt2210576,Myoho,2012-12-14,english,budget;revenue;verdict,not found in web search,No Wiki article,12,16
 149262,tt2247129,Yeto Vellipoyindhi Manasu,2012-12-13,telugu,budget;revenue,not found in web search,"Wiki: 'received five Nandi Awards and was successful at the box office'. FLAG: stored revenue (≈₹8.5 Cr) is the Wiki infobox DISTRIBUTORS' SHARE, not gross — left",12,16
 577292,tt3054472,Idiot,2012-11-16,bengali,verdict,not found in web search,"Bengali. Wiki budget ₹2.4 Cr, gross ₹2 Cr (both 'citation needed'; confirm stored); no verdict",12,16
 151036,tt2577622,My Boss,2012-11-10,malayalam,budget;revenue,not found in web search,"Wiki: 'declared a commercial hit', 'became a commercial success'; no figures",12,16
 178549,tt2901062,Puthiya Theerangal,2012-09-26,malayalam,budget;revenue;verdict,not found in web search,"Wiki no figures/verdict; stored tmdb revenue $150,000 unverified (left)",12,17
 121598,tt1714866,Midnight's Children,2012-08-31,english,budget;verdict,not found in web search,"Wiki gross $884,100 (confirms stored); no budget/verdict",12,17
-149082,tt2387495,Jalpari,2012-08-31,hindi,budget,not found in web search,"BH 2012 India lifetime nett ₹0.04 Cr, Flop",12,17
 120150,tt2248028,Thattathin Marayathu,2012-07-06,malayalam,verdict,not found in web search,"Wiki budget ₹3 Cr (Business Standard), gross (est.) ₹18.9 Cr (IBTimes) — both confirm stored; 'second biggest grosser of 2012' is a ranking, no verdict",12,17
 117751,tt2218988,Ustad Hotel,2012-06-29,malayalam,budget,not found in web search,"Wiki: '₹10 crore from the Kerala box office and 15 crore worldwide' (confirms stored); 'The film was a commercial success', 100-day run",12,17
 664857,tt2771712,Aappan Pher Milange,2012-05-25,punjabi,budget;revenue;verdict,not found in web search,No Wiki article,12,18
@@ -1033,17 +973,14 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 214522,tt2338706,Unnam,2012-02-10,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,19
 655873,tt6413656,Tuglak,2012-02-10,english,budget;revenue;verdict,not found in web search,Kannada film; Wiki no figures/verdict,12,20
 1142463,tt2429906,Ko Ko,2012-01-13,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,12,20
-1155812,tt5211812,Jhansi Ki Rani Laxmibai,2012-01-01,english,budget;revenue;verdict,not found in web search,No Wiki article for the 2012 film (bulk search matched the 1953 Jhansi Ki Rani — not used),12,20
 281951,tt6925264,Kshetram,2011-12-29,telugu,budget;revenue;verdict,not found in web search,Wiki 'Kshetram (film)' no figures/verdict,12,20
 251918,tt2082409,Rajapattai,2011-12-23,tamil,revenue;verdict,not found in web search,Wiki budget ₹40 Cr (confirms stored); no gross/verdict on Wiki (a mirror's ₹52 Cr not used),13,1
 94935,tt2085783,Deool,2011-11-04,marathi,revenue;verdict,not found in web search,"Wiki budget ₹5.5 Cr (confirms); only first-week ₹2.5 Cr (partial, not stored); no verdict",13,1
 225179,tt2075277,Paramathma,2011-10-05,kannada,budget,not found in web search,Wiki gross ₹8 Cr (Bangalore Mirror; confirms stored); News Minute 'went on to become a big hit',13,1
-1048178,tt1368453,Chargesheet,2011-09-30,hindi,budget,not found in web search,"Wiki gross ₹0.57 million (BOI-cited; confirms stored); BH Flop, BH nett ₹0.03 Cr",13,1
 1662795,tt14465326,Paapi,2011-09-16,english,budget;revenue;verdict,not found in web search,No Wiki article; not in BH table,13,1
 79843,tt2061650,Doctor Love,2011-09-09,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,2
 224595,tt3031204,Lifeu Ishtene,2011-09-09,kannada,budget,not found in web search,Wiki gross ₹2 Cr (confirms); 'emerged as a commercial success',13,2
 124734,tt2186943,Mambattiyan,2011-09-01,tamil,budget;revenue;verdict,not found in web search,"Wiki: 'average business commercially and due to its big budget, failed to recover costs' — mixed wording, verdict left NULL",13,2
-110488,tt2028553,Stand By,2011-08-26,english,budget,not found in web search,"BH 2011 table: lifetime nett ₹0.35 Cr, Flop (bulk Wiki search matched Stand by Me — not used)",13,2
 69539,tt2022521,Rowthiram,2011-08-12,tamil,budget;revenue;verdict,not found in web search,Wiki only UK two-week ₹10.75 lakh (partial); no verdict,13,2
 545754,tt1907660,Ek Din... Achanak,2011-08-01,english,budget;revenue;verdict,not found in web search,Wiki 'Ek Din Achanak' is the 1989 Mrinal Sen film — not used; nothing found,13,3
 77024,tt2014260,Jihne Mera Dil Luteya,2011-07-29,punjabi,budget;revenue;verdict,not found in web search,Punjabi; Wiki no figures/verdict,13,3
@@ -1052,7 +989,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 278159,tt2364969,Uppukandam Brothers Back In Action,2011-06-11,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,4
 991352,tt3107840,Johny Mera Naam Preethi Mera Kaam,2011-06-03,kannada,budget;verdict,not found in web search,Wiki gross ₹4.5 Cr (Bangalore Mirror; confirms); no verdict,13,4
 71481,tt1883121,404: Error Not Found,2011-05-20,hindi,budget,not found in web search,"BH 2011: '404' lifetime nett ₹0.99 Cr, Flop",13,4
-63683,tt1918927,Luv Ka The End,2011-05-06,hindi,budget,not found in web search,"BH 2011: lifetime nett ₹5.88 Cr, Flop",13,4
 105315,tt1854518,City of God,2011-04-27,malayalam,budget;revenue,not found in web search,Wiki 'an average venture at the box office',13,4
 69508,tt1887807,Mappillai,2011-04-08,tamil,budget;revenue,not found in web search,Wiki 'a decent hit at the box office'; only opening-weekend figure,13,5
 729156,tt12700440,Dandam Dashagunam: The Police,2011-04-05,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict (review wording only),13,5
@@ -1070,7 +1006,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1055530,,The Angel,2010-07-14,tamil,budget;revenue;verdict,not found in web search,No Wiki article (Alphonse Puthren short film),13,7
 558075,tt1741538,Ley Chakka,2010-07-11,bengali,budget;revenue;verdict,not found in web search,Bengali; Wiki 'Le Chakka' no figures/verdict,13,7
 995368,tt2950478,Mr. Theertha,2010-06-25,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,8
-218710,tt1912483,The Camp,2010-06-10,hindi,budget,not found in web search,"BH 2010: lifetime nett ₹0.05 Cr, Flop; no Wiki article",13,8
 64766,tt1643224,Admissions Open,2010-05-14,english,budget,not found in web search,"BH 2010: lifetime nett ₹0.07 Cr, Flop; no Wiki article",13,8
 63414,tt1649303,Darling,2010-04-23,telugu,revenue,not found in web search,"Wiki budget ₹23 Cr (confirms); 'a commercial success'; FLAG: stored revenue ≈₹18 Cr = distributors' share, left",13,8
 63662,tt3627030,Kacheri Arambam,2010-03-19,tamil,budget;revenue;verdict,not found in web search,Wiki 'Kacheri Aarambam' no figures/verdict,13,8
@@ -1088,31 +1023,24 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 302918,tt1253583,Marega Salaa,2009-11-20,hindi,budget,not found in web search,"BH 2009: lifetime nett ₹0.13 Cr, Flop; no Wiki article",13,11
 234593,tt1666172,Robin Hood,2009-09-24,malayalam,budget;revenue,not found in web search,Wiki 'became commercially successful at the box office',13,11
 23784,tt1649404,Shankam,2009-09-11,telugu,budget;verdict,not found in web search,Wiki 'Sankham' gross ₹20 Cr (confirms); no verdict,13,11
-22159,tt1995257,Bachelor Party,2009-09-04,english,budget;revenue;verdict,not found in web search,Wiki search matched the 2008 US 'Bachelor Party 2' — not used; not in BH table,13,12
 152357,tt1530891,Kana Kanmani,2009-09-04,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,12
-21826,tt1388424,"Three: Love, Lies, Betrayal",2009-09-03,english,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; not in BH table,13,12
 48528,tt1422185,Apni Boli Apna Des,2009-08-28,punjabi,budget;revenue;verdict,not found in web search,Punjabi; no Wiki article,13,12
 80248,tt1975210,Malai Malai,2009-07-31,tamil,budget;revenue,not found in web search,Wiki 'became a commercial success',13,13
 117136,tt1985058,Dekh Bhai Dekh,2009-07-17,hindi,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; not in BH table,13,13
-21802,tt1501301,Morning Walk,2009-07-10,english,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; not in BH table,13,13
 132440,tt1601818,Current,2009-06-19,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,13
 1502697,tt14143636,Yodha,2009-06-19,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,13
-380516,tt1479857,Zor Lagaa Ke... Haiya!,2009-06-12,english,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; not in BH table,13,14
 81898,tt1473105,Prayanam,2009-05-29,telugu,budget;revenue,not found in web search,"Wiki: 'considered ""below average"" by Box Office India' → flop",13,14
 339864,tt14148980,Dubai Babu,2009-05-22,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,14
 634304,tt1935782,"Do Paise Ki Dhoop, Chaar Aane Ki Baarish",2009-05-22,hindi,budget;revenue;verdict,not found in web search,"Cannes market premiere 2009, release 2019; no figures",13,14
 60807,tt1579592,Kick,2009-05-08,telugu,budget;revenue,not found in web search,"Wiki 'a major commercial success'; FLAG: stored revenue ≈₹29 Cr = the ₹25–30 Cr distributors' share, left",13,14
 1324937,tt6440346,Narmeen,2009-04-27,hindi,budget;revenue;verdict,not found in web search,No Wiki article (short film),13,15
-59262,tt1454461,Ek: The Power of One,2009-03-27,hindi,budget,not found in web search,"Wiki gross ₹6 Cr (confirms); BH 2009 Flop, nett ₹6.31 Cr",13,15
 256159,tt2917382,Veera Madakari,2009-03-20,kannada,budget;revenue,not found in web search,Wiki 'was a blockbuster at the box office',13,15
 474998,tt1114733,Bharya Swantham Suhruthu,2009-02-27,malayalam,budget;revenue;verdict,not found in web search,No Wiki article,13,15
 226846,tt1606202,Drona,2009-02-20,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,15
-46405,tt1288644,Mere Khwabon Mein Jo Aaye,2009-02-06,hindi,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; not in BH table,13,16
 1247142,tt5618682,Birugaali,2009-02-06,kannada,budget;revenue;verdict,not found in web search,Wiki no figures; 'average reviews' is not a verdict,13,16
 85810,tt1230544,Konchem Ishtam Konchem Kashtam,2009-02-05,telugu,budget;revenue,not found in web search,"Wiki 'a commercial success'; FLAG: stored revenue ≈₹18 Cr = distributors' share, left",13,16
 115888,tt1359552,Antaheen,2009-01-23,bengali,budget;revenue;verdict,not found in web search,Bengali; Wiki no figures/verdict,13,16
 120805,tt1353033,Manjadikuru,2008-12-17,malayalam,budget;revenue;verdict,not found in web search,"IFFK 2008 premiere, theatrical 2012; Wiki no figures/verdict",13,16
-168144,tt1119188,Little Zizou,2008-11-09,english,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,17
 66219,tt6448538,Seval,2008-10-26,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,17
 474948,,How Can It Be,2008-10-03,english,budget;revenue;verdict,not found in web search,Mira Nair short (8 anthology); no box office,13,17
 15490,tt1553000,Homam,2008-08-28,telugu,budget;revenue;verdict,not found in web search,Wiki no figures; 'mixed reviews' only,13,17
@@ -1120,21 +1048,16 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 605796,tt2624946,Sanai Choughade,2008-06-20,marathi,budget;revenue;verdict,not found in web search,Marathi; Wiki no figures/verdict,13,18
 280323,tt1285131,Pandurangadu,2008-05-30,telugu,budget;revenue,not found in web search,Wiki 'became a box office bomb',13,18
 84967,tt1138482,Twenty 20,2008-05-11,malayalam,revenue;verdict,not found in web search,"Wiki budget ₹10 million (nowrunning-cited; confirms stored); FLAG: stored tmdb revenue $4.8M unverified (Wiki only first-week ₹7.54 Cr gross, Kerala share ₹10.5 Cr); no stated verdict",13,18
-41911,tt1224454,Sirf,2008-04-25,hindi,verdict,not found in web search,"Wiki budget ₹3 Cr, gross '₹55,50 lakh' = ₹0.555 Cr (both confirm); not in BH table",13,18
 69515,tt1388444,Yaaradi Nee Mohini,2008-04-04,tamil,budget;revenue,not found in web search,Wiki 'became highly successful at the box office',13,18
-192417,tt1202528,Lovesongs,2008-03-28,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in BH table,13,19
 678455,tt4260644,Inthi Ninna Preethiya,2008-02-29,kannada,budget;revenue;verdict,not found in web search,Wiki 'musical hit' refers to the soundtrack — not a verdict,13,19
 420497,tt1185256,Mr. Medhavi,2008-01-26,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,19
 137468,tt0928160,Okka Magaadu,2008-01-11,telugu,budget;revenue,not found in web search,Wiki 'The film was a box-office bomb',13,19
 69582,tt1166809,Evano Oruvan,2007-12-07,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,19
 977041,tt1105772,Prarambha,2007-09-08,kannada,budget;revenue;verdict,not found in web search,TIFF 2007 premiere; Wiki no figures/verdict,13,20
 1620172,tt8479684,Urchagam,2007-09-02,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,13,20
-25827,tt0329354,Marigold,2007-08-17,english,verdict,not found in web search,"Wiki budget ₹19 Cr, gross ₹2.29 Cr (both confirm; BOI-cited); not in BH 2007 table; no verdict",13,20
 280184,tt0924225,Hallo,2007-07-06,malayalam,budget;revenue,not found in web search,Wiki 'Hallo was a blockbuster at the box office',13,20
 115938,tt1080568,Cape Karma,2007-06-27,english,budget;revenue;verdict,not found in web search,No Wiki article,13,20
-443624,tt1083988,Journey Bombay to Goa,2007-06-06,hindi,budget;revenue;verdict,not found in web search,Wiki no figures; 'lambasted by critics' only; not in BH 2007 table,14,1
 15986,tt0458072,Provoked,2007-04-06,english,verdict,not found in web search,"Wiki budget ₹120M, gross ₹240M (both confirm stored); verdict conflict: Wiki 'did well at the UK box-office... a winner' vs BH 2007 Flop (lifetime ₹2.41 Cr) -> NULL",14,1
-269421,tt0433425,Parzania,2007-01-26,english,revenue;verdict,not found in web search,"Wiki budget US$700,000; no gross/verdict; not in BH 2007 table; not released in Gujarat",14,1
 199806,tt0493389,Annavaram,2006-12-29,telugu,budget;revenue,not found in web search,Wiki 'a moderate success at the box office' (Idlebrain 'mild success'); no figures,14,1
 69583,tt0954967,Rendu,2006-11-24,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict (critics only),14,2
 323148,tt14337938,Tananam Tananam,2006-11-24,kannada,budget;revenue;verdict,not found in web search,"Wiki 'failed to live up to the initial hype... at the box-office' = underperformed, not a verdict; no figures",14,2
@@ -1143,40 +1066,27 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 530749,tt0827695,Amma Cheppindi,2006-07-28,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,14,2
 927965,tt0981095,Thanthra,2006-07-28,malayalam,budget;revenue;verdict,not found in web search,No Wiki article (Thanthra / Thanthra_(film) 404),14,3
 8014,tt0392883,Valley of Flowers,2006-07-15,french,budget;revenue;verdict,not found in web search,"Wiki no figures/verdict; stored tmdb budget $6M / revenue $130,742 unverified (left)",14,3
-1686881,,Husn: Love & Betrayal,2006-07-14,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in BH 2006 table; no figures found,14,3
-53590,tt0813996,Alag,2006-06-16,hindi,verdict,not found in web search,"Wiki budget ₹8 Cr, gross ₹56 lakh (both confirm stored); 'earned only one-sixteenth of its budget' — no stated verdict; not in BH 2006 table",14,3
 81051,tt0813548,Godavari,2006-05-19,telugu,budget;revenue,not found in web search,Wiki 'achieved significant commercial success at the box office'; no figures,14,3
 317760,tt0470283,Dosar,2006-04-14,bengali,budget;revenue,not found in web search,Wiki 'The film was a sleeper hit at the box office'; no figures,14,4
 226837,tt1285003,Raam,2006-03-30,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,14,4
-544278,tt0819777,Jigyaasa,2006-03-10,english,budget;revenue;verdict,not found in web search,Hindi film (DB language english); Wiki no figures/verdict; not in BH 2006 table,14,4
 280188,tt1102252,Kilukkam Kilukilukkam,2006-03-02,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,14,4
-233296,tt0485466,Jawani Diwani: A Youthful Joyride,2006-01-06,hindi,budget,not found in web search,"BH 2006 table Flop, lifetime nett ₹4.72 Cr; Wiki no figures (Taran Adarsh 'a poor show')",14,4
 343061,tt0896785,Achanurangatha Veedu,2006-01-03,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict (positive reviews only),14,5
 76965,tt0497573,Sandakozhi,2005-12-16,tamil,budget,not found in web search,Wiki box office section 'a commercial success grossing $4.5 million' (stated in USD); Telugu dub distributors' share ₹2.5–3 Cr not used; no budget,14,5
 35643,tt0455309,Aaru,2005-12-09,tamil,budget;revenue,not found in web search,Wiki 'not well-received by critics but became a commercial success'; no figures,14,5
-39218,tt0485513,"Main, Meri Patni Aur Woh",2005-10-07,hindi,verdict,not found in web search,"Wiki budget ₹2.5 Cr, gross ₹3.37 Cr (both confirm stored); no verdict; not in BH 2005 table",14,5
-546865,tt0466580,Siskiyaan,2005-09-30,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in BH 2005 table,14,5
 1142460,tt3455136,Bhama Kalapam,2005-09-28,english,budget;revenue;verdict,not found in web search,No Wiki article for the 2005 film (disambiguation lists 1988/2022 films only),14,6
-549268,tt0797833,Devaki,2005-09-23,english,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; not in BH 2005 table,14,6
 158946,tt0400186,Chanthupottu,2005-08-26,malayalam,budget;revenue,not found in web search,Wiki 'a commercial success at the box office'; no figures,14,6
 1721629,tt0419499,Bhagmati – The Queen of Fortunes,2005-08-26,hindi,budget;revenue;verdict,not found in web search,Wiki no figures; Taran Adarsh 'a poor show' is a review; not in BH 2005 table,14,6
-630974,tt0479592,Hum Tum Aur Mom: Mother Never Misguides,2005-07-18,hindi,budget;revenue;verdict,not found in web search,No Wiki article (only 2005 list entry); not in BH 2005 table,14,7
 230097,tt0463664,Police,2005-06-23,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,14,7
-202635,tt0438981,Silsiilay,2005-06-17,hindi,budget;revenue;verdict,not found in web search,Wiki no figures; Taran Adarsh review wording only; not in BH 2005 table,14,7
 165195,tt0438888,Kaalpurush,2005-06-15,bengali,budget;revenue;verdict,not found in web search,Wiki (Kaalpurush_(2005_film)) no figures/verdict,14,8
 115066,tt0431776,Andarivaadu,2005-06-04,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,14,8
 77081,tt0458184,Ullam Ketkumae,2005-06-03,tamil,budget;revenue,not found in web search,Wiki 'became a commercial success... pundits describing the film as a super hit'; no figures,14,8
-20132,tt0415908,Kaal,2005-04-29,hindi,budget,not found in web search,Wiki gross ₹28.5 Cr (confirms stored); Wiki 'an average success' and BH 2005 Average (lifetime nett ₹19.09 Cr) agree; no budget,14,8
 279461,tt0459554,Subash Chandra Bose,2005-04-22,telugu,budget;revenue,not found in web search,Wiki 'a disaster at the box office' / 'became a flop'; no figures,14,8
 69587,tt0453188,Priyasakhi,2005-04-14,tamil,budget;revenue;verdict,not found in web search,Wiki no figures/verdict,14,9
 137303,tt0419992,My Brother... Nikhil,2005-03-25,hindi,budget;verdict,not found in web search,Wiki box office ₹5 lakh (confirms stored); no budget/verdict; not in BH 2005 table,14,9
 1013454,,7 Aatankwadi,2005-03-23,english,budget;revenue;verdict,not found in web search,No Wiki article; not in BH 2005 table,14,9
-523197,tt0497620,Fun: Can Be Dangerous Sometimes,2005-02-25,hindi,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; not in BH 2005 table,14,10
 21905,tt0409527,Shabd,2005-02-04,hindi,verdict,not found in web search,"Wiki budget Rs 7 Cr, gross Rs 12.08 Cr (both confirm stored); verdict conflict: Wiki 'below expectations... despite being profitable' vs BH 2005 Flop (lifetime nett ₹5.47 Cr) -> NULL",14,10
 74154,tt0455663,Nuvvostanante Nenoddantana,2005-01-14,telugu,budget;revenue,not found in web search,Wiki 'one of the biggest hits of 2005... a blockbuster in Telugu cinema'; no figures,14,10
-311142,tt0442855,Vaada,2005-01-07,hindi,budget,not found in web search,"BH 2005 table Flop, lifetime nett ₹5.41 Cr; Wiki (Vaada_(2005_film)) no figures/verdict",14,10
 311545,tt1830453,1:1.6 An Ode to Lost Love,2005-01-01,hindi,budget;revenue;verdict,not found in web search,"No Wiki article; NFDC festival film (IFFI 2005), no theatrical figures",14,10
-587330,tt0485551,Time Pass,2005-01-01,hindi,budget;revenue;verdict,not found in web search,"No Wiki article; not in BH 2005 table (BH/filmibeat release date 3 Jun 2005, DB 2005-01-01)",14,11
 1566740,tt28199950,Seetha Payanam,2026-02-14,telugu,budget;verdict,not found in web search,"sacnilk India gross ₹1.79 Cr (21-day run, figures till 5 Mar 2026; WW header = India, overseas —); Wiki no figures/verdict",14,11
 1054493,tt34383084,Pennum Porattum,2026-02-13,malayalam,budget;verdict,not found in web search,sacnilk India gross ₹1.12 Cr (28-day table; overseas —); Netflix rights pre-sold; Wiki no figures/verdict,14,11
 1557961,tt32447918,Bank Of Bhagyalakshmi,2025-11-27,kannada,budget;verdict,not found in web search,"sacnilk India gross ₹55 L (14 days, figures till 10 Dec 2025; overseas —); Wiki no figures/verdict",14,11
@@ -1190,14 +1100,12 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1434580,tt32827713,Thalaivan Thalaivii,2025-07-23,tamil,revenue,not found in web search,"Wiki budget 'est. ₹25 crore' confirms stored; Wiki 'emerged as a commercial success' (Koimoi closing 'hit verdict'); revenue conflict flagged, left: stored ≈₹110 Cr = Wiki 'est. ₹110 crore' (TOI listicle) vs sacnilk WW ₹85.78 Cr (49 days) / Koimoi closing ₹88.04 Cr",14,13
 1044944,tt23458804,JSK - Janaki V vs State of Kerala,2025-07-17,malayalam,budget;verdict,not found in web search,"sacnilk India gross ₹6.50 Cr (22 days, till 7 Aug 2025; overseas — ; BOM intl $179,205 not added); Wiki no figures/verdict; Koimoi day-7 'fails to make an impact' not a verdict",14,14
 1135447,tt34180853,Apoorva Puthranmar,2025-07-11,malayalam,budget;verdict,not found in web search,"sacnilk (Apoorva Puthranmaar) India gross ₹51 L (14 days, till 31 Jul 2025; overseas —); no Wiki article",14,14
-1312559,tt32832266,Maalik,2025-07-11,hindi,budget;revenue,not found in web search,"BH 2025 table Flop (lifetime nett ₹19.20 Cr); revenue flagged, left: stored ≈₹26.30 Cr = Wiki 'est.' cited to BH collection page vs BH table nett ₹19.20 Cr / sacnilk India gross ₹29.51 Cr (net 25.04, 28 days) — scope unclear; Wiki no verdict",14,14
 1399654,tt34335405,Soothravakyam,2025-07-11,malayalam,budget;verdict,not found in web search,"sacnilk India gross ₹62 L (14 days, till 24 Jul 2025; overseas —); no Wiki figures",14,14
 1363072,tt29626040,Chennai City Gangsters,2025-06-20,tamil,budget;revenue;verdict,not found in web search,"Revenue flagged, left: stored ≈₹9.7 Cr = Wiki 'est.' cited to a Filmivilla Day-9 article (running total) vs sacnilk India gross ₹77 L (14 days, till 2 Jul 2025); no budget/verdict",14,15
 1108193,,Shashtipoorti,2025-05-30,telugu,budget;revenue;verdict,not found in web search,Wiki (Shashtipoorthi) no figures/verdict; sacnilk no page; released 30 May 2025 (DB 2025-05-30),14,15
 1318735,tt33029493,Mr and Mrs Bachelor,2025-05-23,malayalam,budget;revenue;verdict,not found in web search,"No Wiki article; sacnilk only 7-day ₹7 L (partial, not stored)",14,15
 1490629,tt36984429,Veeraaraju 1991,2025-05-22,telugu,budget;revenue;verdict,not found in web search,No Wiki article; one search found no figures,14,15
 1309643,tt28679253,Eleven,2025-05-16,tamil,budget;verdict,not found in web search,"sacnilk 'Eleven' (Tamil/Telugu bilingual, release 16 May 2025) India gross ₹6.63 Cr (58 days, till 12 Jul 2025; overseas —); no Wiki article",14,15
-1054626,tt27162102,The Bhootnii,2025-05-01,hindi,budget,not found in web search,"BH 2025 table Flop, lifetime nett ₹6.10 Cr; Wiki no figures/verdict",14,16
 619987,tt11433936,Sumo,2025-04-25,tamil,budget;revenue;verdict,not found in web search,"No Wiki article; sacnilk only 7-day ₹65 L (partial, not stored)",14,16
 1354069,tt32327480,Sarangapani Jathakam,2025-04-25,telugu,budget;revenue;verdict,not found in web search,"Revenue flagged, left: stored ≈₹5.65 Cr = Wiki infobox '[citation needed]' vs sacnilk India gross ₹3.25 Cr (19-day table, overseas —); no verdict",14,16
 1454405,tt35402446,Akaal: The Unconquered,2025-04-10,punjabi,budget;verdict,not found in web search,"sacnilk India gross ₹9.20 Cr (36 days, till 15 May 2025; overseas not tracked); Wiki no figures/verdict",14,16
@@ -1214,7 +1122,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1022986,tt21990258,ID : The Fake,2025-01-03,malayalam,budget;revenue;verdict,not found in web search,"sacnilk only 6-day ₹7 L (partial, not stored); no Wiki figures",14,18
 1199638,tt27744719,Thiru.Manickam,2024-12-27,tamil,budget;revenue;verdict,not found in web search,Wiki (Thiru._Manickam) no figures/verdict; no sacnilk page; ZEE5 premiere 24 Jan 2025,14,19
 1296484,tt32480186,ED: Extra Decent,2024-12-20,malayalam,budget,not found in web search,"Koimoi (Padakkalam day-33 article): ED Extra Decent 'was a box office disaster, earning only 2.08 crores in its lifetime' (scope not stated); no Wiki article, no sacnilk page",14,19
-1371030,tt29120307,Vanvaas,2024-12-20,hindi,budget;revenue,not found in web search,"BH 2024 table Flop (lifetime nett ₹4.56 Cr); revenue flagged, left: stored ≈₹6.37 Cr = Wiki 'worldwide gross within the first 14 days' (BH page) vs sacnilk India gross ₹5.83 Cr (12 days); Wiki no verdict",14,19
 1042824,tt26737770,Rudhiram,2024-12-13,malayalam,budget;verdict,not found in web search,"sacnilk India gross ₹88 L (19 days, till 31 Dec 2024; overseas —); Wiki no figures/verdict",14,19
 1351991,tt32553846,Miss You,2024-12-13,tamil,budget;verdict,not found in web search,"sacnilk India gross ₹4.70 Cr (WW header ₹30 L is below India gross -> India line used; 19 days, till 31 Dec 2024); Wiki no figures/verdict",14,19
 1284266,tt31261286,Badtameez Gill,2024-11-29,hindi,budget;revenue;verdict,not found in web search,Unreleased (Wiki 'an unreleased Indian Hindi-language comedy drama film'),14,20
@@ -1253,7 +1160,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1284568,tt31435295,Purushothamana Prasanga,2024-03-01,kannada,budget;revenue;verdict,not found in web search,"sacnilk only 7 days (India gross ₹10 L till 7 Mar 2024) — partial, not stored; no Wiki article",15,7
 1443674,tt27116149,Por,2024-03-01,tamil,budget;verdict,not found in web search,"sacnilk India gross ₹1.65 Cr (14-day table, till 10 Mar 2024; overseas —) — Tamil version of the Dange/Por bilingual; Wiki 'mixed reviews' only",15,7
 1251656,tt15333630,For Regn,2024-02-23,kannada,budget;verdict,not found in web search,"sacnilk India gross ₹28 L (24 days, till 17 Mar 2024; overseas —); Wiki 'underperformed at the box-office' (not a verdict)",15,7
-1032706,tt22543124,Kuch Khattaa Ho Jaay,2024-02-16,hindi,budget,not found in web search,"BH 2024 table lifetime ₹1.50 Cr, Flop; Wiki stub no figures",15,7
 1230559,tt30890061,Shakhahaari,2024-02-16,kannada,budget;verdict,not found in web search,"sacnilk India gross ₹46 L (40 days, till 26 Mar 2024; overseas —); Wiki '50 day run in selected theatres' only",15,7
 1075386,tt26260522,Iyer In Arabia,2024-02-02,malayalam,budget;verdict,not found in web search,"sacnilk India gross ₹38 L (10 days, till 11 Feb 2024; overseas —); Wiki no figures/verdict",15,8
 977135,,LLB (Life Line of Bachelors),2024-01-30,malayalam,budget;revenue;verdict,not found in web search,"Wiki no figures/verdict; no sacnilk page found; BOM only UK $1,466",15,8
@@ -1262,7 +1168,7 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1266678,tt30850798,RAM: Rapid Action Mission,2024-01-26,english,budget;revenue;verdict,not found in web search,"sacnilk only 7 days (India gross ₹7 L till 1 Feb 2024) — partial, not stored",15,8
 1046924,tt23558124,Singapore Saloon,2024-01-25,tamil,budget;verdict,not found in web search,"sacnilk India gross ₹9.18 Cr (32 days, till 25 Feb 2024; overseas —); Wiki 'mixed reviews' only",15,9
 1043311,tt23752056,Mission: Chapter 1,2024-01-12,tamil,budget;revenue,not found in web search,"Wiki lead 'became a box office success' + Deccan Chronicle 'successful 25-day run… proved to be profitable'; stored revenue ≈₹23 Cr = Wiki infobox cited to a TOI article dated 19 Jan 2024 (day 7) vs sacnilk India gross ₹6.16 Cr (35 days, overseas untracked) -> flagged, left",15,9
-1218528,tt11495838,Tauba Tera Jalwa,2024-01-05,hindi,budget;verdict,not found in web search,BH 2024 table lifetime ₹0.03 Cr; BH verdict 'Pending' (not mapped),15,9
+1218528,tt11495838,Tauba Tera Jalwa,2024-01-05,hindi,budget,not found in web search,"BH 2024 table lifetime ₹0.03 Cr; BH verdict 'Pending' (not mapped) | run 15 b1 recheck; BOI recheck (Tauba Tera Jalwa (2024), release 5 Jan 2024): verdict Disaster",15,9
 1086500,tt27923623,Safed,2023-12-29,hindi,budget;revenue;verdict,not found in web search,"Direct-to-streaming (ZEE5, 29 Dec 2023) — no box office",15,9
 1108194,tt27411207,Queen Elizabeth,2023-12-29,malayalam,revenue;verdict,not found in web search,Wiki infobox budget ₹3 Cr (uncited); no gross; sacnilk page has no figures,15,9
 1118232,tt27610443,Saba Nayagan,2023-12-22,tamil,budget;revenue,not found in web search,Wiki lead 'became a commercial success'; no figures; sacnilk page has no data,15,10
@@ -1271,7 +1177,7 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1000065,tt22440336,Maharani,2023-11-24,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict (reviews only); sacnilk page has no data,15,10
 1072758,tt23865712,Kadak Singh,2023-11-24,hindi,budget;revenue;verdict,not found in web search,"IFFI premiere 22 Nov 2023 then direct-to-streaming (ZEE5, 8 Dec 2023) — no box office",15,10
 988645,tt21924118,Vela,2023-11-10,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict (reviews only); sacnilk page has no data,15,11
-1196185,tt29454072,Pushtaini,2023-10-28,hindi,budget;revenue;verdict,not found in web search,"MAMI 2023 premiere, theatrical release 21 Jun 2024 (Platoon Distribution; DB 2023-10-28); no box-office figures found (filmibeat TBA); not in BH 2023 table",15,11
+1196185,tt29454072,Pushtaini,2023-10-28,hindi,budget,not found in web search,"MAMI 2023 premiere, theatrical release 21 Jun 2024 (Platoon Distribution; DB 2023-10-28); no box-office figures found (filmibeat TBA); not in BH 2023 table | run 15 b1 recheck; BOI recheck (Pushtaini (2024), release 21 Jun 2024): India Gross 9,50,000 (overseas $---), verdict Disaster; MAMI 2023 premiere; India release 21 Jun 2024",15,11
 1044787,tt24075716,Imbam,2023-10-27,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict ('mixed reviews'),15,11
 1186285,tt29228476,Martin Luther King,2023-10-27,telugu,budget;revenue;verdict,not found in web search,Wiki Martin Luther King (film) no figures/verdict; sacnilk page has no data,15,11
 1119091,tt27553953,Prema Vimanam,2023-10-13,telugu,budget;revenue;verdict,not found in web search,"Direct-to-streaming (ZEE5 original, 12/13 Oct 2023) — no box office",15,11
@@ -1319,7 +1225,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1022469,tt9859574,Shiv Shastri Balboa,2023-02-10,hindi,budget,not found in web search,"BH 2023 table lifetime ₹0.55 Cr, Flop; Wiki no budget",16,1
 1026769,tt21618750,Premadesam,2023-02-03,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; sacnilk 'No box office figures yet' (default Disaster ignored),16,1
 1078414,tt13174230,Dr. Bezbaruah 2,2023-02-03,assamese,budget;verdict,not found in web search,"Wiki ₹7 Cr (ThePrint 25 Feb 2023), Koimoi Roi Roi Binale article also says ₹7 Cr gross; sacnilk 15-day ₹5.65 Cr partial; '4th highest grossing Assamese' is a ranking, no verdict",16,1
-1067209,tt13801462,Gandhi Godse Ek Yudh,2023-01-26,hindi,budget,not found in web search,"BH 2023 table lifetime ₹2.40 Cr, Flop; Wiki no figures",16,1
 969831,tt21092874,Poovan,2023-01-20,malayalam,budget;revenue;verdict,not found in web search,"Wiki no figures/verdict (theatrical 20 Jan 2023, ZEE5 24 Mar 2023)",16,2
 751534,tt10285752,Djinn,2023-01-06,malayalam,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; sacnilk Djinn_2023 404,16,2
 868553,tt12272408,Amriki Pandit,2022-12-31,hindi,budget;revenue;verdict,not found in web search,"Apparently unreleased: no Wiki article, not in BH 2022 table, last news July 2021 (50% shot)",16,2
@@ -1332,9 +1237,7 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1060899,tt24069260,Naam Tha Kanhaiyalal,2022-11-29,hindi,budget;revenue;verdict,not found in web search,Documentary premiered on MX Player 29 Nov 2022 — no box office,16,4
 864687,tt10692976,Aanaparambile WorldCup,2022-11-25,malayalam,budget;revenue;verdict,not found in web search,Wiki (Aanaparambile_World_Cup) no figures/verdict,16,4
 1040393,tt18377798,Sanaa,2022-11-16,hindi,budget;revenue;verdict,not found in web search,"Festival-only (Tallinn 2022, Shanghai, UKAFF, IFFM, IFFI 2023); no commercial release found; not in BH table",16,4
-1009432,tt15309708,Uunchai,2022-11-11,hindi,budget,not found in web search,"Wiki WW ₹48.99 Cr (BH: India 40.71 + overseas 8.28) — stored confirmed; BH 2022 table lifetime nett ₹34.20 Cr, Flop; Wiki 'emerged victorious' vs Rocket Gang is a clash comparison, not a verdict; no budget",16,5
 1045069,tt1503153,Pratibimbalu,2022-11-05,telugu,budget;revenue;verdict,not found in web search,1980 film released after 40-year delay on 5 Nov 2022 (2K remaster); Wiki no figures/verdict,16,5
-726207,tt12740760,Phone Bhoot,2022-11-04,hindi,verdict,not found in web search,"Wiki budget ₹45 Cr (Economic Times), gross est. ₹18.73 Cr (BH) — stored confirmed; BH 2022 table nett ₹14.01 Cr with verdict 'Pending' → verdict NULL",16,5
 962194,tt21818968,Saturday Night,2022-11-04,malayalam,budget;revenue,not found in web search,Wiki lead 'gradually it became box office disaster'; no figures,16,5
 984631,tt21997720,Coffee With Kadhal,2022-11-04,tamil,budget;revenue,not found in web search,Wiki lead 'was a box-office bomb' (uncited; Asianet day-1 article on poor collection); no figures,16,5
 1033866,tt22410680,Urvasivo Rakshasivo,2022-11-04,telugu,budget;revenue;verdict,not found in web search,"Wiki no figures/verdict (only '₹7 Cr worldwide theatrical rights' sale — not gross); sacnilk 7-day partial, self-conflicting (WW 3.68 vs India gross 5.62) not stored",16,6
@@ -1418,13 +1321,12 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 721636,tt12625756,Churuli,2021-02-12,malayalam,budget;revenue;verdict,not found in web search,"Festival premiere (IFFK Feb 2021), then direct-to-streaming (SonyLIV, 19 Nov 2021) — no box office",17,2
 786341,tt13958318,Kutty Story,2021-02-12,tamil,budget,not found in web search,"Theatrical anthology (12 Feb 2021); sacnilk WW ₹85 L (14 days, till 25 Feb; India gross ₹74 L + overseas ₹11 L), verdict Below Average; Wiki no figures",17,2
 824610,tt11924374,Shadow,2021-02-05,kannada,budget,not found in web search,"Kannada Shadow (5 Feb 2021): sacnilk India gross ₹18 L (14 days, till 18 Feb; overseas —), verdict Disaster on a page with real figures; no budget",17,3
-782848,tt13773882,Madam Chief Minister,2021-01-22,hindi,budget,not found in web search,"Revenue corrected: stored $6,839 = Wiki 'est. ₹0.5 million' (BH cite dated release day 22 Jan 2021) → BH 2021 table lifetime nett ₹0.36 Cr, Flop",17,3
 785570,tt13847946,Mail,2021-01-12,telugu,budget;revenue;verdict,not found in web search,"Direct-to-streaming (Aha, 12 Jan 2021) — no box office",17,3
 1604692,tt14143308,Rajatantra,2021-01-01,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict (released 1 Jan 2021); filmibeat box office TBA,17,3
 532584,,Andava Kaanom,2020-12-31,tamil,budget;revenue;verdict,not found in web search,Apparently unreleased: planned JSK Prime Media OTT premiere (Aug 2020) stayed by court; no theatrical release found,17,3
 614179,tt10280276,Coolie No. 1,2020-12-25,hindi,budget;revenue;verdict,not found in web search,"Direct-to-streaming (Amazon Prime Video, 25 Dec 2020) — no box office",17,4
 773911,tt9390240,Shakeela,2020-12-25,hindi,budget,not found in web search,"Theatrical 25 Dec 2020 (UFO Moviez); BH 2020 table lifetime nett ₹0.33 Cr, Flop; Wiki no figures",17,4
-693838,tt11112526,Indoo Ki Jawani,2020-12-11,hindi,budget;revenue,not found in web search,"BH 2020 table lifetime nett ₹1.06 Cr, Flop; stored revenue ≈₹1.52 Cr = Wiki infobox (BH movie page cite, likely gross) — not corrected (scope differs), left",17,4
+693838,tt11112526,Indoo Ki Jawani,2020-12-11,hindi,budget,not found in web search,"BH 2020 table lifetime nett ₹1.06 Cr, Flop; stored revenue ≈₹1.52 Cr = Wiki infobox (BH movie page cite, likely gross) — not corrected (scope differs), left | run 17 b1 recheck; BOI recheck (Indoo Ki Jawani (2020), release 11 Dec 2020): Worldwide Gross 1,42,43,750 (overseas $25,000)",17,4
 767374,tt13404870,It's My Life,2020-11-29,hindi,budget;revenue;verdict,not found in web search,"TV premiere (Zee Cinema, 29 Nov 2020) — no box office",17,4
 605456,tt10840884,Taish,2020-10-29,hindi,budget;revenue;verdict,not found in web search,"Direct-to-streaming (ZEE5, 29 Oct 2020; film + series) — no box office",17,4
 556270,tt7886848,Sadak 2,2020-10-16,hindi,budget;revenue;verdict,not found in web search,"Direct-to-streaming in India (Disney+ Hotstar, 28 Aug 2020; US theatrical via Gravitas) — no box office",17,5
@@ -1436,10 +1338,8 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 680691,,Rudraprayag,2020-04-09,kannada,budget;revenue;verdict,not found in web search,Unreleased: Rishab Shetty directorial postponed in 2020; filmibeat lists an unconfirmed 6 Nov 2026 date (box office TBA),17,6
 574830,tt8042112,Gypsy,2020-03-06,tamil,revenue;verdict,not found in web search,"sacnilk budget ₹15 Cr; sacnilk WW ₹10.85 Cr is only 7 days (till 12 Mar 2020, run cut short by COVID lockdown) → partial, not stored; Wiki no figures/verdict",17,6
 682661,tt11178862,Drona,2020-03-06,kannada,revenue,not found in web search,"Wiki 'was a failure at the box-office' / 'flopped'; sacnilk budget ₹10 Cr; sacnilk WW ₹2.20 Cr only 7 days (till 12 Mar 2020, COVID shutdown) → not stored",17,6
-661671,tt10930586,Shikara,2020-02-07,hindi,budget,not found in web search,"Wiki ₹8.15 Cr = BH lifetime nett (BH 2020 table ₹8.15 Cr, Flop) — stored confirmed",17,6
 672128,tt11235142,Dia,2020-02-07,kannada,budget;revenue,not found in web search,Wiki lead 'was a box office success'; Box office section 'one of the few commercially successful Kannada films in 2020' (Bangalore Mirror '2020: A flop show'); no figures,17,7
 673383,tt11470290,Gentleman,2020-02-07,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict ('positive reviews' is critical); sacnilk Gentleman_2020 404,17,7
-655459,tt9817760,Jai Mummy Di,2020-01-16,hindi,budget,not found in web search,"BH 2020 table lifetime nett ₹2.51 Cr, Flop; Wiki no figures",17,7
 661397,tt10692994,Dhamaka,2020-01-02,malayalam,verdict,not found in web search,"Malayalam Dhamaka (Omar Lulu): sacnilk budget ₹5 Cr, WW ₹4.50 Cr (15 days, till 16 Jan 2020; India gross ₹4.20 Cr + overseas ₹30 L); no verdict on sacnilk or Wiki",17,7
 601643,tt10230404,Ghost Stories,2020-01-01,hindi,budget;revenue;verdict,not found in web search,"Direct-to-streaming anthology (Netflix, 1 Jan 2020) — no box office",17,8
 657170,tt11433724,Ruler,2019-12-20,telugu,budget;revenue,not found in web search,"Wiki lead 'was a commercial failure' (cite 'Ruler Movie Two Weeks Collections: Big Disaster', 4 Jan 2020); no figures on Wiki; sacnilk Ruler_2019 404",17,8
@@ -1454,7 +1354,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 609448,tt9883042,Aakashaganga 2,2019-11-01,malayalam,budget;revenue;verdict,not found in web search,"Wiki Aakasha_Ganga_2 no figures/verdict; only BOM UAE gross $9,306 (not stored); 'failed' claim only on a Wiki mirror (not used)",17,10
 729792,tt8938900,Fortuner,2019-11-01,kannada,budget;revenue;verdict,not found in web search,Wiki no figures/verdict; filmibeat 2019 half-year report says it 'couldn't do well' (not a clear verdict),17,10
 607885,tt8933650,Chanakya,2019-10-31,telugu,budget,not found in web search,"Wiki 'turned out to be an average grosser, grossing over ₹20 crore' (IBT year-end Tollywood report, 22 Dec 2019) — stored confirmed; sacnilk 404",17,10
-640076,tt8983180,Made In China,2019-10-25,hindi,budget,not found in web search,"Wiki ₹12.81 Cr = BH India gross ₹11.46 Cr + overseas ₹1.35 Cr — stored confirmed; BH 2019 table lifetime nett ₹9.63 Cr, Flop",17,10
 639411,tt11066130,Upstarts,2019-10-18,hindi,budget;revenue;verdict,not found in web search,"Direct-to-streaming (Netflix, 18 Oct 2019) — no box office",17,11
 640337,tt10828520,Thelivu,2019-10-18,malayalam,budget;revenue;verdict,not found in web search,No Wiki article (Thelivu / Thelivu_(film) 404); no figures found,17,11
 624401,tt11091572,RDX Love,2019-10-11,telugu,budget;revenue;verdict,not found in web search,Wiki no figures/verdict (reviews only),17,11
@@ -1462,11 +1361,9 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 697045,tt10102328,Adhyaksha In America,2019-10-10,kannada,budget;revenue;verdict,not found in web search,Wiki (Adyaksha_in_America) no figures/verdict,17,12
 564704,tt8721556,Jallikattu,2019-10-04,malayalam,budget;revenue,not found in web search,"Wiki 'grossed ₹7.3 crores in its first week run in Kerala and became a commercial success' (Firstpost 14 Oct 2019); week-1 Kerala figure not stored; stored tmdb budget $404,220 unverified (left)",17,12
 632658,tt9537352,Nikka Zaildar 3,2019-09-20,punjabi,revenue;verdict,not found in web search,"Wiki budget ₹7.50 Cr (uncited) — stored confirmed; stored revenue ≈₹17.95 Cr = Wiki infobox cited to an unrelated BH 'War overseas' article, body has a later ₹22.4 Cr WW (11 Oct 2019, Facebook cite) → not confirmed, flagged, left; no verdict",17,12
-507941,tt8144834,Section 375,2019-09-13,hindi,budget,not found in web search,"Wiki ₹12.35 Cr = BH 2019 lifetime nett ₹12.35 Cr, Average — stored confirmed",17,12
 603110,tt10370932,Magamuni,2019-09-06,tamil,budget;revenue;verdict,not found in web search,"Wiki only opening-weekend Chennai ₹1 Cr (IBT) — partial, not stored; no verdict",17,13
 569113,tt9354674,Ganagandharvan,2019-09-01,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox budget/gross blank (editor comment demands a reliable source); body 'ended as a financial success, with a worldwide gross of ₹18.5 crore' cited to an unrelated Bigil/Asuran article → not used, flagged; UAE 3-week $172,068, US $18,710",17,13
 607310,tt10545484,Evaru,2019-08-15,telugu,verdict,not found in web search,"Wiki budget ₹8 Cr, gross 'est. ₹10 crore' (Sakshi 31 Dec 2019 year-end + IBT Tollywood 2019 report) — stored confirmed; no verdict stated",17,13
-543693,tt8785426,Jabariya Jodi,2019-08-09,hindi,budget,not found in web search,"Wiki WW gross ₹21.13 Cr (BH) — stored confirmed; BH 2019 lifetime nett ₹16.33 Cr, Flop; stored budget ≈₹29 Cr = Wiki infobox but its Dainik Bhaskar cite title says ₹22 Cr → not confirmed, flagged, left",17,13
 496029,tt6280858,Kolaiyuthir Kaalam,2019-08-08,tamil,budget;revenue;verdict,not found in web search,Theatrical 9 Aug 2019; Wiki no figures/verdict,17,13
 619808,tt8983210,Singham,2019-08-05,punjabi,budget;revenue;verdict,not found in web search,"Punjabi Singham (2019): Wiki infobox budget/gross blank, no verdict",17,14
 502883,,Dhrushti,2019-07-25,telugu,budget;revenue;verdict,not found in web search,No Wiki article (Dhrushti 404); no figures found,17,14
@@ -1483,7 +1380,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 507390,tt8043312,Natpuna Ennanu Theriyuma,2019-05-17,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox budget/gross blank, no verdict",17,16
 720416,tt10251300,66 Sadashiv,2019-05-17,marathi,budget;revenue;verdict,not found in web search,No Wiki article (66 Sadashiv 404); no figures found,17,16
 688368,tt8976418,Sethum Aayiram Pon,2019-05-08,tamil,budget;revenue;verdict,not found in web search,"Festival premiere (NYIFF 2019), then direct-to-streaming (Netflix, 1 Apr 2020) — no box office",17,17
-599796,tt9239772,Setters,2019-05-03,hindi,budget,not found in web search,"Wiki ₹58 lakh = BH 2019 table lifetime nett ₹0.58 Cr, Flop — stored confirmed",17,17
 611315,tt10329084,99,2019-05-01,kannada,budget;revenue;verdict,not found in web search,Wiki 99_(2019_film) no figures/verdict,17,17
 639485,tt9461016,Padde Huli,2019-04-19,kannada,budget;revenue;verdict,not found in web search,"Wiki infobox blank, no verdict",17,17
 594028,tt7109900,Kavaludaari,2019-04-12,kannada,budget;revenue;verdict,not found in web search,"Wiki infobox budget/gross blank, no verdict",17,17
@@ -1510,7 +1406,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 549521,tt8408216,Mangalyam Thanthunanena,2018-09-20,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox budget/gross blank; reviews only, no box-office verdict",18,3
 444000,tt3823392,Love Sonia,2018-09-14,hindi,budget,not found in web search,"Wiki no budget/gross; BH 2018 table Flop, lifetime nett ₹1.75 Cr",18,3
 512391,tt7585270,Theevandi,2018-09-07,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox budget/gross blank, ratings only; stored tmdb budget left",18,3
-540620,tt8011276,Laila Majnu,2018-09-07,hindi,budget,not found in web search,"Wiki gross est. ₹2.18–3.25 Cr (initial run) → midpoint 2.715 — stored confirmed; 2024 re-release (₹11.5 Cr, citation needed) not used; Wiki 'failed commercially at the box office' + BH 2018 Flop (lifetime ₹2.89 Cr)",18,3
 547723,tt5020726,Silvat,2018-09-07,hindi,budget;revenue;verdict,not found in web search,"TV premiere (Zindagi, 2016) / ZEE5 streaming — no theatrical box office",18,3
 370721,,Vinodhan,2018-09-01,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Vinodhan' is a redirect to Prabhu Deva — no film article, no figures",18,4
 459377,tt7853268,Echcharikkai,2018-08-24,tamil,budget;revenue;verdict,not found in web search,Wiki no budget/gross; 'poor reviews' is not a box-office verdict,18,4
@@ -1531,12 +1426,10 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 500565,tt7770192,Krishnarjuna Yudham,2018-04-12,telugu,budget,not found in web search,"Wiki gross est. ₹28.60 Cr (IBTimes 2018 year-end report) — stored confirmed; body 'made on a budget of 30 crores and only recovered 14.50 crores' reads as theatrical business vs share, not production budget → budget left; 'Nani's first disaster since 2014'",18,8
 512098,tt6972140,Blackmail,2018-04-06,hindi,verdict,not found in web search,"Wiki budget ₹18 Cr (DNA), gross ₹28.81 Cr (BH worldwide) — stored confirmed; verdict conflict: Wiki 'Sleeper Hit' vs BH 2018 table Flop (₹20.35 Cr) → NULL",18,8
 479491,tt2302416,Gali Guleiyan,2018-03-15,hindi,budget,not found in web search,"BH 2018 table Flop, lifetime nett ₹0.28 Cr; Wiki 'estimated at Rs.50 lakhs' (Koimoi 'Commercial Disasters', 14 Sep 2018) — BH figure stored",18,8
-506456,tt7275232,Welcome to New York,2018-02-23,hindi,budget;revenue,not found in web search,"BH 2018 table Flop, lifetime nett ₹2.38 Cr; stored revenue = Wiki ₹6.95 Cr (BH movie page, accessed 20 Mar 2018) disagrees with the BH lifetime 2.38 nett — flagged, left",18,8
 505175,tt7853242,Love per Square Foot,2018-02-14,hindi,budget;revenue;verdict,not found in web search,Direct-to-Netflix (14 Feb 2018) — no box office,18,9
 462201,,Sollividava,2018-02-09,tamil,budget;revenue;verdict,not found in web search,"Wiki Prema Baraha (bilingual): 'commercial success at the box office of Karnataka, but had a decent run in Tamil' — this tmdb entry is the Tamil version; 'decent run' is not a clear verdict → NULL; budget/gross blank",18,9
 464979,tt6385856,Hey Jude,2018-02-02,malayalam,budget;revenue,not found in web search,Wiki 'The film was a box office bomb.' (OTTPlay cite); budget/gross blank; stored tmdb revenue left,18,9
 997335,tt6216288,Jole Jongole,2018-01-18,bengali,budget;revenue;verdict,not found in web search,Long-delayed (shot ~2012) Bengali film; no figures/verdict found in one search,18,9
-468469,tt6102396,Kaalakaandi,2018-01-12,hindi,budget,not found in web search,"Wiki budget/gross blank; BH 2018 table Flop, lifetime nett ₹6.34 Cr",18,9
 611507,tt7994158,Brihaspathi,2018-01-05,kannada,budget;revenue;verdict,not found in web search,Wiki Brihaspathi (film) budget/gross blank; reviews only,18,10
 458741,tt6915596,Mayaanadhi,2017-12-22,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank; 'critical acclaim' only, no box-office verdict",18,10
 459726,tt6346952,Vimanam,2017-12-22,malayalam,budget;revenue;verdict,not found in web search,"Wiki Vimaanam budget/gross blank, no verdict",18,10
@@ -1601,7 +1494,7 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 409254,tt6056644,Majnu,2016-09-23,telugu,verdict,not found in web search,"IBTimes 3 Nov 2016 'total worldwide': ₹28.40 Cr gross in 35 days, budget ₹15 Cr, distributors' share ₹15.30 Cr; 'decent collection' / 'fails to cross ₹30 Cr' — no verdict; Wiki fields blank",19,2
 414957,tt5017192,Tiger,2016-09-09,punjabi,budget;revenue;verdict,not found in web search,Punjabi 'Tiger' (Sippy Gill) — no Wiki article (only the 2016 Punjabi films list); search found no figures,19,3
 416239,tt5333612,Actor in Law,2016-09-08,urdu,budget;revenue;verdict,not found in web search,"Pakistani film: Wiki gross PKR 300 million (PKR 240m Pakistan + 60m overseas per 4 Oct 2016 report); no INR/USD figure, so stored tmdb .6M / .8M left — flagged: PKR 300m ≈ .9M, stored revenue looks high",19,3
-428337,tt5872506,Dark Chocolate,2016-09-02,hindi,budget;revenue;verdict,not found in web search,Not in BH 2016 table; Wiki 'Dark Chocolate (film)' budget/gross blank,19,3
+428337,tt5872506,Dark Chocolate,2016-09-02,hindi,budget,not found in web search,"Not in BH 2016 table; Wiki 'Dark Chocolate (film)' budget/gross blank | run 19 b1 recheck; BOI recheck (Dark Chocolate (2016), release 2 Sep 2016): India Gross 14,75,000 (overseas $---), verdict Disaster",19,3
 1020707,tt11340822,Tobu Aporichito,2016-09-02,bengali,budget;revenue;verdict,not found in web search,Bengali; no Wiki article — no figures,19,3
 429782,tt5833824,Dum,2016-08-26,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Dum (2016 film)' budget/gross blank, no verdict",19,3
 412107,tt5606132,IDI: Inspector Dawood Ibrahim,2016-08-12,malayalam,budget;revenue;verdict,not found in web search,Wiki 'Inspector Dawood Ibrahim' budget/gross blank; search found only an IBTimes 3-day headline (partial),19,4
@@ -1633,7 +1526,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 427905,tt5130348,Love Shagun,2016-02-26,hindi,budget,not found in web search,"BH 2016 table lifetime ₹0.04 Cr, Flop",19,9
 349740,tt5500416,Kanithan,2016-02-25,tamil,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; search found only opening-week IBTimes reports (partial) — no total or verdict,19,9
 386275,tt4979160,Ishq Forever,2016-02-19,hindi,budget,not found in web search,"BH 2016 table lifetime ₹0.28 Cr, Flop",19,9
-386365,tt4340180,Direct Ishq,2016-02-19,hindi,revenue,not found in web search,"Wiki budget ₹22 Cr (BOI) — stored confirmed; BH table lifetime ₹0.11 Cr, Flop; stored revenue = Wiki '₹56 lakh' (uncited) conflicts with BH ₹0.11 Cr nett — left, flagged",19,9
 371813,tt5323568,Puthiya Niyamam,2016-02-12,malayalam,budget;verdict,not found in web search,"Wiki gross 'est. ₹14 Cr' (IBTimes Kerala box-office report, 6 Apr 2016, ~8 weeks in; Kerala ₹8.12 Cr) — stored confirmed; no verdict",19,10
 384420,tt5457840,Krishna Gaadi Veera Prema Gaadha,2016-02-12,telugu,revenue;verdict,not found in web search,"Budget filled: Wiki ₹14 Cr (greatandhra 'Economics of KGVPG', 27 Feb 2016); Wiki box office ₹13.34 Cr is a distributors' share → not stored (tracktollywood closing page 403); no verdict stated",19,10
 400484,tt3453964,Jugni,2016-01-22,hindi,budget,not found in web search,"BH 2016 table lifetime ₹0.11 Cr, Flop",19,10
@@ -1658,7 +1550,7 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 352113,tt4922694,Vasuvum Saravananum Onna Padichavanga,2015-08-14,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,14
 665058,tt2511784,Ek Nadir Galpo,2015-08-14,bengali,budget;revenue;verdict,not found in web search,"Wiki 'Ek Nadir Galpo: Tale of a River' (IFFI 2008, theatrical 2015) — no figures",19,14
 1099961,,Jai Hind,2015-08-12,hindi,budget;revenue;verdict,not found in web search,No Wiki article for this 2015 Hindi 'Jai Hind' (search hit is a disambiguation page); not in BH 2015 table,19,14
-310567,tt2614722,Umrika,2015-07-29,hindi,budget;revenue;verdict,not found in web search,Sundance 2015 film; not in BH 2015 table; Wiki budget/gross blank,19,14
+310567,tt2614722,Umrika,2015-07-29,hindi,budget,not found in web search,"Sundance 2015 film; not in BH 2015 table; Wiki budget/gross blank | run 19 b1 recheck; BOI recheck (Umrika (2016), release 23 Sep 2016): India Gross 1,05,000 (overseas $---), verdict Disaster; Sundance 2015; BOI India release 23 Sep 2016",19,14
 351147,tt4876528,Ahalya,2015-07-21,bengali,budget;revenue;verdict,not found in web search,Sujoy Ghosh short film (YouTube release) — no box office,19,15
 311166,tt4859246,Maari,2015-07-17,tamil,budget;verdict,not found in web search,"Filled: filmibeat 'highest grossing Tamil movies of 2015' (3 Dec 2015) #15 '38 Crores worldwide'; Wiki gross blank (only opening-weekend ₹20.1 Cr / 'reportedly ₹50 Cr' after a week, running totals); no verdict",19,15
 413437,tt4801682,Tiger,2015-06-26,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Tiger (2015 film)' (Vi Anand, Sundeep Kishan) budget/gross blank; 'positive reviews' only",19,15
@@ -1669,7 +1561,7 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 628803,tt4594848,Luckhnowi Ishq,2015-04-03,hindi,budget;revenue;verdict,not found in web search,Not in BH 2015 table; Wiki budget/gross blank; stored tmdb budget left,19,16
 327709,tt4546024,Komban,2015-03-27,tamil,budget;verdict,not found in web search,Filled: filmibeat 2015 Tamil top-20 #20 '19 Crore rupees from all over the world'; Wiki fields blank; no verdict,19,17
 332608,tt4523622,Jil,2015-03-27,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Jil (film)' budget/gross blank, reviews only (bulk search had matched Jil Jung Juk — wrong film)",19,17
-339795,tt4556848,Barkhaa,2015-03-27,hindi,budget;revenue,not found in web search,"BH 2015 table lifetime ₹0.98 Cr, Flop; stored revenue = Wiki ₹13.3 million (BOI, likely India gross) — left; BH nett not substituted",19,17
+339795,tt4556848,Barkhaa,2015-03-27,hindi,budget,not found in web search,"BH 2015 table lifetime ₹0.98 Cr, Flop; stored revenue = Wiki ₹13.3 million (BOI, likely India gross) — left; BH nett not substituted | run 19 b1 recheck; BOI recheck (Barkhaa (2015), release 27 Mar 2015): India Gross 1,33,00,000 (overseas $---)",19,17
 358219,tt3813880,Krishna Leela,2015-03-20,kannada,budget;revenue;verdict,not found in web search,Wiki only '100 days run … in Karnataka' — not a stated verdict; no figures,19,17
 270770,tt4522210,Mahabalipuram,2015-03-13,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Mahabalipuram (film)' budget/gross blank, no verdict",19,17
 330407,,Iravum Pagalum Varum,2015-03-13,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict; not in filmibeat 2015 Tamil top-20",19,18
@@ -1682,20 +1574,16 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 425482,tt4200804,Shivam,2015-01-02,kannada,revenue;verdict,not found in web search,"Wiki budget ₹15 Cr (uncited) — stored confirmed; gross blank, no verdict",19,19
 264041,tt3885724,Meaghamann,2014-12-25,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict; stored tmdb revenue $420,000 left",19,19
 1046678,,Kali-Katha: The Prologue to Ugly,2014-12-23,hindi,budget;revenue;verdict,not found in web search,No Wiki article (search hits only the Anurag Kashyap filmography) — no figures,19,19
-370235,tt2767712,Badlapur Boys,2014-12-12,hindi,budget,not found in web search,"BH 2014 table lifetime ₹0.89 Cr, Flop; Wiki fields blank",19,20
 282589,,Cm,2014-11-30,english,budget;revenue;verdict,not found in web search,'Cm' (Raghuram / Shiva Rajkumar) — no Wiki article found; no figures,19,20
 301668,tt4087914,Rowdy Fellow,2014-11-21,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",19,20
-309138,tt4219300,Gollu Aur Pappu,2014-11-21,hindi,budget,not found in web search,"BH 2014 table lifetime ₹0.01 Cr, Flop; Wiki fields blank",19,20
 412844,tt4087908,Ice Cream 2,2014-11-21,telugu,budget;revenue,not found in web search,Wiki 'Ice Cream (2014 film)': 'the sequel didn't perform as well … and was a flop'; Ice Cream 2 page budget/gross blank,19,20
 279451,,Radha,2014-11-13,english,budget;revenue;verdict,not found in web search,"no Wiki article for the 2014 Maruthi/Venkatesh 'Radha' (search hits: Radha the actress, the 2017 Sharwanand film); no figures",20,1
 300506,tt4047126,Nerungi Vaa Muthamidathe,2014-10-31,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,1
 331939,tt4112334,Current Theega,2014-10-31,telugu,budget;revenue,not found in web search,Wiki lead: 'was a commercial success just like the original'; infobox blank,20,1
 522629,tt1353093,Familywala,2014-10-31,german,budget;revenue;verdict,not found in web search,"no Wiki article (Neeraj Vora film, appears unreleased); not in BH 2014 table",20,1
-548402,tt3893476,Spark,2014-10-10,hindi,budget,not found in web search,"BH 2014 table lifetime ₹0.09 Cr nett, Flop; Wiki fields blank",20,1
 651744,tt4112274,Romeo,2014-10-10,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,2
 1328515,,Exploring ''Shiva'' Movie After 25 Years,2014-10-08,telugu,budget;revenue;verdict,not found in web search,documentary/TV special on Shiva (1989) at 25 years; no box office,20,2
 295814,tt4061558,Yoddha,2014-10-01,bengali,budget;revenue,not found in web search,"Wiki 'Yoddha: The Warrior' (Raj Chakraborty, Dev): 'became a box office failure … considered a disaster'; infobox blank",20,2
-295615,tt4087770,Balwinder Singh Famous Ho Gaya,2014-09-30,hindi,budget,not found in web search,"BH 2014 table lifetime ₹0.54 Cr nett, Flop; Wiki fields blank",20,2
 925648,tt1643239,The Goa Run,2014-09-27,hindi,budget;revenue;verdict,not found in web search,no Wiki article (search hit Go Goa Gone); not in BH 2014 table,20,2
 294655,tt4047112,Jeeva,2014-09-26,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict; only a Wiki mirror's 'commercial success' found in search (not used)",20,3
 296023,tt11585868,Super Ranga,2014-09-19,kannada,revenue;verdict,not found in web search,"Wiki infobox budget ₹9 Cr (cite: NIE 25 Aug 2014 pre-release article) — confirms stored; gross blank, no verdict",20,3
@@ -1715,21 +1603,17 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 285958,tt3722742,Yaaran Da Katchup,2014-07-18,punjabi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,20,6
 1135705,,Sada Canvas,2014-07-18,bengali,budget;revenue;verdict,not found in web search,no Wiki article; no figures,20,6
 434109,tt3867556,Hrid Majharey,2014-07-11,bengali,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict; stored tmdb budget left",20,6
-327905,tt3542028,Chal Bhaag,2014-06-13,hindi,budget,not found in web search,"BH 2014 table lifetime ₹0.07 Cr nett, Flop; Wiki fields blank",20,6
 270781,tt3740490,Un Samayal Arayil,2014-06-06,tamil,budget;revenue,not found in web search,"Wiki: 'The Tamil and the Telugu versions were unsuccessful at the box office, while the Kannada version became a major success' (row is the Tamil version)",20,7
 273862,,Amma Ammamma,2014-05-30,english,budget;revenue;verdict,not found in web search,no Wiki article; no figures,20,7
-316826,tt2998196,Kuku Mathur Ki Jhand Ho Gayi,2014-05-30,hindi,budget,not found in web search,"BH 2014 table lifetime ₹2.15 Cr nett, Flop; Wiki fields blank",20,7
 273421,tt3605606,Mr. Fraud,2014-05-17,malayalam,budget;verdict,not found in web search,Wiki infobox gross ₹17 Cr (uncited) confirms stored; body says '₹13 crore distributor's share in one month'; no verdict,20,7
 337348,tt4621100,Nanak Shah Fakir,2014-05-14,hindi,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; theatrical release was 2018 but not in BH 2018 table; stored tmdb revenue left,20,7
 198185,tt1647668,Million Dollar Arm,2014-05-09,english,verdict,not found in web search,"Wiki $25M budget (Variety), $39.2M WW (BOM) — confirms stored; no verdict stated",20,8
 1078807,tt4108092,Window Connection,2014-05-09,bengali,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,8
-306418,tt3585758,Kahin Hai Mera Pyar,2014-05-01,hindi,budget,not found in web search,"BH 2014 table lifetime ₹0.07 Cr nett, Flop; Wiki fields blank",20,8
 263434,tt3557946,Damaal Dumeel,2014-04-18,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,8
 262699,tt3569748,Oru Kanniyum Moonu Kalavaanikalum,2014-04-04,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,8
 259282,tt3575136,Nimirndhu Nil,2014-03-08,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,9
 79356,tt2644202,Vallinam,2014-02-28,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,9
 519264,tt3360376,Biye Not Out,2014-02-21,bengali,budget;revenue;verdict,not found in web search,no Wiki article; no figures,20,9
-478620,tt3426144,Babloo Happy Hai,2014-02-07,hindi,budget,not found in web search,"BH 2014 table lifetime ₹0.29 Cr nett, Flop; Wiki fields blank",20,9
 1480172,tt3527068,A Rainy Day,2014-01-31,marathi,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,9
 262918,tt3479858,The Royal Bengal Tiger,2014-01-30,bengali,budget;revenue,not found in web search,Wiki: 'It was a box office hit.'; infobox blank,20,10
 463975,tt3171754,Shravani Subramanya,2013-12-27,kannada,budget,not found in web search,"Wiki box office section: ₹12 Cr first week, ₹31 Cr after 100 days (scope not stated); 'one of the major blockbusters of 2013'",20,10
@@ -1748,9 +1632,7 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 194924,tt3114346,Ainthu Ainthu Ainthu,2013-08-10,tamil,budget;revenue,not found in web search,"Wiki: 'was regarded as a comeback hit for Bharath, becoming the highest-grossing film of his career'",20,12
 1049704,,Tony,2013-08-09,english,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,13
 209305,tt4197476,Pattathu Yaanai,2013-07-26,tamil,budget;revenue,not found in web search,"Behindwoods Chennai box office week 4 (12–18 Aug 2013) verdict 'Average' (Chennai total ₹3.73 Cr, not stored — city only); Wiki blank",20,13
-252513,tt2188811,Luv U Soniyo,2013-07-26,english,budget,not found in web search,"BH 2013 lifetime ₹2.7 Cr nett, Flop; Wiki ₹27 million — confirms stored",20,13
 851257,tt3097944,Half Serious,2013-07-26,bengali,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,13
-224892,tt3257168,Shorts,2013-07-12,hindi,budget,not found in web search,"BH 2013 table lifetime ₹0.04 Cr nett, Flop; Wiki fields blank",20,13
 302241,tt3046022,Whistle,2013-07-12,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank; NIE review 'Verdict:' is a review, not box office",20,14
 934468,tt2761844,Mrs Sen,2013-07-11,english,budget;revenue;verdict,not found in web search,"Wiki 'Mrs. Sen' budget/gross blank, no verdict",20,14
 203599,tt2673882,Jatt & Juliet 2,2013-06-28,punjabi,revenue,not found in web search,"Wiki budget ₹6.75 Cr confirms stored; FLAG: stored revenue ₹38.9 Cr (infobox, TOI cite) conflicts with Wiki body (~₹20 Cr all-India, WW 'in excess of ₹18 Cr') — left; 'emerged as the biggest blockbuster of Punjabi cinema'",20,14
@@ -1778,7 +1660,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 629360,tt2997780,Edegarike,2012-11-23,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,19
 82693,tt1045658,Silver Linings Playbook,2012-11-16,english,verdict,not found in web search,Wiki/BOM $21M / $236.4M WW confirm stored; no box-office verdict stated (Turan 'complete success' is a review),20,19
 63668,tt1773628,Podaa Podi,2012-11-13,tamil,budget;revenue,not found in web search,Wiki: 'received mixed reviews and performed average at the box office',20,19
-154027,tt2253708,Future to Bright Hai Ji,2012-11-02,hindi,budget,not found in web search,"BH 2012 table lifetime ₹0.01 Cr nett, Flop; Wiki fields blank",20,19
 115458,tt2213658,Abosheshey,2012-09-21,bengali,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",20,20
 134016,tt2391732,Sundarapandian,2012-09-14,tamil,budget;revenue,not found in web search,Wiki: 'was a critical and commercial success',20,20
 136411,tt2578334,Molly Aunty Rocks!,2012-09-14,malayalam,budget;revenue,not found in web search,"Wiki: 'Sify.com updated the Box Office status of Molly Aunty Rocks as ""Molly Aunty is a Winner at BO""'",20,20
@@ -1788,10 +1669,8 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1063822,tt2421350,Sagar,2012-08-10,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,1
 117053,tt13393856,Suzhal,2012-07-27,tamil,budget;revenue;verdict,not found in web search,Wiki has reviews only; no figures/verdict,21,1
 260458,tt3155736,Tuneega Tuneega,2012-07-22,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,1
-138751,tt2251552,Challo Driver,2012-07-20,hindi,budget,not found in web search,"BH 2012 table lifetime ₹0.06 Cr nett, Flop",21,2
 575759,tt2794316,Awara,2012-07-13,bengali,budget;revenue;verdict,not found in web search,Wiki infobox blank; Bengali highest-grossing list ₹1.95 Cr tagged [citation needed] (not used),21,2
 134309,tt10332462,Naughty Professor,2012-07-05,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,2
-140862,tt2224254,3 Bachelors,2012-06-29,hindi,budget,not found in web search,"BH 2012 table lifetime ₹0.17 Cr nett, Flop; BH release 06 Jul 2012 (DB 2012-06-29)",21,2
 262569,tt12048360,Murattu Kaalai,2012-06-15,tamil,budget;revenue;verdict,not found in web search,Wiki: 'negative reviews and failed to repeat the success of the original' — not a verdict; no figures,21,2
 137345,tt2223384,Vadhiyar,2012-06-08,malayalam,budget;revenue;verdict,not found in web search,no Wiki article for the 2012 Malayalam film found; no figures,21,3
 128161,tt2198101,Peddlers,2012-05-21,hindi,budget;revenue;verdict,not found in web search,"Cannes 2012 festival film, no theatrical release found; no figures",21,3
@@ -1817,7 +1696,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 151920,tt2125630,Swapna Sanchari,2011-12-01,malayalam,budget;revenue,not found in web search,"Wiki: 'declared a commercial success at the Kerala box office' (UK $2,188 only figure)",21,7
 81236,tt2123294,Solo,2011-11-25,telugu,budget;revenue,not found in web search,"Wiki: 'became an Super Hit at box-office'; stored revenue ≈₹8 Cr is the infobox distributors' share (T2BLive) — flagged, left",21,7
 520626,tt2641910,Jaani Dekha Hobe,2011-11-25,bengali,budget;revenue;verdict,not found in web search,Wiki: 'average remarks from critics' (reviews); no figures,21,7
-128621,tt2073038,Na Jaane Kabse,2011-11-18,punjabi,budget,not found in web search,"BH 2011 table lifetime ₹0.03 Cr nett, Flop; BH lists 'Na Jaane Kabse..' 04 Nov 2011 (DB 2011-11-18)",21,7
 796856,tt2112335,Who's There?,2011-11-18,hindi,budget,not found in web search,"BH 2011 table lifetime ₹0.03 Cr nett, Flop",21,8
 1512165,tt13906376,Bodyguard,2011-11-04,kannada,budget;revenue;verdict,not found in web search,"Wiki budget '₹3 million' (= ₹0.3 Cr) uncited, stored value matches but not confirmed; 'just an average flick' is a review",21,8
 82201,tt2126336,Nuvvila,2011-11-03,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,8
@@ -1831,11 +1709,9 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 211771,tt2211141,Violin,2011-07-01,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,10
 132189,tt1945039,Adaminte Makan Abu,2011-06-24,malayalam,revenue,not found in web search,Wiki budget ₹1.5 Cr (Deccan Chronicle); 'its revenues in the Kerala box-office were only average',21,10
 65518,tt1606376,Avan Ivan,2011-06-17,tamil,budget;revenue,not found in web search,Wiki: 'It was successful at the box office' (Eros Q1 success cite); only opening/overseas weekend figures,21,10
-83736,tt1964886,Love Express,2011-06-10,hindi,budget,not found in web search,"BH 2011 table lifetime ₹0.27 Cr nett, Flop",21,10
 1199877,tt3866300,Raajadhaani,2011-06-03,kannada,budget;revenue;verdict,not found in web search,no Wiki article; no figures,21,10
 69924,tt1783411,Veera,2011-05-20,telugu,budget;revenue;verdict,not found in web search,Wiki only a '100-day run' claim (citation needed) — not a verdict; search: no figures,21,11
 66207,tt1712057,Vaanam,2011-04-29,tamil,budget;revenue,not found in web search,Wiki: 'received mostly positive reviews and was a box-office success',21,11
-98157,tt1895476,Memories in March,2011-04-01,english,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; not in BH 2011 table,21,11
 463210,tt3311914,Sanju Weds Geetha,2011-04-01,kannada,budget,not found in web search,Wiki gross ₹3.5 Cr (Bangalore Mirror 'Top earning Kannada movies of 2011'); 'became successful at the box-office',21,11
 1503604,tt13906938,Prince,2011-03-31,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,12
 82895,tt8706738,Chattam,2011-03-25,telugu,budget;revenue;verdict,not found in web search,"Wiki budget blank, no verdict",21,12
@@ -1849,17 +1725,13 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 278986,tt1436327,Gangor,2011-01-01,bengali,budget;revenue;verdict,not found in web search,Wiki has no box office; no figures,21,13
 1185210,,Someone For Somebody,2011-01-01,marathi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,21,14
 398593,tt1820720,Tournament,2010-12-25,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget blank, no verdict",21,14
-64761,tt1633159,Ada... A Way of Life,2010-12-24,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.01 Cr nett, Flop; BH lists 'Ada… a way of life' 31 Dec 2010",21,14
 55793,tt4322022,Easan,2010-12-17,tamil,revenue,not found in web search,Wiki budget ₹8 Cr (Chennaionline); 'performed averagely at the box office',21,14
 81155,tt4323928,Aattanayagann,2010-12-17,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,14
 370061,tt0476847,Raakh,2010-11-26,hindi,budget;revenue;verdict,not found in web search,"Hansal Mehta's 2010 'Raakh' is a short film (no Wiki article, not in BH); no box office",21,15
 278216,tt2343599,Kanyakumari Express,2010-11-18,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,15
 702216,tt1804604,I Am Sindhutai Sapkal,2010-10-30,marathi,revenue;verdict,not found in web search,"Wiki (Mee Sindhutai Sapkal) budget ₹1 Cr (TOI); no gross, no verdict",21,15
-65624,tt1935184,Nakshatra,2010-10-29,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.16 Cr nett, Flop",21,15
-359002,tt1668078,Daayen Ya Baayen,2010-10-29,english,budget,not found in web search,"BH 2010 table lifetime ₹0.04 Cr nett, Flop",21,15
 135041,tt1757671,Anwar,2010-10-15,malayalam,revenue;verdict,not found in web search,"Wiki budget ₹4 Cr (Rediff interview); no gross, no verdict",21,16
 78640,tt5544426,Oridathoru Postman,2010-10-08,malayalam,budget;revenue;verdict,not found in web search,Wiki has no box office; no figures,21,16
-330467,tt1745753,Life Express,2010-09-17,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.05 Cr nett, Flop; BH release 17 Sep 2010",21,16
 78848,tt4318014,Drohi,2010-09-10,tamil,budget;revenue;verdict,not found in web search,Wiki has no box office; no figures,21,16
 1054737,,Nenjuku Neethi,2010-08-31,tamil,budget;revenue;verdict,not found in web search,no Wiki article (Nenjuku Needhi 2010 not found); no figures,21,17
 491136,,Fiddle,2010-08-27,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,17
@@ -1875,11 +1747,9 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 604428,tt8866760,Tumse Milkar,2010-05-11,hindi,budget;revenue;verdict,not found in web search,"no Wiki article, not in BH 2010 table; no figures",21,19
 99160,tt4316184,Goripalayam,2010-05-07,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,19
 215354,tt1773507,Kadha Thudarunnu...,2010-05-07,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,19
-38301,tt1620620,The Japanese Wife,2010-04-09,bengali,budget;revenue;verdict,not found in web search,Wiki: 'decent opening… 88% initial collection' — not a verdict; no figures,21,20
 99623,tt2433078,Police Police,2010-04-09,telugu,budget;revenue;verdict,not found in web search,Wiki has no box office; no figures,21,20
 39523,tt1496832,Paiyaa,2010-04-02,tamil,budget;revenue,not found in web search,Wiki: 'became a blockbuster box office success'; Tamil 2010 list ₹41 Cr WW is uncited (not stored),21,20
 340731,tt1637692,Kuchh Kariye,2010-03-23,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.05 Cr nett, Flop; Wiki 'will bomb miserably' is a Koimoi review prediction",21,20
-340728,tt1611834,Do Dilon Ke Khel Mein,2010-03-12,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.03 Cr nett, Flop",21,20
 260010,tt1688200,Sadhyam,2010-03-05,english,budget;revenue,not found in web search,Wiki: 'The film was a flop at the box office' (cite is an unrelated 2023 TOI article — weak cite); no figures,22,1
 963743,tt6246778,Rehmat Ali,2010-02-25,bengali,budget;revenue,not found in web search,Wiki: 'ended up as an average success at the box office'; no figures,22,1
 80925,tt1582478,Bindaas,2010-02-05,telugu,revenue,not found in web search,"Wiki budget ₹3 Cr (TOI) re-derived; 'considered a hit'; stored revenue ≈₹8 Cr is the infobox distributors' share (flagged, left)",22,1

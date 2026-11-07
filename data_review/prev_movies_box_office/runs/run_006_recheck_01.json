@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 1081726,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6273"
+  },
+  "budget_inr_crore": 27.0,
+  "notes": "BOI recheck (Bheed (2023), release 24 Mar 2023): Budget 27,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 1125221,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6277"
+  },
+  "revenue_inr_crore": 1.67,
+  "revenue_scope": "india_gross",
+  "notes": "BOI recheck (Chatrapathi (2023), release 12 May 2023): India Gross 1,67,00,000 (overseas $9,000)"
+ },
+ {
+  "tmdb_movie_id": 882826,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6212"
+  },
+  "budget_inr_crore": 73.0,
+  "notes": "BOI recheck (An Action Hero (2022), release 2 Dec 2022): Budget 73,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 817866,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6205"
+  },
+  "budget_inr_crore": 42.0,
+  "notes": "BOI recheck (Goodbye (2022), release 7 Oct 2022): Budget 42,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 784696,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6829",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6829"
+  },
+  "budget_inr_crore": 135.0,
+  "verdict": "avg",
+  "verdict_label": "Average",
+  "notes": "BOI recheck (Sarkaru Vaari Paata (2022), release 12 May 2022): Budget 1,35,00,00,000, verdict Average; BOI Telugu page"
+ }
+]

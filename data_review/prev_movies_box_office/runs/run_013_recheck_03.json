@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 168144,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1065",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1065",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1065"
+  },
+  "budget_inr_crore": 2.75,
+  "revenue_inr_crore": 1.63,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "notes": "BOI recheck (Little Zizou (2009), release 13 Mar 2009): Budget 2,75,00,000, India Gross 1,63,00,000 (overseas $---), verdict Flop; DB date is the 2008 festival premiere; BOI India release 13 Mar 2009"
+ },
+ {
+  "tmdb_movie_id": 41911,
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1324"
+  },
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Sirf.... (2008), release 25 Apr 2008): verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 192417,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1321",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1321",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1321"
+  },
+  "budget_inr_crore": 0.5,
+  "revenue_inr_crore": 0.1125,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Love Songs (2008), release 28 Mar 2008): Budget 50,00,000, India Gross 11,25,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 25827,
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=253"
+  },
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Marigold (2007), release 17 Aug 2007): verdict Disaster"
+ }
+]

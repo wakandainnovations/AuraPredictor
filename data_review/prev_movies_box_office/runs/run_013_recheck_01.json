@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 1048178,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=840"
+  },
+  "budget_inr_crore": 3.25,
+  "notes": "BOI recheck (Chargesheet (2011), release 30 Sep 2011): Budget 3,25,00,000"
+ },
+ {
+  "tmdb_movie_id": 110488,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=826"
+  },
+  "budget_inr_crore": 4.5,
+  "notes": "BOI recheck (Stand By (2011), release 26 Aug 2011): Budget 4,50,00,000"
+ },
+ {
+  "tmdb_movie_id": 63683,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=61"
+  },
+  "budget_inr_crore": 8.5,
+  "notes": "BOI recheck (Luv Ka The End (2011), release 6 May 2011): Budget 8,50,00,000"
+ },
+ {
+  "tmdb_movie_id": 218710,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=934"
+  },
+  "budget_inr_crore": 1.25,
+  "notes": "BOI recheck (The Camp (2010), release 11 Jun 2010): Budget 1,25,00,000"
+ },
+ {
+  "tmdb_movie_id": 21826,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1112",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1112",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1112"
+  },
+  "budget_inr_crore": 4.0,
+  "revenue_inr_crore": 1.0,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Three - Love Lies Betrayal (2009), release 4 Sep 2009): Budget 4,00,00,000, India Gross 1,00,00,000 (overseas $---), verdict Disaster"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 238674,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1742"
+  },
+  "budget_inr_crore": 7.25,
+  "notes": "BOI recheck (Jurm (2005), release 18 Feb 2005): Budget 7,25,00,000"
+ },
+ {
+  "tmdb_movie_id": 1005156,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6640"
+  },
+  "budget_inr_crore": 18.0,
+  "notes": "BOI recheck (Nikita Roy (2025), release 18 Jul 2025): Budget 18,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 1221198,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6626"
+  },
+  "budget_inr_crore": 50.0,
+  "notes": "BOI recheck (Ground Zero (2025), release 18 Apr 2025): Budget 50,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 1428777,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6617"
+  },
+  "budget_inr_crore": 1.4,
+  "notes": "BOI recheck (Tumko Meri Kasam (2025), release 21 Mar 2025): Budget 1,40,00,000"
+ },
+ {
+  "tmdb_movie_id": 1052381,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6334"
+  },
+  "budget_inr_crore": 5.0,
+  "notes": "BOI recheck (Naam (2024), release 22 Nov 2024): Budget 5,00,00,000"
+ }
+]

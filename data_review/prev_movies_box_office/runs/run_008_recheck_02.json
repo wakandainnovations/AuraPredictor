@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 240304,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=848"
+  },
+  "budget_inr_crore": 2.75,
+  "notes": "BOI recheck (Be Careful (2011), release 21 Oct 2011): Budget 2,75,00,000"
+ },
+ {
+  "tmdb_movie_id": 78445,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=827"
+  },
+  "budget_inr_crore": 4.25,
+  "notes": "BOI recheck (Chitkabrey (2011), release 26 Aug 2011): Budget 4,25,00,000"
+ },
+ {
+  "tmdb_movie_id": 88452,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=862"
+  },
+  "budget_inr_crore": 8.5,
+  "notes": "BOI recheck (Pappu Can't Dance Saala (2011), release 16 Dec 2011): Budget 8,50,00,000; BOI release 16 Dec 2011 (DB 2010-12-16)"
+ },
+ {
+  "tmdb_movie_id": 340729,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=911"
+  },
+  "budget_inr_crore": 3.25,
+  "notes": "BOI recheck (Mittal Vs Mittal (2010), release 26 Mar 2010): Budget 3,25,00,000"
+ },
+ {
+  "tmdb_movie_id": 158736,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=910"
+  },
+  "budget_inr_crore": 1.25,
+  "notes": "BOI recheck (Idiot Box (2010), release 19 Mar 2010): Budget 1,25,00,000"
+ }
+]

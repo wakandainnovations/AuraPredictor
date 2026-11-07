@@ -1,0 +1,72 @@
+[
+ {
+  "tmdb_movie_id": 205032,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=256",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=256",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=256"
+  },
+  "budget_inr_crore": 5.5,
+  "revenue_inr_crore": 0.6996,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Nanhe Jaisalmer (2007), release 14 Sep 2007): Budget 5,50,00,000, Worldwide Gross 69,96,000 (overseas $32,000), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 50187,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=249",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=249",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=249"
+  },
+  "budget_inr_crore": 17.0,
+  "revenue_inr_crore": 4.0465,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Kaafila (2007), release 10 Aug 2007): Budget 17,00,00,000, Worldwide Gross 4,04,65,000 (overseas $130,000), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 321262,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1531",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1531",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1531"
+  },
+  "budget_inr_crore": 3.0,
+  "revenue_inr_crore": 0.12,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Utthaan (2006), release 13 Oct 2006): Budget 3,00,00,000, India Gross 12,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 1021452,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1589",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1589",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1589"
+  },
+  "budget_inr_crore": 3.5,
+  "revenue_inr_crore": 1.54,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Souten - The Other Woman (2006), release 24 Mar 2006): Budget 3,50,00,000, India Gross 1,54,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 570255,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=300",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=300",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=300"
+  },
+  "budget_inr_crore": 3.5,
+  "revenue_inr_crore": 1.12,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Holiday (2006), release 10 Feb 2006): Budget 3,50,00,000, India Gross 1,12,00,000 (overseas $---), verdict Disaster"
+ }
+]

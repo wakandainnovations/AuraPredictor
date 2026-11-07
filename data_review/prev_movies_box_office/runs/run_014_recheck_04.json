@@ -1,0 +1,32 @@
+[
+ {
+  "tmdb_movie_id": 1312559,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6638",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6638"
+  },
+  "budget_inr_crore": 62.0,
+  "revenue_inr_crore": 29.862,
+  "revenue_scope": "worldwide",
+  "notes": "BOI recheck (Maalik (2025), release 11 Jul 2025): Budget 62,00,00,000, Worldwide Gross 29,86,20,000 (overseas $440,000)"
+ },
+ {
+  "tmdb_movie_id": 1054626,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6628"
+  },
+  "budget_inr_crore": 40.0,
+  "notes": "BOI recheck (The Bhootnii (2025), release 1 May 2025): Budget 40,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 1371030,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6339",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6339"
+  },
+  "budget_inr_crore": 30.0,
+  "revenue_inr_crore": 6.9425,
+  "revenue_scope": "worldwide",
+  "notes": "BOI recheck (Vanvaas (2024), release 20 Dec 2024): Budget 30,00,00,000, Worldwide Gross 6,94,25,000 (overseas $85,000)"
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 238165,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1231"
+  },
+  "budget_inr_crore": 2.0,
+  "notes": "BOI recheck (Mai (2013), release 1 Feb 2013): Budget 2,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 168117,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1218"
+  },
+  "budget_inr_crore": 1.25,
+  "notes": "BOI recheck (Gangoobai (2013), release 11 Jan 2013): Budget 1,25,00,000"
+ },
+ {
+  "tmdb_movie_id": 244323,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1159"
+  },
+  "budget_inr_crore": 8.0,
+  "notes": "BOI recheck (Yeh Jo Mohabbat Hai (2012), release 3 Aug 2012): Budget 8,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 302963,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1038"
+  },
+  "budget_inr_crore": 10.0,
+  "notes": "BOI recheck (From Sydney With Love (2012), release 31 Aug 2012): Budget 10,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 401971,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1169",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1169",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1169"
+  },
+  "budget_inr_crore": 0.75,
+  "revenue_inr_crore": 0.08,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Delhi In A Day (2012), release 24 Aug 2012): Budget 75,00,000, India Gross 8,00,000 (overseas $---), verdict Disaster"
+ }
+]

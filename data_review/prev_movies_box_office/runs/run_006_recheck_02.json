@@ -1,0 +1,38 @@
+[
+ {
+  "tmdb_movie_id": 811942,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6832",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6832"
+  },
+  "revenue_inr_crore": 161.5437,
+  "revenue_scope": "worldwide",
+  "verdict": "avg",
+  "verdict_label": "Average",
+  "notes": "BOI recheck (Bheemla Nayak (2022), release 25 Feb 2022): Worldwide Gross 1,61,54,37,500 (overseas $3,750,000), verdict Average; BOI Telugu page; fills the gap left by Wiki infobox/body conflict"
+ },
+ {
+  "tmdb_movie_id": 523278,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5731"
+  },
+  "budget_inr_crore": 25.0,
+  "notes": "BOI recheck (Saand Ki Aankh (2019), release 25 Oct 2019): Budget 25,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 568856,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5600"
+  },
+  "budget_inr_crore": 12.0,
+  "notes": "BOI recheck (Amavas (2019), release 8 Feb 2019): Budget 12,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 597089,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5678"
+  },
+  "budget_inr_crore": 30.0,
+  "notes": "BOI recheck (Article 15 (2019), release 28 Jun 2019): Budget 30,00,00,000"
+ }
+]

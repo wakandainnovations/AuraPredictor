@@ -1,0 +1,31 @@
+[
+ {
+  "tmdb_movie_id": 1032706,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6250"
+  },
+  "budget_inr_crore": 14.0,
+  "notes": "BOI recheck (Kuch Khattaa Ho Jaay (2024), release 16 Feb 2024): Budget 14,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 1218528,
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6292"
+  },
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Tauba Tera Jalwa (2024), release 5 Jan 2024): verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 1196185,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6311",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6311"
+  },
+  "revenue_inr_crore": 0.095,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Pushtaini (2024), release 21 Jun 2024): India Gross 9,50,000 (overseas $---), verdict Disaster; MAMI 2023 premiere; India release 21 Jun 2024"
+ }
+]

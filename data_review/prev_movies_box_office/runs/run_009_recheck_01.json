@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 216696,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=418",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=418"
+  },
+  "revenue_inr_crore": 1.67,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Yahaan (2005), release 29 Jul 2005): India Gross 1,67,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 446688,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=409"
+  },
+  "budget_inr_crore": 15.0,
+  "notes": "BOI recheck (Jo Bole So Nihaal (2005), release 13 May 2005): Budget 15,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 586077,
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1735"
+  },
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Chand Sa Roshan Chehra (2005), release 4 Mar 2005): verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 640982,
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1718"
+  },
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Khamoshh... Khauff Ki Raat (2005), release 15 Apr 2005): verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 140231,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=410"
+  },
+  "budget_inr_crore": 15.0,
+  "notes": "BOI recheck (Elaan (2005), release 14 Jan 2005): Budget 15,00,00,000"
+ }
+]

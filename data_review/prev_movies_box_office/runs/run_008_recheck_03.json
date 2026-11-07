@@ -1,0 +1,66 @@
+[
+ {
+  "tmdb_movie_id": 33384,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=892",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=892",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=892"
+  },
+  "budget_inr_crore": 3.0,
+  "revenue_inr_crore": 0.09,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Road To Sangam (2010), release 29 Jan 2010): Budget 3,00,00,000, India Gross 9,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 22291,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1115"
+  },
+  "budget_inr_crore": 4.5,
+  "notes": "BOI recheck (Baabarr (2009), release 11 Sep 2009): Budget 4,50,00,000"
+ },
+ {
+  "tmdb_movie_id": 20452,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1095",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1095",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1095"
+  },
+  "budget_inr_crore": 2.75,
+  "revenue_inr_crore": 0.1,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Perfect Mismatch (2009), release 25 Jul 2009): Budget 2,75,00,000, India Gross 10,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 435203,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1078",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1078",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1078"
+  },
+  "budget_inr_crore": 8.0,
+  "revenue_inr_crore": 2.19,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Team - The Force (2009), release 5 Jun 2009): Budget 8,00,00,000, India Gross 2,19,00,000 (overseas $---), verdict Disaster; BOI shows a theatrical release (325 screens, Sohail Khan / Amrita Arora) — run 8 note 'no theatrical release' superseded"
+ },
+ {
+  "tmdb_movie_id": 1738252,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=220",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=220",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=220"
+  },
+  "budget_inr_crore": 3.75,
+  "revenue_inr_crore": 0.0975,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Bad Luck Govind (2009), release 9 Jan 2009): Budget 3,75,00,000, India Gross 9,75,000 (overseas $---), verdict Disaster"
+ }
+]

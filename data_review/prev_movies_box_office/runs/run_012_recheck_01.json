@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 336203,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2903"
+  },
+  "budget_inr_crore": 8.0,
+  "notes": "BOI recheck (Masaan (2015), release 24 Jul 2015): Budget 8,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 260318,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2209"
+  },
+  "budget_inr_crore": 16.0,
+  "notes": "BOI recheck (Gang Of Ghosts (2014), release 21 Mar 2014): Budget 16,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 264186,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2226"
+  },
+  "budget_inr_crore": 2.25,
+  "notes": "BOI recheck (Dekh Tamasha Dekh (2014), release 18 Apr 2014): Budget 2,25,00,000"
+ },
+ {
+  "tmdb_movie_id": 250726,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2053"
+  },
+  "budget_inr_crore": 17.0,
+  "notes": "BOI recheck (Mr. Joe B. Carvalho (2014), release 3 Jan 2014): Budget 17,00,00,000; verdict left NULL (BH Flop vs Wiki 'recovered its money')"
+ },
+ {
+  "tmdb_movie_id": 1352877,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1297",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1297",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1297"
+  },
+  "budget_inr_crore": 2.0,
+  "revenue_inr_crore": 0.125,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Boyss Toh Boyss Hain (2013), release 12 Jul 2013): Budget 2,00,00,000, India Gross 12,50,000 (overseas $---), verdict Disaster"
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "tmdb_movie_id": 499257,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=880",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=880",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=880"
+  },
+  "budget_inr_crore": 0.25,
+  "revenue_inr_crore": 0.0072,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Yaar Meri Zindagi (2008), release 11 Apr 2008): Budget 25,00,000, India Gross 72,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 647873,
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1315"
+  },
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Tulsi (2008), release 18 Jan 2008): verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 710679,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1352",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1352",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1352"
+  },
+  "budget_inr_crore": 2.5,
+  "revenue_inr_crore": 0.04,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (My Friend Ganesha 2 (2008), release 22 Aug 2008): Budget 2,50,00,000, India Gross 4,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 544282,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1513",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1513",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1513"
+  },
+  "budget_inr_crore": 4.25,
+  "revenue_inr_crore": 0.5,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Showbiz (2007), release 28 Dec 2007): Budget 4,25,00,000, India Gross 50,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 1639972,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=264",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=264",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=264"
+  },
+  "budget_inr_crore": 9.0,
+  "revenue_inr_crore": 1.35,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Victoria No. 203 (2007), release 31 Aug 2007): Budget 9,00,00,000, India Gross 1,35,00,000 (overseas $---), verdict Disaster"
+ }
+]

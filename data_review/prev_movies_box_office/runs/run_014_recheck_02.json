@@ -1,0 +1,67 @@
+[
+ {
+  "tmdb_movie_id": 544278,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1596",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1596",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1596"
+  },
+  "budget_inr_crore": 2.0,
+  "revenue_inr_crore": 0.27,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Jigyaasa (2006), release 10 Mar 2006): Budget 2,00,00,000, India Gross 27,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 39218,
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1651"
+  },
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "notes": "BOI recheck (Main Meri Patni Aur Woh (2005), release 7 Oct 2005): verdict Flop"
+ },
+ {
+  "tmdb_movie_id": 546865,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1663",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1663",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1663"
+  },
+  "budget_inr_crore": 2.25,
+  "revenue_inr_crore": 0.53,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Siskiyaan (2005), release 30 Sep 2005): Budget 2,25,00,000, India Gross 53,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 549268,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1613",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1613",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1613"
+  },
+  "budget_inr_crore": 1.25,
+  "revenue_inr_crore": 0.035,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Devaki (2006), release 6 Jan 2006): Budget 1,25,00,000, India Gross 3,50,000 (overseas $---), verdict Disaster; DB 23 Sep 2005; BOI India release 6 Jan 2006 (dir. Bappaditya Bandopadhyay)"
+ },
+ {
+  "tmdb_movie_id": 202635,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=425",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=425",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=425"
+  },
+  "budget_inr_crore": 6.0,
+  "revenue_inr_crore": 1.7835,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Silsiilay (2005), release 17 Jun 2005): Budget 6,00,00,000, Worldwide Gross 1,78,35,500 (overseas $33,000), verdict Disaster"
+ }
+]

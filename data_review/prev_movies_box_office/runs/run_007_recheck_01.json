@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 556907,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5526"
+  },
+  "budget_inr_crore": 34.0,
+  "notes": "BOI recheck (Baazaar (2018), release 26 Oct 2018): Budget 34,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 194522,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=3683"
+  },
+  "budget_inr_crore": 12.0,
+  "notes": "BOI recheck (Monsoon Shootout (2017), release 15 Dec 2017): Budget 12,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 394078,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=3266"
+  },
+  "budget_inr_crore": 9.5,
+  "notes": "BOI recheck (Santa Banta Pvt. Ltd. (2016), release 22 Apr 2016): Budget 9,50,00,000"
+ },
+ {
+  "tmdb_movie_id": 651878,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2291",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=2291",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=2291"
+  },
+  "budget_inr_crore": 0.6,
+  "revenue_inr_crore": 0.0425,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Shuruaat Ka Interval (2014), release 15 Aug 2014): Budget 60,00,000, India Gross 4,25,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 126318,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2099"
+  },
+  "budget_inr_crore": 5.0,
+  "notes": "BOI recheck (Miss Lovely (2014), release 17 Jan 2014): Budget 5,00,00,000"
+ }
+]

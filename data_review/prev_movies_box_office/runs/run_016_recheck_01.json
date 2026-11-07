@@ -1,0 +1,27 @@
+[
+ {
+  "tmdb_movie_id": 1067209,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6270"
+  },
+  "budget_inr_crore": 20.0,
+  "notes": "BOI recheck (Gandhi Godse Ek Yudh (2023), release 26 Jan 2023): Budget 20,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 1009432,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6211"
+  },
+  "budget_inr_crore": 78.0,
+  "notes": "BOI recheck (Uunchai (2022), release 11 Nov 2022): Budget 78,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 726207,
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6210"
+  },
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Phone Bhoot (2022), release 4 Nov 2022): verdict Disaster"
+ }
+]

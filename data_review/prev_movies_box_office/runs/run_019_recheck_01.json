@@ -1,0 +1,52 @@
+[
+ {
+  "tmdb_movie_id": 428337,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=3374",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=3374"
+  },
+  "revenue_inr_crore": 0.1475,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Dark Chocolate (2016), release 2 Sep 2016): India Gross 14,75,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 386365,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=3221"
+  },
+  "revenue_inr_crore": 0.56,
+  "revenue_scope": "india_gross",
+  "notes": "BOI recheck (Direct Ishq (2016), release 19 Feb 2016): India Gross 56,00,000 (overseas $---)"
+ },
+ {
+  "tmdb_movie_id": 310567,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=3397",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=3397"
+  },
+  "revenue_inr_crore": 0.0105,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Umrika (2016), release 23 Sep 2016): India Gross 1,05,000 (overseas $---), verdict Disaster; Sundance 2015; BOI India release 23 Sep 2016"
+ },
+ {
+  "tmdb_movie_id": 339795,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=2813"
+  },
+  "revenue_inr_crore": 1.33,
+  "revenue_scope": "india_gross",
+  "notes": "BOI recheck (Barkhaa (2015), release 27 Mar 2015): India Gross 1,33,00,000 (overseas $---)"
+ },
+ {
+  "tmdb_movie_id": 309138,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2408"
+  },
+  "budget_inr_crore": 3.5,
+  "notes": "BOI recheck (Gollu Aur Pappu (2014), release 21 Nov 2014): Budget 3,50,00,000"
+ }
+]

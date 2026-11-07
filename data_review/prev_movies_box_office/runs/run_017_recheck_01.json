@@ -1,0 +1,43 @@
+[
+ {
+  "tmdb_movie_id": 782848,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6121"
+  },
+  "budget_inr_crore": 14.0,
+  "notes": "BOI recheck (Madam Chief Minister (2021), release 22 Jan 2021): Budget 14,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 693838,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6091"
+  },
+  "revenue_inr_crore": 1.4244,
+  "revenue_scope": "worldwide",
+  "notes": "BOI recheck (Indoo Ki Jawani (2020), release 11 Dec 2020): Worldwide Gross 1,42,43,750 (overseas $25,000)"
+ },
+ {
+  "tmdb_movie_id": 661671,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5756"
+  },
+  "budget_inr_crore": 14.0,
+  "notes": "BOI recheck (Shikara (2020), release 7 Feb 2020): Budget 14,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 655459,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5800"
+  },
+  "budget_inr_crore": 14.0,
+  "notes": "BOI recheck (Jai Mummy Di (2020), release 17 Jan 2020): Budget 14,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 640076,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5730"
+  },
+  "budget_inr_crore": 30.0,
+  "notes": "BOI recheck (Made In China (2019), release 25 Oct 2019): Budget 30,00,00,000"
+ }
+]

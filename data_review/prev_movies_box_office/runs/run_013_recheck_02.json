@@ -1,0 +1,66 @@
+[
+ {
+  "tmdb_movie_id": 22159,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1113",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1113",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1113"
+  },
+  "budget_inr_crore": 2.5,
+  "revenue_inr_crore": 0.132,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Bachelor Party (2009), release 4 Sep 2009): Budget 2,50,00,000, India Gross 13,20,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 21802,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1093",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1093",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1093"
+  },
+  "budget_inr_crore": 2.75,
+  "revenue_inr_crore": 0.57,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Morning Walk (2009), release 10 Jul 2009): Budget 2,75,00,000, India Gross 57,00,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 380516,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1082",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1082",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1082"
+  },
+  "budget_inr_crore": 3.25,
+  "revenue_inr_crore": 0.2725,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Zor Lagaa Ke... Haiya! (2009), release 12 Jun 2009): Budget 3,25,00,000, India Gross 27,25,000 (overseas $---), verdict Disaster"
+ },
+ {
+  "tmdb_movie_id": 59262,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=163"
+  },
+  "budget_inr_crore": 21.0,
+  "notes": "BOI recheck (Ek - The Power Of One (2009), release 27 Mar 2009): Budget 21,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 46405,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=997",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=997",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=997"
+  },
+  "budget_inr_crore": 3.0,
+  "revenue_inr_crore": 0.1875,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "notes": "BOI recheck (Mere Khwabon Mein Jo Aaye (2009), release 6 Feb 2009): Budget 3,00,00,000, India Gross 18,75,000 (overseas $---), verdict Disaster"
+ }
+]

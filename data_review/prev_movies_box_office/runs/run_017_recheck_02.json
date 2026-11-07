@@ -1,0 +1,26 @@
+[
+ {
+  "tmdb_movie_id": 507941,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5708"
+  },
+  "budget_inr_crore": 17.0,
+  "notes": "BOI recheck (Section 375 (2019), release 13 Sep 2019): Budget 17,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 543693,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5701"
+  },
+  "budget_inr_crore": 39.0,
+  "notes": "BOI recheck (Jabariya Jodi (2019), release 9 Aug 2019): Budget 39,00,00,000"
+ },
+ {
+  "tmdb_movie_id": 599796,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5652"
+  },
+  "budget_inr_crore": 11.0,
+  "notes": "BOI recheck (Setters (2019), release 3 May 2019): Budget 11,00,00,000"
+ }
+]
