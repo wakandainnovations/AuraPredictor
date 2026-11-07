@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1026792, "budget_inr_crore": null, "revenue_inr_crore": 0.001, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "Wiki infobox no figures; not in boi_index.csv; BH 2022 'Nazar Andaaz' 07 Oct 2022: lifetime nett ₹0.001 Cr, Flop"},
+ {"tmdb_movie_id": 920040, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kachher Manush' infobox budget/gross blank, no verdict; Bengali — not in BOI"},
+ {"tmdb_movie_id": 945524, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 1018220, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Netflix original (premiered on Netflix 30 Sep 2022) — direct-to-streaming, no box office"},
+ {"tmdb_movie_id": 1137908, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Zee Theatre teleplay (TV premiere 24 Sep 2022, ~54 min) — no theatrical release, no box office; no Wiki article"}
+]

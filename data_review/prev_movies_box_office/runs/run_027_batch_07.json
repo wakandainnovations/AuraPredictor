@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 1005794, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 943333, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the film found by search; not found"},
+ {"tmdb_movie_id": 533660, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kaatteri"}, "notes": "Wiki: 'released theatrically on 5 August 2022 and was a box-office bomb'; infobox no figures"},
+ {"tmdb_movie_id": 801526, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Netflix release 5 Aug 2022 (sold to Netflix) — direct-to-streaming, no box office"},
+ {"tmdb_movie_id": 877286, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"}
+]

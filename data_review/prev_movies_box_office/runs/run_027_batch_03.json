@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 1002082, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Disney+ Hotstar original (premiered on Disney+ Hotstar 23 Sep 2022) — direct-to-streaming, no box office; not in BOI / BH"},
+ {"tmdb_movie_id": 1005581, "budget_inr_crore": 15, "revenue_inr_crore": 3.74, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dhokha:_Round_D_Corner", "revenue": "https://en.wikipedia.org/wiki/Dhokha:_Round_D_Corner", "verdict": "https://boxofficeindia.com/movie.php?movieid=6202"},
+  "notes": "Wiki infobox budget ₹15 Cr (BH cite), gross ₹3.74 Cr (BOI-cited India gross) = stored values (confirmed); BOI live page WW 4,50,95,000 (incl. $95,000 overseas), budget --, verdict Disaster; BH 2022 table Flop (nett 2.75 Cr) → flop"},
+ {"tmdb_movie_id": 860394, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kotthu"}, "notes": "Wiki lead: 'received mixed reviews and was a box office failure'; infobox no figures"},
+ {"tmdb_movie_id": 1007932, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article found by search; not in BOI; stored revenue $466,488 (source 'wikipedia') unverified (left, flagged)"},
+ {"tmdb_movie_id": 947354, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"}
+]

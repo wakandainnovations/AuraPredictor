@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 893597, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Premiered on Aha 26 Aug 2022 — direct-to-streaming, no box office"},
+ {"tmdb_movie_id": 982515, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sreedhanya Catering Service' infobox no figures, no verdict"},
+ {"tmdb_movie_id": 834657, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Theerppu"}, "notes": "Wiki: 'The film was a box office bomb'; infobox no figures"},
+ {"tmdb_movie_id": 917370, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; Bengali — not in BOI"},
+ {"tmdb_movie_id": 796207, "budget_inr_crore": 30, "revenue_inr_crore": 4.318, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "box-office bomb (Wiki) / Disaster (BOI)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Dobaaraa", "revenue": "https://boxofficeindia.com/movie.php?movieid=6197", "verdict": "https://boxofficeindia.com/movie.php?movieid=6197"},
+  "notes": "Budget: Wiki ₹30 Cr (cited to BOI, archived 20 Sep 2022) = stored, confirmed; BOI live page now says 17,00,00,000 (noted, Wiki kept). Revenue corrected: stored ≈₹6.77 Cr = Wiki '{{Estimation}} ₹6.77 crore' cited to a BH page dated release day / accessed day 2 (not a lifetime figure, and above every trade total) → BOI WW 4,31,80,000 (India gross 4.00 Cr + $40,000 overseas). Verdict: Wiki 'box-office bomb', BOI Disaster → flop. Not in BH 2022 year table"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 778625, "budget_inr_crore": 42, "revenue_inr_crore": 38.7855, "revenue_scope": "worldwide", "verdict": "flop",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=6203", "revenue": "https://boxofficeindia.com/movie.php?movieid=6203", "verdict": "https://boxofficeindia.com/movie.php?movieid=6203"},
+  "notes": "Wiki infobox no figures; BOI live page: Budget 42,00,00,000, India gross 29.08 Cr + overseas $1,180,000 = WW 38,78,55,000, verdict Flop; BH 2022 table also Flop (lifetime nett 26.45 Cr)"},
+ {"tmdb_movie_id": 991677, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet' (default Disaster ignored)"},
+ {"tmdb_movie_id": 1034852, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Neetho (2022 film)' infobox no figures, no verdict"},
+ {"tmdb_movie_id": 1035678, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 1006455, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet' (default Disaster ignored)"}
+]

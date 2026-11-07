@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 802166, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 925426, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 1004599, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returned unrelated pages); not in boi_index.csv or BH 2022 table; not found"},
+ {"tmdb_movie_id": 653221, "budget_inr_crore": 6, "revenue_inr_crore": 55, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Blockbuster (sacnilk)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Hridayam_(film)", "revenue": "https://en.wikipedia.org/wiki/Hridayam_(film)", "verdict": "https://www.sacnilk.com/movie/Hridayam_2022"},
+  "notes": "Wiki 'Hridayam (film)' budget '{{Estimation}} ₹5-7 crore' → midpoint 6 = stored, gross '{{Estimation}} ₹55 crore' = stored (confirmed) — both cited to a Pinkvilla 15 Feb 2022 piece 'Hridayam tops 50 crores globally' (day 25; flagged); sacnilk WW ₹53.10 Cr (28 days, till 17 Feb 2022; India gross 30.60 + overseas 22.50), budget ₹7 Cr — within ~3.5%, Wiki kept; verdict sacnilk 'Blockbuster' (page with real figures) → hit; Wiki has only rankings ('3rd highest grossing Malayalam film of the year')"},
+ {"tmdb_movie_id": 861996, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; stored tmdb budget $179,000 unverified (left)"}
+]

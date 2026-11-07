@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 764928, "budget_inr_crore": 42, "revenue_inr_crore": 8.20825, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=6185", "revenue": "https://boxofficeindia.com/movie.php?movieid=6185", "verdict": "https://boxofficeindia.com/movie.php?movieid=6185"},
+  "notes": "Wiki infobox budget blank; gross '{{Estimation}} ₹9.01 crore' cited to the BH movie page accessed 5 Jul 2022 (day 5 — running/estimated, not lifetime; above BH lifetime nett 7.11 Cr and BOI WW) → revenue corrected to BOI live page WW 8,20,82,500 (India gross 7.07 Cr + $145,000 overseas); budget BOI 42,00,00,000; verdict BOI Disaster, BH 2022 table Flop → flop. ZEE5 from 11 Aug 2022 (post-theatrical)"},
+ {"tmdb_movie_id": 943286, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 926985, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pattampoochi (2022 film)' infobox no figures, no verdict"},
+ {"tmdb_movie_id": 935520, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Panthrandu' infobox no figures, no verdict"},
+ {"tmdb_movie_id": 937323, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Priyan Ottathilanu' infobox no figures, no verdict"}
+]

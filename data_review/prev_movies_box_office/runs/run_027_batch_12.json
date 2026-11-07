@@ -1,0 +1,8 @@
+[
+ {"tmdb_movie_id": 813863, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 864571, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 899000, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shekar (film)' infobox no figures, no verdict; no sacnilk page found by search; Telangana Today 'scores a hit' is a review headline (not box office)"},
+ {"tmdb_movie_id": 1129247, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Jack_N%27_Jill"}, "notes": "Centimeter = Tamil version of Santosh Sivan's bilingual Jack N' Jill (same release 20 May 2022); Wiki 'Jack N' Jill': 'received negative reviews from critics and was a box office bomb'; infobox no figures"},
+ {"tmdb_movie_id": 460401, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ayngaran (film)': 'became a hit at the box office' cited only to a release-day YouTube public-review video (13 May 2022) — not a box-office source, left NULL; infobox no figures"}
+]

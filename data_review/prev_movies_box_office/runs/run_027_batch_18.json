@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 876828, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Night Drive (film)' infobox no figures, no verdict; sacnilk Night_Drive_2022 '—' only (default Disaster ignored)"},
+ {"tmdb_movie_id": 774806, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki: 'initially scheduled to release in cinemas on 4 March 2022 … Eventually, it was released on television and digital platforms' (TV premiere 23 May, Netflix 25 May 2022). BH 2022 table lists it at 04 Mar 2022 with lifetime nett ₹0.01 Cr, Flop — conflicts with Wiki's no-theatrical-release; not stored (flagged). Not in boi_index.csv"},
+ {"tmdb_movie_id": 734524, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Veyil (2022 film)' infobox no figures, no verdict"},
+ {"tmdb_movie_id": 865434, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk 5 days only (WW ₹49 L, till 1 Mar 2022) — partial, not stored"},
+ {"tmdb_movie_id": 941178, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"}
+]

@@ -2195,3 +2195,95 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 1032616,tt22489564,Har Har Mahadev,2022-10-25,marathi,verdict,not found in web search,"Wiki infobox budget ₹10–15 crore → midpoint 12.5 (cited HT Marathi / Asianet); Wiki gross blank; sacnilk India gross ₹11.51 Cr (nett 9.75) over 13 days to 6 Nov 2022 — its 'Worldwide gross' header ₹8.65 Cr is below India gross, so India gross stored; no verdict",26,20
 1033884,tt19488344,Honeymoon,2022-10-25,punjabi,budget;verdict,not found in web search,"Wiki 'Honeymoon (2022 film)' infobox no figures, no verdict; sacnilk India gross ₹6.02 Cr (nett 5.10) over 10 days to 3 Nov 2022 — 'Worldwide gross' header ₹4.50 Cr is below India gross, so India gross stored; no verdict",26,20
 968732,tt19864926,Ammu,2022-10-19,telugu,budget;revenue;verdict,not found in web search,Direct-to-streaming: Wiki infobox distributor Amazon Prime Video (Prime premiere 19 Oct 2022) — no box office,26,20
+991677,tt21142926,Vichithram,2022-10-14,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet' (default Disaster ignored)",27,1
+1034852,tt17074358,Neetho,2022-10-14,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Neetho (2022 film)' infobox no figures, no verdict",27,1
+1035678,tt21996794,Repeat Shoe,2022-10-14,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,1
+1006455,tt21440238,Ini Utharam,2022-10-07,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures yet' (default Disaster ignored)",27,1
+1026792,tt22311492,Nazar Andaaz,2022-10-07,hindi,budget,not found in web search,"Wiki infobox no figures; not in boi_index.csv; BH 2022 'Nazar Andaaz' 07 Oct 2022: lifetime nett ₹0.001 Cr, Flop",27,2
+920040,tt15568612,Kacher Manush,2022-09-30,bengali,budget;revenue;verdict,not found in web search,"Wiki 'Kachher Manush' infobox budget/gross blank, no verdict; Bengali — not in BOI",27,2
+945524,tt21430316,Mei Hoom Moosa,2022-09-30,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,2
+1018220,tt15238986,Plan A Plan B,2022-09-30,hindi,budget;revenue;verdict,not found in web search,"Netflix original (premiered on Netflix 30 Sep 2022) — direct-to-streaming, no box office",27,2
+1137908,tt22054074,Gunehgaar,2022-09-24,hindi,budget;revenue;verdict,not found in web search,"Zee Theatre teleplay (TV premiere 24 Sep 2022, ~54 min) — no theatrical release, no box office; no Wiki article",27,2
+1002082,tt19838608,Babli Bouncer,2022-09-23,hindi,budget;revenue;verdict,not found in web search,"Disney+ Hotstar original (premiered on Disney+ Hotstar 23 Sep 2022) — direct-to-streaming, no box office; not in BOI / BH",27,3
+860394,tt13275740,Kotthu,2022-09-16,malayalam,budget;revenue,not found in web search,Wiki lead: 'received mixed reviews and was a box office failure'; infobox no figures,27,3
+1007932,tt13973920,The Cheetahs of Roop Nagar,2022-09-16,marathi,budget;revenue;verdict,not found in web search,"No Wiki article found by search; not in BOI; stored revenue $466,488 (source 'wikipedia') unverified (left, flagged)",27,3
+947354,,Ettulu,2022-09-11,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,3
+1022189,tt22187156,Lilly Rani,2022-09-09,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,4
+1024989,tt21908892,Kotha Kothaga,2022-09-09,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,4
+818228,tt14312358,Ottu,2022-09-08,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Ottu (film)' infobox no figures, no verdict; sacnilk Ottu_2022 404",27,4
+940564,tt16155300,Paka Dekha,2022-09-01,bengali,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,4
+1018195,tt21289480,First Day First Show,2022-09-01,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 'No box office figures' (default Disaster ignored)",27,4
+893597,tt13149552,Odela Railway Station,2022-08-26,telugu,budget;revenue;verdict,not found in web search,"Premiered on Aha 26 Aug 2022 — direct-to-streaming, no box office",27,5
+982515,tt21862486,Sree Dhanya Catering Service,2022-08-26,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Sreedhanya Catering Service' infobox no figures, no verdict",27,5
+834657,tt13760918,Theerppu,2022-08-25,malayalam,budget;revenue,not found in web search,Wiki: 'The film was a box office bomb'; infobox no figures,27,5
+917370,tt15710032,Kolkata Chalantika,2022-08-25,bengali,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; Bengali — not in BOI",27,5
+890195,tt21301666,Tees Maar Khan,2022-08-19,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Tees Maar Khan (2022 film)': theatrical 19 Aug 2022, infobox no figures, no verdict",27,6
+899248,tt16673138,Highway,2022-08-19,telugu,budget;revenue;verdict,not found in web search,Premiered on Aha 19 Aug 2022 (direct OTT release) — no box office,27,6
+946937,tt15353762,Jiivi 2,2022-08-19,tamil,budget;revenue;verdict,not found in web search,Released directly on Aha 19 Aug 2022 (producer chose OTT over theatres) — no box office,27,6
+1013597,tt15554794,Bai Ji Kuttange,2022-08-19,punjabi,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,6
+882577,tt14371830,Kadamaiyai Sei,2022-08-12,tamil,budget;revenue;verdict,not found in web search,"Wiki: theatrical 12 Aug 2022 (alongside Viruman); infobox no figures, no verdict",27,6
+1005794,tt11953032,Beautiful Billo,2022-08-11,punjabi,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,7
+943333,tt21435314,Byomkesh Hotyamancha,2022-08-10,bengali,budget;revenue;verdict,not found in web search,No Wiki article for the film found by search; not found,27,7
+533660,tt7853250,Kaatteri,2022-08-05,tamil,budget;revenue,not found in web search,Wiki: 'released theatrically on 5 August 2022 and was a box-office bomb'; infobox no figures,27,7
+801526,tt14152140,Darlings,2022-08-05,hindi,budget;revenue;verdict,not found in web search,"Netflix release 5 Aug 2022 (sold to Netflix) — direct-to-streaming, no box office",27,7
+877286,tt9174214,Sayanna Varthakal,2022-08-05,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,7
+894074,tt15056872,Poikkal Kuthirai,2022-08-05,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Poikkal Kudhirai (2022 film)' infobox no figures, no verdict",27,8
+1008671,tt15170506,Jind Mahi,2022-08-05,punjabi,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,8
+1696578,tt33693527,Rowdy Inspector,2022-08-05,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in boi_index.csv or BH 2022 table; not found,27,8
+968081,tt21272402,Gulu Gulu,2022-07-29,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,8
+952510,tt21345936,Jothi,2022-07-28,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Jothi (2022 film)' infobox no figures, no verdict",27,8
+961223,tt11497716,The Legend,2022-07-28,tamil,budget;revenue;verdict,not found in web search,"Wiki 'The Legend (2022 film)' infobox no figures; box-office section only a day-4 ₹6 Cr (TOI) figure and a 'theatrical + OTT ₹65 Cr' claim (not box office); sacnilk 8 days only (India gross ₹5.92 Cr, till 4 Aug 2022 — partial, not stored); no verdict (negative reviews only)",27,9
+932245,,Benki,2022-07-15,kannada,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,9
+988988,tt21237108,Judaa Hoke Bhi,2022-07-15,hindi,budget;verdict,not found in web search,Wiki gross '{{Estimation}} ₹0.25 crore' (BH cite) = BH 2022 table lifetime nett ₹0.25 Cr = stored (confirmed); BH verdict 'Pending' → no verdict; not in boi_index.csv,27,9
+680980,tt11478150,Sohreyan Da Pind Aa Gaya,2022-07-08,punjabi,budget;revenue;verdict,not found in web search,"Wiki 'Ghund Kadh Le Ni Sohreyan Da Pind Aa Gaya' infobox no figures, no verdict; sacnilk page '—' only (default Disaster ignored)",27,9
+1569609,tt13696058,Madappally United,2022-07-08,malayalam,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,9
+943286,tt20846944,Shikaaru,2022-07-01,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,10
+926985,tt16118660,Pattampoochi,2022-06-24,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Pattampoochi (2022 film)' infobox no figures, no verdict",27,10
+935520,tt15302546,Panthrand Twelve,2022-06-24,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Panthrandu' infobox no figures, no verdict",27,10
+937323,tt14137346,Priyan Ottathilaanu,2022-06-24,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Priyan Ottathilanu' infobox no figures, no verdict",27,10
+983040,tt20421014,Ittu Si Baat,2022-06-17,hindi,budget,not found in web search,"Wiki infobox no figures; not in boi_index.csv; BH 2022 'Ittu Si Baat' 17 Jun 2022: lifetime nett ₹0.15 Cr, Flop",27,11
+870832,tt15373558,Dear Friend,2022-06-10,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Dear Friend (2022 film)' infobox no figures, no verdict",27,11
+1013669,tt18815714,Prem Prakaran,2022-06-10,gujarati,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,11
+813863,tt19845918,Sakutumba Sametha,2022-05-20,kannada,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,12
+864571,tt14766444,Twenty One Hours,2022-05-20,kannada,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,12
+899000,,Shekar,2022-05-20,telugu,budget;revenue;verdict,not found in web search,"Wiki 'Shekar (film)' infobox no figures, no verdict; no sacnilk page found by search; Telangana Today 'scores a hit' is a review headline (not box office)",27,12
+1129247,tt14527750,Centimeter,2022-05-20,tamil,budget;revenue,not found in web search,Centimeter = Tamil version of Santosh Sivan's bilingual Jack N' Jill (same release 20 May 2022); Wiki 'Jack N' Jill': 'received negative reviews from critics and was a box office bomb'; infobox no figures,27,12
+460401,tt7023644,Ayngaran,2022-05-13,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Ayngaran (film)': 'became a hit at the box office' cited only to a release-day YouTube public-review video (13 May 2022) — not a box-office source, left NULL; infobox no figures",27,12
+680648,tt11924226,Selfie Mummy Googl Daddy,2022-05-13,kannada,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,13
+860759,tt14045766,Meri Awas Suno,2022-05-13,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,13
+866313,tt15163838,Koogle Kuttappa,2022-05-06,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,13
+967796,tt15373594,Ashoka Vanamlo Arjuna Kalyanam,2022-05-06,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk page 6 days only (till 11 May 2022), internally inconsistent (WW ₹3.60 Cr < India gross ₹9.03 Cr; day table ₹1.50 Cr) — partial, not stored; its 'Average' verdict not used (partial/inconsistent page)",27,13
+974304,tt15340798,Maa,2022-05-06,punjabi,budget;revenue;verdict,not found in web search,"Wiki 'Maa (2022 film)' infobox no figures, no verdict",27,13
+920059,tt15760296,Raavan,2022-04-28,bengali,verdict,not found in web search,"Wiki 'Raavan (2022 film)' infobox budget ₹3.50 Cr, gross ₹4 Cr (both uncited) = stored (confirmed, flagged uncited); no verdict in the film article — 'Jeet filmography' lead calls it 'commercially successful' (uncited, other article) → left NULL",27,14
+989218,tt15416070,Main Te Bapu,2022-04-22,punjabi,budget;revenue;verdict,not found in web search,"No Wiki article; stored tmdb revenue $16,054 unverified (left)",27,14
+969731,,New Normal,2022-04-16,malayalam,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,14
+760942,tt4946776,Aquarium,2022-04-09,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Aquarium (film)' infobox no figures, no verdict",27,14
+587235,tt14787874,Trikona,2022-04-08,kannada,budget;revenue;verdict,not found in web search,"Wiki 'Trikona (film)' infobox no figures, no verdict",27,15
+718563,tt16755990,Mahananda,2022-04-08,bengali,budget;revenue;verdict,not found in web search,"Wiki 'Mahananda (film)' infobox no figures, no verdict",27,15
+809309,tt10919304,Hurdang,2022-04-08,hindi,budget;revenue;verdict,not found in web search,"Wiki: released theatrically 8 Apr 2022; infobox no figures, no verdict; not in boi_index.csv or BH 2022 year table",27,15
+864754,tt19265480,Manmatha Leelai,2022-04-01,tamil,budget;revenue;verdict,not found in web search,"Wiki 'Manmadha Leelai (2022 film)' infobox no figures, no verdict; sacnilk 7 days only (WW ₹3.00 Cr < India gross ₹3.60 Cr, till 7 Apr 2022) — partial, not stored",27,15
+889630,tt14999738,Mishan Impossible,2022-04-01,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures; only review wording ('fails to launch', Firstpost — quality, not box office); sacnilk 'No box office figures yet'",27,15
+946652,tt18568902,Kaun Pravin Tambe?,2022-04-01,hindi,budget;revenue;verdict,not found in web search,"Premiered on Disney+ Hotstar 1 Apr 2022 — direct-to-streaming, no box office",27,16
+1012672,tt14631142,Raktbeej,2022-04-01,gujarati,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,16
+1188733,,Asharey Goppo,2022-04-01,bengali,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,16
+870387,tt9098938,Sharmaji Namkeen,2022-03-31,hindi,budget;revenue;verdict,not found in web search,"Premiered on Amazon Prime Video 31 Mar 2022 — direct-to-streaming, no box office",27,16
+952220,tt12794338,Achcham Madam Naanam Payirppu,2022-03-25,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,16
+739034,tt13022626,Kuthiraivaal,2022-03-18,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict (IFFK 2021, India release 18 Mar 2022)",27,17
+835684,tt14774434,Twenty One Grams,2022-03-18,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Twenty One Gms' infobox no figures, no verdict (theatrical, Disney+ Hotstar from 10 Jun 2022)",27,17
+1030853,tt19856204,Lal Jose,2022-03-18,malayalam,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,17
+950416,tt18813694,Jahaan,2022-03-17,hindi,budget;revenue;verdict,not found in web search,No Wiki article; not in boi_index.csv or BH 2022 table (BH 'Jahaan Chaar Yaar' is a different film); not found,27,17
+759989,tt11730914,Maaran,2022-03-11,tamil,budget;revenue;verdict,not found in web search,Released directly on Disney+ Hotstar 11 Mar 2022 — no box office,27,17
+876828,tt15477096,Night Drive,2022-03-11,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Night Drive (film)' infobox no figures, no verdict; sacnilk Night_Drive_2022 '—' only (default Disaster ignored)",27,18
+774806,tt13623916,Toolsidas Junior,2022-03-04,hindi,budget;revenue;verdict,not found in web search,"Wiki: 'initially scheduled to release in cinemas on 4 March 2022 … Eventually, it was released on television and digital platforms' (TV premiere 23 May, Netflix 25 May 2022). BH 2022 table lists it at 04 Mar 2022 with lifetime nett ₹0.01 Cr, Flop — conflicts with Wiki's no-theatrical-release; not stored (flagged). Not in boi_index.csv",27,18
+734524,tt10608624,Veyil,2022-02-25,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Veyil (2022 film)' infobox no figures, no verdict",27,18
+865434,tt11558628,Member Rameshan 9aam Ward,2022-02-25,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; sacnilk 5 days only (WW ₹49 L, till 1 Mar 2022) — partial, not stored",27,18
+941178,,Varada,2022-02-18,kannada,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,18
+690554,tt12344970,Family Pack,2022-02-16,kannada,budget;revenue;verdict,not found in web search,"Wiki 'Family Pack (2022 film)': premiered on Amazon Prime Video — direct-to-streaming, no box office",27,19
+792027,tt13039148,Archana 31 Not Out,2022-02-11,malayalam,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,19
+889136,tt15762830,Freedom Fight,2022-02-11,malayalam,budget;revenue;verdict,not found in web search,"Wiki 'Freedom Fight (film)' infobox no figures, no verdict",27,19
+970760,tt15329694,Fourwalls,2022-02-11,kannada,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,19
+944777,tt12071786,Kothala Rayudu,2022-02-04,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,19
+802166,tt11295246,Good Luck Sakhi,2022-01-28,telugu,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict",27,20
+925426,tt16987436,Uniki,2022-01-28,telugu,budget;revenue;verdict,not found in web search,No Wiki article; not found,27,20
+1004599,,Verses of War,2022-01-26,hindi,budget;revenue;verdict,not found in web search,No Wiki article (search returned unrelated pages); not in boi_index.csv or BH 2022 table; not found,27,20
+861996,tt11396226,Mudhal Nee Mudivum Nee,2022-01-21,tamil,budget;revenue;verdict,not found in web search,"Wiki infobox no figures, no verdict; stored tmdb budget $179,000 unverified (left)",27,20

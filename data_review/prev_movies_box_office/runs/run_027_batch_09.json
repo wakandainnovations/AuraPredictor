@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 961223, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Legend (2022 film)' infobox no figures; box-office section only a day-4 ₹6 Cr (TOI) figure and a 'theatrical + OTT ₹65 Cr' claim (not box office); sacnilk 8 days only (India gross ₹5.92 Cr, till 4 Aug 2022 — partial, not stored); no verdict (negative reviews only)"},
+ {"tmdb_movie_id": 932245, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 988988, "budget_inr_crore": null, "revenue_inr_crore": 0.25, "revenue_scope": "india_net", "verdict": null,
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "Wiki gross '{{Estimation}} ₹0.25 crore' (BH cite) = BH 2022 table lifetime nett ₹0.25 Cr = stored (confirmed); BH verdict 'Pending' → no verdict; not in boi_index.csv"},
+ {"tmdb_movie_id": 680980, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ghund Kadh Le Ni Sohreyan Da Pind Aa Gaya' infobox no figures, no verdict; sacnilk page '—' only (default Disaster ignored)"},
+ {"tmdb_movie_id": 1569609, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"}
+]

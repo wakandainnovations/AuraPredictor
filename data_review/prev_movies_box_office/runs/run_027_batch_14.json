@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 752943, "budget_inr_crore": null, "revenue_inr_crore": 70, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "financially successful (Wiki) / Super Hit (sacnilk)",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Kaathuvaakula_Rendu_Kaadhal", "verdict": "https://en.wikipedia.org/wiki/Kaathuvaakula_Rendu_Kaadhal"},
+  "notes": "Wiki gross '{{estimation}} ₹70 crore' cited to TOI 27 May 2022 'lifetime BO collection … collects Rs. 70 crore globally' = stored (confirmed); Wiki 'the film was financially successful' → hit; sacnilk (Kaathu_Vaakula_Rendu_Kaadhal_2021) WW ₹52.50 Cr (15 days, till 12 May), budget ₹35 Cr, verdict Super Hit (consistent) — Wiki budget blank, sacnilk budget not used as Wiki-first only applies to figures; budget left (sacnilk ₹35 Cr noted for manual check)"},
+ {"tmdb_movie_id": 920059, "budget_inr_crore": 3.5, "revenue_inr_crore": 4, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Raavan_(2022_film)", "revenue": "https://en.wikipedia.org/wiki/Raavan_(2022_film)"},
+  "notes": "Wiki 'Raavan (2022 film)' infobox budget ₹3.50 Cr, gross ₹4 Cr (both uncited) = stored (confirmed, flagged uncited); no verdict in the film article — 'Jeet filmography' lead calls it 'commercially successful' (uncited, other article) → left NULL"},
+ {"tmdb_movie_id": 989218, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; stored tmdb revenue $16,054 unverified (left)"},
+ {"tmdb_movie_id": 969731, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 760942, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aquarium (film)' infobox no figures, no verdict"}
+]

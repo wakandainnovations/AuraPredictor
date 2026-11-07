@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 609096, "budget_inr_crore": 15, "revenue_inr_crore": 13, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "underperformed (linked to Box-office bomb)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Virata_Parvam", "revenue": "https://en.wikipedia.org/wiki/Virata_Parvam", "verdict": "https://en.wikipedia.org/wiki/Virata_Parvam"},
+  "notes": "Wiki 'Virata Parvam' infobox budget ₹15 Cr (TOI), gross '{{Estimation}} ₹13 crore' (TOI 29 Jun 2022, day 12, OTT from 1 Jul) = stored values (confirmed); lead: 'underperformed at the box-office' linked to Box-office bomb → flop (run 12 precedent); sacnilk Viraata_Parvam_2022 404; Telugu — not in BOI"},
+ {"tmdb_movie_id": 983040, "budget_inr_crore": null, "revenue_inr_crore": 0.15, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2022/"},
+  "notes": "Wiki infobox no figures; not in boi_index.csv; BH 2022 'Ittu Si Baat' 17 Jun 2022: lifetime nett ₹0.15 Cr, Flop"},
+ {"tmdb_movie_id": 870832, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dear Friend (2022 film)' infobox no figures, no verdict"},
+ {"tmdb_movie_id": 1013669, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 888268, "budget_inr_crore": 40, "revenue_inr_crore": 11.10, "revenue_scope": "unknown", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Anek", "revenue": "https://en.wikipedia.org/wiki/Anek", "verdict": "https://boxofficeindia.com/movie.php?movieid=6183"},
+  "notes": "Wiki infobox budget ₹40 Cr (BOI-cited, accessed 5 Jul 2022) and gross ₹11.10 Cr (BH) = stored (confirmed); BOI live page now budget 47,00,00,000 and WW 10,87,25,000 (noted, Wiki kept); verdict BOI Disaster, BH 2022 table Flop (nett 8.15 Cr) → flop; Netflix from 26 Jun 2022 (post-theatrical)"}
+]

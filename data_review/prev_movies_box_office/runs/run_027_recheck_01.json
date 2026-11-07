@@ -1,0 +1,5 @@
+[
+ {"tmdb_movie_id": 752943, "budget_inr_crore": 35, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://sacnilk.com/movie/Kaathu_Vaakula_Rendu_Kaadhal_2021"},
+  "notes": "Budget gap filled: Wiki infobox budget blank, Tamil (not in BOI) → sacnilk movie page 'Budget: ₹35.00 Cr' (slug Kaathu_Vaakula_Rendu_Kaadhal_2021). Fixes run 27 batch 14, where the sacnilk budget was noted but wrongly not applied"}
+]

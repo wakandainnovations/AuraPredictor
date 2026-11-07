@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 680648, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not found"},
+ {"tmdb_movie_id": 860759, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 866313, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict"},
+ {"tmdb_movie_id": 967796, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki infobox no figures, no verdict; sacnilk page 6 days only (till 11 May 2022), internally inconsistent (WW ₹3.60 Cr < India gross ₹9.03 Cr; day table ₹1.50 Cr) — partial, not stored; its 'Average' verdict not used (partial/inconsistent page)"},
+ {"tmdb_movie_id": 974304, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maa (2022 film)' infobox no figures, no verdict"}
+]
