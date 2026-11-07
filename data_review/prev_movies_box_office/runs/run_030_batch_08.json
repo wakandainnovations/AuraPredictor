@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 579402,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Anukta' infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 580844,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Uda Aida' infobox gross '₹13 crore (See below)' is uncited, and the box-office section only lists overseas figures (Canada ₹4.17 Cr, Australia, US, NZ) — stored $1.81M (= ₹13 Cr) left, flagged as uncited; budget blank, no verdict; Punjabi, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 580610,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wikipedia article for 'Oru Kaatil Oru Paykappal' (direct fetch 404). Stored tmdb revenue $33,700 left unverified; not found"
+ },
+ {
+  "tmdb_movie_id": 586467,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Direct-to-streaming: Wiki 'Rakkhosh' — festival screenings (RIFF / PIFF / OCIFF, Jan–Feb 2019), distributor Netflix, released 20 Jun 2019; no box office; not in BOI/BH"
+ },
+ {
+  "tmdb_movie_id": 556310,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.19,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5575",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5575"
+  },
+  "notes": "Wiki 'Bombairiya' (festival Nov 2018, India 18 Jan 2019): budget blank; gross '{{Estimation}} ₹1.4 million' cited to the BH 'Box Office Collection till Now' page accessed 28 Jan 2019 (day 10) = BH nett (stored $19,887 reproduces it; BH 2019 table lifetime nett 0.14) → corrected to BOI 'Bombairiya (2019) Hindi' India Gross 19,00,000 (overseas $---, nett 16,05,000). Budget: BOI '--'. Verdict: BOI Disaster, BH Flop → flop",
+  "revenue_scope": "india_gross"
+ }
+]

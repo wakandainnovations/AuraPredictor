@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 562696, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit",
+  "sources": {"verdict": "https://madhyamamonline.com/entertainment/2019/jun/16/animals-turn-star-attractions-tamil-cinema"},
+  "notes": "Wiki 'Monster (2019 film)' has no budget/gross fields and no box-office section; sacnilk Monster_2019 404. Madhyamam (IANS, 16 Jun 2019): 'the runaway success of Nelson Venkatesan's Monster … Made on a shoestring budget, the film managed to see profits at the box-office' → hit (single news source). AllMovie $1M / $19,705 and The Numbers $748 not used (unreliable)"},
+ {"tmdb_movie_id": 599955, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kuttymama' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 603340, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ishq (2019 film)' infobox budget/gross blank, no verdict; sacnilk Ishq_2019 404; not found"},
+ {"tmdb_movie_id": 621974, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rampaat' (fetched directly; search found nothing) infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 1766381, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Radha Ragasiya' (direct fetch 404; search hits unrelated); obscure title, not found"}
+]

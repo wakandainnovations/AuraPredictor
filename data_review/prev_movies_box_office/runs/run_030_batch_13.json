@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 543692, "budget_inr_crore": 54, "revenue_inr_crore": 14.2, "revenue_scope": "worldwide", "verdict": "flop",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=3968", "revenue": "https://boxofficeindia.com/movie.php?movieid=3968", "verdict": "https://en.wikipedia.org/wiki/Namaste_England"},
+  "notes": "Wiki 'Namaste England': budget blank; gross '₹8.02 crore' cited to the BH 'Box Office Collection till Now' page (dated 18 Oct 2018, release day) = BH India lifetime nett (BH 2018 table nett 8.02; stored $1.09M reproduces it) → replaced with BOI 'Namaste England (2018) Hindi' Worldwide Gross 14,19,52,500 (India gross 10,02,00,000 + overseas $570,000; nett 7,92,25,000), per run-29 practice for BH-page nett figures; budget from BOI 54,00,00,000. Verdict: Wiki 'emerged as a box office disaster' (linked to Box-office bomb), BOI Disaster, BH Flop → flop"},
+ {"tmdb_movie_id": 564354, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aate Di Chidi' infobox budget/gross blank, no box-office verdict; Punjabi, not in BOI; not found"},
+ {"tmdb_movie_id": 547026, "budget_inr_crore": null, "revenue_inr_crore": 2.09, "revenue_scope": "worldwide", "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3959", "verdict": "https://boxofficeindia.com/movie.php?movieid=3959"},
+  "notes": "Wiki 'FryDay': budget blank; gross '{{Estimation}} ₹15.2 million' cited to the BH 'Fryday Box Office collection till Now' page = BH India nett (BH 2018 table nett 1.52; stored $205,543 reproduces it) → replaced with BOI 'FryDay (2018) Hindi' Worldwide Gross 2,09,28,000 (India gross 1,93,00,000 + overseas $22,000; nett 1,52,50,000). Budget: BOI '--'. Verdict: BOI Disaster, BH Flop → flop"},
+ {"tmdb_movie_id": 553684, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nonsense (film)' infobox budget/gross blank; lead 'It bombed at the box office due to the absence of promotions …' is tagged {{Citation needed|date=January 2026}} → not used, verdict NULL; not found"},
+ {"tmdb_movie_id": 740953, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Underworld (film)' (Assamese, Eros) has no budget/gross fields and no box-office wording; not found"}
+]

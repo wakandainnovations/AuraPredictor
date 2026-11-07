@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 538154, "budget_inr_crore": null, "revenue_inr_crore": 18, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Ashke"},
+  "notes": "Wiki 'Ashke' infobox gross '₹18 crore' (uncited in the infobox) is backed by the cited box-office section: Australia ₹2.6 Cr, NZ ₹53.68 L, US ₹1.27 Cr, Canada ₹5.94 Cr 'in its 7-week theatrical run, making a worldwide total of ₹18 crores' → confirmed (stored $2.62M reproduces it). Budget blank, no verdict; Punjabi, not in BOI"},
+ {"tmdb_movie_id": 538394, "budget_inr_crore": 10, "revenue_inr_crore": 5.39, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=3800", "revenue": "https://boxofficeindia.com/movie.php?movieid=3800", "verdict": "https://boxofficeindia.com/movie.php?movieid=3800"},
+  "notes": "Wiki 'Nawabzaade': budget blank; gross '₹4.05 crore' cited to the BH 'Box office collection till-now' page dated 27 Jul 2018 (release day) = BH India lifetime nett (BH 2018 table 4.05; stored $589,093 reproduces it) → replaced with BOI 'Nawabzaade (2018) Hindi' India Gross 5,39,00,000 (overseas $---, nett 4,29,85,000), per run-29 practice; budget from BOI 10,00,00,000. Verdict: BOI Flop, BH Flop → flop"},
+ {"tmdb_movie_id": 542092, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ente Mezhuthiri Athazhangal' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 536771, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'W/O Ram' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 536475, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aa Karaala Ratri' infobox budget/gross blank, no box-office verdict (remakes/awards only); not found"}
+]

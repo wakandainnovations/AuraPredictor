@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 551745, "budget_inr_crore": null, "revenue_inr_crore": 0.47, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=5623", "verdict": "https://boxofficeindia.com/movie.php?movieid=5623"},
+  "notes": "Wiki 'Mere Pyare Prime Minister' (Rome FF 23 Oct 2018, India 15 Mar 2019; Netflix 30 May 2019): budget blank; gross '{{Estimation}} ₹3.9 million' cited to the BH box-office page accessed 23 Mar 2019 (day 8) = BH nett (stored $55,730 reproduces it; BH 2019 table lifetime nett 0.39) → corrected to BOI 'Mere Pyare Prime Minister (2019) Hindi' India Gross 47,00,000 (overseas $---, nett 40,00,000). Budget: BOI '--'. Verdict: BOI Disaster, BH Flop → flop"},
+ {"tmdb_movie_id": 599334, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Sisterleaf' (T. V. Chandran; search empty, direct fetch 404); not found"},
+ {"tmdb_movie_id": 530957, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kanne Kalaimaane' has no budget/gross fields and no box-office wording; not found"},
+ {"tmdb_movie_id": 582333, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pettikadai' has no budget/gross fields and no box-office wording; not found"},
+ {"tmdb_movie_id": 585253, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mr. & Ms. Rowdy' infobox budget/gross blank, no verdict; not found"}
+]

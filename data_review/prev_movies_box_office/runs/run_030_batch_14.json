@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 551240, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chalakkudikkaran Changathi' infobox budget/gross blank; no box-office verdict (the 'big hit' / crore lines are plot text); not found"},
+ {"tmdb_movie_id": 549733, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nannu Dochukunduvate' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 1228988, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Chromads' (Sailesh Kolanu; search empty, direct fetch 404) — likely a short; not found"},
+ {"tmdb_movie_id": 548383, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ventilator (2018 film)' (Gujarati) infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 535657, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'U Turn (2018 film)' (fetched directly; Tamil-Telugu bilingual remake) has no budget/gross fields and no box-office wording; not found"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 553889, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Airaa' infobox gross empty (only an editor comment), no budget, no verdict; not found"},
+ {"tmdb_movie_id": 599318, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Sur Sapata' (direct fetch 404; search hits only the 2017 Marathi list). Stored tmdb budget $500,000 left unverified; not found"},
+ {"tmdb_movie_id": 589469, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-streaming: '377 AbNormal' is listed as a ZEE5 film in Wiki 'Sid Makkar' filmography (cited to a 26 Mar 2019 Firstpost review); no Wiki article of its own; no box office; not in BOI/BH"},
+ {"tmdb_movie_id": 580430, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Ispade_Rajavum_Idhaya_Raniyum"},
+  "notes": "Wiki 'Ispade Rajavum Idhaya Raniyum' infobox budget/gross blank; lead: 'released on 15 March 2019 to mixed-to-positive reviews and become a box office hit' (uncited sentence — weak cite) → hit; no figures found"},
+ {"tmdb_movie_id": 716646, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Face 2 Face (2019 Indian film)' has no budget/gross fields; release section is reviews only; not found"}
+]

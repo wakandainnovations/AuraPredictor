@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 870662, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for the Malayalam 'Abode' (Jaya Jose Raj); 'Abode (film)' is a 2025 Irish film — rejected; not found"},
+ {"tmdb_movie_id": 601382, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Konttho' infobox budget/gross blank, no verdict; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 599653, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'K-13 (film)' infobox budget/gross blank; lead says 'released … to positive reviews but become an average hit', cited only to a Behindwoods review dated the release day (3 May 2019) — cite cannot support a box-office verdict and 'average hit' is ambiguous → NULL; not found"},
+ {"tmdb_movie_id": 1196301, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bau Na Vichar' has no budget/gross fields and no box-office wording; Gujarati, not in BOI; not found"},
+ {"tmdb_movie_id": 592675, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vellai Pookal' (US premiere 12 Apr 2019, India 19 Apr 2019) has no budget/gross; reception section is critical only ('well received by critics and audiences') — not a box-office verdict; not found"}
+]

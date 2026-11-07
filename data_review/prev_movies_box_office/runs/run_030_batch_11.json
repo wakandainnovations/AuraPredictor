@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 562974, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki '24 Kisses' (fetched directly; search missed it) infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 564356, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Marriage Palace' (2018 Punjabi; search hits only actor/list pages, 'Marriage Palace (film)' 404); not in BOI; not found"},
+ {"tmdb_movie_id": 356399, "budget_inr_crore": 10, "revenue_inr_crore": 3.25, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=5548", "revenue": "https://boxofficeindia.com/movie.php?movieid=5548", "verdict": "https://boxofficeindia.com/movie.php?movieid=5548"},
+  "notes": "Wiki 'Mohalla Assi' infobox budget/gross blank; body only gives a first-weekend figure ('₹14.49 crore in its first weekend' — partial, and BOI first weekend is 1,49,00,000) → not used. BOI 'Mohalla Assi (2018) Hindi': Budget 10,00,00,000, India Gross 3,25,00,000 (overseas $---; nett 2,57,00,000), Disaster; BH 2018 table nett 1.64 Cr, Flop → flop"},
+ {"tmdb_movie_id": 534953, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kaatrin Mozhi' infobox budget/gross blank, no box-office verdict; not found"},
+ {"tmdb_movie_id": 589959, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'I.M.A. Gujju' has no budget/gross fields and no box-office wording; Gujarati, not in BOI; not found"}
+]

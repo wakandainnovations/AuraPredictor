@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 512531, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Pyaar_Prema_Kaadhal"},
+  "notes": "Wiki 'Pyaar Prema Kaadhal' has no budget/gross fields; lead: 'released on 10 August 2018, to a positive response … and became a commercial success' — weak cite (TOI 'Check out the deleted scene from Pyaar Prema Kaadhal', 27 Aug 2018) → hit. Trident Arts' ₹3 Cr Tamil Nadu rights price is not a budget/gross"},
+ {"tmdb_movie_id": 541197, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Iblis (film)' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 540263, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Happy_Wedding_(2018_film)"},
+  "notes": "Wiki 'Happy Wedding (2018 film)' has no budget/gross fields; 'It became a flop at the box office due to lack of interest in moviegoers' — weak cite (Telugu360 'US box office: Poor show by Happy Wedding and Saakshyam', 30 Jul 2018, US weekend only) → flop, weak cite noted"},
+ {"tmdb_movie_id": 493177, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Junga (film)' infobox budget '₹27 crore' is uncited (stored $3.93M = ₹27 Cr) — left, flagged as uncited; no gross, no verdict; not found"},
+ {"tmdb_movie_id": 534686, "budget_inr_crore": 28, "revenue_inr_crore": 10.2, "revenue_scope": "worldwide", "verdict": "flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Saheb,_Biwi_Aur_Gangster_3", "revenue": "https://en.wikipedia.org/wiki/Saheb,_Biwi_Aur_Gangster_3", "verdict": "https://boxofficeindia.com/movie.php?movieid=3794"},
+  "notes": "Wiki 'Saheb, Biwi Aur Gangster 3' budget ₹28 crore (cited to BOI movieid=3794; = BOI 28,00,00,000) and gross ₹10.20 crore (cited to BH, accessed 1 Nov 2022 — lifetime; = BOI Worldwide Gross 10,19,70,000: India 9,30,00,000 + overseas $130,000); stored $4.07M / $1.48M reproduce them → confirmed. Verdict: BOI Flop, BH 2018 table Flop (nett 6.68) → flop"}
+]

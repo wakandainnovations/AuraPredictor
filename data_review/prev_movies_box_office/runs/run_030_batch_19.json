@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 578571, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Atharva (2018 film)' (Kannada; fetched directly) stub infobox with no budget/gross, no box-office text; not found"},
+ {"tmdb_movie_id": 497371, "budget_inr_crore": 18, "revenue_inr_crore": null, "verdict": "flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/My_Story_(film)", "verdict": "https://en.wikipedia.org/wiki/My_Story_(film)"},
+  "notes": "Wiki 'My Story (film)' budget ₹18 crore (body: 'made on a budget of ₹18 crore', cited; stored $2.63M reproduces it) → confirmed. Infobox gross '₹2.3 crore' is uncited (stored $335,889 = ₹2.3 Cr) — left, flagged as uncited. Verdict: 'was a box-office bomb' (uncited sentence — weak cite) → flop"},
+ {"tmdb_movie_id": 607521, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Jackpot_(2018_film)"},
+  "notes": "Pakistani Urdu film: Wiki 'Jackpot (2018 film)' budget PKR 4 crore (cited), gross PKR 3.25 crore (uncited) — PKR, which the script cannot convert (INR/USD only) → not stored. Box-office section: 'Its total box office collection was (3.25 crore) and the film was average on box office' (uncited — weak cite) → avg"},
+ {"tmdb_movie_id": 534343, "budget_inr_crore": null, "revenue_inr_crore": 19, "revenue_scope": "unknown", "verdict": "flop",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Pantham", "verdict": "https://en.wikipedia.org/wiki/Pantham"},
+  "notes": "Wiki 'Pantham' (fetched directly; search missed it): gross '{{Estimation}} ₹19 crore' cited to TOI 'Tollywood box office report of 2018: highest grossing Telugu movies of year; List of hits' (23 Nov 2018 — end-of-year, lifetime; scope not stated) → confirmed (stored $2.77M reproduces it). Lead: 'was a commercial failure at the box office, grossing over only ₹19 crore' (cited) → flop. Budget blank"},
+ {"tmdb_movie_id": 686091, "budget_inr_crore": null, "revenue_inr_crore": 0.0275, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=5789", "verdict": "https://boxofficeindia.com/movie.php?movieid=5789"},
+  "notes": "No Wikipedia article for 'Yeh Kaisa Tigdam' (search empty, direct fetch 404). BOI 'Yeh Kaisa Tigdam (2018) Hindi' (DB language english): India Gross 2,75,000 (overseas $---, nett 2,25,000), Budget --, Disaster; BH 2018 table nett 0.002 Cr, Flop → flop"}
+]

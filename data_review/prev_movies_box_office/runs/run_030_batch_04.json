@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 597394, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'What Are the Odds' — premiered at the Indian Film Festival of Los Angeles 14 Apr 2019, released 20 May 2020 (streaming, listed in Hindi films of 2020); no box office; not in BOI"},
+ {"tmdb_movie_id": 594763, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Manje Bistre 2' infobox budget/gross blank, no verdict (the ₹7 Cr / ₹31.74 Cr figures belong to the 2017 'Manje Bistre' — not used); Punjabi, not in BOI; not found"},
+ {"tmdb_movie_id": 460539, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kuppathu Raja (2019 film)' has no budget/gross fields and no box-office wording; not found"},
+ {"tmdb_movie_id": 582375, "budget_inr_crore": 15, "revenue_inr_crore": 5.67, "revenue_scope": "worldwide", "verdict": "flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Notebook_(2019_film)", "revenue": "https://boxofficeindia.com/movie.php?movieid=5633", "verdict": "https://boxofficeindia.com/movie.php?movieid=5633"},
+  "notes": "Wiki 'Notebook (2019 film)' budget ₹15 crore (cited to a 'Day 1 Box Office Prediction' article; stored $2.17M reproduces it — kept, BOI budget 19,00,00,000 noted). Wiki gross '{{estimation}} ₹3.72 crore' cited to the BH 'Notebook Box Office' page dated 29 Mar 2019 (release day) = BH India nett (BH 2019 table lifetime nett 3.72) → corrected to BOI 'Notebook (2019) Hindi' Worldwide Gross 5,67,00,000 (India gross 4,76,00,000 + overseas $130,000; nett 4,03,25,000). Verdict: BOI Disaster, BH 2019 table Flop → flop"},
+ {"tmdb_movie_id": 586753, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Suryakantham (film)' has no budget/gross fields; release section is reviews only; not found"}
+]

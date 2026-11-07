@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 639479, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chambal (film)' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 414012, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nethraa' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 460001, "budget_inr_crore": 1.3, "revenue_inr_crore": null, "verdict": "flop",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=5594", "verdict": "https://boxofficeindia.com/movie.php?movieid=5594"},
+  "notes": "Wiki 'The Fakir of Venice' (IFFLA Apr 2009, India release 8 Feb 2019): budget blank; gross '{{estimation}} ₹0.20 crore' cited to a BH '1st Day Box Office Collection' article (9 Feb 2019) = opening-day figure → not stored. BOI 'The Fakir Of Venice (2019) Hindi': Budget 1,30,00,000 (filled), Disaster → flop; BOI India Gross 19,75,000 but Total Nett 41,70,000 (nett > gross — page internally inconsistent) → revenue not stored, flagged. Not in BH 2019 table"},
+ {"tmdb_movie_id": 581623, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Baccha Shoshur' infobox budget/gross blank, no verdict; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 504437, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Sarvam_Thaala_Mayam"},
+  "notes": "Wiki 'Sarvam Thaala Mayam' infobox budget/gross blank; lead: 'The film was a box office success' cited to Zee News 'Filmmaker Rajeev Menon on cloud nine after success of Sarvam Thaalamayam' (10 Mar 2019) → hit; no figures"}
+]
