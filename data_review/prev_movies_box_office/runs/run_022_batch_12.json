@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 1417492,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 539733,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Bhram"
+  },
+  "notes": "Wiki: 'The film was a disaster at the box office'; not in BH 2008 table",
+  "verdict_label": "disaster"
+ },
+ {
+  "tmdb_movie_id": 282630,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki: ₹4 Cr opening weekend (partial) and 100 days {{citation needed}} — not stored"
+ },
+ {
+  "tmdb_movie_id": 125289,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Superstar (2008 Hindi film)): 'performed poorly at the box office' — not mapped to a verdict; no figures"
+ },
+ {
+  "tmdb_movie_id": 117844,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Krishnarjuna"
+  },
+  "notes": "Wiki: 'The film was a box-office failure'",
+  "verdict_label": "box-office failure"
+ }
+]

@@ -1,0 +1,55 @@
+[
+ {
+  "tmdb_movie_id": 901172,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 117361,
+  "budget_inr_crore": 16,
+  "revenue_inr_crore": 6.14,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Return_of_Hanuman",
+   "revenue": "https://en.wikipedia.org/wiki/Return_of_Hanuman"
+  },
+  "notes": "Wiki budget ₹16 Cr (BOI), gross ₹6.14 Cr (BOM) both re-derived; no verdict",
+  "revenue_scope": "unknown"
+ },
+ {
+  "tmdb_movie_id": 1389195,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki: 'performed badly at the box-office' — not mapped to a verdict; no figures"
+ },
+ {
+  "tmdb_movie_id": 21074,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Brick_Lane_(2007_film)",
+   "revenue": "https://en.wikipedia.org/wiki/Brick_Lane_(2007_film)"
+  },
+  "notes": "Wiki $2.5M budget / $3.8M gross (The Numbers) re-derived; no verdict",
+  "budget_usd": 2500000,
+  "revenue_usd": 3800000,
+  "revenue_scope": "worldwide"
+ },
+ {
+  "tmdb_movie_id": 63636,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Azhagiya_Tamil_Magan"
+  },
+  "notes": "Wiki: 'a moderate success at the box office'; Sify 'above average' grosser; overseas $1,043,064 only (not stored)",
+  "verdict_label": "moderate success / above average"
+ }
+]

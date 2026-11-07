@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 544322,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki has reviews only; stored tmdb revenue $26,959 unverified"
+ },
+ {
+  "tmdb_movie_id": 54247,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 330512,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Makante_Achan"
+  },
+  "notes": "Wiki: 'a commercial success at the box office'; no figures",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 69623,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki has no box office; web search found only Wiki mirrors ('superhit') and BOM Malaysia $245,914 — not used"
+ },
+ {
+  "tmdb_movie_id": 137452,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Neninthe"
+  },
+  "notes": "Wiki: 'was average at the box office'; infobox ₹18 Cr budget / ₹28 Cr gross uncited (stored values match, not confirmed)",
+  "verdict_label": "average"
+ }
+]

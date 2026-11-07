@@ -1,0 +1,47 @@
+[
+ {
+  "tmdb_movie_id": 376074,
+  "budget_inr_crore": 7,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Porki"
+  },
+  "notes": "Wiki budget ₹7 Cr (Deccan Herald) re-derived; only a '100-day run' (not a verdict)"
+ },
+ {
+  "tmdb_movie_id": 384031,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 1522845,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/School_Master_(2010_film)"
+  },
+  "notes": "Wiki: 'It turned out to be a box-office bomb'; no figures",
+  "verdict_label": "box-office bomb"
+ },
+ {
+  "tmdb_movie_id": 112112,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 161874,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict; not in BH 2010 table"
+ }
+]

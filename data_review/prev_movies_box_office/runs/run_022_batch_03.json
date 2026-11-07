@@ -1,0 +1,45 @@
+[
+ {
+  "tmdb_movie_id": 202721,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Happy_Husbands_(2010_film)"
+  },
+  "notes": "Wiki: '150-day theatrical run and became a blockbuster' / 'commercial success'; infobox ₹6 Cr budget / ₹12 Cr gross uncited (stored values match, not confirmed); body ₹2.5 Cr is a Kerala 75-day share",
+  "verdict_label": "blockbuster"
+ },
+ {
+  "tmdb_movie_id": 664845,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 1096511,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 423343,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Raam (2009 film)) only 'opening not good… picked up'; web search: only a filmibeat passing '100 days' mention — not a verdict"
+ },
+ {
+  "tmdb_movie_id": 330509,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Keralotsavam 2009) has no box office; no figures"
+ }
+]

@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 532965,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 661177,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 80948,
+  "budget_inr_crore": 8,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Krishna_(2008_film)",
+   "verdict": "https://en.wikipedia.org/wiki/Krishna_(2008_film)"
+  },
+  "notes": "Wiki budget ₹8 Cr (Sify) re-derived; 'a blockbuster at the box office'; stored revenue ≈₹24.6 Cr is the infobox distributors' share (flagged, left; body '₹38 crore worldwide' uncited)",
+  "verdict_label": "blockbuster"
+ },
+ {
+  "tmdb_movie_id": 467589,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 826411,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article (short film); no figures"
+ }
+]

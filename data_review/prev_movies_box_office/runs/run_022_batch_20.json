@@ -1,0 +1,47 @@
+[
+ {
+  "tmdb_movie_id": 136358,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 325143,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article, not in BH 2006 table; no figures"
+ },
+ {
+  "tmdb_movie_id": 106459,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 1497684,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki: ran 100 days — not a verdict; no figures"
+ },
+ {
+  "tmdb_movie_id": 357854,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 5,
+  "verdict": "hit",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Aishwarya_(film)",
+   "verdict": "https://en.wikipedia.org/wiki/Aishwarya_(film)"
+  },
+  "notes": "Wiki: gross ₹50 million (= ₹5 Cr) 'in its entire run of 100 days' (webindia123 'Hit Kannada Films of 2006'); 'was a commercial success, although it could not reach expectations'",
+  "revenue_scope": "unknown",
+  "verdict_label": "commercial success"
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 132456,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Kurradu"
+  },
+  "notes": "Wiki: 'The film was a box office failure'; no figures",
+  "verdict_label": "box office failure"
+ },
+ {
+  "tmdb_movie_id": 234636,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Swantham Lekhakan) has no box office; no figures"
+ },
+ {
+  "tmdb_movie_id": 309256,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict; not in BH 2009 table"
+ },
+ {
+  "tmdb_movie_id": 203567,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 21757,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.19,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Toss_(2009_film)"
+  },
+  "notes": "Wiki gross ₹19 lakh (BOI) re-derived; no verdict; not in BH 2009 table",
+  "revenue_scope": "unknown"
+ }
+]

@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 238133,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 73583,
+  "budget_inr_crore": 8,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Ready_(2008_film)",
+   "verdict": "https://koimoi.com/box-office/ram-pothinenis-ready-vs-salman-khans-ready-at-the-box-office-hindi-remake-had-a-blast-with-1000-higher-collection-than-3-year-old-og-film"
+  },
+  "notes": "Wiki budget ₹8 Cr (Sify) re-derived; Koimoi: 'declared as a super hit'; stored revenue ≈₹18 Cr is the infobox distributors' share (flagged, left; Koimoi ~₹15 Cr India gross is an estimate, not stored)",
+  "verdict_label": "super hit"
+ },
+ {
+  "tmdb_movie_id": 282622,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 117029,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Bujjigadu) 'emerged as an commercial success' is cited to a News18 '7 of 16 Prabhas films… flopped' list — conflicting/weak, left NULL"
+ },
+ {
+  "tmdb_movie_id": 1042446,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ }
+]

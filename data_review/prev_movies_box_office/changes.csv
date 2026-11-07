@@ -1837,3 +1837,47 @@ tmdb_movie_id,imdb_id,movie_name,release_date,field,old_value,new_value,inr_valu
 340731,tt1637692,Kuchh Kariye,2010-03-23,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,label=Flop,21,20
 340728,tt1611834,Do Dilon Ke Khel Mein,2010-03-12,revenue,,6593,300000.0,0.0219757088497738,2010-03-12,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,"scope=india_net; BH 2010 table lifetime ₹0.03 Cr nett, Flop",21,20
 340728,tt1611834,Do Dilon Ke Khel Mein,2010-03-12,hit_flop_avg,,flop,,,,https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/,label=Flop,21,20
+260010,tt1688200,Sadhyam,2010-03-05,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Sadhyam,label=flop,22,1
+963743,tt6246778,Rehmat Ali,2010-02-25,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Rehmat_Ali,label=average success,22,1
+80925,tt1582478,Bindaas,2010-02-05,budget,641777,641777,30000000.0,0.0213925769674223,2010-02-05,https://en.wikipedia.org/wiki/Bindaas_(2010_film),"Wiki budget ₹3 Cr (TOI) re-derived; 'considered a hit'; stored revenue ≈₹8 Cr is the infobox distributors' share (flagged, left)",22,1
+80925,tt1582478,Bindaas,2010-02-05,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Bindaas_(2010_film),label=hit,22,1
+256156,tt2914048,Just Maath Maathalli,2010-01-29,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Just_Maath_Maathalli,label=box-office bomb,22,1
+376074,tt1651934,Porki,2010-01-28,budget,1518269,1518269,70000000.0,0.0216895634865595,2010-01-29,https://en.wikipedia.org/wiki/Porki,Wiki budget ₹7 Cr (Deccan Herald) re-derived; only a '100-day run' (not a verdict),22,2
+1522845,tt13730178,School Master,2010-01-22,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/School_Master_(2010_film),label=box-office bomb,22,2
+202721,tt1609119,Happy Husbands,2010-01-13,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Happy_Husbands_(2010_film),label=blockbuster,22,3
+132456,tt1605739,Kurradu,2009-11-12,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Kurradu,label=box office failure,22,5
+21757,tt1992257,Toss,2009-08-28,revenue,39063,39063,1900000.0,0.0205592108888906,2009-08-28,https://en.wikipedia.org/wiki/Toss_(2009_film),scope=unknown; Wiki gross ₹19 lakh (BOI) re-derived; no verdict; not in BH 2009 table,22,5
+716035,tt10334112,Savaari,2009-04-10,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Savari_(2009_film),label=hit film of the year,22,6
+330512,tt1359585,Makante Achan,2009-01-23,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Makante_Achan,label=commercial success,22,7
+137452,tt1426937,Neninthe,2008-12-18,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Neninthe,label=average,22,7
+1052524,tt6805436,Navagraha,2008-11-07,budget,1049582,1049582,50000000.0,0.0209916453721339,2008-11-07,https://en.wikipedia.org/wiki/Navagraha_(film),Wiki budget ₹5 Cr (director interview) re-derived; 'became a commercial success'; 2024 re-release ₹68 lakh not stored,22,8
+1052524,tt6805436,Navagraha,2008-11-07,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Navagraha_(film),label=commercial success,22,8
+320742,tt1309592,Kurukshetra,2008-10-08,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Kurukshetra_(2008_film),label=box office success,22,9
+383405,tt1255873,Hari Puttar,2008-09-24,revenue,,436441,,,,https://www.boxofficemojo.com/title/tt1255873,"scope=india_gross; BOM India gross $436,441 (only market); Wiki has no figures/verdict; not in BH 2008 table",22,9
+300314,tt1336017,Veruthe Oru Bharya,2008-08-11,budget,,345403,14500000.0,0.0238208651747246,2008-08-10,https://en.wikipedia.org/wiki/Veruthe_Oru_Bharya,Wiki budget ₹1.45 Cr (Sify '2008 Top 5'); 'a commercial success… 150 days'; ₹6 Cr is a distributors' share (not stored),22,10
+300314,tt1336017,Veruthe Oru Bharya,2008-08-11,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Veruthe_Oru_Bharya,label=commercial success,22,10
+73583,tt1156516,Ready,2008-06-19,budget,1861981,1861981,80000000.0,0.0232747585243805,2008-06-19,https://en.wikipedia.org/wiki/Ready_(2008_film),"Wiki budget ₹8 Cr (Sify) re-derived; Koimoi: 'declared as a super hit'; stored revenue ≈₹18 Cr is the infobox distributors' share (flagged, left; Koimoi ~₹15 Cr India gross is an estimate, not stored)",22,11
+73583,tt1156516,Ready,2008-06-19,hit_flop_avg,,hit,,,,https://koimoi.com/box-office/ram-pothinenis-ready-vs-salman-khans-ready-at-the-box-office-hindi-remake-had-a-blast-with-1000-higher-collection-than-3-year-old-og-film,label=super hit,22,11
+539733,tt1214948,Bhram: An Illusion,2008-04-04,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Bhram,label=disaster,22,12
+117844,tt1150946,Krishnarjuna,2008-02-01,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Krishnarjuna,label=box-office failure,22,12
+80948,tt1173506,Krishna,2008-01-12,budget,2043423,2043423,80000000.0,0.0255427841634738,2008-01-11,https://en.wikipedia.org/wiki/Krishna_(2008_film),"Wiki budget ₹8 Cr (Sify) re-derived; 'a blockbuster at the box office'; stored revenue ≈₹24.6 Cr is the infobox distributors' share (flagged, left; body '₹38 crore worldwide' uncited)",22,13
+80948,tt1173506,Krishna,2008-01-12,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Krishna_(2008_film),label=blockbuster,22,13
+117361,tt1169841,Return Of Hanuman,2007-12-28,budget,4068800,4068800,160000000.0,0.02543,2007-12-21,https://en.wikipedia.org/wiki/Return_of_Hanuman,"Wiki budget ₹16 Cr (BOI), gross ₹6.14 Cr (BOM) both re-derived; no verdict",22,14
+117361,tt1169841,Return Of Hanuman,2007-12-28,revenue,1561402,1561402,61400000.0,0.02543,2007-12-21,https://en.wikipedia.org/wiki/Return_of_Hanuman,"scope=unknown; Wiki budget ₹16 Cr (BOI), gross ₹6.14 Cr (BOM) both re-derived; no verdict",22,14
+21074,tt0940585,Brick Lane,2007-11-16,budget,2500000,2500000,,,,https://en.wikipedia.org/wiki/Brick_Lane_(2007_film),Wiki $2.5M budget / $3.8M gross (The Numbers) re-derived; no verdict,22,14
+21074,tt0940585,Brick Lane,2007-11-16,revenue,3800000,3800000,,,,https://en.wikipedia.org/wiki/Brick_Lane_(2007_film),scope=worldwide; Wiki $2.5M budget / $3.8M gross (The Numbers) re-derived; no verdict,22,14
+63636,tt0959285,Azhagiya Tamil Magan,2007-11-08,hit_flop_avg,,avg,,,,https://en.wikipedia.org/wiki/Azhagiya_Tamil_Magan,label=moderate success / above average,22,14
+82324,tt1122610,Thulasi,2007-10-12,revenue,8169600,8169600,320000000.0,0.02553,2007-10-12,https://en.wikipedia.org/wiki/Tulasi_(2007_film),scope=unknown; Wiki (Tulasi (2007 film)) gross ₹32 Cr (Asianet) re-derived; 'a commercial super hit',22,15
+82324,tt1122610,Thulasi,2007-10-12,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Tulasi_(2007_film),label=super hit,22,15
+26506,tt0870195,Before the Rains,2007-09-07,revenue,1300000,1300000,,,,https://en.wikipedia.org/wiki/Before_the_Rains,scope=worldwide; Wiki gross $1.3M (BOM) re-derived; no verdict,22,16
+80926,tt0944195,Dubai Seenu,2007-06-07,budget,,2227171,90000000.0,0.0247463484341085,2007-06-06,https://en.wikipedia.org/wiki/Dubai_Seenu,"Wiki budget ₹9 Cr (Idlebrain interview); 'declared a super hit'; stored revenue ≈₹13 Cr is the infobox distributors' share (T2BLive; flagged, left)",22,16
+80926,tt0944195,Dubai Seenu,2007-06-07,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Dubai_Seenu,label=super hit,22,16
+403402,tt1018698,Classmates,2007-04-20,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Sumanth,label=failed at the box office,22,17
+112322,tt0982944,Unnale Unnale,2007-04-14,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Unnale_Unnale,label=blockbuster,22,17
+69598,tt0458050,Paruthiveeran,2007-02-23,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Paruthiveeran,label=huge commercial success,22,17
+667312,tt8479614,Agaram,2007-02-16,hit_flop_avg,,flop,,,,https://en.wikipedia.org/wiki/Agaram_(film),label=failing at the box office,22,17
+117058,tt0843335,Desamuduru,2007-01-12,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Desamuduru,label=blockbuster,22,18
+341104,tt0924260,Notebook,2006-12-22,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Notebook_(2006_film),label=commercial success,22,18
+112309,tt3358534,Thiruvilaiyaadal Aarambam,2006-12-15,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Thiruvilaiyaadal_Aarambam,label=major success,22,19
+357854,tt3227016,Aishwarya,2006-09-15,revenue,,1083758,50000000.0,0.0216751588491319,2006-09-15,https://en.wikipedia.org/wiki/Aishwarya_(film),"scope=unknown; Wiki: gross ₹50 million (= ₹5 Cr) 'in its entire run of 100 days' (webindia123 'Hit Kannada Films of 2006'); 'was a commercial success, although it could not reach expectations'",22,20
+357854,tt3227016,Aishwarya,2006-09-15,hit_flop_avg,,hit,,,,https://en.wikipedia.org/wiki/Aishwarya_(film),label=commercial success,22,20

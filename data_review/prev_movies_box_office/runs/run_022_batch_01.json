@@ -1,0 +1,55 @@
+[
+ {
+  "tmdb_movie_id": 260010,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Sadhyam"
+  },
+  "notes": "Wiki: 'The film was a flop at the box office' (cite is an unrelated 2023 TOI article — weak cite); no figures",
+  "verdict_label": "flop"
+ },
+ {
+  "tmdb_movie_id": 963743,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Rehmat_Ali"
+  },
+  "notes": "Wiki: 'ended up as an average success at the box office'; no figures",
+  "verdict_label": "average success"
+ },
+ {
+  "tmdb_movie_id": 80925,
+  "budget_inr_crore": 3,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Bindaas_(2010_film)",
+   "verdict": "https://en.wikipedia.org/wiki/Bindaas_(2010_film)"
+  },
+  "notes": "Wiki budget ₹3 Cr (TOI) re-derived; 'considered a hit'; stored revenue ≈₹8 Cr is the infobox distributors' share (flagged, left)",
+  "verdict_label": "hit"
+ },
+ {
+  "tmdb_movie_id": 59008,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 256156,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Just_Maath_Maathalli"
+  },
+  "notes": "Wiki: 'turned out to be a box-office bomb on its release but later attained a cult following'; no figures",
+  "verdict_label": "box-office bomb"
+ }
+]

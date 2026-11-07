@@ -1,0 +1,54 @@
+[
+ {
+  "tmdb_movie_id": 322481,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Montréal festival film; Wiki has no box office"
+ },
+ {
+  "tmdb_movie_id": 403402,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Sumanth"
+  },
+  "notes": "Wiki (Sumanth article): 'the film however failed at the box office'; film article has no box office",
+  "verdict_label": "failed at the box office"
+ },
+ {
+  "tmdb_movie_id": 112322,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Unnale_Unnale"
+  },
+  "notes": "Wiki: 'became a blockbuster hit at box office'; Malaysia $114,883 only (not stored)",
+  "verdict_label": "blockbuster"
+ },
+ {
+  "tmdb_movie_id": 69598,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Paruthiveeran"
+  },
+  "notes": "Wiki: 'emerged as a huge commercial success'; ₹3.69 Cr TN opening weekend only (not stored)",
+  "verdict_label": "huge commercial success"
+ },
+ {
+  "tmdb_movie_id": 667312,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Agaram_(film)"
+  },
+  "notes": "Wiki: 'eventually released on 16 February 2007, failing at the box office'",
+  "verdict_label": "failing at the box office"
+ }
+]

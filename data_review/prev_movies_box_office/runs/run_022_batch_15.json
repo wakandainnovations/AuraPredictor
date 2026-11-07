@@ -1,0 +1,47 @@
+[
+ {
+  "tmdb_movie_id": 25577,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; stored tmdb budget $2M unverified"
+ },
+ {
+  "tmdb_movie_id": 82324,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 32,
+  "verdict": "hit",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Tulasi_(2007_film)",
+   "verdict": "https://en.wikipedia.org/wiki/Tulasi_(2007_film)"
+  },
+  "notes": "Wiki (Tulasi (2007 film)) gross ₹32 Cr (Asianet) re-derived; 'a commercial super hit'",
+  "revenue_scope": "unknown",
+  "verdict_label": "super hit"
+ },
+ {
+  "tmdb_movie_id": 757903,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki box office; no figures"
+ },
+ {
+  "tmdb_movie_id": 1455869,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 25803,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "TIFF film, Canada release; Wiki budget $5M uncited (stored value matches, not confirmed)"
+ }
+]

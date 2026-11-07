@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 117058,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Desamuduru"
+  },
+  "notes": "Wiki: 'was a blockbuster'; stored revenue ≈₹26 Cr is the infobox distributors' share (T2BLive; flagged, left); body ₹12.58 Cr gross is undated/partial",
+  "verdict_label": "blockbuster"
+ },
+ {
+  "tmdb_movie_id": 48549,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 310391,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 321646,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "UK release; Wiki has no box office"
+ },
+ {
+  "tmdb_movie_id": 341104,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Notebook_(2006_film)"
+  },
+  "notes": "Wiki: 'a commercial success at the box office'; budget conflict infobox ₹3.50 Cr vs body ₹3.75 Cr (stored 3.5, not confirmed)",
+  "verdict_label": "commercial success"
+ }
+]

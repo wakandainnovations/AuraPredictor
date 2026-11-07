@@ -1,0 +1,50 @@
+[
+ {
+  "tmdb_movie_id": 26506,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Before_the_Rains"
+  },
+  "notes": "Wiki gross $1.3M (BOM) re-derived; no verdict",
+  "revenue_usd": 1300000,
+  "revenue_scope": "worldwide"
+ },
+ {
+  "tmdb_movie_id": 888918,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 82721,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 535020,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 80926,
+  "budget_inr_crore": 9,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Dubai_Seenu",
+   "verdict": "https://en.wikipedia.org/wiki/Dubai_Seenu"
+  },
+  "notes": "Wiki budget ₹9 Cr (Idlebrain interview); 'declared a super hit'; stored revenue ≈₹13 Cr is the infobox distributors' share (T2BLive; flagged, left)",
+  "verdict_label": "super hit"
+ }
+]

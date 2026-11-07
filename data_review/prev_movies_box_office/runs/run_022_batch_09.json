@@ -1,0 +1,49 @@
+[
+ {
+  "tmdb_movie_id": 320742,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Kurukshetra_(2008_film)"
+  },
+  "notes": "Wiki: 'It was a box office success'; no figures",
+  "verdict_label": "box office success"
+ },
+ {
+  "tmdb_movie_id": 425871,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article for the 2008 film; no figures"
+ },
+ {
+  "tmdb_movie_id": 979514,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 383405,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.boxofficemojo.com/title/tt1255873"
+  },
+  "notes": "BOM India gross $436,441 (only market); Wiki has no figures/verdict; not in BH 2008 table",
+  "revenue_usd": 436441,
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1416760,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; stored tmdb budget $3.5M unverified"
+ }
+]

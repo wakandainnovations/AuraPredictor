@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 66502,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 895126,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 300314,
+  "budget_inr_crore": 1.45,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Veruthe_Oru_Bharya",
+   "verdict": "https://en.wikipedia.org/wiki/Veruthe_Oru_Bharya"
+  },
+  "notes": "Wiki budget ₹1.45 Cr (Sify '2008 Top 5'); 'a commercial success… 150 days'; ₹6 Cr is a distributors' share (not stored)",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 491462,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 584837,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Minchina Ota (2008 film)) has no box office; no figures"
+ }
+]
