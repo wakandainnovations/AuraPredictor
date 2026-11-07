@@ -1,0 +1,20 @@
+[
+ {"tmdb_movie_id": 1132154, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox no figures; sacnilk ₹68 L India gross stops at day 8 (partial, not stored)"},
+ {"tmdb_movie_id": 1190904, "budget_inr_crore": null, "revenue_inr_crore": 0.59, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Nanban_Oruvan_Vantha_Piragu_2024"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹59 L (13 days, figures till 14 Aug 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1315202, "budget_inr_crore": null, "revenue_inr_crore": 0.59, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Vaar_Tahevaar_2024"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹59 L (18 days, figures till 19 Aug 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1316911, "budget_inr_crore": null, "revenue_inr_crore": 0.13, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Jama_2024"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹13 L (10 days, figures till 11 Aug 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1324173, "budget_inr_crore": null, "revenue_inr_crore": 3.41, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Shivam_Bhaje_2024"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹3.41 Cr (15 days, figures till 15 Aug 2024; its 'Worldwide gross ₹29 L' header is wrong, overseas —); no verdict",
+  "revenue_scope": "india_gross"}
+]

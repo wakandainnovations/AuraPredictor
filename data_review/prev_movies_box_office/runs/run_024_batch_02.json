@@ -1,0 +1,20 @@
+[
+ {"tmdb_movie_id": 1523326, "budget_inr_crore": null, "revenue_inr_crore": 0.25, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Kothalavadi_2025"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹25 L (13 days, figures till 13 Aug 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1314702, "budget_inr_crore": null, "revenue_inr_crore": 0.4, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Flask_2025"},
+  "notes": "no Wiki article (only the Malayalam 2025 list); sacnilk India gross ₹40 L (17–19 days, figures till 3 Aug 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1495790, "budget_inr_crore": 4, "revenue_inr_crore": 2.0, "verdict": null,
+  "sources": {"budget": "https://www.sacnilk.com/movie/Bun_Butter_Jam_2025", "revenue": "https://www.sacnilk.com/movie/Bun_Butter_Jam_2025"},
+  "notes": "Wiki infobox blank; sacnilk Budget ₹4.00 Cr, India gross ₹2.00 Cr (Tamil + Telugu, 39 days, figures till 25 Aug 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1514117, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox blank; sacnilk ₹95 L India gross is 7 days only (partial, not stored); no verdict"},
+ {"tmdb_movie_id": 1238170, "budget_inr_crore": 20, "revenue_inr_crore": 2.35, "verdict": "flop",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=6639", "revenue": "https://en.wikipedia.org/wiki/Aankhon_Ki_Gustaakhiyan", "verdict": "https://boxofficeindia.com/movie.php?movieid=6639"},
+  "notes": "revenue confirmed: Wiki est. ₹2.35 Cr (BH movie page; BOI WW ₹2.263 Cr = India gross ₹1.75 Cr + $60K, kept Wiki); budget from BOI ₹20 Cr (Wiki blank); verdict BOI Disaster, BH 2025 table Flop (lifetime nett ₹1.61 Cr)",
+  "revenue_scope": "unknown", "verdict_label": "Disaster"}
+]

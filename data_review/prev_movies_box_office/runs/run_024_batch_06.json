@@ -1,0 +1,20 @@
+[
+ {"tmdb_movie_id": 1490994, "budget_inr_crore": 6, "revenue_inr_crore": 14.31, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bhaimon_Da", "revenue": "https://www.sacnilk.com/movie/Bhaimon_Da_2025"},
+  "notes": "budget confirmed: Wiki ₹6 crore (India Today NE / Business Northeast); revenue confirmed: Wiki infobox '14.31 crore' is uncited, sacnilk India gross ₹14.31 Cr (68 days, figures till 29 Jul 2025; overseas —) gives the same figure; no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1134456, "budget_inr_crore": null, "revenue_inr_crore": 1.09, "verdict": "flop",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Lovely_2025", "verdict": "https://en.wikipedia.org/wiki/Lovely_(2025_film)"},
+  "notes": "sacnilk India gross ₹1.09 Cr (Malayalam + Telugu, 14 days, figures till 29 May 2025; overseas —); verdict from Wiki lead 'The film was a box-office bomb' — weak cite (a release-day TOI review)",
+  "revenue_scope": "india_gross", "verdict_label": "box-office bomb"},
+ {"tmdb_movie_id": 1396851, "budget_inr_crore": null, "revenue_inr_crore": 0.63, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Samshayam_2025"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹63 L (17 days, figures till 1 Jun 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1403039, "budget_inr_crore": null, "revenue_inr_crore": 50.75, "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Maaman"},
+  "notes": "revenue confirmed: Wiki est. ₹50.75 Cr (Dina Thanthi, 31 May 2025) = sacnilk WW ₹50.75 Cr (India gross ₹46.50 Cr + overseas ₹4.25 Cr, 45 days, figures till 29 Jun 2025); no verdict",
+  "revenue_scope": "worldwide"},
+ {"tmdb_movie_id": 1037209, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki: released 10 Oct 2025 (DB release_date 2025-05-09 is wrong); infobox blank; no sacnilk page (404, two slugs) and one web search found nothing"}
+]

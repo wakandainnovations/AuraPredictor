@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1479860, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox blank; theatrical 9 May 2025, Prime Video 13 Jun 2025; sacnilk ₹9 L India gross is 7 days only (partial, not stored)"},
+ {"tmdb_movie_id": 1467506, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'released on 1 May 2025 on the ZEE5 streaming platform'; no box office"},
+ {"tmdb_movie_id": 1066830, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article; sacnilk ₹23 L India gross is 7 days only (partial, not stored)"},
+ {"tmdb_movie_id": 1458809, "budget_inr_crore": null, "revenue_inr_crore": 0.25, "verdict": null,
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/"},
+  "notes": "Wiki infobox no figures; not in BOI index; BH 2025 table lifetime nett ₹0.25 Cr (= week 1), verdict 'Pending' (not used)",
+  "revenue_scope": "india_net"},
+ {"tmdb_movie_id": 1466915, "budget_inr_crore": null, "revenue_inr_crore": 1.7, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Veera_Chandrahasa_2025"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹1.70 Cr (Kannada + Telugu, 159 days, figures till 23 Sep 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"}
+]

@@ -1,0 +1,18 @@
+[
+ {"tmdb_movie_id": 1315021, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'premiered on JioCinema on 4 October 2024'; no box office"},
+ {"tmdb_movie_id": 1136423, "budget_inr_crore": null, "revenue_inr_crore": 51.43, "verdict": "hit",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Meiyazhagan_2024", "verdict": "https://www.sacnilk.com/movie/Meiyazhagan_2024"},
+  "notes": "Wiki infobox no figures, no verdict wording; sacnilk WW ₹51.43 Cr (India gross ₹39.18 Cr + overseas ₹12.25 Cr, 34 days, figures till 30 Oct 2024), verdict Super Hit",
+  "revenue_scope": "worldwide", "verdict_label": "Super Hit"},
+ {"tmdb_movie_id": 1317591, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Petta_Rap"},
+  "notes": "verdict from Wiki lead 'eventually becoming a box-office disappointment' (linked to Box-office bomb); sacnilk ₹23 L is 7 days only (partial, not stored)",
+  "verdict_label": "box-office disappointment (linked to box-office bomb)"},
+ {"tmdb_movie_id": 1353044, "budget_inr_crore": null, "revenue_inr_crore": 0.39, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Chithini_2024"},
+  "notes": "no Wiki article; sacnilk India gross ₹39 L (16 days, figures till 12 Oct 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1215162, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "US action film (Valeri Milev, Jean-Claude Van Damme / Jacqueline Fernandez); Wiki infobox no figures; no box office found"}
+]

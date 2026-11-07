@@ -1,0 +1,18 @@
+[
+ {"tmdb_movie_id": 1404864, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'released on 5 September 2025 on Netflix'; no box office"},
+ {"tmdb_movie_id": 1277726, "budget_inr_crore": null, "revenue_inr_crore": 6.75, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Sundarakanda_2025"},
+  "notes": "Wiki infobox budget/gross blank; sacnilk India gross ₹6.75 Cr (15 days, figures till 10 Sep 2025; overseas —); JioHotstar from 23 Sep 2025; no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1447109, "budget_inr_crore": null, "revenue_inr_crore": 0.34, "verdict": "flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/"},
+  "notes": "Wiki infobox no figures; not in BOI index; BH 2025 table lifetime nett ₹0.34 Cr, Flop",
+  "revenue_scope": "india_net", "verdict_label": "Flop"},
+ {"tmdb_movie_id": 1463344, "budget_inr_crore": 9, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Red_Flower"},
+  "notes": "budget confirmed: Wiki ₹9 crore (Vikatan, 31 Jul 2025); sacnilk India gross ₹18 L is 6 days only (partial, not stored); no verdict"},
+ {"tmdb_movie_id": 1529088, "budget_inr_crore": 5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bakasura_Restaurant"},
+  "notes": "budget confirmed: Wiki ₹5 crore (telugutimes.net director interview); sacnilk ₹76 L is 7 days only (partial, not stored); no verdict"}
+]

@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1250985, "budget_inr_crore": null, "revenue_inr_crore": 2.54, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Sangeet_Manapmaan_2025"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹2.54 Cr (37 days, figures till 15 Feb 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1377946, "budget_inr_crore": null, "revenue_inr_crore": 0.08, "verdict": "flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/"},
+  "notes": "Wiki infobox no figures; not in BOI index; BH 2025 table 'Match Fixing' lifetime nett ₹0.08 Cr, Flop",
+  "revenue_scope": "india_net", "verdict_label": "Flop"},
+ {"tmdb_movie_id": 1414404, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'had a direct-to-video release on Aha on 9 January 2025'; no box office"},
+ {"tmdb_movie_id": 1219630, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "documentary (IFFR premiere Jan 2024, India theatrical Jan 2025); no figures found"},
+ {"tmdb_movie_id": 1406816, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox blank; no sacnilk page (404)"}
+]

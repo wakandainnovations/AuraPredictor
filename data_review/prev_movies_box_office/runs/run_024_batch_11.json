@@ -1,0 +1,20 @@
+[
+ {"tmdb_movie_id": 1403735, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Laila_(2025_film)"},
+  "notes": "verdict from Wiki 'the film was a critical and commercial failure' (linked to box office bomb; Telugucinema.com); flagged, left: stored revenue ₹4 Cr is cited to a T2BLive 'WW total collections' page (may be a share) — sacnilk WW ₹4.86 Cr (India gross ₹4.36 Cr + overseas ₹50 L) covers only 13 days, so not replaced; Wiki body budget ₹18 crore not in infobox/uncited lead, not stored",
+  "verdict_label": "critical and commercial failure"},
+ {"tmdb_movie_id": 1418578, "budget_inr_crore": null, "revenue_inr_crore": 2.1, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Brahma_Anandam_2025"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹2.10 Cr (14 days, figures till 27 Feb 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1433697, "budget_inr_crore": null, "revenue_inr_crore": 0.48, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Sidlingu_2_2025"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹48 L (10 days, figures till 23 Feb 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1213866, "budget_inr_crore": 60, "revenue_inr_crore": 10.703, "verdict": "flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Loveyapa", "revenue": "https://boxofficeindia.com/movie.php?movieid=6484", "verdict": "https://boxofficeindia.com/movie.php?movieid=6484"},
+  "notes": "budget confirmed: Wiki ₹60 crore (NDTV; BOI says ₹33 Cr, Wiki kept); revenue corrected: stored Wiki est. ₹8.99 Cr is cited to the BH movie page accessed 9 Feb 2025 (2 days after release, running total) → BOI WW ₹10.703 Cr (India gross ₹8.18 Cr + $290K); verdict BOI Disaster, BH 2025 table Flop (lifetime nett ₹7.04 Cr)",
+  "revenue_scope": "worldwide", "verdict_label": "Disaster"},
+ {"tmdb_movie_id": 553699, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article; no figures found"}
+]

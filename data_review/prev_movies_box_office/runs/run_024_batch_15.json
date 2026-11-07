@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 1167101, "budget_inr_crore": null, "revenue_inr_crore": 0.37, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Parakramam_2024"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹37 L (figures till 28 Nov 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1176362, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article; sacnilk ₹24 L India gross is 7 days only (partial, not stored)"},
+ {"tmdb_movie_id": 1222306, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "festival + direct-to-streaming: Wiki IFFI 2024 world premiere, then 'direct-to-digital release on ZEE5 on 12 December 2025'; no box office"},
+ {"tmdb_movie_id": 1059268, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: premiered on JioCinema Premium 8 Nov 2024 (ANI press release via ThePrint / Business Standard); no Wiki article; no box office"},
+ {"tmdb_movie_id": 1252457, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'released on 8 November 2024 on Netflix'; no box office"}
+]

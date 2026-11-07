@@ -1,0 +1,18 @@
+[
+ {"tmdb_movie_id": 1507355, "budget_inr_crore": null, "revenue_inr_crore": 0.1, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Hebbuli_Cut_2025"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹10 L (14 days, figures till 17 Jul 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1507617, "budget_inr_crore": null, "revenue_inr_crore": 0.14, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Solo_Boy_2025"},
+  "notes": "no Wiki article; sacnilk India gross ₹14 L (13 days, figures till 16 Jul 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1230555, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'A ZEE5 original'; no box office; not in BOI index / BH table"},
+ {"tmdb_movie_id": 1416501, "budget_inr_crore": null, "revenue_inr_crore": 9.4, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/DNA_2025"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹9.40 Cr (34 days, figures till 23 Jul 2025; overseas —); JioHotstar from 19 Jul 2025; no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 900902, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox blank, no box-office wording; no sacnilk page (404) and one web search found nothing"}
+]

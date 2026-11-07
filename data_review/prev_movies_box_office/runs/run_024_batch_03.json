@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1439068, "budget_inr_crore": null, "revenue_inr_crore": 2.0, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Oh_Bhama_Ayyo_Rama_2025"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹2.00 Cr (13–14 days, figures till 23 Jul 2025; overseas —); Prime Video/ETV Win from 1 Aug 2025; no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1510870, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox blank; sacnilk ₹8 L is 7 days only (partial, not stored); no verdict"},
+ {"tmdb_movie_id": 1502507, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "10-minute animated short (festival listings, tview); no Wiki article; no box office; stored tmdb budget $300,000 unverified, left"},
+ {"tmdb_movie_id": 1305591, "budget_inr_crore": null, "revenue_inr_crore": 2.6, "verdict": "flop",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Dheeran_2025", "verdict": "https://www.sacnilk.com/movie/Dheeran_2025"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹2.60 Cr (28 days, figures till 31 Jul 2025; overseas —), verdict Disaster on a page with real figures",
+  "revenue_scope": "india_gross", "verdict_label": "Disaster"},
+ {"tmdb_movie_id": 1356084, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'premiered on the ZEE5 streaming platform on 4 July 2025'; no box office; not in BOI index"}
+]

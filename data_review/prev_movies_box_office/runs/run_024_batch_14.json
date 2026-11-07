@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1153230, "budget_inr_crore": 6, "revenue_inr_crore": 26, "verdict": "hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Khadaan", "revenue": "https://en.wikipedia.org/wiki/Khadaan", "verdict": "https://en.wikipedia.org/wiki/Khadaan"},
+  "notes": "budget/revenue confirmed: Wiki ₹6 crore (HT Bangla) / ₹26 crore (HT Bangla, later article); verdict Wiki 'it became a blockbuster at the box office' (filmibeat day-22 'Massy Blockbuster')",
+  "revenue_scope": "unknown", "verdict_label": "blockbuster"},
+ {"tmdb_movie_id": 1585757, "budget_inr_crore": null, "revenue_inr_crore": 0.17, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/31st_2024"},
+  "notes": "no Wiki article; sacnilk India gross ₹17 L (12 days, figures till 31 Dec 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1377384, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article; no figures found"},
+ {"tmdb_movie_id": 1238167, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'released on 6 December 2024 on Amazon Prime Video'; no box office"},
+ {"tmdb_movie_id": 1252470, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'released on Netflix on 29 November 2024'; no box office"}
+]

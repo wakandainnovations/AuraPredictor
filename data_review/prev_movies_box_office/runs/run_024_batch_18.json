@@ -1,0 +1,18 @@
+[
+ {"tmdb_movie_id": 1097000, "budget_inr_crore": null, "revenue_inr_crore": 47.25, "verdict": "hit",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Lubber_Pandhu_2024", "verdict": "https://www.sacnilk.com/movie/Lubber_Pandhu_2024"},
+  "notes": "Wiki (fetched by title; search missed it) infobox budget/gross blank, no verdict wording; sacnilk WW ₹47.25 Cr (India gross ₹43.25 Cr + overseas ₹4.00 Cr, 59 days, figures till 17 Nov 2024), verdict Super Hit",
+  "revenue_scope": "worldwide", "verdict_label": "Super Hit"},
+ {"tmdb_movie_id": 1341448, "budget_inr_crore": null, "revenue_inr_crore": 3.0328, "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=6324", "verdict": "https://boxofficeindia.com/movie.php?movieid=6324"},
+  "notes": "Wiki infobox no figures; BOI WW ₹3.03 Cr (India gross ₹2.78 Cr + $30K), budget '--'; verdict BOI Disaster, BH 2024 table Flop (lifetime nett ₹2.38 Cr)",
+  "revenue_scope": "worldwide", "verdict_label": "Disaster"},
+ {"tmdb_movie_id": 881614, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "TV premiere: Wiki cites Navbharat Times 'releasing on TV channel on 15 September' (Sony Max); no box office"},
+ {"tmdb_movie_id": 1179283, "budget_inr_crore": null, "revenue_inr_crore": 3.37, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Kondal_2024"},
+  "notes": "Wiki infobox no figures (body: TOI day-11 ₹2.85 Cr, running total); sacnilk India gross ₹3.37 Cr (24 days, figures till 6 Oct 2024; its 'Worldwide gross ₹26 L' header is wrong, overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1341521, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki article is 'Virunnu' (Malayalam/Tamil bilingual, 29 Aug 2024), infobox blank; sacnilk page shows '—' everywhere"}
+]

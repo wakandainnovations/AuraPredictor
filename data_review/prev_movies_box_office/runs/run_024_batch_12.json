@@ -1,0 +1,18 @@
+[
+ {"tmdb_movie_id": 1425798, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article; no figures found"},
+ {"tmdb_movie_id": 1415242, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article (only the Gujarati 2025 list); no figures found"},
+ {"tmdb_movie_id": 1310134, "budget_inr_crore": null, "revenue_inr_crore": 1.08, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Nesippaya_2025"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹1.08 Cr (23 days, figures till 5 Feb 2025; overseas —); stored tmdb budget $2.4M unverified, left; no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 949380, "budget_inr_crore": null, "revenue_inr_crore": 13, "verdict": "flop",
+  "sources": {"revenue": "https://www.pinkvilla.com/entertainment/box-office/vanangaan-lifetime-worldwide-box-office-arun-vijay-and-balas-movie-ends-global-run-with-an-underwhelming-rs-13-crore-1369821", "verdict": "https://en.wikipedia.org/wiki/Vanangaan"},
+  "notes": "Wiki infobox no figures; Pinkvilla lifetime WW ₹13 Cr (India ₹9.75 Cr + overseas ₹3.25 Cr, 29 Jan 2025; sacnilk slug Vanangaan_2022 India gross ₹10.00 Cr, 27 days); verdict from Wiki lead 'underperformed at the box-office' linked to Box-office bomb (as Double Barrel, run 12); Pinkvilla 'failed to perform well'",
+  "revenue_scope": "worldwide", "verdict_label": "underperformed (linked to box-office bomb)"},
+ {"tmdb_movie_id": 1233332, "budget_inr_crore": null, "revenue_inr_crore": 0.83, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Madraskaaran_2025"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹83 L (10 days, figures till 19 Jan 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"}
+]

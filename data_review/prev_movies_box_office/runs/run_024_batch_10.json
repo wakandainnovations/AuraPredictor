@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 1226851, "budget_inr_crore": 4, "revenue_inr_crore": null, "verdict": "flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ouseppinte_Osiyathu", "verdict": "https://www.thehindu.com/news/national/kerala/all-march-releases-except-empuraan-flopped-at-box-office-as-per-producers-associations-figures/article69497040.ece"},
+  "notes": "budget confirmed: Wiki ₹4 crore cited to The Hindu 'All March releases, except Empuraan, flopped at box office, as per producers' association's figures' (27 Apr 2025) — verdict from that cite title (article itself not fetchable); no sacnilk page (404)",
+  "verdict_label": "flopped (Kerala producers' association)"},
+ {"tmdb_movie_id": 1443590, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki article 'Shivangi Lioness'; infobox blank; Aha from 18 Apr 2025; sacnilk ₹4 L is 2 days only (partial, not stored)"},
+ {"tmdb_movie_id": 1444255, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox blank; theatrical 7 Mar 2025, Prime Video 4 Apr 2025; no sacnilk page (404, two slugs)"},
+ {"tmdb_movie_id": 1440754, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki: theatrical 28 Feb 2025, infobox blank; not in BOI index / BH 2025 table; no sacnilk page (404)"},
+ {"tmdb_movie_id": 681227, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article; not in BOI index / BH 2025 table; no sacnilk page (404)"}
+]

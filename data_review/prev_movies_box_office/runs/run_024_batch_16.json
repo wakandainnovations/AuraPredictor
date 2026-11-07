@@ -1,0 +1,20 @@
+[
+ {"tmdb_movie_id": 1363915, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: 'now on Jio Cinema' (ANI press release, Oct 2024); no Wiki article; no box office"},
+ {"tmdb_movie_id": 1372598, "budget_inr_crore": null, "revenue_inr_crore": 0.25, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Murphy_2024"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹25 L (17 days, figures till 3 Nov 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1373476, "budget_inr_crore": null, "revenue_inr_crore": 0.3, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Like_Aani_Subscribe_2024"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹30 L (14 days, figures till 31 Oct 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1340332, "budget_inr_crore": null, "revenue_inr_crore": 11.82, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Black_2024"},
+  "notes": "Wiki infobox no figures; sacnilk India gross ₹11.82 Cr (25 days, figures till 4 Nov 2024; overseas —); Prime Video from 1 Nov 2024; no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1357662, "budget_inr_crore": null, "revenue_inr_crore": 2.22, "verdict": "flop",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Janaka_Aithe_Ganaka_2024", "verdict": "https://www.sacnilk.com/movie/Janaka_Aithe_Ganaka_2024"},
+  "notes": "revenue corrected: stored Wiki est. ₹5.50 Cr is a '(9 days)' running total cited to T2BLive (may be a WW claim/share) → sacnilk India gross ₹2.22 Cr (27 days, figures till 7 Nov 2024; overseas —); verdict sacnilk Disaster on a page with real figures",
+  "revenue_scope": "india_gross", "verdict_label": "Disaster"}
+]

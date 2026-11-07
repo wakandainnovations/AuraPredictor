@@ -1,0 +1,16 @@
+[
+ {"tmdb_movie_id": 1339055, "budget_inr_crore": null, "revenue_inr_crore": 8.92, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Ronth_2025"},
+  "notes": "revenue corrected: stored Wiki ₹9.03 Cr is cited to a 3-day OnManorama article ('₹5 crore opening weekend') → sacnilk WW ₹8.92 Cr (India gross ₹6.87 Cr + overseas ₹2.05 Cr, 40 days, figures till 22 Jul 2025); no verdict",
+  "revenue_scope": "worldwide"},
+ {"tmdb_movie_id": 1465841, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "festival film (Tribeca 2025 world premiere, IFFI 2025; US limited release); no Wiki article; no Indian box office"},
+ {"tmdb_movie_id": 1493335, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article; no sacnilk page (404); one web search found nothing"},
+ {"tmdb_movie_id": 1045021, "budget_inr_crore": 250, "revenue_inr_crore": 97.44, "verdict": "flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Thug_Life_(2025_film)", "revenue": "https://www.sacnilk.com/movie/Thug_Life_2025", "verdict": "https://www.sacnilk.com/movie/Thug_Life_2025"},
+  "notes": "budget confirmed: Wiki ₹200–300 Cr (DNA India) midpoint ₹250 Cr; revenue: stored Wiki '{{estimation}} ₹98 crore' is uncited → sacnilk WW ₹97.44 Cr (India gross ₹56.24 Cr + overseas ₹41.20 Cr, 22 days, figures till 26 Jun 2025); verdict sacnilk Disaster (Wiki cites Indian Express 'a cataclysmic bomb'; Wiki text 'underperformed')",
+  "revenue_scope": "worldwide", "verdict_label": "Disaster"},
+ {"tmdb_movie_id": 1389169, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "not released theatrically: TIFF premiere Sep 2026, no theatrical date announced (ThePrint / Gulf News); no Wiki article"}
+]

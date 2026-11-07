@@ -1,0 +1,18 @@
+[
+ {"tmdb_movie_id": 1231797, "budget_inr_crore": null, "revenue_inr_crore": 0.84, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Vidyapati_2025"},
+  "notes": "no Wiki article; sacnilk India gross ₹84 L (15 days, figures till 24 Apr 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1005751, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article; no sacnilk page (404)"},
+ {"tmdb_movie_id": 1374290, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Borbaad_(2025_film)"},
+  "notes": "Bangladeshi film; Wiki 'emerged as a major box office success'; figures are in BDT (budget ৳15–18 crore, gross ৳75–105 crore, Wiki self-inconsistent) — no BDT rate in currency_rate_xe, not stored",
+  "verdict_label": "major box office success"},
+ {"tmdb_movie_id": 1193074, "budget_inr_crore": null, "revenue_inr_crore": 1.08, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Abhilasham_2025"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹1.08 Cr (25 days, figures till 22 Apr 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1123042, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article (search returned the Tamil 2026 list); no sacnilk page (404)"}
+]

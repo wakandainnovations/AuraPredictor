@@ -1,0 +1,14 @@
+[
+ {"tmdb_movie_id": 1306961, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox blank; sacnilk ₹1.22 Cr India gross (4 languages) is 7 days only (partial, not stored)"},
+ {"tmdb_movie_id": 1098332, "budget_inr_crore": null, "revenue_inr_crore": 1.62, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Kottukkaali_2024"},
+  "notes": "= Kottukkaali (Berlinale 2024; India theatrical 23 Aug 2024); Wiki infobox no figures; sacnilk India gross ₹1.62 Cr (13 days, figures till 4 Sep 2024; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1245621, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki infobox blank; no sacnilk page (404)"},
+ {"tmdb_movie_id": 1336352, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "flagged, left: stored Wiki ₹4.75 Cr is cited to a T2BLive 'total collections' page (may be a share / producer figure) — sacnilk India gross ₹1.64 Cr (21 days, figures till 12 Sep 2024; overseas —) is far lower; not confirmed, not replaced (no WW figure to compare); no verdict"},
+ {"tmdb_movie_id": 1245700, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "direct-to-streaming: Wiki 'premiered on Netflix on 13 September 2024'; no box office"}
+]

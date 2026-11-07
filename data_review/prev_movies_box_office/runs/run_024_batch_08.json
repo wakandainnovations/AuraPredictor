@@ -1,0 +1,18 @@
+[
+ {"tmdb_movie_id": 1465606, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "31-minute short film streamed on YouTube (IMDb / 91mobiles); no box office"},
+ {"tmdb_movie_id": 1454376, "budget_inr_crore": null, "revenue_inr_crore": 0.64, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Agnyathavasi_2025"},
+  "notes": "Wiki infobox blank; sacnilk India gross ₹64 L (20 days, figures till 30 Apr 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1457107, "budget_inr_crore": null, "revenue_inr_crore": 0.79, "verdict": null,
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Pade_Akasha_2025"},
+  "notes": "no Wiki article; sacnilk India gross ₹79 L (50 days, figures till 30 May 2025; overseas —); no verdict",
+  "revenue_scope": "india_gross"},
+ {"tmdb_movie_id": 1461353, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "no Wiki article; not in BOI index / BH 2025 table; listings give theatrical 11 Apr 2025 but no figures found (one web search)"},
+ {"tmdb_movie_id": 1462729, "budget_inr_crore": null, "revenue_inr_crore": 1.55, "verdict": "flop",
+  "sources": {"revenue": "https://www.sacnilk.com/movie/Akkada_Ammayi_Ikkada_Abbayi_2025", "verdict": "https://www.sacnilk.com/movie/Akkada_Ammayi_Ikkada_Abbayi_2025"},
+  "notes": "no Wiki article found; sacnilk (slug 'Akkada Ammayi Ikkada Abbayi') India gross ₹1.55 Cr (14 days, figures till 24 Apr 2025; overseas —), verdict Disaster on a page with real figures",
+  "revenue_scope": "india_gross", "verdict_label": "Disaster"}
+]
