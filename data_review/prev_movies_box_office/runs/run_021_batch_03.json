@@ -1,0 +1,49 @@
+[
+ {
+  "tmdb_movie_id": 137345,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article for the 2012 Malayalam film found; no figures"
+ },
+ {
+  "tmdb_movie_id": 128161,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Cannes 2012 festival film, no theatrical release found; no figures"
+ },
+ {
+  "tmdb_movie_id": 102088,
+  "budget_inr_crore": 3,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Mirza_–_The_Untold_Story"
+  },
+  "notes": "Wiki budget ₹30 million = ₹3 Cr (Tribune); no gross (only a BOI opening-weeks cite); no verdict"
+ },
+ {
+  "tmdb_movie_id": 224571,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 8,
+  "verdict": "hit",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Govindaya_Namaha",
+   "verdict": "https://en.wikipedia.org/wiki/Govindaya_Namaha"
+  },
+  "notes": "Wiki gross ₹8 Cr cited to News18 'completes 100 days' (7 Jul 2012); 'a surprise box office success and ran for a hundred days'",
+  "revenue_scope": "unknown",
+  "verdict_label": "surprise box office success"
+ },
+ {
+  "tmdb_movie_id": 155731,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki has no box office; search found only a mirror's 'average' and 123telugu 3-day share reports (not used)"
+ }
+]

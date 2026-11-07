@@ -1,0 +1,49 @@
+[
+ {
+  "tmdb_movie_id": 59900,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Gaganam redirects to Payanam (2011 film); infobox blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 716424,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget ₹7 million (= ₹0.7 Cr) uncited, stored value matches but not confirmed; no verdict"
+ },
+ {
+  "tmdb_movie_id": 215347,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Ithu_Nammude_Katha"
+  },
+  "notes": "Wiki: 'it ended up as a box office disaster mainly due to lack of publicity'",
+  "verdict_label": "box office disaster"
+ },
+ {
+  "tmdb_movie_id": 63448,
+  "budget_inr_crore": 12,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Siruthai",
+   "verdict": "https://en.wikipedia.org/wiki/Siruthai"
+  },
+  "notes": "Wiki budget ₹11–13 Cr → midpoint 12 (TOI); 'a blockbuster success at the box office'; gross ₹30 Cr tagged [citation needed] and Tamil 2011 list (uncited) says ₹50 Cr — stored ≈₹30 Cr not confirmed",
+  "verdict_label": "blockbuster"
+ },
+ {
+  "tmdb_movie_id": 278986,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki has no box office; no figures"
+ }
+]

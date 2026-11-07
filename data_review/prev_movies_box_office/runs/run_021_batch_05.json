@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 85990,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article, not in BH 2012 table; no figures"
+ },
+ {
+  "tmdb_movie_id": 104069,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki has no box office; web search found only mirrors with conflicting old infobox figures (₹46 vs ₹20 Cr) and blog 'didn't work' — not used"
+ },
+ {
+  "tmdb_movie_id": 262587,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article found; no figures"
+ },
+ {
+  "tmdb_movie_id": 179852,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 377880,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki gross ₹4 Cr is tagged [citation needed] (stored value matches, not confirmed); no verdict"
+ }
+]

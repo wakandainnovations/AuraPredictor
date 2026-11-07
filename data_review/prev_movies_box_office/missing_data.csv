@@ -1784,3 +1784,99 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,missing_fields,reason,not
 136411,tt2578334,Molly Aunty Rocks!,2012-09-14,malayalam,budget;revenue,not found in web search,"Wiki: 'Sify.com updated the Box Office status of Molly Aunty Rocks as ""Molly Aunty is a Winner at BO""'",20,20
 155730,tt2298990,Life Is Beautiful,2012-09-14,telugu,budget;revenue;verdict,not found in web search,"verdict conflict: search snippet of Deccan Chronicle 'declared a box office hit' vs BH 'Flop' (BH page has only ₹0.04 Cr, a data gap); first week ₹22.25 Cr (filmibeat) partial — left NULL",20,20
 151377,tt2592236,Ozhimuri,2012-09-07,malayalam,budget;revenue;verdict,not found in web search,Wiki: 'critical acclaim but underperformed at the box office' — not a verdict; no figures,20,20
+134696,tt2877914,18 Vayasu,2012-08-24,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,1
+1063822,tt2421350,Sagar,2012-08-10,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,1
+117053,tt13393856,Suzhal,2012-07-27,tamil,budget;revenue;verdict,not found in web search,Wiki has reviews only; no figures/verdict,21,1
+260458,tt3155736,Tuneega Tuneega,2012-07-22,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,1
+138751,tt2251552,Challo Driver,2012-07-20,hindi,budget,not found in web search,"BH 2012 table lifetime ₹0.06 Cr nett, Flop",21,2
+575759,tt2794316,Awara,2012-07-13,bengali,budget;revenue;verdict,not found in web search,Wiki infobox blank; Bengali highest-grossing list ₹1.95 Cr tagged [citation needed] (not used),21,2
+134309,tt10332462,Naughty Professor,2012-07-05,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,2
+140862,tt2224254,3 Bachelors,2012-06-29,hindi,budget,not found in web search,"BH 2012 table lifetime ₹0.17 Cr nett, Flop; BH release 06 Jul 2012 (DB 2012-06-29)",21,2
+262569,tt12048360,Murattu Kaalai,2012-06-15,tamil,budget;revenue;verdict,not found in web search,Wiki: 'negative reviews and failed to repeat the success of the original' — not a verdict; no figures,21,2
+137345,tt2223384,Vadhiyar,2012-06-08,malayalam,budget;revenue;verdict,not found in web search,no Wiki article for the 2012 Malayalam film found; no figures,21,3
+128161,tt2198101,Peddlers,2012-05-21,hindi,budget;revenue;verdict,not found in web search,"Cannes 2012 festival film, no theatrical release found; no figures",21,3
+102088,tt2357211,Mirza: The Untold Story,2012-04-06,punjabi,revenue;verdict,not found in web search,Wiki budget ₹30 million = ₹3 Cr (Tribune); no gross (only a BOI opening-weeks cite); no verdict,21,3
+224571,tt3198656,Govindaya Namaha,2012-03-29,kannada,budget,not found in web search,Wiki gross ₹8 Cr cited to News18 'completes 100 days' (7 Jul 2012); 'a surprise box office success and ran for a hundred days',21,3
+155731,tt2156899,Naa Ishtam,2012-03-23,telugu,budget;revenue;verdict,not found in web search,Wiki has no box office; search found only a mirror's 'average' and 123telugu 3-day share reports (not used),21,3
+244505,tt2403809,Abar Byomkesh,2012-03-23,bengali,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,4
+401948,tt2236636,Karmayogi,2012-03-16,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,4
+642024,tt8747472,Kulu Manali,2012-03-05,telugu,budget;revenue;verdict,not found in web search,no Wiki article; no figures,21,4
+167433,,Matter,2012-03-02,english,budget;revenue;verdict,not found in web search,no Wiki article (search hits unrelated); no figures,21,4
+1659282,tt3174012,Munjane,2012-03-02,kannada,budget;revenue;verdict,not found in web search,"Wiki only a review's 'average fare' (quality, not box office); no figures",21,4
+85990,,Kuch Spice To Make It Meetha?,2012-02-29,english,budget;revenue;verdict,not found in web search,"no Wiki article, not in BH 2012 table; no figures",21,5
+104069,tt2175823,Nippu,2012-02-17,telugu,budget;revenue;verdict,not found in web search,Wiki has no box office; web search found only mirrors with conflicting old infobox figures (₹46 vs ₹20 Cr) and blog 'didn't work' — not used,21,5
+262587,tt4089580,Kaattu Puli,2012-02-16,tamil,budget;revenue;verdict,not found in web search,no Wiki article found; no figures,21,5
+179852,tt1664813,Rasa Yatra,2012-01-27,sanskrit,budget;revenue;verdict,not found in web search,no Wiki article; no figures,21,5
+377880,tt2579680,100% Love,2012-01-20,bengali,budget;revenue;verdict,not found in web search,"Wiki gross ₹4 Cr is tagged [citation needed] (stored value matches, not confirmed); no verdict",21,5
+326449,tt3107818,Sidlingu,2012-01-13,kannada,budget;revenue,not found in web search,Wiki article blank; Kannada 2012 list lead names it among 'the successful movies of this year' (uncited sentence),21,6
+121039,tt2194730,Kunjaliyan,2012-01-06,malayalam,budget;revenue,not found in web search,"Wiki: 'The film became a disaster at the box office'; budget conflict infobox ₹5.25 Cr vs body ₹3.25 Cr (stored 5.25, not confirmed)",21,6
+121219,tt2600010,Bedroom,2012-01-06,bengali,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,6
+480953,tt2210443,Asuravithu,2012-01-06,malayalam,budget;revenue,not found in web search,Wiki: 'opened to mixed reviews and was a box-office flop',21,6
+530289,tt2708290,Hridaynath,2012-01-01,marathi,budget;revenue;verdict,not found in web search,no Wiki article for the film; no figures,21,6
+1292078,tt5325602,Pratibimb,2011-12-09,marathi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,21,7
+151920,tt2125630,Swapna Sanchari,2011-12-01,malayalam,budget;revenue,not found in web search,"Wiki: 'declared a commercial success at the Kerala box office' (UK $2,188 only figure)",21,7
+81236,tt2123294,Solo,2011-11-25,telugu,budget;revenue,not found in web search,"Wiki: 'became an Super Hit at box-office'; stored revenue ≈₹8 Cr is the infobox distributors' share (T2BLive) — flagged, left",21,7
+520626,tt2641910,Jaani Dekha Hobe,2011-11-25,bengali,budget;revenue;verdict,not found in web search,Wiki: 'average remarks from critics' (reviews); no figures,21,7
+128621,tt2073038,Na Jaane Kabse,2011-11-18,punjabi,budget,not found in web search,"BH 2011 table lifetime ₹0.03 Cr nett, Flop; BH lists 'Na Jaane Kabse..' 04 Nov 2011 (DB 2011-11-18)",21,7
+796856,tt2112335,Who's There?,2011-11-18,hindi,budget,not found in web search,"BH 2011 table lifetime ₹0.03 Cr nett, Flop",21,8
+1512165,tt13906376,Bodyguard,2011-11-04,kannada,budget;revenue;verdict,not found in web search,"Wiki budget '₹3 million' (= ₹0.3 Cr) uncited, stored value matches but not confirmed; 'just an average flick' is a review",21,8
+82201,tt2126336,Nuvvila,2011-11-03,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,8
+69541,tt1826943,Vandhaan Vendraan,2011-09-16,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,8
+420782,tt4192214,Rang Milanti,2011-09-09,bengali,budget;revenue;verdict,not found in web search,Wiki only a TOI 'collections are good' director quote (not a verdict); no figures,21,8
+86712,tt2018083,Kandireega,2011-08-12,telugu,budget;revenue,not found in web search,"Wiki: 'a commercial success, collecting a distributor share of ₹22 crore'; stored revenue ≈₹22 Cr is that share (flagged, left; Telugu 2011 list gives ₹38 Cr WW to the same Sify cite — not used); stored tmdb budget $285,000 unverified",21,9
+578974,tt2023370,Ajob Prem Ebong...,2011-08-11,bengali,budget;revenue;verdict,not found in web search,no Wiki article; no figures,21,9
+1746275,tt5218536,Hare Rama Hare Krishna,2011-07-29,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,9
+1215368,tt12875806,Shrimathi,2011-07-08,kannada,budget;revenue,not found in web search,Wiki: 'was a below average grosser at the box office',21,9
+214606,tt1869233,Three Kings,2011-07-02,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,9
+211771,tt2211141,Violin,2011-07-01,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,10
+132189,tt1945039,Adaminte Makan Abu,2011-06-24,malayalam,revenue,not found in web search,Wiki budget ₹1.5 Cr (Deccan Chronicle); 'its revenues in the Kerala box-office were only average',21,10
+65518,tt1606376,Avan Ivan,2011-06-17,tamil,budget;revenue,not found in web search,Wiki: 'It was successful at the box office' (Eros Q1 success cite); only opening/overseas weekend figures,21,10
+83736,tt1964886,Love Express,2011-06-10,hindi,budget,not found in web search,"BH 2011 table lifetime ₹0.27 Cr nett, Flop",21,10
+1199877,tt3866300,Raajadhaani,2011-06-03,kannada,budget;revenue;verdict,not found in web search,no Wiki article; no figures,21,10
+69924,tt1783411,Veera,2011-05-20,telugu,budget;revenue;verdict,not found in web search,Wiki only a '100-day run' claim (citation needed) — not a verdict; search: no figures,21,11
+66207,tt1712057,Vaanam,2011-04-29,tamil,budget;revenue,not found in web search,Wiki: 'received mostly positive reviews and was a box-office success',21,11
+98157,tt1895476,Memories in March,2011-04-01,english,budget;revenue;verdict,not found in web search,Wiki budget/gross blank; not in BH 2011 table,21,11
+463210,tt3311914,Sanju Weds Geetha,2011-04-01,kannada,budget,not found in web search,Wiki gross ₹3.5 Cr (Bangalore Mirror 'Top earning Kannada movies of 2011'); 'became successful at the box-office',21,11
+1503604,tt13906938,Prince,2011-03-31,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,12
+82895,tt8706738,Chattam,2011-03-25,telugu,budget;revenue;verdict,not found in web search,"Wiki budget blank, no verdict",21,12
+1099950,tt14232302,Bindas Prem,2011-03-11,bengali,budget;revenue;verdict,not found in web search,no Wiki article; no figures,21,12
+491464,tt1863334,Nadakame Ulakam,2011-02-25,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,12
+82901,tt1722441,Katha Screenplay Darsakatvam Appalaraju,2011-02-18,telugu,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,12
+59900,tt1704144,Gaganam,2011-02-11,telugu,budget;revenue;verdict,not found in web search,"Gaganam redirects to Payanam (2011 film); infobox blank, no verdict",21,13
+716424,tt5257288,Jiyo Kaka,2011-02-11,bengali,budget;revenue;verdict,not found in web search,"Wiki budget ₹7 million (= ₹0.7 Cr) uncited, stored value matches but not confirmed; no verdict",21,13
+215347,tt1822235,Ithu Nammude Katha,2011-01-28,malayalam,budget;revenue,not found in web search,Wiki: 'it ended up as a box office disaster mainly due to lack of publicity',21,13
+63448,tt1821607,Siruthai,2011-01-14,tamil,revenue,not found in web search,Wiki budget ₹11–13 Cr → midpoint 12 (TOI); 'a blockbuster success at the box office'; gross ₹30 Cr tagged [citation needed] and Tamil 2011 list (uncited) says ₹50 Cr — stored ≈₹30 Cr not confirmed,21,13
+278986,tt1436327,Gangor,2011-01-01,bengali,budget;revenue;verdict,not found in web search,Wiki has no box office; no figures,21,13
+1185210,,Someone For Somebody,2011-01-01,marathi,budget;revenue;verdict,not found in web search,no Wiki article; no figures,21,14
+398593,tt1820720,Tournament,2010-12-25,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget blank, no verdict",21,14
+64761,tt1633159,Ada... A Way of Life,2010-12-24,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.01 Cr nett, Flop; BH lists 'Ada… a way of life' 31 Dec 2010",21,14
+55793,tt4322022,Easan,2010-12-17,tamil,revenue,not found in web search,Wiki budget ₹8 Cr (Chennaionline); 'performed averagely at the box office',21,14
+81155,tt4323928,Aattanayagann,2010-12-17,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,14
+370061,tt0476847,Raakh,2010-11-26,hindi,budget;revenue;verdict,not found in web search,"Hansal Mehta's 2010 'Raakh' is a short film (no Wiki article, not in BH); no box office",21,15
+278216,tt2343599,Kanyakumari Express,2010-11-18,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,15
+702216,tt1804604,I Am Sindhutai Sapkal,2010-10-30,marathi,revenue;verdict,not found in web search,"Wiki (Mee Sindhutai Sapkal) budget ₹1 Cr (TOI); no gross, no verdict",21,15
+65624,tt1935184,Nakshatra,2010-10-29,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.16 Cr nett, Flop",21,15
+359002,tt1668078,Daayen Ya Baayen,2010-10-29,english,budget,not found in web search,"BH 2010 table lifetime ₹0.04 Cr nett, Flop",21,15
+135041,tt1757671,Anwar,2010-10-15,malayalam,revenue;verdict,not found in web search,"Wiki budget ₹4 Cr (Rediff interview); no gross, no verdict",21,16
+78640,tt5544426,Oridathoru Postman,2010-10-08,malayalam,budget;revenue;verdict,not found in web search,Wiki has no box office; no figures,21,16
+330467,tt1745753,Life Express,2010-09-17,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.05 Cr nett, Flop; BH release 17 Sep 2010",21,16
+78848,tt4318014,Drohi,2010-09-10,tamil,budget;revenue;verdict,not found in web search,Wiki has no box office; no figures,21,16
+1054737,,Nenjuku Neethi,2010-08-31,tamil,budget;revenue;verdict,not found in web search,no Wiki article (Nenjuku Needhi 2010 not found); no figures,21,17
+491136,,Fiddle,2010-08-27,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,17
+546186,tt2398173,Happy Happy Ga,2010-08-20,telugu,budget;revenue,not found in web search,Wiki: 'released to negative reviews and marked Sandesh's third consecutive failure',21,17
+1271921,tt12698048,Matthe Mungaaru,2010-08-05,kannada,budget;revenue;verdict,not found in web search,Wiki (Mathe Mungaru): 'went unnoticed at the box office' — not mapped to a verdict; no figures,21,17
+210497,tt1997512,Raama Raavanan,2010-07-30,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,17
+575753,tt1737189,Josh,2010-07-30,bengali,budget;verdict,not found in web search,Wiki gross Rs 5 crore (Indian Express); no verdict,21,18
+76364,tt1430096,Kutty Srank,2010-07-23,malayalam,budget;revenue;verdict,not found in web search,Wiki has no box office; no figures,21,18
+404827,tt5332216,Krishnan Love Story,2010-06-18,kannada,budget;revenue,not found in web search,Wiki: 'became a box office success… ran successfully across Karnataka',21,18
+282605,tt10428942,Thamassu,2010-06-11,kannada,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,18
+111545,tt4316148,Magane En Marumagane,2010-05-21,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,19
+282535,tt3196334,Naanu Nanna Kanasu,2010-05-14,kannada,budget;revenue;verdict,not found in web search,Wiki: ran 17 weeks in Bangalore — not a verdict; no figures,21,19
+604428,tt8866760,Tumse Milkar,2010-05-11,hindi,budget;revenue;verdict,not found in web search,"no Wiki article, not in BH 2010 table; no figures",21,19
+99160,tt4316184,Goripalayam,2010-05-07,tamil,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,19
+215354,tt1773507,Kadha Thudarunnu...,2010-05-07,malayalam,budget;revenue;verdict,not found in web search,"Wiki budget/gross blank, no verdict",21,19
+38301,tt1620620,The Japanese Wife,2010-04-09,bengali,budget;revenue;verdict,not found in web search,Wiki: 'decent opening… 88% initial collection' — not a verdict; no figures,21,20
+99623,tt2433078,Police Police,2010-04-09,telugu,budget;revenue;verdict,not found in web search,Wiki has no box office; no figures,21,20
+39523,tt1496832,Paiyaa,2010-04-02,tamil,budget;revenue,not found in web search,Wiki: 'became a blockbuster box office success'; Tamil 2010 list ₹41 Cr WW is uncited (not stored),21,20
+340731,tt1637692,Kuchh Kariye,2010-03-23,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.05 Cr nett, Flop; Wiki 'will bomb miserably' is a Koimoi review prediction",21,20
+340728,tt1611834,Do Dilon Ke Khel Mein,2010-03-12,hindi,budget,not found in web search,"BH 2010 table lifetime ₹0.03 Cr nett, Flop",21,20

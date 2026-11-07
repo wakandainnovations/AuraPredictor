@@ -1,0 +1,45 @@
+[
+ {
+  "tmdb_movie_id": 1054737,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article (Nenjuku Needhi 2010 not found); no figures"
+ },
+ {
+  "tmdb_movie_id": 491136,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 546186,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Happy_Happy_Ga"
+  },
+  "notes": "Wiki: 'released to negative reviews and marked Sandesh's third consecutive failure'",
+  "verdict_label": "failure"
+ },
+ {
+  "tmdb_movie_id": 1271921,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Mathe Mungaru): 'went unnoticed at the box office' — not mapped to a verdict; no figures"
+ },
+ {
+  "tmdb_movie_id": 210497,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ }
+]

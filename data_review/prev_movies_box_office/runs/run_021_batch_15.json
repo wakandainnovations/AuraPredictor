@@ -1,0 +1,54 @@
+[
+ {
+  "tmdb_movie_id": 370061,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Hansal Mehta's 2010 'Raakh' is a short film (no Wiki article, not in BH); no box office"
+ },
+ {
+  "tmdb_movie_id": 278216,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 702216,
+  "budget_inr_crore": 1,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Mee_Sindhutai_Sapkal"
+  },
+  "notes": "Wiki (Mee Sindhutai Sapkal) budget ₹1 Cr (TOI); no gross, no verdict"
+ },
+ {
+  "tmdb_movie_id": 65624,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.16,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"
+  },
+  "notes": "BH 2010 table lifetime ₹0.16 Cr nett, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 359002,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.04,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"
+  },
+  "notes": "BH 2010 table lifetime ₹0.04 Cr nett, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ }
+]

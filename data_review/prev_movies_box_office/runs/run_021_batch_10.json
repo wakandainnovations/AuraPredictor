@@ -1,0 +1,54 @@
+[
+ {
+  "tmdb_movie_id": 211771,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 132189,
+  "budget_inr_crore": 1.5,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Adaminte_Makan_Abu",
+   "verdict": "https://en.wikipedia.org/wiki/Adaminte_Makan_Abu"
+  },
+  "notes": "Wiki budget ₹1.5 Cr (Deccan Chronicle); 'its revenues in the Kerala box-office were only average'",
+  "verdict_label": "Average"
+ },
+ {
+  "tmdb_movie_id": 65518,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Avan_Ivan"
+  },
+  "notes": "Wiki: 'It was successful at the box office' (Eros Q1 success cite); only opening/overseas weekend figures",
+  "verdict_label": "successful at the box office"
+ },
+ {
+  "tmdb_movie_id": 83736,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.27,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"
+  },
+  "notes": "BH 2011 table lifetime ₹0.27 Cr nett, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 1199877,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ }
+]

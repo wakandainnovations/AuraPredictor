@@ -1,0 +1,54 @@
+[
+ {
+  "tmdb_movie_id": 575753,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 5,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Josh_(2010_film)"
+  },
+  "notes": "Wiki gross Rs 5 crore (Indian Express); no verdict",
+  "revenue_scope": "unknown"
+ },
+ {
+  "tmdb_movie_id": 76364,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki has no box office; no figures"
+ },
+ {
+  "tmdb_movie_id": 404827,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Krishnan_Love_Story"
+  },
+  "notes": "Wiki: 'became a box office success… ran successfully across Karnataka'",
+  "verdict_label": "box office success"
+ },
+ {
+  "tmdb_movie_id": 274680,
+  "budget_inr_crore": 2.75,
+  "revenue_inr_crore": 0.44,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Ek_Second..._Jo_Zindagi_Badal_De?",
+   "revenue": "https://en.wikipedia.org/wiki/Ek_Second..._Jo_Zindagi_Badal_De?",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"
+  },
+  "notes": "Wiki budget ₹2.75 Cr, gross ₹44 lakh (BOI); BH 2010 lifetime ₹0.23 Cr nett, Flop",
+  "revenue_scope": "unknown",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 282605,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ }
+]

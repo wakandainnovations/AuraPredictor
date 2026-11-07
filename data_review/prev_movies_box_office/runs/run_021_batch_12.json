@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 1503604,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 82895,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 1099950,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 491464,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 82901,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ }
+]

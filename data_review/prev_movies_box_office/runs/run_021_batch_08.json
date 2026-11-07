@@ -1,0 +1,47 @@
+[
+ {
+  "tmdb_movie_id": 796856,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.03,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"
+  },
+  "notes": "BH 2011 table lifetime ₹0.03 Cr nett, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 1512165,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget '₹3 million' (= ₹0.3 Cr) uncited, stored value matches but not confirmed; 'just an average flick' is a review"
+ },
+ {
+  "tmdb_movie_id": 82201,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 69541,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 420782,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki only a TOI 'collections are good' director quote (not a verdict); no figures"
+ }
+]

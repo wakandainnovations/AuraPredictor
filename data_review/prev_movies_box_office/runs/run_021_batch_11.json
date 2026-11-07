@@ -1,0 +1,56 @@
+[
+ {
+  "tmdb_movie_id": 69924,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki only a '100-day run' claim (citation needed) — not a verdict; search: no figures"
+ },
+ {
+  "tmdb_movie_id": 63467,
+  "budget_inr_crore": 1.75,
+  "revenue_inr_crore": 0.67,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/I_Am_(2010_Indian_film)",
+   "revenue": "https://en.wikipedia.org/wiki/I_Am_(2010_Indian_film)",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"
+  },
+  "notes": "Wiki budget ₹1.75 Cr, gross ₹67 lakh (BOI); BH 2011 lifetime ₹0.41 Cr nett, Flop",
+  "revenue_scope": "unknown",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 66207,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Vaanam"
+  },
+  "notes": "Wiki: 'received mostly positive reviews and was a box-office success'",
+  "verdict_label": "box-office success"
+ },
+ {
+  "tmdb_movie_id": 98157,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank; not in BH 2011 table"
+ },
+ {
+  "tmdb_movie_id": 463210,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 3.5,
+  "verdict": "hit",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Sanju_Weds_Geetha",
+   "verdict": "https://en.wikipedia.org/wiki/Sanju_Weds_Geetha"
+  },
+  "notes": "Wiki gross ₹3.5 Cr (Bangalore Mirror 'Top earning Kannada movies of 2011'); 'became successful at the box-office'",
+  "revenue_scope": "unknown",
+  "verdict_label": "successful at the box office"
+ }
+]

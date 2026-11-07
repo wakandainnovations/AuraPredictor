@@ -1,0 +1,55 @@
+[
+ {
+  "tmdb_movie_id": 38301,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki: 'decent opening… 88% initial collection' — not a verdict; no figures"
+ },
+ {
+  "tmdb_movie_id": 99623,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki has no box office; no figures"
+ },
+ {
+  "tmdb_movie_id": 39523,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Paiyaa"
+  },
+  "notes": "Wiki: 'became a blockbuster box office success'; Tamil 2010 list ₹41 Cr WW is uncited (not stored)",
+  "verdict_label": "blockbuster"
+ },
+ {
+  "tmdb_movie_id": 340731,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.05,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"
+  },
+  "notes": "BH 2010 table lifetime ₹0.05 Cr nett, Flop; Wiki 'will bomb miserably' is a Koimoi review prediction",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 340728,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.03,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"
+  },
+  "notes": "BH 2010 table lifetime ₹0.03 Cr nett, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ }
+]

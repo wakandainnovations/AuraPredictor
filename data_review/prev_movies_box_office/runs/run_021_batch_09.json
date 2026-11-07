@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 86712,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Kandireega"
+  },
+  "notes": "Wiki: 'a commercial success, collecting a distributor share of ₹22 crore'; stored revenue ≈₹22 Cr is that share (flagged, left; Telugu 2011 list gives ₹38 Cr WW to the same Sify cite — not used); stored tmdb budget $285,000 unverified",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 578974,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 1746275,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 1215368,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Shrimathi"
+  },
+  "notes": "Wiki: 'was a below average grosser at the box office'",
+  "verdict_label": "Below Average"
+ },
+ {
+  "tmdb_movie_id": 214606,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ }
+]

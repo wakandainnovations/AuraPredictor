@@ -1,0 +1,51 @@
+[
+ {
+  "tmdb_movie_id": 1185210,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 398593,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 64761,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.01,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2010/"
+  },
+  "notes": "BH 2010 table lifetime ₹0.01 Cr nett, Flop; BH lists 'Ada… a way of life' 31 Dec 2010",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 55793,
+  "budget_inr_crore": 8,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Easan",
+   "verdict": "https://en.wikipedia.org/wiki/Easan"
+  },
+  "notes": "Wiki budget ₹8 Cr (Chennaionline); 'performed averagely at the box office'",
+  "verdict_label": "performed averagely"
+ },
+ {
+  "tmdb_movie_id": 81155,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "tmdb_movie_id": 138751,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.06,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/"
+  },
+  "notes": "BH 2012 table lifetime ₹0.06 Cr nett, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 575759,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki infobox blank; Bengali highest-grossing list ₹1.95 Cr tagged [citation needed] (not used)"
+ },
+ {
+  "tmdb_movie_id": 134309,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki budget/gross blank, no verdict"
+ },
+ {
+  "tmdb_movie_id": 140862,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.17,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2012/"
+  },
+  "notes": "BH 2012 table lifetime ₹0.17 Cr nett, Flop; BH release 06 Jul 2012 (DB 2012-06-29)",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 262569,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki: 'negative reviews and failed to repeat the success of the original' — not a verdict; no figures"
+ }
+]

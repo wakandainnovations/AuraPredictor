@@ -1,0 +1,53 @@
+[
+ {
+  "tmdb_movie_id": 1292078,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no figures"
+ },
+ {
+  "tmdb_movie_id": 151920,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Swapna_Sanchari"
+  },
+  "notes": "Wiki: 'declared a commercial success at the Kerala box office' (UK $2,188 only figure)",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 81236,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Solo_(2011_film)"
+  },
+  "notes": "Wiki: 'became an Super Hit at box-office'; stored revenue ≈₹8 Cr is the infobox distributors' share (T2BLive) — flagged, left",
+  "verdict_label": "Super Hit"
+ },
+ {
+  "tmdb_movie_id": 520626,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki: 'average remarks from critics' (reviews); no figures"
+ },
+ {
+  "tmdb_movie_id": 128621,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.03,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2011/"
+  },
+  "notes": "BH 2011 table lifetime ₹0.03 Cr nett, Flop; BH lists 'Na Jaane Kabse..' 04 Nov 2011 (DB 2011-11-18)",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ }
+]
