@@ -1,0 +1,61 @@
+[
+ {
+  "tmdb_movie_id": 267354,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Veerabhadra_(film)"
+  },
+  "notes": "Wiki lead 'The film was a flop at the box office' (uncited); no figures",
+  "verdict_label": "flop at the box office"
+ },
+ {
+  "tmdb_movie_id": 278135,
+  "budget_inr_crore": 3,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Balram_vs._Tharadas"
+  },
+  "notes": "Wiki budget ₹3 Cr (Sify) re-derived; 'strong opening' is not a verdict"
+ },
+ {
+  "tmdb_movie_id": 79674,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 40,
+  "verdict": "hit",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Thiruttu_Payale",
+   "verdict": "https://en.wikipedia.org/wiki/Thiruttu_Payale"
+  },
+  "notes": "Wiki Box office: 'commercial success grossing ₹400 million' (Business Today 8 Apr 2007); Sify 2006 lists it No-5 grosser and 'gold'",
+  "revenue_scope": "unknown",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 69410,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://www.sify.com/movies/2006-hits-misses-news-tamil-kkfvg4dgeahsi.html"
+  },
+  "notes": "Wiki infobox blank; Sify 2006: 'Ajit's Tirupathi... were all duds'; stored tmdb budget/revenue $500,000 each unverified",
+  "verdict_label": "duds"
+ },
+ {
+  "tmdb_movie_id": 275493,
+  "budget_inr_crore": 2.5,
+  "revenue_inr_crore": 0.09,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1581",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1581",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1581"
+  },
+  "notes": "no Wiki article; BOI \"Eight - Shani\" (14 Apr 2006) budget ₹2.5 Cr, India gross ₹9 lakh",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "tmdb_movie_id": 1452362,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; not in BOI index"
+ },
+ {
+  "tmdb_movie_id": 1248251,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 19.5,
+  "verdict": "avg",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Mollywood_Times",
+   "verdict": "https://en.wikipedia.org/wiki/Mollywood_Times"
+  },
+  "notes": "Wiki gross ₹19.50 Cr (Pinkvilla worldwide, 15 Jul 2026, ~6 weeks after release); 'The film was a moderate success at box office'",
+  "revenue_scope": "worldwide",
+  "verdict_label": "moderate success"
+ },
+ {
+  "tmdb_movie_id": 1065834,
+  "budget_inr_crore": 50,
+  "revenue_inr_crore": 15,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Kattalan",
+   "revenue": "https://en.wikipedia.org/wiki/Kattalan",
+   "verdict": "https://en.wikipedia.org/wiki/Kattalan"
+  },
+  "notes": "Wiki budget ₹50 Cr (Cinema Express) / gross ₹15 Cr (Outlook, OTT-release article 3 Aug 2026) re-derived; 'grossed ₹15 crore on a budget of ₹50 crore, becoming a box-office bomb'",
+  "revenue_scope": "unknown",
+  "verdict_label": "box-office bomb"
+ },
+ {
+  "tmdb_movie_id": 1147800,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.24,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/The_Rise_of_Ashoka_2026"
+  },
+  "notes": "Wiki no box office; sacnilk India gross ₹1.24 Cr (16 days, figures till 14 Mar 2026; overseas —)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1560749,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki \"Mylanji\" is the 1982 Malayalam film; sacnilk only 6 days (₹19 L) — partial, not stored"
+ }
+]

@@ -1,0 +1,53 @@
+[
+ {
+  "tmdb_movie_id": 531021,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Goutham SSC) reviews/Nandi award only, no box office"
+ },
+ {
+  "tmdb_movie_id": 1041755,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; Bengali, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 227600,
+  "budget_inr_crore": 0.95,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Dombivli_Fast"
+  },
+  "notes": "Wiki budget ₹95 lakh (Economic Times) re-derived; no verdict"
+ },
+ {
+  "tmdb_movie_id": 360511,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/The_Tiger_(2005_film)"
+  },
+  "notes": "Wiki 'became a commercial success at the box office'",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 500066,
+  "budget_inr_crore": 0.2,
+  "revenue_inr_crore": 0.1775,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1632",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1632",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1632"
+  },
+  "notes": "Wiki \"Darinda\" is a 2003 Pakistani film (not used); BOI \"Darinda\" (9 Dec 2005) budget ₹20 lakh, India gross ₹17.75 lakh — replaces unverified tmdb $31,340 / $27,814",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ }
+]

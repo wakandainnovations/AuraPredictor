@@ -1,0 +1,56 @@
+[
+ {
+  "tmdb_movie_id": 1492963,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article (search hit Kiss (2019 Kannada)); no data"
+ },
+ {
+  "tmdb_movie_id": 1301278,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.25,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Karam_2025"
+  },
+  "notes": "Wiki reviews only (manoramaMAX from 7 Nov 2025); sacnilk India gross ₹1.25 Cr (day-wise table 17 days ₹1.24 Cr)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1091043,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.42,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Thandakaaranyam_2025"
+  },
+  "notes": "Wiki reviews only; sacnilk India gross ₹1.42 Cr (20–21 days, figures till 8 Oct 2025)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1299039,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 4.7,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Kiss_2025"
+  },
+  "notes": "revenue corrected: stored ≈₹5 Cr was the Wiki 'est. ₹5 crore' cited to a 21 Sep 2025 (day-2) Asianet article → sacnilk India gross ₹4.70 Cr (28 days, figures till 16 Oct 2025; overseas —)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1404799,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 6.25,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Mirage_2025",
+   "verdict": "https://en.wikipedia.org/wiki/Mirage_(2025_film)"
+  },
+  "notes": "Wiki lead 'This movie was a box-office bomb' (uncited); sacnilk India gross ₹6.25 Cr (28 days, figures till 16 Oct 2025)",
+  "revenue_scope": "india_gross",
+  "verdict_label": "box-office bomb"
+ }
+]

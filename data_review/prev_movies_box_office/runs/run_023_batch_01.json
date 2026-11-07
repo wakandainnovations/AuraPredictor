@@ -1,0 +1,57 @@
+[
+ {
+  "tmdb_movie_id": 78950,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://www.sify.com/movies/2006-hits-misses-news-tamil-kkfvg4dgeahsi.html"
+  },
+  "notes": "Wiki (Perarasu (film)) no box office; Sify 2006 Hits & Misses: 'Thambi, Perarasu, Em Magan... were also money grossers'; not in BOI index (regional)",
+  "verdict_label": "money grossers"
+ },
+ {
+  "tmdb_movie_id": 69635,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://www.sify.com/movies/2006-hits-misses-news-tamil-kkfvg4dgeahsi.html"
+  },
+  "notes": "Wiki: 'large opening' only; Sify 2006: 'Surya's Sillunu Oru Kadhal... were all duds'",
+  "verdict_label": "duds"
+ },
+ {
+  "tmdb_movie_id": 79787,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Em_Magan"
+  },
+  "notes": "Wiki 'became a commercial success'; Sify 2006 'money grossers' agrees; no figures",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 78632,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no box office / verdict; not in Sify 2006 list"
+ },
+ {
+  "tmdb_movie_id": 463320,
+  "budget_inr_crore": 2,
+  "revenue_inr_crore": 0.04,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1553",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1553",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1553"
+  },
+  "notes": "Wiki budget/gross blank; BOI budget ₹2 Cr, India gross ₹4 lakh (overseas $---)",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ }
+]

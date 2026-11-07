@@ -1,0 +1,66 @@
+[
+ {
+  "tmdb_movie_id": 69556,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Raam_(2005_film)"
+  },
+  "notes": "Wiki 'became a sleeper hit'",
+  "verdict_label": "sleeper hit"
+ },
+ {
+  "tmdb_movie_id": 239043,
+  "budget_inr_crore": 4,
+  "revenue_inr_crore": 0.6,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Chehraa",
+   "revenue": "https://en.wikipedia.org/wiki/Chehraa",
+   "verdict": "https://en.wikipedia.org/wiki/Chehraa"
+  },
+  "notes": "Wiki budget ₹4 Cr / gross ₹0.6 Cr (BOI cites) re-derived; BOI live budget ₹2.5 Cr, India gross ₹62 lakh (Wiki kept); Wiki 'bombed at the box office', BOI Disaster",
+  "revenue_scope": "india_gross",
+  "verdict_label": "bombed at the box office"
+ },
+ {
+  "tmdb_movie_id": 69413,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Ji_(film)"
+  },
+  "notes": "Wiki 'It was a commercial failure' (Sify); stored tmdb budget/revenue $500,000 each unverified",
+  "verdict_label": "commercial failure"
+ },
+ {
+  "tmdb_movie_id": 353944,
+  "budget_inr_crore": 4.75,
+  "revenue_inr_crore": 2.4283,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1755",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1755",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1755"
+  },
+  "notes": "Wiki budget/gross blank; BOI budget ₹4.75 Cr, WW ₹2.43 Cr (overseas $18,000)",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 25799,
+  "budget_inr_crore": 0.5,
+  "revenue_inr_crore": 0.03625,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1760",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1760",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1760"
+  },
+  "notes": "Wiki no box office (festival premiere 2005); BOI \"Amu\" (7 Jan 2005) budget ₹50 lakh, India gross ₹3.63 lakh",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ }
+]

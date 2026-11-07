@@ -1,0 +1,70 @@
+[
+ {
+  "tmdb_movie_id": 74084,
+  "budget_inr_crore": 6.25,
+  "revenue_inr_crore": 3.982,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1264",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1264",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1264"
+  },
+  "notes": "Wiki budget/gross blank; BOI budget ₹6.25 Cr, WW ₹3.98 Cr (overseas $355,000)",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 277836,
+  "budget_inr_crore": 0.5,
+  "revenue_inr_crore": 0.018,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Sau_Jhooth_Ek_Sach",
+   "revenue": "https://en.wikipedia.org/wiki/Sau_Jhooth_Ek_Sach",
+   "verdict": "https://en.wikipedia.org/wiki/Sau_Jhooth_Ek_Sach"
+  },
+  "notes": "Wiki budget ₹50 lakh, gross ₹1.8 lakh (both BOI; BOI overseas $--- → india_gross); Wiki: 'Box Office India called it a disaster'",
+  "revenue_scope": "india_gross",
+  "verdict_label": "disaster"
+ },
+ {
+  "tmdb_movie_id": 9724,
+  "budget_inr_crore": 9,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=304",
+   "revenue": "https://en.wikipedia.org/wiki/The_Mistress_of_Spices_(film)",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=304"
+  },
+  "notes": "Wiki gross $1.3M (BOM) re-confirmed, kept over BOI WW ₹3.44 Cr; Wiki budget blank → BOI ₹9 Cr; BOI India release 28 Apr 2006",
+  "revenue_usd": 1300000,
+  "revenue_scope": "worldwide",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 139067,
+  "budget_inr_crore": 1.25,
+  "revenue_inr_crore": 0.49,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1677",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1677",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1677"
+  },
+  "notes": "no Wiki article; BOI \"Topless\" (9 Sep 2005) budget ₹1.25 Cr, India gross ₹49 lakh",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 378669,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Auto_Shankar_(film)"
+  },
+  "notes": "Wiki: 'successfully ran for 100 days... Both the films were successful at the box office'",
+  "verdict_label": "successful at the box office"
+ }
+]

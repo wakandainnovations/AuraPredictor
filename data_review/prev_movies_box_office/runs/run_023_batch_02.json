@@ -1,0 +1,52 @@
+[
+ {
+  "tmdb_movie_id": 339978,
+  "budget_inr_crore": 3,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Parijatham_(2006_film)",
+   "verdict": "https://en.wikipedia.org/wiki/Parijatham_(2006_film)"
+  },
+  "notes": "Wiki budget ₹3 Cr (The Hindu 14 Jul 2006); 'became a box office hit'; Sify 2006 'turned out to be gold' agrees",
+  "verdict_label": "box office hit"
+ },
+ {
+  "tmdb_movie_id": 1061090,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no box office (festival/indie film); not in BOI index"
+ },
+ {
+  "tmdb_movie_id": 81131,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki reviews only, no box office"
+ },
+ {
+  "tmdb_movie_id": 1697862,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Kokki_(film)"
+  },
+  "notes": "Wiki 'had a successful run at the box office' (Sify 2006 Hits & Misses: 'turned out to be gold'); Tamil film (DB language english)",
+  "verdict_label": "successful run at the box office"
+ },
+ {
+  "tmdb_movie_id": 691305,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Ajay_(2006_film)"
+  },
+  "notes": "Wiki 'was a commercial success at the Box office'; no figures",
+  "verdict_label": "commercial success"
+ }
+]

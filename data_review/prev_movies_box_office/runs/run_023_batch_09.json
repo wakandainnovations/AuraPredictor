@@ -1,0 +1,55 @@
+[
+ {
+  "tmdb_movie_id": 258688,
+  "budget_inr_crore": 4,
+  "revenue_inr_crore": 2.95,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Ramji_Londonwaley",
+   "revenue": "https://en.wikipedia.org/wiki/Ramji_Londonwaley"
+  },
+  "notes": "Wiki budget ₹4 Cr / gross ₹2.95 Cr (BOI) re-derived; verdict conflict left NULL: Wiki 'only became an average grosser' (TOI) vs BOI Disaster",
+  "revenue_scope": "worldwide"
+ },
+ {
+  "tmdb_movie_id": 80836,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Andhrudu"
+  },
+  "notes": "Wiki 'was a commercial success at the box office'; FLAG: stored revenue ($1.61M) is the infobox ₹7 Cr distributors' share, not gross (left)",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 77095,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Anbe Aaruyire) no box office; stored tmdb budget $2M unverified"
+ },
+ {
+  "tmdb_movie_id": 20496,
+  "budget_inr_crore": 37,
+  "revenue_inr_crore": 52.57,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Mangal_Pandey:_The_Rising",
+   "revenue": "https://en.wikipedia.org/wiki/Mangal_Pandey:_The_Rising"
+  },
+  "notes": "Wiki budget ₹37 Cr / WW ₹52.57 Cr re-derived (BOI live WW ₹53.01 Cr, within 1%); verdict conflict left NULL: Wiki 'declared average by Box Office India' vs BOI live Flop and BH Flop",
+  "revenue_scope": "worldwide"
+ },
+ {
+  "tmdb_movie_id": 37172,
+  "budget_inr_crore": 12.5,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Athadu"
+  },
+  "notes": "Wiki budget ₹12–13 Cr → midpoint 12.5 re-derived; FLAG: stored revenue ($5.06M ≈ ₹22 Cr) is the distributors' share, not gross (left); 'one of the highest-grossing Telugu films of the year' is a ranking → NULL"
+ }
+]

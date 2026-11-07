@@ -1,0 +1,57 @@
+[
+ {
+  "tmdb_movie_id": 104508,
+  "budget_inr_crore": 0.75,
+  "revenue_inr_crore": 0.65435,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1692",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1692",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1692"
+  },
+  "notes": "no Wiki article; BOI \"Mashooka\" (15 Jul 2005) budget ₹75 lakh, WW ₹65.44 lakh (overseas $1,000); Hindi film (DB language english)",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 80949,
+  "budget_inr_crore": 1.8,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/A_Film_by_Aravind",
+   "verdict": "https://en.wikipedia.org/wiki/A_Film_by_Aravind"
+  },
+  "notes": "Wiki budget ₹1.8 Cr re-derived; 'The film was a commercial success' (100-day function)",
+  "verdict_label": "commercial success"
+ },
+ {
+  "tmdb_movie_id": 684245,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki reviews only, no box office"
+ },
+ {
+  "tmdb_movie_id": 1209353,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Sye_(2005_film)"
+  },
+  "notes": "Wiki (Kannada Sye, Sudeep) 'The film was a commercial failure'",
+  "verdict_label": "commercial failure"
+ },
+ {
+  "tmdb_movie_id": 80862,
+  "budget_inr_crore": 2.9,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Anukokunda_Oka_Roju"
+  },
+  "notes": "Wiki budget ₹2.9 Cr (producer interview) re-derived; producer says 'incurred a loss of ₹90 lakh' — no stated verdict → NULL"
+ }
+]

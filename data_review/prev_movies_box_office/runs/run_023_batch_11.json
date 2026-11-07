@@ -1,0 +1,69 @@
+[
+ {
+  "tmdb_movie_id": 360915,
+  "budget_inr_crore": 1.25,
+  "revenue_inr_crore": 1.20783,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1698",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1698",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1698"
+  },
+  "notes": "no Wiki article; BOI \"Chetna - The Excitement\" (24 Jun 2005, Payal Rohatgi) budget ₹1.25 Cr, WW ₹1.21 Cr",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 279535,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Pauran"
+  },
+  "notes": "Wiki 'The film was a box-office disaster' (Sify)",
+  "verdict_label": "box-office disaster"
+ },
+ {
+  "tmdb_movie_id": 11763,
+  "budget_inr_crore": 12.5,
+  "revenue_inr_crore": 63.2,
+  "verdict": "hit",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=390",
+   "revenue": "https://en.wikipedia.org/wiki/Bunty_Aur_Babli",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=390"
+  },
+  "notes": "Wiki gross ₹63.20 Cr (BOI) re-derived (BOI live WW ₹63.74 Cr); Wiki budget blank → BOI ₹12.5 Cr; BOI Super Hit, BH Super-Hit",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Super Hit"
+ },
+ {
+  "tmdb_movie_id": 522926,
+  "budget_inr_crore": 3.25,
+  "revenue_inr_crore": 4.4175,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1707",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1707",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1707"
+  },
+  "notes": "Wiki budget/gross blank; BOI budget ₹3.25 Cr, WW ₹4.42 Cr (overseas $50,000)",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 58725,
+  "budget_inr_crore": 4,
+  "revenue_inr_crore": 1.25,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Netaji_Subhas_Chandra_Bose:_The_Forgotten_Hero",
+   "revenue": "https://en.wikipedia.org/wiki/Netaji_Subhas_Chandra_Bose:_The_Forgotten_Hero",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1710"
+  },
+  "notes": "Wiki budget ₹4 Cr / gross ₹1.25 Cr (BOI cites) re-derived; BOI live budget ₹3.5 Cr (Wiki kept); BOI Disaster",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 938235,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no box office; Malayalam film (DB language english)"
+ },
+ {
+  "tmdb_movie_id": 81081,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Mahanandi_(film)"
+  },
+  "notes": "Wiki 'It was a moderate success at the box office'",
+  "verdict_label": "moderate success"
+ },
+ {
+  "tmdb_movie_id": 330755,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Sree (film)) budget '{{Estimation}} ₹3 crore' uncited (stored, not re-confirmed); 'underperformed at the box office' is not a verdict"
+ },
+ {
+  "tmdb_movie_id": 1754492,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki \"Mestri (film)\" is the 2009 Dasari Narayana Rao film, not this 2005 one; no data"
+ },
+ {
+  "tmdb_movie_id": 280326,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Allari_Pidugu"
+  },
+  "notes": "Wiki 'was a flop at the box office' (IndiaGlitz/The Hindu)",
+  "verdict_label": "flop at the box office"
+ }
+]

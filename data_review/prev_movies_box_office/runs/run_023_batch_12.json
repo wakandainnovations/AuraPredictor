@@ -1,0 +1,66 @@
+[
+ {
+  "tmdb_movie_id": 99193,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki (Kana Kandaen) no box office / verdict"
+ },
+ {
+  "tmdb_movie_id": 442320,
+  "budget_inr_crore": 0.9,
+  "revenue_inr_crore": 0.15,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1713",
+   "revenue": "https://en.wikipedia.org/wiki/Revati_(film)",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1713"
+  },
+  "notes": "Wiki gross ₹15 lakh (BOI) re-derived; Wiki budget blank → BOI ₹90 lakh; BOI Disaster",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 949844,
+  "budget_inr_crore": 0.6,
+  "revenue_inr_crore": 0.27,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1671",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1671",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1671"
+  },
+  "notes": "no Wiki article; BOI \"Meri Aashiqui\" (Rahul Roy) budget ₹60 lakh, India gross ₹27 lakh; BOI release 23 Sep 2005 (DB 2005-05-01)",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 301687,
+  "budget_inr_crore": 13.5,
+  "revenue_inr_crore": 11.08,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=414",
+   "revenue": "https://en.wikipedia.org/wiki/Tango_Charlie",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=414"
+  },
+  "notes": "Wiki gross ₹11.08 Cr (BH cite) re-derived (BOI WW ₹11.71 Cr); Wiki budget ₹13.5 Cr uncited → BOI ₹13.5 Cr (same); BOI Disaster, BH Flop",
+  "revenue_scope": "unknown",
+  "verdict_label": "Disaster / Flop"
+ },
+ {
+  "tmdb_movie_id": 272220,
+  "budget_inr_crore": 5.75,
+  "revenue_inr_crore": 7.76,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Karam_(2005_film)",
+   "revenue": "https://en.wikipedia.org/wiki/Karam_(2005_film)",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1733"
+  },
+  "notes": "Wiki budget ₹5.75 Cr / gross ₹7.76 Cr (BOI cites) re-derived; BOI live ₹5 Cr / WW ₹7.90 Cr (Wiki kept); BOI Flop, BH Flop",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Flop"
+ }
+]

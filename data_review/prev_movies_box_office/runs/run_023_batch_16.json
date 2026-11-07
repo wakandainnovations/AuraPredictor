@@ -1,0 +1,50 @@
+[
+ {
+  "tmdb_movie_id": 786567,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki no box office (silent film, IFFI 2023, theatrical Jan 2026); sacnilk page shows no data; The Numbers intl $3,780 only — not stored"
+ },
+ {
+  "tmdb_movie_id": 1508577,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.5,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Om_Shanti_Shanti_Shantihi_2026",
+   "verdict": "https://www.sacnilk.com/movie/Om_Shanti_Shanti_Shantihi_2026"
+  },
+  "notes": "Wiki no box office; sacnilk India gross ₹1.50 Cr (12 days, figures till 10 Feb 2026), verdict Disaster on a page with real figures",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 1592043,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.49,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Mahasenha_2025"
+  },
+  "notes": "Wiki negative reviews only; sacnilk India gross ₹1.49 Cr (13 days, figures till 24 Dec 2025)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1591730,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; sacnilk only 7 days (₹15 L) — partial, not stored"
+ },
+ {
+  "tmdb_movie_id": 1623912,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki reviews only (ZEE5 from 5 Jun 2026); no sacnilk page"
+ }
+]

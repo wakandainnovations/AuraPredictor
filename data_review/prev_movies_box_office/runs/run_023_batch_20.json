@@ -1,0 +1,59 @@
+[
+ {
+  "tmdb_movie_id": 1548737,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.67,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Beauty_2025"
+  },
+  "notes": "Wiki reviews only; sacnilk India gross ₹67 L (13 days, figures till 1 Oct 2025)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1090991,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 1.6,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Thanal_2025"
+  },
+  "notes": "revenue corrected: stored tmdb $2,436 → sacnilk India gross ₹1.60 Cr (19–20 days, figures till 30 Sep 2025)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1403839,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.7,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Bad_Girl_2025"
+  },
+  "notes": "Wiki reviews only; sacnilk India gross ₹70 L (Tamil + Hindi, 20–27 days, figures till 1 Oct 2025)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1534291,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.05,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2025/"
+  },
+  "notes": "Wiki no box office; not in BOI index; BH 2025 table lifetime nett ₹0.05 Cr, Flop",
+  "revenue_scope": "india_net",
+  "verdict_label": "Flop"
+ },
+ {
+  "tmdb_movie_id": 1249926,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 9.0,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Ghaati_2025"
+  },
+  "notes": "revenue corrected: stored tmdb $35,580 → sacnilk WW ₹9.00 Cr (India gross ₹8.30 Cr + overseas ₹70 L, 14 days, figures till 18 Sep 2025); Wiki budget 'over ₹26 crore' not stored; no verdict",
+  "revenue_scope": "worldwide"
+ }
+]

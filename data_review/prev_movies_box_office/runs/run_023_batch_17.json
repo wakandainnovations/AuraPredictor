@@ -1,0 +1,54 @@
+[
+ {
+  "tmdb_movie_id": 1238164,
+  "budget_inr_crore": 22,
+  "revenue_inr_crore": 2.29,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6674",
+   "revenue": "https://en.wikipedia.org/wiki/Gustaakh_Ishq",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6674"
+  },
+  "notes": "Wiki gross 'est. ₹2.29 Cr worldwide' (BH) re-derived, kept over BOI WW ₹1.28 Cr (BH table lifetime nett ₹1.85 Cr); Wiki budget blank → BOI ₹22 Cr; BOI Disaster, BH Flop",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Disaster / Flop"
+ },
+ {
+  "tmdb_movie_id": 1585219,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki reviews only; sacnilk only 7 days (₹1.26 Cr) — partial, not stored"
+ },
+ {
+  "tmdb_movie_id": 1574470,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; no data"
+ },
+ {
+  "tmdb_movie_id": 1196956,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.38,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Ithiri_Neram_2025"
+  },
+  "notes": "Wiki no box office; sacnilk India gross ₹38 L (26–28 days, figures till 2 Dec 2025)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1531058,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.51,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Others_2025"
+  },
+  "notes": "Wiki reviews only; sacnilk India gross ₹51 L (14 days, figures till 20 Nov 2025)",
+  "revenue_scope": "india_gross"
+ }
+]

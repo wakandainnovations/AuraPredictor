@@ -1,0 +1,52 @@
+[
+ {
+  "tmdb_movie_id": 1537715,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Malaysian film (Malay remake of Kaithi); Wiki budget RM 7 million — not INR/USD, not stored; stored tmdb budget/revenue unverified"
+ },
+ {
+  "tmdb_movie_id": 1511417,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 52,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Baahubali:_The_Epic"
+  },
+  "notes": "Wiki gross ₹52 Cr (multiple refs) re-derived; FLAG: stored tmdb budget $65M is the original two films' budget, not this 2025 re-edit (left); BH Hindi-version verdict 'Pending' → NULL",
+  "revenue_scope": "unknown"
+ },
+ {
+  "tmdb_movie_id": 1567351,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki reviews only; sacnilk only 7 days (₹23 L) — partial, not stored"
+ },
+ {
+  "tmdb_movie_id": 1302696,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 2.32,
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.sacnilk.com/movie/Paathirathri_2025"
+  },
+  "notes": "Wiki no box office; sacnilk India gross ₹2.32 Cr (25 days, figures till 10 Nov 2025)",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 1512087,
+  "budget_inr_crore": 13,
+  "revenue_inr_crore": 2.84,
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Punha_Shivajiraje_Bhosale",
+   "revenue": "https://www.sacnilk.com/movie/Punha_Shivajiraje_Bhosale_2025"
+  },
+  "notes": "Wiki budget ₹13 Cr (Lokmat, Manjrekar); sacnilk India gross ₹2.84 Cr (31 days, figures till 30 Nov 2025); Wiki 'underperformed' is not a verdict → NULL",
+  "revenue_scope": "india_gross"
+ }
+]

@@ -1,0 +1,60 @@
+[
+ {
+  "tmdb_movie_id": 115943,
+  "budget_inr_crore": 4.5,
+  "revenue_inr_crore": 1.4295,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=280",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=280",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=280"
+  },
+  "notes": "Wiki budget/gross blank; BOI \"Banaras - A Mystic Love Story\" budget ₹4.5 Cr, WW ₹1.43 Cr (overseas $20,000)",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 1794504,
+  "budget_inr_crore": 3,
+  "revenue_inr_crore": 0.4,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Rafta_Rafta_–_The_Speed",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1602",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1602"
+  },
+  "notes": "Wiki budget ₹3 Cr (cites BOI) re-derived; gross blank → BOI India gross ₹40 lakh (overseas $---); BOI Disaster",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 261905,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://www.sify.com/movies/2006-hits-misses-news-tamil-kkfvg4dgeahsi.html"
+  },
+  "notes": "Wiki no box office; Sify 2006: 'June R... were all duds'",
+  "verdict_label": "duds"
+ },
+ {
+  "tmdb_movie_id": 349002,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Lion_(2006_film)"
+  },
+  "notes": "Wiki Box office: 'The film was a blockbuster at the box office'; no figures",
+  "verdict_label": "blockbuster"
+ },
+ {
+  "tmdb_movie_id": 24174,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article found (search hit an unrelated film); no figures"
+ }
+]

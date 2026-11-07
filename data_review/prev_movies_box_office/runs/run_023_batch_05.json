@@ -1,0 +1,57 @@
+[
+ {
+  "tmdb_movie_id": 237973,
+  "budget_inr_crore": 0.75,
+  "revenue_inr_crore": 0.746675,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1650",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1650",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1650"
+  },
+  "notes": "no Wiki article (search hit Bobby 2006); BOI \"Bold\" (7 Oct 2005, Tanvi Verma) budget ₹75 lakh, WW ₹74.67 lakh (overseas $1,500); Hindi film",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 499731,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; not in BOI index"
+ },
+ {
+  "tmdb_movie_id": 631710,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Golmaal_(Marathi_film)"
+  },
+  "notes": "Wiki (Golmaal, also spelled Goolmaal) 'The film was a superhit at the box office' (uncited)",
+  "verdict_label": "superhit"
+ },
+ {
+  "tmdb_movie_id": 1726836,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; not in BOI index"
+ },
+ {
+  "tmdb_movie_id": 1688948,
+  "budget_inr_crore": 1.25,
+  "revenue_inr_crore": 0.059,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1626",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1626",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1626"
+  },
+  "notes": "Wiki budget blank; BOI \"Mr. Prime Minister\" (30 Dec 2005) budget ₹1.25 Cr, WW ₹5.9 lakh (overseas $2,000)",
+  "revenue_scope": "worldwide",
+  "verdict_label": "Disaster"
+ }
+]

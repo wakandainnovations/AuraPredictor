@@ -1,0 +1,58 @@
+[
+ {
+  "tmdb_movie_id": 115268,
+  "budget_inr_crore": 15,
+  "revenue_inr_crore": null,
+  "verdict": "avg",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Balu_(film)",
+   "verdict": "https://en.wikipedia.org/wiki/Balu_(film)"
+  },
+  "notes": "Wiki budget ₹15 Cr (Business Standard) re-derived; 'was an average grosser at the box office' (Cinejosh)",
+  "verdict_label": "average grosser"
+ },
+ {
+  "tmdb_movie_id": 309458,
+  "budget_inr_crore": 0.8,
+  "revenue_inr_crore": 0.37,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1688",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1688",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1688"
+  },
+  "notes": "no Wiki article; BOI \"Unlimited Nasha\" (29 Jul 2005) budget ₹80 lakh, India gross ₹37 lakh",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 548457,
+  "budget_inr_crore": 1.0,
+  "revenue_inr_crore": 0.3325,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1820",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1820",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1820"
+  },
+  "notes": "Wiki no box office; BOI (Rakesh Bapat, 13 Aug 2004 — DB 2005-01-01) budget ₹1 Cr, India gross ₹33.25 lakh; Hindi film (DB language english)",
+  "revenue_scope": "india_gross",
+  "verdict_label": "Disaster"
+ },
+ {
+  "tmdb_movie_id": 919286,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article; not in BOI index"
+ },
+ {
+  "tmdb_movie_id": 1186518,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "no Wiki article (Zuluk → Dzuluk); Marathi"
+ }
+]
