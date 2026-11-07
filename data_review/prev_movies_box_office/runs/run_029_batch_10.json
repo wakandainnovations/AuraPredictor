@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 606599, "budget_inr_crore": 29, "revenue_inr_crore": 40.15, "revenue_scope": "worldwide", "verdict": "flop",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=5738", "revenue": "https://en.wikipedia.org/wiki/Commando_3_(film)", "verdict": "https://boxofficeindia.com/movie.php?movieid=5738"},
+  "notes": "Wiki 'Commando 3 (film)' gross ₹40.15 crore (India gross ₹38.65 + overseas ₹1.50 Cr, cited to BH 'Commando 3 Box Office') = stored (confirmed); BOI WW 42,50,50,000 (India gross 38.60 Cr + $550,000) — ~6% higher, Wiki kept, BOI noted. Budget blank on Wiki → BOI Budget 29,00,00,000. Wiki 'was not much commercially successful due to its budget' (not a clear verdict); BOI Flop, BH 2019 Flop (nett ₹32.47 Cr) → flop"},
+ {"tmdb_movie_id": 748477, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kannad Gothilla' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 628566, "budget_inr_crore": null, "revenue_inr_crore": 0.50, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=5768", "verdict": "https://en.wikipedia.org/wiki/Satellite_Shankar"},
+  "notes": "Corrected revenue: stored $76,002 = Wiki '{{estimation}} ₹54 lakh' cited to a BH day-wise page dated the release day (= BH lifetime *nett* ₹0.54 Cr) → not a gross; BOI India gross 50,00,000 (overseas $---, nett 42,00,000). Verdict: Wiki lead 'was a box office bomb', BOI Disaster, BH Flop → flop. Flagged, left: stored budget $2.81M = Wiki '{{estimation}} ₹20 crore' cited to a pre-release 'Budget Screencount … Prediction' page (3 Nov 2019); BOI budget '--' — no replacement"},
+ {"tmdb_movie_id": 647206, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Android_Kunjappan_Version_5.25"},
+  "notes": "Wiki 'Android Kunjappan Version 5.25' lead: 'received critical acclaim and was one of the commercially successful Malayalam films released in the year' (the sentence's only ref is the Kerala State Film Awards list — weak cite, noted) → hit; no budget/gross; sacnilk page 404"},
+ {"tmdb_movie_id": 466550, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'Drive (2019 film)' released on Netflix 1 Nov 2019; no box office"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 682833, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ikko Mikke' infobox budget/gross blank, no verdict; released 13 Mar 2020, days before the COVID theatre shutdown (any sacnilk total would be partial); not found"},
+ {"tmdb_movie_id": 598859, "budget_inr_crore": null, "revenue_inr_crore": 0.58, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=5824", "verdict": "https://boxofficeindia.com/movie.php?movieid=5824"},
+  "notes": "Wiki 'Kaamyaab' infobox has no budget/gross, no verdict wording (Busan 2018 premiere, India release 6 Mar 2020); BOI 'Har Kisse Ke Hisse Kaamyaab (2020) Hindi' India gross 58,00,000 (overseas $---, nett 49,00,000), budget --, verdict Disaster; BH 2020 lifetime nett ₹0.50 Cr, Flop — verdicts agree → flop"},
+ {"tmdb_movie_id": 680953, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jora: The Second Chapter' infobox budget/gross blank, no verdict; released 6 Mar 2020, one week before the COVID shutdown (partial run); not found"},
+ {"tmdb_movie_id": 680988, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'College Kumar (2020 film)' is a stub with no budget/gross/verdict; not found"},
+ {"tmdb_movie_id": 681176, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty); not found"}
+]

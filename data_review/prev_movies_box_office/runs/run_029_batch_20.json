@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 605452,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.1175,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5673",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5673"
+  },
+  "notes": "Wiki 'Kissebaaz' has no budget/gross; BOI 'Kissebaaz (2019) Hindi' India gross 11,75,000 (overseas $---, nett 10,00,000), budget --, Disaster; BH 2019 nett ₹0.15 Cr, Flop → flop"
+ },
+ {
+  "tmdb_movie_id": 609857,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article for the 2019 Marathi 'Welcome Home' (search returns cast/award pages; 'Welcome Home (2018 film)' is the George Ratliff film); not found"
+ },
+ {
+  "tmdb_movie_id": 607447,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'My Great Grandfather' has no budget/gross fields, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 607100,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Hippi (film)' (fetched directly; search missed it) infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 606779,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Thottappan' infobox budget/gross blank, no verdict (Wiki release 5 Jul 2019 vs DB 5 Jun); not found"
+ }
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 587211, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2020 Tamil 'God Father' (search returns unrelated pages); not found"},
+ {"tmdb_movie_id": 682614, "budget_inr_crore": 4, "revenue_inr_crore": 10, "revenue_scope": "india_gross", "verdict": "hit",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Shivaji_Surathkal_2020", "revenue": "https://www.sacnilk.com/movie/Shivaji_Surathkal_2020", "verdict": "https://www.sacnilk.com/movie/Shivaji_Surathkal_2020"},
+  "notes": "Wiki 'Shivaji Surathkal' has no budget/gross in the infobox, only '₹2 crore in the first week' (partial, not stored) and no verdict wording. sacnilk: 'Worldwide gross' ₹10.00 Cr = India gross ₹10.00 Cr (overseas '—'; India net ₹8.60 Cr), 25 days, figures till 16 Mar 2020 (run ended by the COVID shutdown), Budget ₹4.00 Cr, verdict Super Hit → hit"},
+ {"tmdb_movie_id": 715553, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aadyaa' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 668391, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Seeru' infobox budget/gross blank, no verdict; sacnilk Seeru_2020 'No box office figures yet'; not found"},
+ {"tmdb_movie_id": 1782608, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty); not found"}
+]

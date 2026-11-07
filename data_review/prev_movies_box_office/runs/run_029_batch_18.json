@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 613225,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.19,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5680",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5680"
+  },
+  "notes": "Corrected revenue: stored $682,825 = Wiki '{{estimation}} ₹4.68 crore (worldwide)' cited to a BH page dated the release day (no access date); BH 2019 table lifetime nett is only ₹0.40 Cr → not usable; BOI 'One Day (2019) Hindi' (5 Jul 2019, same film) India gross 19,00,000 (overseas $---, nett 16,00,000), budget --, Disaster; BH Flop → flop"
+ },
+ {
+  "tmdb_movie_id": 613380,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'DSP Dev' infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 613495,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Subharathri' (fetched directly; search missed it) infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 843351,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Onti' has no budget/gross fields, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 610301,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article for 'Dharma Prabhu' (search returns unrelated pages); not found"
+ }
+]

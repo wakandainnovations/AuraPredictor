@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 566404, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returns only the SIIMA awards page); not found"},
+ {"tmdb_movie_id": 636449, "budget_inr_crore": 12, "revenue_inr_crore": 11.96, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ujda_Chaman", "revenue": "https://boxofficeindia.com/movie.php?movieid=5733", "verdict": "https://boxofficeindia.com/movie.php?movieid=5733"},
+  "notes": "Budget: Wiki ₹12 crore (cited, Indian Express) = stored (confirmed); BOI Budget 18,00,00,000 — Wiki kept, BOI noted. Revenue corrected: stored = Wiki '{{estimation}} ₹12.61 crore' cited to a BH page accessed 8 Nov 2019 (day 8, running total; body 'As of 9 Nov … ₹12.98 crore') → BOI India gross 11,96,00,000 (overseas $---, nett 10,18,50,000). BOI Flop, BH 2019 Flop (nett ₹10.51 Cr) → flop"},
+ {"tmdb_movie_id": 638133, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Daaka' infobox budget/gross blank, no box-office wording; not found"},
+ {"tmdb_movie_id": 458012, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Moothon' (TIFF Sep 2019, India release 8 Nov 2019) infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 640559, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Raju Gari Gadhi 3' infobox budget/gross blank, no box-office wording (the RGG 2 page's ₹25 Cr / ₹35.2 Cr figures belong to the 2017 sequel — not used); not found"}
+]

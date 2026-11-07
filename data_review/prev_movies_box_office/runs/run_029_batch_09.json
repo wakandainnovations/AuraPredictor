@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 818822, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sagardwipey Jawker Dhan' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 428378, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Enai Noki Paayum Thota' infobox budget/gross blank, no verdict; one web search: only opening-weekend Chennai figures (filmibeat/IBTimes ~₹2 Cr), sacnilk tag page has no figures; not found"},
+ {"tmdb_movie_id": 602287, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Market Raja MBBS' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 646173, "budget_inr_crore": null, "revenue_inr_crore": 0.70, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=5780", "verdict": "https://boxofficeindia.com/movie.php?movieid=5780"},
+  "notes": "No Wiki article found by search; BOI 'Yeh Saali Aashiqui (2019) Hindi' India gross 70,00,000 (overseas $---, nett 59,00,000), budget --, Disaster (BOI release 22 Nov 2019; DB 29 Nov = BH date); BH 2019 nett ₹0.76 Cr, Flop → flop"},
+ {"tmdb_movie_id": 663215, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Brahmachari_(2019_film)"},
+  "notes": "Wiki 'Brahmachari (2019 film)': 'met with mixed responses from both audiences and critics and was a commercial failure' (cited) → flop; infobox budget/gross blank"}
+]

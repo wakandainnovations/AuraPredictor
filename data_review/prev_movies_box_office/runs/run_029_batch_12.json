@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 641077, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ardab Mutiyaran' infobox 'budget = 4.5cr', 'gross = 21cr' — both uncited (= stored values, which are therefore unverified; flagged, left); no verdict wording; sacnilk Ardab_Mutiyaran_2019 404; not found"},
+ {"tmdb_movie_id": 641286, "budget_inr_crore": null, "revenue_inr_crore": 1.38, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=5760", "verdict": "https://boxofficeindia.com/movie.php?movieid=5760"},
+  "notes": "Wiki 'P Se Pyaar F Se Faraar' infobox budget/gross blank; BOI 'P Se Pyaar F Se Farrarr (2019) Hindi' India gross 1,38,00,000 (overseas $---, nett 1,17,00,000), budget --, Disaster; BH 2019 nett ₹0.91 Cr, Flop → flop"},
+ {"tmdb_movie_id": 613446, "budget_inr_crore": 24, "revenue_inr_crore": 34.41, "revenue_scope": "worldwide", "verdict": "flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/The_Sky_Is_Pink", "revenue": "https://en.wikipedia.org/wiki/The_Sky_Is_Pink", "verdict": "https://boxofficeindia.com/movie.php?movieid=5713"},
+  "notes": "Wiki 'The Sky Is Pink' budget ₹240 million (cited) and gross ₹344.1 million (BH: India ₹23.85 + overseas ₹10.56 Cr, accessed 25 Oct 2019) = stored (confirmed); BOI WW ₹33.86 Cr (within 2%), BOI budget ₹42 Cr (Wiki kept, BOI noted). Wiki 'did not perform well commercially' + BOI Flop + BH 2019 Flop (nett ₹20.03 Cr) → flop"},
+ {"tmdb_movie_id": 687706, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ellidde Illi Tanaka' infobox budget/gross blank, no verdict ('hit TV show' refers to Maja Talkies); not found"},
+ {"tmdb_movie_id": 545071, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki '99 Songs': Busan premiere 9 Oct 2019 (DB date), India theatrical release 16 Apr 2021; infobox budget blank, no gross/verdict; no BOI index entry, not in BH 2021 table; not found"}
+]

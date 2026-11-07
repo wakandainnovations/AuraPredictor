@@ -1,0 +1,47 @@
+[
+ {
+  "tmdb_movie_id": 613745,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "hit",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Rustum_(2019_film)"
+  },
+  "notes": "Wiki 'Rustum (2019 film)': 'A sequel was announced after the film became a commercial success at the box office' (cites: Bangalore Mirror 'Ravi Varma springs a surprise with Rustum' / 'Behold, a sequel to Rustum') → hit; infobox budget blank, no gross"
+ },
+ {
+  "tmdb_movie_id": 536613,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'House Owner' has no budget/gross fields, no verdict (IFFI Indian Panorama selection only); not found"
+ },
+ {
+  "tmdb_movie_id": 576041,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'And the Oscar Goes To' infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 508376,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Suttu Pidikka Utharavu' infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 553456,
+  "budget_inr_crore": 20,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://www.sacnilk.com/movie/Game_Over_2019",
+   "verdict": "https://www.sacnilk.com/movie/Game_Over_2019"
+  },
+  "notes": "Wiki 'Game Over (2019 film)' gross '{{Estimation}} ₹15.91 crore' is uncited (= stored $2.28M; flagged, left); budget blank → sacnilk 'Budget: ₹20.00 Cr' (fallback). sacnilk WW ₹16.00 Cr is a 14-day total (figures till 27 Jun 2019; India gross ₹14.70 Cr, overseas ₹1.30 Cr) → partial, not stored. Verdict: sacnilk 'Below Average' + BH 2019 Flop for the Hindi version (nett ₹4.69 Cr); Wiki has no verdict wording → flop"
+ }
+]

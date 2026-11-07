@@ -1,0 +1,55 @@
+[
+ {
+  "tmdb_movie_id": 616686,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.49,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5693",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5693"
+  },
+  "notes": "Corrected revenue: stored $2.18M = Wiki 'Family of Thakurganj' '{{Estimation}} ₹15 Crore' cited to a mid-day day-1 article ('earns Rs 1.5 crore on day 1') and a BH page accessed the day after release — not a lifetime gross (BH 2019 lifetime nett only ₹0.25 Cr); BOI 'Family of Thakurganj (2019) Hindi' India gross 49,00,000 (overseas $---, nett 43,00,000), budget --, Disaster; BH Flop → flop. Wiki page fetched directly (search missed it)"
+ },
+ {
+  "tmdb_movie_id": 634906,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Sinnga (film)' infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 609118,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 7.05,
+  "revenue_scope": "worldwide",
+  "verdict": "hit",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Ninu_Veedani_Needanu_Nene",
+   "verdict": "https://t2blive.com/ninnu-veedani-needanu-nene-total-ww-collections/"
+  },
+  "notes": "Wiki gross ₹7.05 crore cited to T2BLive 'Total WW Collections' (2 Aug 2019) = stored (confirmed); the T2BLive page gives 'Total WW Share: 3.84cr' and 'Total Gross: 7.05Cr' side by side over 21 days, so 7.05 is the gross, and 'Movie Verdict: (H-I-T)' ('a clean hit … past break-even') → hit; Wiki has no budget or verdict wording"
+ },
+ {
+  "tmdb_movie_id": 606157,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Raatchasi' infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 611537,
+  "budget_inr_crore": 16,
+  "revenue_inr_crore": 3.7,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5679",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5679",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5679"
+  },
+  "notes": "Corrected revenue: stored = Wiki 'Malaal (film)' '{{Estimation}} ₹2.50 crore' cited to a BH box-office page dated the release day (5 Jul 2019) with no access date (≈ BH India *nett* ₹2.54 Cr, not a gross) → BOI 'Malaal (2019) Hindi' India gross 3,70,00,000 (overseas $---, nett 3,11,25,000). Budget blank on Wiki → BOI 16,00,00,000. BOI Disaster, BH Flop → flop"
+ }
+]

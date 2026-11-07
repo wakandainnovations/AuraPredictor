@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 846330, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Indha Nilai Maarum' infobox budget/gross blank, no verdict; released 6 Mar 2020 (one week before COVID shutdown); not found"},
+ {"tmdb_movie_id": 679994, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Short film: Wiki 'Devi (2020 film)' — Hindi short released on Large Short Films (YouTube) 2 Mar 2020; no box office"},
+ {"tmdb_movie_id": 679791, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Borunbabur Bondhu' (KIFF 2019, India release 28 Feb 2020) infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 676792, "budget_inr_crore": 4, "revenue_inr_crore": 12, "revenue_scope": "worldwide", "verdict": "hit",
+  "sources": {"budget": "https://www.sacnilk.com/movie/Forensic_2020", "revenue": "https://www.sacnilk.com/movie/Forensic_2020", "verdict": "https://en.wikipedia.org/wiki/Forensic_(2020_film)"},
+  "notes": "Wiki 'Forensic (2020 film)' infobox has no budget/gross; lead: 'a commercial success at the box office despite theatre shutdowns … ₹25 crores worldwide, including satellite and other digital rights' ({{Citation needed}}; the ₹25 Cr includes rights → not stored). sacnilk: WW gross ₹12.00 Cr (14 days, figures till 12 Mar 2020 = run ended by the COVID shutdown; India gross ₹10.00 Cr, overseas ₹2.00 Cr), Budget ₹4.00 Cr, verdict Hit — agrees with Wiki → hit. Revenue is the full (shutdown-truncated) run"},
+ {"tmdb_movie_id": 678798, "budget_inr_crore": null, "revenue_inr_crore": 0.19, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=5816", "verdict": "https://boxofficeindia.com/movie.php?movieid=5816"},
+  "notes": "Released as 'Doordarshan' (Wiki 'Doordarshan (film)', same director Gagan Puri / Mahie Gill; theatres 28 Feb 2020, Netflix 27 Jul 2020); Wiki has no budget/gross. BOI 'Doordarshan (2020) Hindi' India gross 19,00,000 (overseas $---, nett 16,00,000), budget --, Disaster; BH 2020 nett ₹0.03 Cr, Flop → flop"}
+]

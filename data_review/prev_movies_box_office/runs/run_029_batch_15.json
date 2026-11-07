@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 624480,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Shantilal O Projapoti Rohoshyo' infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 621692,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.1175,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5717",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5717"
+  },
+  "notes": "Wiki 'Chicken Curry Law' infobox budget/gross blank; BOI 'Chicken Curry Law! (2019) Hindi' India gross 11,75,000 (overseas $---, nett 10,00,000), budget --, Disaster; BH 2019 nett ₹0.12 Cr, Flop → flop"
+ },
+ {
+  "tmdb_movie_id": 629610,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Panther: Hindustan Meri Jaan' (same director/lead) infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 319832,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Guna 369' infobox budget/gross blank, no verdict; not found"
+ },
+ {
+  "tmdb_movie_id": 602276,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Jackpot (2019 film)' infobox budget/gross blank, no verdict; sacnilk Jackpot_2019 404; not found"
+ }
+]

@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 657777, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Iddari Lokam Okate' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 657853, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Mathu_Vadalara"},
+  "notes": "Wiki 'Mathu Vadalara' lead: 'It was successful at the box office' (cite: IBTimes 29 Dec 2019 '…helped Rajamouli's nephews succeed at box office with Mathu Vadalara') → hit; infobox budget/gross blank; sacnilk Mathu_Vadalara_2019 404. Flagged, left: stored tmdb revenue $7,035 is implausible for a hit and unverified"},
+ {"tmdb_movie_id": 655041, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Valiyaperunnal' infobox budget blank, no gross, no verdict; not found"},
+ {"tmdb_movie_id": 648316, "budget_inr_crore": 19, "revenue_inr_crore": 3.47, "revenue_scope": "india_net", "verdict": "flop",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=5786", "revenue": "https://en.wikipedia.org/wiki/The_Body_(2019_film)", "verdict": "https://boxofficeindia.com/movie.php?movieid=5786"},
+  "notes": "Wiki 'The Body (2019 film)' gross ₹3.47 crore cited to BH 'The Body Box Office Collection' = BH 2020 table lifetime nett ₹3.47 Cr (confirmed, = stored; it is an India nett figure); BOI India gross ₹3.98 Cr (nett 3,37,75,000) — Wiki kept, BOI noted. Budget blank on Wiki → BOI Budget 19,00,00,000 (₹19 Cr). BOI Disaster, BH Flop → flop"},
+ {"tmdb_movie_id": 614363, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mismatch (2019 film)' (stylised Mis(s)match; same director/lead) has no budget/gross/verdict; not found"}
+]

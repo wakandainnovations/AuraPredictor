@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 693462,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Marshal (film)' infobox budget/gross blank, no verdict (Wiki release 13 Sep 2019 vs DB 6 Sep); not found"
+ },
+ {
+  "tmdb_movie_id": 773253,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search empty); not found"
+ },
+ {
+  "tmdb_movie_id": 1179047,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search returns unrelated pages); not found"
+ },
+ {
+  "tmdb_movie_id": 615639,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Kennedy Club' has no budget/gross fields and no verdict wording; not found"
+ },
+ {
+  "tmdb_movie_id": 620271,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Porinju Mariam Jose' infobox budget/gross blank; only '…fifth Malayalam film of 2019 to successfully complete 100 days in theatres' — a run length, not a stated verdict → NULL; sacnilk Porinju_Mariam_Jose_2019 404; not found"
+ }
+]

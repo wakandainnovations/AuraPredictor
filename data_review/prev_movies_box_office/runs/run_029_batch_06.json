@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 667986, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Gauthamante Radham' infobox budget/gross blank, no verdict; sacnilk Gauthamante_Radham_2020 'No box office figures yet'; not found"},
+ {"tmdb_movie_id": 659672, "budget_inr_crore": null, "revenue_inr_crore": 0.70, "revenue_scope": "india_gross", "verdict": "flop",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=5795", "verdict": "https://boxofficeindia.com/movie.php?movieid=5795"},
+  "notes": "Corrected: stored revenue (Wiki '{{estimation}} ₹0.45 crore') is cited to a BH 'Box Office Collection till Now' page dated the release day (3 Jan 2020) and equals BH's India *nett* lifetime, not a gross → not usable; BOI 'Sab Kushal Mangal (2020) Hindi' India gross 70,00,000 (overseas $---, nett 59,00,000), budget --, Disaster; BH 2020 nett ₹0.45 Cr, Flop → flop"},
+ {"tmdb_movie_id": 809092, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty); Tulu film per DB lead/director; not found"},
+ {"tmdb_movie_id": 493102, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki '50/50 (2019 film)' infobox budget/gross blank, no verdict; not found"},
+ {"tmdb_movie_id": 659086, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Sillu_Karuppatti"},
+  "notes": "Wiki 'Sillu Karuppatti' lead: 'opened to critical acclaim on 27 December 2019, and was commercially successful' (cites: TOI 'Halitha celebrates 50-day run…' + two praise pieces — weak cite, noted) → hit; no budget/gross"}
+]
