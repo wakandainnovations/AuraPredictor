@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 492803, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Kalyanism' (2015 Malayalam, Anuram; only a list row, search returned unrelated pages); not in BOI; not found"},
+ {"tmdb_movie_id": 332832, "budget_inr_crore": null, "revenue_inr_crore": 22, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Surya_vs_Surya", "verdict": "https://en.wikipedia.org/wiki/Surya_vs_Surya"},
+  "notes": "Wiki 'Surya vs Surya' infobox gross ₹22 crore cited to Deccan Chronicle 'When small is big' (15 Jul 2017, retrospective) → confirms stored $3,503,439; scope not stated. Lead: 'The film was a commercial success' cited to the same DC article → hit. Budget blank; Telugu, not in BOI"},
+ {"tmdb_movie_id": 280084, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tamizhuku En Ondrai Azhuthavum': infobox budget/gross empty; reception is reviews only ('solid debut film'); Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 280090, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sandamarutham' (A. Venkatesh): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 1062920, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Bunny' (2015, Vasan Bala, Sunny Kaushal; search unrelated, 'Bunny (2015 film)' 404) — likely a short; not in BOI or BH 2015; not found"}
+]

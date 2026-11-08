@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 299049, "budget_inr_crore": 2.25, "revenue_inr_crore": 8.5, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "box-office success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bey_Yaar", "revenue": "http://www.thehindu.com/features/cinema/wrongside-raju-gujarati-film-industry-still-a-work-in-progress/article9017546.ece", "verdict": "https://en.wikipedia.org/wiki/Bey_Yaar"},
+  "notes": "Wiki 'Bey Yaar' (Abhishek Jain): infobox budget ₹2.25 Cr cited to Sadhana Weekly (2 May 2015, director interview) → confirms stored $371,489; gross '{{Estimation}} ₹8.5 crore' cited to The Hindu 'Gujarati film industry, still a work in progress' (20 Aug 2016) → confirms stored $1,403,402, scope not stated. Lead 'became a box-office success. It completed 50 weeks in theatres' (IANS/Indian Express) → hit; Gujarati, not in BOI"},
+ {"tmdb_movie_id": 480448, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Hercules' (2014 Bengali, Abhijit Guha & Sudeshna Roy; search returned cast/crew pages only); not in BOI; not found"},
+ {"tmdb_movie_id": 1714599, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Chhoti Moti Batein' (2014, Sohini Dasgupta; DB tags English); not in BOI; not found"},
+ {"tmdb_movie_id": 272520, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Megha (2014 film)' (Karthik Rishi): infobox budget/gross blank; 'It was a box-office success' is tagged {{Citation needed|date=January 2026}} → not used, NULL; Tamil, not in BOI"},
+ {"tmdb_movie_id": 278395, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial and critical success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Munnariyippu"},
+  "notes": "Wiki 'Munnariyippu' (Venu, Mammootty): infobox budget/gross blank ('made on low budget', no figure); Box office: 'The film was both commercial and critical success' cited to IBTimes 'Malayalam Best Lead Actors 2014' (23 Dec 2014, 4 months after release) → hit (lead's 'critical and commercial acclaim' is cited to a release-day review round-up — not relied on); Malayalam, not in BOI"}
+]

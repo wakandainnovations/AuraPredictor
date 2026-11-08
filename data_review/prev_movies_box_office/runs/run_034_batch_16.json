@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 285736, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Vikramadithyan"},
+  "notes": "Wiki 'Vikramadithyan' (Lal Jose): infobox budget/gross blank; Box office: 'The film was a commercial success' cited to Sify 'Kerala Box-Office July/Aug (up to Aug 17)' (19 Aug 2014, ~4 weeks in) → hit; '~₹11.5 crores in Kerala' is Kerala-only (not stored), UK $34,767 / US $23,799 overseas pieces not stored; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 281992, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sathuranga Vettai' (H. Vinoth): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 263492, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nalanum Nandhiniyum' (Venkatesan R): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 297675, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vegam (2014 film)': infobox budget/gross blank; 'Sify gave the film a verdict of average' is Sify's review rating, not a box-office verdict → NULL; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 404994, "budget_inr_crore": 2, "revenue_inr_crore": 0.0275, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=2376", "revenue": "https://boxofficeindia.com/movie.php?movieid=2376", "verdict": "https://boxofficeindia.com/movie.php?movieid=2376"},
+  "notes": "Wiki 'A Decent Arrangement' (Sarovar Banka, English-language; NYIFF 2011 premiere, India release 7 Nov 2014 vs DB 2014-07-11): infobox budget/gross blank. BOI movieid=2376 'A Decent Arrangement (2014)' (live page checked; BOI records the Nov 2014 India run): Budget 2,00,00,000, India gross 2,75,000, overseas $--- → india_gross; Disaster → flop (not in BH 2014 table)"}
+]

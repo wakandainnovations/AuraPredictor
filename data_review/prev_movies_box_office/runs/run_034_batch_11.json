@@ -1,0 +1,12 @@
+[
+ {"tmdb_movie_id": 297667, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Dikkulu Choodaku Ramayya': infobox budget/gross blank; lead 'released on 10 October 2014, and was commercially successful' is cited only to a release-day IBTimes 'viewers give thumbs up' review piece (cf. run 32 pre-release cites) and 'After the film success… remade in Hindi' is uncited → verdict left NULL; Telugu, not in BOI"},
+ {"tmdb_movie_id": 297752, "budget_inr_crore": null, "revenue_inr_crore": 15, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "one of the top hit movies of the year 2014",
+  "sources": {"revenue": "http://www.livemint.com/Leisure/4WDkUhMhrHfBuD39hekOmN/Essels-big-vision-for-Marathi-cinema.html", "verdict": "https://en.wikipedia.org/wiki/Dr._Prakash_Baba_Amte_%E2%80%93_The_Real_Hero"},
+  "notes": "Wiki 'Dr. Prakash Baba Amte – The Real Hero' infobox gross ₹15 Cr cited to Livemint 'Essel's big vision for Marathi cinema' (29 Jun 2016) + Zee Talkies + Mid-day → confirms stored $2,448,165; scope not stated. Body: ₹7.5 Cr in 2 weeks, ₹12 Cr in 6 weeks, 'becoming one of the top hit movies of the year 2014' → hit; budget blank; Marathi, not in BOI"},
+ {"tmdb_movie_id": 306905, "budget_inr_crore": 2.5, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "sleeper hit",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ithihasa", "verdict": "https://en.wikipedia.org/wiki/Ithihasa"},
+  "notes": "Wiki 'Ithihasa' (Binu S): infobox budget/gross blank; body 'made with a minimal budget of ₹2.5 crore' cited (ref 'Express') → budget; 'turned out to be a sleeper hit' cited to TOI interview 'I want to be known as the common man's director' → hit. '₹4.35 crore in 52 days' is uncited and a running total → not stored; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 537842, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Punha Gondhal Punha Mujra' (Balkrishna Shinde): infobox budget/gross blank, no box-office wording; Marathi, not in BOI; not found"},
+ {"tmdb_movie_id": 280142, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Yaan (film)' (Ravi K. Chandran, Jiiva): infobox budget/gross blank, no box-office wording; stored tmdb budget $5.2M unverified, left; Tamil, not in BOI; not found"}
+]

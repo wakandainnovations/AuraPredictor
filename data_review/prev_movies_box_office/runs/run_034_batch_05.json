@@ -1,0 +1,10 @@
+[
+ {"tmdb_movie_id": 360902, "budget_inr_crore": null, "revenue_inr_crore": 10, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "http://www.hindustantimes.com/regional/content-over-star-power-story-of-south-cinema-in-first-half-of-2015/article1-1364817.aspx", "verdict": "https://en.wikipedia.org/wiki/Beeruva"},
+  "notes": "Wiki 'Beeruva' infobox gross ₹10 crore cited to Hindustan Times 'Content over star power: south cinema in first half of 2015' (1 Jul 2015) → confirms stored $1,627,482 (gross, not the ₹6 Cr distributors' share also stated); 'The film was a commercial success grossing over ₹10 crore' → hit; budget blank; Telugu, not in BOI"},
+ {"tmdb_movie_id": 322039, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {},
+  "notes": "Wiki 'Classmates (2015 film)' infobox gross '{{estimation}} ₹21 crore' cited to a Divya Marathi article about Natsamrat's 3-day collections (7 Jan 2016) — cite not about this film's total, unverifiable (cf. Double Seat, run 33); FLAGGED: stored $3,408,979 (= ₹21 Cr) left, not confirmed. 'fourth highest grossing Marathi film of 2015' is a ranking, not a verdict → NULL; budget blank; Marathi, not in BOI"},
+ {"tmdb_movie_id": 322348, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Khushi Khushiyagi' (Yogi G. Raj): infobox budget/gross blank, no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 701110, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Aawhan' (2015 Marathi, Sanjay Soorkar; search returned only cast pages); not in BOI; not found"},
+ {"tmdb_movie_id": 711334, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Trafficker' (2015, Larry Smith, Vithaya Pansringarm — a Thailand-set English film, not Indian); BOI index 'Traffic' (2016 Hindi) is a false hit; not found"}
+]

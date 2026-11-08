@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 308060, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Nuvvu Nenu Okatavudaam' (tagged English, Fatima Sana Shaikh, no director in DB; search returned only List of Telugu films of 2015); not in BOI; not found"},
+ {"tmdb_movie_id": 307979, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Rough_(film)"},
+  "notes": "Wiki 'Rough (film)': infobox budget ₹8 Cr and gross ₹15 Cr both uncited — stored $1,285,760 / $2,410,799 left, not confirmed (scope unknown; Telugu figures may be shares). Lead 'mixed reviews … and was an average hit at the box office' (uncited) → avg ('average' wording). BOI index 'Rough Book' (2015 Hindi) is a false hit"},
+ {"tmdb_movie_id": 393472, "budget_inr_crore": null, "revenue_inr_crore": 4, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "http://indianexpress.com/article/entertainment/screen/is-aamir-khans-pk-the-reason-for-marathi-films-poor-performance-at-box-office/"},
+  "notes": "Wiki 'Happy Journey (2014 Marathi film)' infobox gross ₹4 Cr cited to Indian Express 'Is Aamir Khan's PK the reason for Marathi films' poor performance at box office?' (9 Jan 2015, 6 weeks after release) → confirms stored $642,880 as cited; IE page not fetchable (blocked) so scope unknown and no verdict taken from the headline → NULL; budget blank; Marathi, not in BOI"},
+ {"tmdb_movie_id": 496254, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Sondhey Namaar Aagey' (2014 Bengali, Rhitobrata Bhattacharya); not in BOI; not found"},
+ {"tmdb_movie_id": 485229, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vitti Dandu' (Ganesh Kadam): infobox budget/gross blank, no box-office wording; Marathi, not in BOI; not found"}
+]

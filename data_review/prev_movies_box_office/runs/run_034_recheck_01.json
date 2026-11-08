@@ -1,0 +1,5 @@
+[
+ {"tmdb_movie_id": 485229, "budget_inr_crore": null, "revenue_inr_crore": 9, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://www.filmiclub.com/movie/vitti-dandu-2014-marathi-movie/box-office"},
+  "notes": "Missed in batch 8 (parser dropped ref-bearing sentences). Wiki 'Vitti Dandu' Box office section: 'The film collected a total of ₹90 million, with ₹12.5 million on its first day…' cited to FilmiClub box-office page → ₹9 Cr, scope not stated; no verdict wording"}
+]

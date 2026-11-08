@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 307342, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sanngto Aika' (Satish Rajwade; DB tags English, film is Marathi): infobox budget/gross blank, no box-office wording (only the director's earlier successes); not in BOI; not found"},
+ {"tmdb_movie_id": 295587, "budget_inr_crore": null, "revenue_inr_crore": 41.55, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"revenue": "http://www.aptoday.com/movienews/loukyam-total-collections-2014-dussehra-hit/4872/", "verdict": "https://en.wikipedia.org/wiki/Loukyam"},
+  "notes": "Wiki 'Loukyam' (Sriwass, Gopichand): infobox budget/gross blank; lead 'It was a blockbuster at the box-office, grossing over ₹41.55 crore and earning a distributor's share of ₹21.6 crore' cited to aptoday 'Loukyam Total Collections: 2014 Dussehra Hit!' (18 Nov 2014, ~7.5 weeks, end of run) → gross ₹41.55 Cr (not the share), scope not stated; hit. Stray uncited 'Collections-51+ crores' line ignored; Telugu, not in BOI"},
+ {"tmdb_movie_id": 307211, "budget_inr_crore": 3.5, "revenue_inr_crore": 0.155, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=2312", "revenue": "https://boxofficeindia.com/movie.php?movieid=2312", "verdict": "https://boxofficeindia.com/movie.php?movieid=2312"},
+  "notes": "Wiki 'Chaarfutiya Chhokare': infobox budget/gross blank. BOI movieid=2312 (live page checked): Budget 3,50,00,000, India gross 15,50,000, overseas $--- → ₹0.155 Cr india_gross; Disaster → flop (BH 2014: 0.21 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 1667451, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "= Wiki 'Por Bazaar' (Marathi, 'Child Trafficking', Manava Naik, released 19 Sep 2014 — matches DB): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 291900, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Little Terrors' (2014, Maninder Chana, Om Puri; search returned unrelated Hollywood films); not in BOI; not found"}
+]

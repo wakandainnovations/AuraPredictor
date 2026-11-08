@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 325892, "budget_inr_crore": 3, "revenue_inr_crore": 17.46, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Below Average (BOI) / Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Hunterrr", "revenue": "https://boxofficeindia.com/movie.php?movieid=2785", "verdict": "https://boxofficeindia.com/movie.php?movieid=2785"},
+  "notes": "Wiki 'Hunterrr' budget ₹3 Cr cited to BH 'Understanding the economics of Hunterrr' (31 Mar 2015) → confirms stored $479,886 (BOI budget ₹9 Cr noted, Wiki kept). Wiki gross ₹11.2 Cr cited to the BH box-office page dated the release day (20 Mar 2015) — below BH's own lifetime nett 13.63 Cr, so an early/estimation figure → replaced with BOI movieid=2785 (live page checked) India gross 17,46,00,000 (overseas $---; nett 12.865 Cr). BOI Below Average + BH 2015 Flop → flop"},
+ {"tmdb_movie_id": 332738, "budget_inr_crore": 7.5, "revenue_inr_crore": 3.09, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=2784", "revenue": "https://boxofficeindia.com/movie.php?movieid=2784", "verdict": "https://boxofficeindia.com/movie.php?movieid=2784"},
+  "notes": "Wiki 'Dilliwali Zaalim Girlfriend': infobox budget/gross blank. BOI movieid=2784 (live page checked): Budget 7,50,00,000, India gross 3,09,00,000, overseas $--- → india_gross; Disaster → flop (BH 2015: 2.38 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 712906, "budget_inr_crore": null, "revenue_inr_crore": 0.045, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2846", "verdict": "https://boxofficeindia.com/movie.php?movieid=2846"},
+  "notes": "= 'Ek Adbhut Dakshina... Gurudakshina' (dir. Kiran Phadnis; Wiki release 17 Apr 2015 vs DB 2015-03-19). Wiki infobox budget/gross blank. BOI movieid=2846 (live page checked): Budget --, India gross 4,50,000 (overseas $---) → ₹0.045 Cr india_gross; Disaster → flop (BH 2015 'Ek Adhbut Dakshina… Guru Dakshina' 0.01 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 1617580, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Elanjikavu P.O.' (2015 Malayalam, Sangeeth Louis; only a list row); not in BOI; not found"},
+ {"tmdb_movie_id": 331298, "budget_inr_crore": null, "revenue_inr_crore": 2.1, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2721", "verdict": "https://boxofficeindia.com/movie.php?movieid=2721"},
+  "notes": "Wiki 'Hey Bro' (Ajay Chandhok): infobox budget/gross blank. BOI movieid=2721 (live page checked): Budget --, India gross 2,10,00,000, overseas $--- → india_gross; Disaster → flop (BH 2015: 1.26 Cr, Flop — agrees)"}
+]

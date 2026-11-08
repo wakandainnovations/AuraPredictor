@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 278393, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial and critical success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Varsham_(2014_film)"},
+  "notes": "Wiki 'Varsham (2014 film)' (Ranjith Sankar, Mammootty): infobox budget/gross blank; Box office: 'The film was both commercial and critical success' cited to IBTimes 'Malayalam Best Lead Actors 2014' (23 Dec 2014) + Mathrubhumi → hit; only other figure is a £212 UK first weekend (not stored); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 298923, "budget_inr_crore": 25, "revenue_inr_crore": 13.46125, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Flop (BOI / BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=2358", "revenue": "https://boxofficeindia.com/movie.php?movieid=2358", "verdict": "https://boxofficeindia.com/movie.php?movieid=2358"},
+  "notes": "= 'Roar: Tigers of the Sundarbans' (Kamal Sadanah). Wiki infobox budget/gross blank; Box office section only opening-day / first-4-days / week-1 figures (partial). BOI movieid=2358 (live page checked): Budget 25,00,00,000, India gross 13,40,00,000, overseas $10,000, Worldwide 13,46,12,500 → worldwide; Flop → flop (BH 2014: 8.68 Cr nett, Flop — agrees)"},
+ {"tmdb_movie_id": 301276, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Yoddha: The Warrior' (2014 Punjabi, Mandeep Benipal; search returned list/cast pages only); not in BOI; not found"},
+ {"tmdb_movie_id": 344171, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Unto the Dusk' (Sajin Baabu): festival art film (Bengaluru IFF 2014), infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 552059, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sringkhal' (Prabin Hazarika): infobox budget/gross blank, no box-office wording; Assamese, not in BOI; not found"}
+]

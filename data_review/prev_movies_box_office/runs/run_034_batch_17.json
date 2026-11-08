@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 263505, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercially successful",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Arima_Nambi"},
+  "notes": "Wiki 'Arima Nambi' (Anand Shankar): infobox budget/gross blank; lead 'It was commercially successful, completing 100 days run in Tamil Nadu' (uncited) + Box office 'went on to record profits at the box office' (Behindwoods Chennai box office, Jul 2014) → hit; no figures; Tamil, not in BOI"},
+ {"tmdb_movie_id": 301113, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Golpo Holeo Shotti' (Birsa Dasgupta): infobox budget/gross blank, no box-office wording; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 304791, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ra Ra... Krishnayya': infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 1080479, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Aagun' (2014 Bengali, Joydeep Mukherjee; search returned only list pages); not in BOI; not found"},
+ {"tmdb_movie_id": 258774, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Postcard (2013 film)' (Gajendra Ahire; Goa fest Dec 2013, release 25 Apr 2014 vs DB 2014-07-01): infobox budget/gross blank, no box-office wording; Marathi, not in BOI; not found"}
+]

@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 333321, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Cousins_(2014_film)"},
+  "notes": "Wiki 'Cousins (2014 film)' (Vysakh): infobox budget/gross blank; lead 'This movie was an average grosser at the box office' (uncited) → avg; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 346941, "budget_inr_crore": null, "revenue_inr_crore": 0.03, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2474", "verdict": "https://boxofficeindia.com/movie.php?movieid=2474"},
+  "notes": "No Wikipedia article for 'Kaash Tum Hote' (2014 Hindi, Vinay Tiwari; direct fetch 404). BOI movieid=2474 (live page checked): Budget --, India gross 3,00,000 (overseas $---) → ₹0.03 Cr india_gross; Disaster → flop (BH 2014: 0.05 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 405477, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'The End' (2014 Telugu, Rahul Sankrityan; search returned other 2014 Telugu films, 'The End (2014 film)' 404); not in BOI; not found"},
+ {"tmdb_movie_id": 1644156, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Baanaadi' (Nagaraj Kote): infobox budget/gross blank; only a review ('successful in conveying the message') — not a box-office verdict; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 501047, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Harivu' (Mansore; award-winning art film): infobox budget/gross blank, no box-office wording; Kannada, not in BOI; not found"}
+]

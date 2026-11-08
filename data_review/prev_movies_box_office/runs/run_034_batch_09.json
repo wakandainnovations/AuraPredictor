@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 578972, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Kolkata Calling' (2014 Bengali, Mainak Bhaumik; search unrelated); not in BOI; not found"},
+ {"tmdb_movie_id": 264034, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thirudan Police' (Caarthick Raju): infobox budget/gross blank; IANS 'your average revenge drama' is a review, not a verdict; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 295379, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Oru Oorla Rendu Raja' (R. Kannan): infobox budget/gross blank, reviews only; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 302638, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box-office success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Iyobinte_Pusthakam"},
+  "notes": "Wiki 'Iyobinte Pusthakam' (Amal Neerad): infobox budget/gross blank; lead 'The film was highly critically acclaimed and was a box-office success' cited to The Hindu 'The game changer' (Fahadh Faasil interview, 20 Nov 2014, ~2 weeks after release) → hit (weak cite: interview); 1 web search found no figures; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 552060, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rodor Sithi' (Baharul Islam): infobox budget/gross blank, no box-office wording; Assamese, not in BOI; not found"}
+]
