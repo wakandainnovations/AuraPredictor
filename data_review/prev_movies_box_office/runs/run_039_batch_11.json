@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 398591, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pranayakalam' (Uday Ananthan; Ajmal Ameer; 8 Jun 2007): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 714121, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "super-hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Minister_Fatakeshto"},
+  "notes": "Wiki 'Minister Fatakeshto' (Swapan Saha; Mithun Chakraborty; 8 Jun 2007): lead 'The film was a super-hit in the box office' (uncited lead) and 'one of the highest grossing Bengali films of 2007' → hit. Infobox budget/gross blank; Bengali, not in BOI"},
+ {"tmdb_movie_id": 282637, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Santha' (S. Muralimohan; Shiva Rajkumar; 18 May 2007; bulk search missed it, direct fetch): infobox budget/gross blank, no box-office wording (only a Rediff review cite); Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 310458, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Zabardast (2007 film)' (Mahesh Kothare; 18 May 2007): infobox gross '₹10 million' cited to OneIndia 'Zabardast makes 1 crore at box office' (24 Jun 2007, five weeks into the run) — a running total; FLAG: the stored $245,821 (≈₹1 Cr) is that partial figure, not confirmed, left as is. Budget blank, no verdict wording; Marathi, not in BOI"},
+ {"tmdb_movie_id": 329828, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "an average run at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Karuppusamy_Kuththagaithaarar"},
+  "notes": "Wiki 'Karuppusamy Kuththagaithaarar' (Wiki director A. Govindamoorthy, DB 'Murthy Krishna'; Karan / Meenakshi; 14 May 2007 — title, date and lead match): lead 'The film had an average run at the box office' (uncited) → avg. Infobox budget/gross blank; Tamil, not in BOI"}
+]

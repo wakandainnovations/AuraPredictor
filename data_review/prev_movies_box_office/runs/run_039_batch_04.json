@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 78946, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Arasangam' (R. Madhesh; Vijayakanth; Wiki release 9 Apr 2008, DB 2008-03-09): infobox budget/gross blank; only review quotes ('pleasant surprise', 'worth a look') — no box-office verdict; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 63676, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Velli Thirai' (Viji; Prithviraj; 7 Mar 2008): infobox budget/gross blank; 'failed to do well at the Tamil Nadu box office' (uncited) is a soft negative like 'did not perform well' → NULL (runs 31/37/38 practice); Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 80994, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "a commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Gamyam"},
+  "notes": "Wiki 'Gamyam' (Krish; Sharwanand; 29 Feb 2008): lead 'received widespread critical acclaim and was a commercial success' cited to Idlebrain 'Top 14 movies of Telugu cinema in 2008' (31 Dec 2008, year-end) → hit. FLAG: the stored revenue $2,749,656 (≈₹11 Cr) is the infobox '₹11 crore distributors' share' (T2BLive 'Tollywood Top 10… 2008') — not a gross; no gross found to replace it, left as is. Budget blank; Telugu, not in BOI"},
+ {"tmdb_movie_id": 429775, "budget_inr_crore": 3.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Vambuchanda"},
+  "notes": "Wiki 'Vambuchanda' (redirect from 'Vambu Sandai'; Raj Kapoor; Tamil/Telugu bilingual, 29 Feb 2008): infobox budget ₹3 crore (uncited) — confirms the stored $749,906 (weak: uncited); gross blank, no box-office wording; not in BOI; revenue/verdict not found"},
+ {"tmdb_movie_id": 234821, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Cycle (2008 film)' (Johny Antony; Vineeth Sreenivasan; 16 Feb 2008): infobox budget/gross blank; 'It was a box office success' is cited only to two release-week reviews (Rediff 18 Feb 2008 'Cycle is worth a watch', Sify review) → verdict NULL per the cite-date rule; Malayalam, not in BOI; not found"}
+]

@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 79662, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "failed at the box office / a failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Arai_En_305-il_Kadavul"},
+  "notes": "Wiki 'Arai En 305-il Kadavul' (Chimbu Deven; 18 Apr 2008): lead 'released on 18 April 2008, and failed at the box office'; Box office section: Sify 'fell badly' after day 1 (Chennai BO 18–20 Apr) and The New Indian Express (18 May 2009, 'After polls, IPL, get back to theatres') 'the film was a failure' → flop. Infobox budget/gross blank; Tamil, not in BOI"},
+ {"tmdb_movie_id": 234586, "budget_inr_crore": 3.78, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office success / commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Annan_Thampi", "verdict": "https://en.wikipedia.org/wiki/Annan_Thampi"},
+  "notes": "Wiki 'Annan Thampi' (Anwar Rasheed; Mammootty; 17 Apr 2008): infobox budget ₹3.78 crore (ref 'budget') — confirms the stored $946,799; lead 'The film was a box office success' and Box office 'a commercial success… 2nd highest grosser of the year behind Twenty:20' (New Indian Express 'Multistarrer era comes to Mollywood'; Sify 13 May 2008 'Annan Thambi - A blockbuster?') → hit. Gross not stored: body figures are running totals ('₹2 crore from 4 days', '₹9.36 crore gross in two weeks', '₹12.75 crore from five weeks' — IndiaGlitz 17 May 2008); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 63813, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercially successful",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Santosh_Subramaniam"},
+  "notes": "Wiki 'Santosh Subramaniam' (M. Raja; Jayam Ravi; 11 Apr 2008): lead 'The film was positively received and commercially successful' (uncited lead) and body '100-day theatrical run' ({{citation needed}}) → hit. Infobox budget/gross blank; only a UK gross (£24,962, three weeks) in the body — not stored; Tamil, not in BOI"},
+ {"tmdb_movie_id": 499284, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Gaon Tasa Changala' (Mahesh Tilekar; Marathi 2008; search returns only cast pages, direct fetch 'Gaon Tasa Changla' 404); not in BOI; not found"},
+ {"tmdb_movie_id": 112486, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vaitheeswaran' (R. K. Vidyadharan; Sarathkumar; 14 Mar 2008): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1503341, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Anthu Inthu Preethi Banthu' (Veera Shankar; 12 Aug 2008): infobox budget/gross blank, no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 80232, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vallamai Tharayo' (Madhumitha; Parthiban; 28 Jun 2008): infobox budget/gross blank; only review quotes ('failed miserably' is The Hindu on the direction, not box office) → NULL; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 117843, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Konchem Kottaga' (Raju Rajendra Prasad; Venkat; Telugu 2008, DB tags English; search empty, direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 99118, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Ayutham Seivom' (S. B. Ramadoss; Sundar C; Tamil 2008; search returns only 'Udhayan', direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 1512155, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nee Tata Naa Birla' (Nagendra Magadi; Ravichandran; 27 Jun 2008): infobox budget/gross blank, no box-office wording; Kannada, not in BOI; not found"}
+]

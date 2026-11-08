@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 493989, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shevri' (Gajendra Ahire; Neena Kulkarni; Marathi 2006): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 53880, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'E (2006 film)' (S. P. Jananathan; Jiiva; 20 Oct 2006): infobox budget/gross blank; only a Chennai Online review line about 'commercial trappings' → no verdict; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 69506, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "an average grosser",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Vattaram"},
+  "notes": "Wiki 'Vattaram' (Saran; Arya; 21 Oct 2006): lead 'The film was released on 21 October 2006 and was an average grosser' (uncited); body adds that its run was hit by the Varalaru / Vallavan releases → avg. Infobox budget/gross blank; Tamil, not in BOI"},
+ {"tmdb_movie_id": 69624, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "a decent hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Vallavan"},
+  "notes": "Wiki 'Vallavan' (Silambarasan; 21 Oct 2006): lead 'It received mixed reviews and became a decent hit at the box office' (uncited) → avg, following the 'moderate hit' / 'decent success' → avg practice (runs 7, 8). Infobox budget/gross blank; Tamil, not in BOI"},
+ {"tmdb_movie_id": 281616, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Raraju (2006 film)' (Udayasankar; Gopichand; 20 Oct 2006; 'Raraju' is a disambiguation page): infobox budget/gross blank; only a review line → no verdict; Telugu, not in BOI; not found"}
+]

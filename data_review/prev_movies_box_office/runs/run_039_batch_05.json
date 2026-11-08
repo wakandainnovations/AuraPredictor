@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 111790, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Poo (film)' (Sasi; Srikanth; Wiki release 28 Nov 2008, DB 2008-02-02): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 262562, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Indiralohathil Na Azhagappan' (Thambi Ramaiah; Vadivelu; 1 Feb 2008): infobox budget/gross blank; only 'after the success of Imsai Arasan…' (another film) → no verdict; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 66230, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pazhani (2008 film)' (Perarasu; Bharath; Tamil, 15 Jan 2008; DB tags Telugu; bulk search missed it, direct fetch): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 69595, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vaazhthugal' (Seeman; Madhavan; 15 Jan 2008): infobox budget/gross blank; Rediff 'tried desperately, and failed to make a movie with a moral message' is a review → no verdict; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 263896, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "a commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kaalai"},
+  "notes": "Wiki 'Kaalai' (Tarun Gopi; Silambarasan; 15 Jan 2008): 'was released on 15 January 2008 and was a commercial failure' cited to The Hindu (20 Jun 2009, ''Kettavan' as good as shelved: Simbu') → flop. Infobox budget/gross blank; Tamil, not in BOI"}
+]

@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 701113, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Ghar Doghanch' (Kanchan Nayak; Jitendra Joshi; Marathi 2007; direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 919549, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Humrahi' (Manish R. Khandelwal; Sudhanshu Pandey; Hindi 2007; 'Humrahi (2007 film)' 404); no BOI page (boi_index has no 'Humrahi'); not in the BH 2007 table; not found"},
+ {"tmdb_movie_id": 1090814, "budget_inr_crore": 0.75, "revenue_inr_crore": 0.1775, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1574", "revenue": "https://boxofficeindia.com/movie.php?movieid=1574", "verdict": "https://boxofficeindia.com/movie.php?movieid=1574"},
+  "notes": "No Wiki article ('Ek Zakhm' 404). BOI 'Ek Zakhm - The Blast' (2006) Hindi, released 19 May 2006 (DB 2007-01-01), director Suhail Azmi (DB 'Sohail Azmi'), cast incl. Shalini Pal (DB lead) — matches: Budget 75,00,000; Total Nett 12,50,000; India Gross 17,75,000; Overseas $--- → india_gross ₹0.1775 Cr; verdict Disaster → flop. Note: converted at the DB-date (2007) rate, BOI release is May 2006"},
+ {"tmdb_movie_id": 81002, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rakhi (2006 film)' (Krishna Vamsi; NTR Jr.; 22 Dec 2006): infobox budget/gross blank; lead 'released with 250 prints and became a sleeper hit at the box office' is cited only to telugucinema.com 'Rakhi to release with 250 prints' (19 Dec 2006, pre-release) → verdict NULL per the cite-date rule; Reception 'a 100-day run in 30 centres' (uncited) is not a verdict; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 348807, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "a box office failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Khatarnak_(2006_film)"},
+  "notes": "Wiki 'Khatarnak (2006 film)' (Amma Rajasekhar; Ravi Teja; 13/14 Dec 2006; 'Khatarnak' is a disambiguation page): lead 'was released on 13 December 2006 and was a box office failure' (uncited) → flop. Infobox budget/gross blank; Telugu, not in BOI"}
+]

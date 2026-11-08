@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 39816, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Pool (2007 film)' (Chris Smith; US-produced Hindi-language film; Sundance 18 Jan 2007): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 493999, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Hyancha Kahi Nem Nahi' (Kedar Shinde; Ankush Chaudhari; Marathi 2007; direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 76974, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thaamirabharani' (Hari; Vishal; 14 Jan 2007): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 111587, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Naan Avan Illai (2007 film)' (Selvaa; Jeevan; Wiki release 14 Apr 2007, DB 2007-01-01): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 274086, "budget_inr_crore": 2.75, "revenue_inr_crore": 0.13, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1422", "revenue": "https://boxofficeindia.com/movie.php?movieid=1422", "verdict": "https://boxofficeindia.com/movie.php?movieid=1422"},
+  "notes": "No Wiki article ('Mr. Hot Mr. Kool' 404). BOI 'Mr. Hot Mr. Kool' (2007) Hindi, released 19 Jan 2007 (DB 2007-01-01), director Partho Ghosh — matches the DB director: Budget 2,75,00,000; Total Nett 9,25,000; India Gross 13,00,000; Overseas $--- → india_gross ₹0.13 Cr; verdict Disaster → flop. Not in the BH 2007 table"}
+]
