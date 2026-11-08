@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 434125, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'The Easiest Way to Slim Down' (2015 Bengali, Debaloy Bhattacharya; search empty, direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 342003, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Eli (2015 film)': no budget/gross; Sify's 'unmitigated disaster' is a review of quality, not a box-office verdict → NULL; Tamil, not in BOI"},
+ {"tmdb_movie_id": 345540, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Achaaram' (bulk search missed it; fetched directly): no budget/gross, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 592418, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Chooriyan' (2015, Sukhwant Dhadda, Vinod Khanna; search returns 'Hare Kanch Ki Chooriyan'); not in BOI index or BH 2015 table; not found"},
+ {"tmdb_movie_id": 280942, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Romeo Juliet (2015 film)': infobox budget/gross blank; only box-office mention is a Forbes article about the director's later film Bogan; no verdict; Tamil, not in BOI; not found"}
+]

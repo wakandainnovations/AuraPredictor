@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 381516, "budget_inr_crore": null, "revenue_inr_crore": 0.3125, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2859", "verdict": "https://boxofficeindia.com/movie.php?movieid=2859"},
+  "notes": "Wiki 'Sabki Bajegi Band' (Hindi, dir. Anirudh Chawla): infobox budget/gross blank. BOI movieid=2859 (live page checked): Budget --, India gross 31,25,000, overseas $--- → ₹0.3125 Cr india_gross; Disaster → flop (BH 2015: 0.23 Cr nett, Flop — agrees)"},
+ {"tmdb_movie_id": 332686, "budget_inr_crore": null, "revenue_inr_crore": 25, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Bhaskar_the_Rascal"},
+  "notes": "Wiki 'Bhaskar the Rascal' infobox gross ₹25 crore cited to Mathrubhumi '2015 in review: Malayalam cinema brings viewers back to theatres' → confirms stored $4,013,156; scope not stated. Infobox budget '₹ 6 crore' has no citation — stored $963,157 left as is (not confirmed). Box office section: ₹13.77 Cr Kerala in 19 days (partial); 'good collections on its first day' is not a verdict → NULL; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 330424, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Chennai Ungalai Anbudan Varaverkiradhu' (2015 Tamil, M. Maruthupandian; search empty, direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 376198, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Leather Life' (2015 Punjabi, Sukhbir Singh; direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 1480347, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Coffee Ani Barach Kahi': infobox budget/gross blank, no box-office wording; Marathi, not in BOI; not found"}
+]

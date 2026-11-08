@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 378774, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Express Raja' infobox gross '₹28.35 crore' cited to andhraboxoffice 'Express Raja Final Total WW Collections' (10 Mar 2016) — stored $4,207,511 ≈ this figure; Telugu andhraboxoffice final-collection pages usually report distributors' share (body: ₹4 Cr AP/TS opening-day gross, ~₹8 Cr WW first weekend) and the site could not be opened (ECONNRESET) → left as is, FLAGGED as possible share; 'biggest opener for Sharwanand' is a ranking, not a verdict; no budget; Telugu, not in BOI"},
+ {"tmdb_movie_id": 406679, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maduveya Mamatheya Kareyole': no budget/gross, no box-office verdict ('blockbuster' line is a director quote about scripts); Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 378227, "budget_inr_crore": 7, "revenue_inr_crore": 50, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Natsamrat", "revenue": "https://en.wikipedia.org/wiki/Natsamrat"},
+  "notes": "Wiki 'Natsamrat' infobox: budget est. ₹7 crore (Maharashtra Times), gross est. ₹50 crore (Frontline, 21 Jun 2017) — confirm stored values; body also gives ₹39 Cr India / ₹48 Cr WW (TOI). 'Highest-grossing Marathi film at the time' is a ranking, not a verdict → NULL; Marathi, not in BOI"},
+ {"tmdb_movie_id": 374117, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tharkappu': no budget/gross; release section mentions only mixed reviews; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 413342, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Bhale_Manchi_Roju"},
+  "notes": "Wiki 'Bhale Manchi Roju': 'The movie remained the last hit movie of 2015 charts' (no inline cite) → hit; no budget/gross; Telugu, not in BOI"}
+]

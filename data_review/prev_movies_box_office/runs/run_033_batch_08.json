@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 371235, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Ben_(2015_film)"},
+  "notes": "Wiki 'Ben (2015 film)' lead: 'received positive reviews from critics and was a commercial success' (no inline cite) → hit; no budget/gross; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 389683, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Valiya Chirakulla Pakshikal' infobox budget '₹4 crore (US $600,000)' has no citation — stored $609,863 ≈ ₹4 Cr, left as is (not confirmed, uncited); no gross, no verdict; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 372353, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mundrothuruth (film)' (= Munroe Island, dir. Manu; Wiki release 16 Nov 2016): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 367189, "budget_inr_crore": null, "revenue_inr_crore": 2.12, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3113", "verdict": "https://boxofficeindia.com/movie.php?movieid=3113"},
+  "notes": "Wiki 'Guddu Ki Gun': infobox budget/gross blank. BOI movieid=3113 (live page checked): Budget --, India gross 2,12,00,000, overseas $--- → ₹2.12 Cr india_gross; Disaster → flop (BH 2015: lifetime 1.80 Cr nett, Flop — agrees)"},
+ {"tmdb_movie_id": 516533, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vascodigama': no budget/gross; 'above average' is a Deccan Herald review rating, not a box-office verdict; Kannada, not in BOI; not found"}
+]

@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 361498, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Life of Josutty' infobox gross '₹10.5 crore' has no citation (not stored); Box office section: ₹9.70 Cr India in 15 days (IBTimes, 8 Oct 2015 — partial running total); 'do good business' (IBTimes headline) is not a verdict; no budget; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 365912, "budget_inr_crore": null, "revenue_inr_crore": 0.81, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3029", "verdict": "https://boxofficeindia.com/movie.php?movieid=3029"},
+  "notes": "Wiki 'Meeruthiya Gangsters': infobox budget/gross blank. BOI movieid=3029 (live page checked): Budget --, India gross 81,00,000, overseas $--- → ₹0.81 Cr india_gross; Disaster → flop (BH 2015: 0.65 Cr nett, Flop — agrees)"},
+ {"tmdb_movie_id": 373195, "budget_inr_crore": 30, "revenue_inr_crore": 17.177, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/MSG-2_The_Messenger", "revenue": "https://boxofficeindia.com/movie.php?movieid=3028", "verdict": "https://boxofficeindia.com/movie.php?movieid=3028"},
+  "notes": "Wiki 'MSG-2 The Messenger' infobox budget ₹30 crore (cited to BOI movieid=3028, accessed Nov 2016) — confirms stored; BOI's current page shows Budget 23,00,00,000 (₹23 Cr) — Wiki kept per priority, BOI value noted. Wiki gross 'Disputed' (producer claims vs trade) → no usable Wiki figure → BOI movieid=3028 (live page checked): India gross 16,98,00,000 + overseas $30,000 → Worldwide 17,17,72,500 = ₹17.177 Cr worldwide; Disaster → flop. Not in BH 2015 table"},
+ {"tmdb_movie_id": 359122, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Strawberry (film)': no budget/gross, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 462792, "budget_inr_crore": null, "revenue_inr_crore": 0.0575, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3002", "verdict": "https://boxofficeindia.com/movie.php?movieid=3002"},
+  "notes": "Wiki 'The Perfect Girl (2015 film)' infobox budget 'approx ₹95 Lakhs' has no citation — stored $143,096 ≈ ₹0.95 Cr left as is (not confirmed); BOI budget --. Wiki gross blank. BOI movieid=3002 (live page checked): India gross 5,75,000, overseas $--- → ₹0.0575 Cr india_gross; Disaster → flop (BH 2015 'The Perfect Girl – Ek Simple Si Love Story', 11 Sep 2015: 0.007 Cr, Flop — agrees)"}
+]

@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 352451, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'KL 10 Patthu': infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 349006, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Pakistani Urdu film. Wiki 'Bin Roye' infobox: budget PKR 3.50 crore (cited), gross PKR 40.05 crore (Dunya News, Dec 2016) — PKR figures, the script cannot convert them → not stored; stored tmdb budget $340,000 left as is; body figures (Pakistan ~11 Cr, UK 8.5 Cr …) are third-weekend partials; 'biggest box office stories' is not a verdict; not in BOI"},
+ {"tmdb_movie_id": 361373, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kanyaka Talkies': 2013 Mumbai Film Festival premiere, Kerala release 10 Jul 2015; infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 1711868, "budget_inr_crore": null, "revenue_inr_crore": 0.002, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2015/"},
+  "notes": "No Wikipedia article for '2 Chehre' (2015, Ashok Gaikwad; search returns 'Chehre' etc.); not in BOI index. BH 2015 year table row '2 Chehare' (10 Jul 2015 — same date): lifetime ₹0.002 Cr nett, verdict Flop → india_net ₹0.002 Cr, flop"},
+ {"tmdb_movie_id": 400761, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Jadoogadu"},
+  "notes": "Wiki 'Jadoogadu' lead: 'It recorded as an flop at box office' (no inline cite) → flop; no budget/gross; Telugu, not in BOI"}
+]

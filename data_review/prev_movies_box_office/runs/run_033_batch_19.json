@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 336259, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "successful venture",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/India_Pakistan"},
+  "notes": "Wiki 'India Pakistan' (2015 Tamil): 'ended up with a successful venture at the box office' (no inline cite) → hit; no budget/gross; Tamil, not in BOI"},
+ {"tmdb_movie_id": 339304, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Oru Second Class Yathra': no budget/gross, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 1645524, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Sapney' (2015, Robby Grewal, Kangana Ranaut; search returns only singer song lists); not in BOI index or BH 2015 table; not found"},
+ {"tmdb_movie_id": 273870, "budget_inr_crore": null, "revenue_inr_crore": 101, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Uttama_Villain"},
+  "notes": "Wiki 'Uttama Villain' infobox gross '{{estimated}} ₹101 crore' cited to TOI photostory \"'Vikram': Kamal Haasan's last five movies' box office stats\" (3 Jun 2022) — confirms stored $15,850,300; it is an estimate from a retrospective listicle (cf. run 14 lesson), noted; scope not stated. Box office section: 'failed to break-even, two weeks after the film's release' (Indian Express, 17 May 2015) is a 2-week status, not a final verdict; a separate article 'Uttama Villain release and loss issues' covers the producers' losses → verdict NULL; no budget; Tamil, not in BOI"},
+ {"tmdb_movie_id": 348932, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nirbaak': no budget/gross, no box-office wording; Bengali, not in BOI; not found"}
+]

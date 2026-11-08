@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 520176, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ishtakamya': infobox budget/gross blank, no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 420499, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Akira (2016 Kannada film)': no budget/gross, reception section is reviews only; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 394188, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Leela (2016 film)': no budget/gross, no verdict (only notes same-day online international premiere); Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 405925, "budget_inr_crore": null, "revenue_inr_crore": 0.0415, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3265", "verdict": "https://boxofficeindia.com/movie.php?movieid=3265"},
+  "notes": "Wiki 'The Blueberry Hunt': infobox budget/gross blank. BOI movieid=3265 (live page checked): Budget --, India gross 4,15,000, overseas $--- → ₹0.0415 Cr india_gross; Disaster → flop. Not in BH 2016 table"},
+ {"tmdb_movie_id": 423190, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Tyson' (2016, lead Vinod Prabhakar; search returns only Mike/Cicely Tyson etc.); not in BOI; not found"}
+]

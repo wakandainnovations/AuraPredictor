@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 354764, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thinkal Muthal Velli Vare': infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 371683, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jyothi Lakshmi (film)': infobox budget/gross blank; only review mentions of 'commercial elements'; no verdict; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 361771, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Appavum Veenjum': no budget/gross, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 358441, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nirnayakam': infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 351182, "budget_inr_crore": null, "revenue_inr_crore": 0.0675, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2873", "verdict": "https://boxofficeindia.com/movie.php?movieid=2873"},
+  "notes": "Wiki 'P Se PM Tak' (Hindi; infobox release 4 Apr 2014, but BOI and BH both list the 29 May 2015 release = DB date): infobox gross blank. BOI movieid=2873 (live page checked): Budget --, India gross 6,75,000, overseas $--- → ₹0.0675 Cr india_gross; Disaster → flop (BH 2015: 0.04 Cr, Flop — agrees)"}
+]

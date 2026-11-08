@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 341759, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kumbasaram': infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 826179, "budget_inr_crore": null, "revenue_inr_crore": 0.0725, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2866", "verdict": "https://boxofficeindia.com/movie.php?movieid=2866"},
+  "notes": "Wiki 'Main Hoon Rajinikanth' redirects to 'Main Hoon Part-Time Killer' (same film, retitled; Faisal Saif). Infobox budget {{INRConvert|80|l}} has no citation — stored $126,092 ≈ ₹0.8 Cr left as is (not confirmed); BOI budget --. Wiki gross blank. BOI movieid=2866 'Main Hoon Part Time Killer (2015) Hindi', 15 May 2015 (live page checked): India gross 7,25,000, overseas $--- → ₹0.0725 Cr india_gross; Disaster → flop; the Wiki '50% collections' line is opening occupancy, not a verdict"},
+ {"tmdb_movie_id": 341025, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nee-Na': infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 492835, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Room No. 103': infobox budget/gross blank, no box-office wording; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 348655, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Lion_(2015_film)"},
+  "notes": "Wiki 'Lion (2015 film)': lead 'It was a commercial failure at the box office' and Box office section 'collected a total gross of ₹28.95 crore worldwide with a share of ₹16.8 crore and was declared as a commercial failure' (both uncited) → flop. Stored revenue $4,567,251 ≈ the ₹28.95 Cr gross (not the share) — uncited, so left as is (not confirmed); first-week figures cited to tupaki are partial; no budget; Telugu, not in BOI"}
+]

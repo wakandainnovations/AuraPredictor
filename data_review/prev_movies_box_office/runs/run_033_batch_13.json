@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 378926, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Double Seat' infobox gross '₹20 crore' is cited to a Divya Marathi article about Natsamrat's first 3 days (7 Jan 2016) — could not be opened (fetch blocked) to see whether it gives Double Seat's lifetime; stored $3,073,921 ≈ ₹20 Cr left as is (not confirmed), FLAGGED weak cite; body: 'more than ₹5 Cr in first 5 days' (partial); no budget, no verdict; Marathi, not in BOI"},
+ {"tmdb_movie_id": 370286, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Mantra_2"},
+  "notes": "Wiki 'Mantra 2' (released 1 Jul 2015): 'It was declared a flop after its release and box office collection' (no inline cite) → flop; no budget/gross; Telugu, not in BOI"},
+ {"tmdb_movie_id": 330415, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Idhu Enna Maayam': infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 361376, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jilebi (2015 film)': no budget/gross, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 368371, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vishwasam Athallae Ellaam' (bulk search missed it; fetched directly): no budget/gross, no box-office wording; Malayalam, not in BOI; not found"}
+]

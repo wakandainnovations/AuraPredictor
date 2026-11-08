@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 420516, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tuntari': no budget/gross, no verdict ('5 crores' line is plot); Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 387252, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercially successful",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kadhalum_Kadandhu_Pogum"},
+  "notes": "Wiki 'Kadhalum Kadandhu Pogum' lead: 'became commercially successful at the box office' (lead summary, no inline cite; Box office section cites a record ₹7.45–8 Cr TN opening weekend — partial, not stored) → hit; no budget/gross; Tamil, not in BOI"},
+ {"tmdb_movie_id": 382743, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Aarathu_Sinam"},
+  "notes": "Wiki 'Aarathu Sinam' lead: 'was an average grosser' cited to The Hindu (Sreedhar Pillai, 18 Jun 2016, after release) → avg; no budget/gross; Tamil, not in BOI"},
+ {"tmdb_movie_id": 407424, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Terror_(2016_film)"},
+  "notes": "Wiki 'Terror (2016 film)': 'eventually turned out to be a box office hit' cited to chitramala 'Hits and Flops of 2016 in Tollywood' (10 Nov 2016) → hit; no budget/gross; Telugu, not in BOI"},
+ {"tmdb_movie_id": 526078, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Eluka Majaaka' (2016 Telugu, Relangi Narasimha Rao; search returned nothing); not in BOI; not found"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1746886, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Athiradi (2015 film)': infobox gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 354150, "budget_inr_crore": null, "revenue_inr_crore": 0.305, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3363", "verdict": "https://boxofficeindia.com/movie.php?movieid=3363"},
+  "notes": "Wiki 'UnIndian': Australian film, Sydney premiere 7 Oct 2015, India release 19 Aug 2016; infobox budget/gross blank. BOI movieid=3363 'Unindian (2016) Hindi' (the 19 Aug 2016 India release; live page checked): Budget --, India gross 30,50,000, overseas $--- → ₹0.305 Cr india_gross (India run only — Australian gross not covered); Disaster → flop (India release). Not in BH 2015/2016 tables"},
+ {"tmdb_movie_id": 393495, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kothanodi': no budget/gross, no box-office verdict (later on Netflix/SonyLIV); Assamese, not in BOI; not found"},
+ {"tmdb_movie_id": 307344, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shivam (2015 Telugu film)': infobox budget/gross blank; only mixed-to-negative reviews. One web search: only US opening weekend ($33,813, partial) and a 'worst performers at the US box office' list (US-only, not a verdict); a mirror's 'box office failure' line is not in the current article → NULL; Telugu, not in BOI"},
+ {"tmdb_movie_id": 407678, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Babar Naam Gandhiji': no budget/gross, no box-office wording; Bengali, not in BOI; not found"}
+]

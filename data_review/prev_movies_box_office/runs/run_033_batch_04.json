@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 393825, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Hello Namasthe': no budget/gross, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 369834, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Sethupathi_(film)"},
+  "notes": "Wiki 'Sethupathi (film)': 'became a box office hit' cited to Firstpost (Sreedhar Pillai, 26 Jun 2016, 'After the success of Sethupathi…') → hit; no budget/gross; Tamil, not in BOI"},
+ {"tmdb_movie_id": 366148, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "performed average",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Jil_Jung_Juk"},
+  "notes": "Wiki 'Jil Jung Juk' lead: 'The film performed average at the box office' (lead summary, no inline cite) → avg; no budget/gross; Tamil, not in BOI"},
+ {"tmdb_movie_id": 400721, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Lacchimdeviki_O_Lekkundi"},
+  "notes": "Wiki 'Lacchimdeviki O Lekkundi' lead: 'mixed reviews from the critics, but was a commercial success' (no inline cite) → hit; no budget/gross; Telugu, not in BOI"},
+ {"tmdb_movie_id": 370720, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Dictator_(2016_film)"},
+  "notes": "Wiki 'Dictator (2016 film)' lead: 'was a commercial success at the box-office' (cited to andhraboxoffice 'Dictator Final Total WW Collections') → hit. Stored revenue $5,267,740 ≈ the infobox '₹35.70 crore' cited to the same andhraboxoffice 'Final Total WW Collections' page — such Telugu final-collection pages usually report distributors' share (Wiki body: day-1 ₹10 Cr gross / ₹7.5 Cr share); page could not be opened (ECONNRESET; archive.org blocked) to tell share from gross → left as is, FLAGGED as possible share; no budget; Telugu, not in BOI"}
+]

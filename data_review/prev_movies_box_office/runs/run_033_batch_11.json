@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 521381, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Jaadayum Mudiyum' (2015 Malayalam, Abhai Asokan; search returns only cast pages, direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 330405, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Savaale Samaali': no budget/gross; 'did not perform well at the box office' (The Hindu, 2017) alone is not a verdict → NULL; Tamil, not in BOI"},
+ {"tmdb_movie_id": 924212, "budget_inr_crore": null, "revenue_inr_crore": 0.05, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2989", "verdict": "https://boxofficeindia.com/movie.php?movieid=2989"},
+  "notes": "Wiki 'The Path of Zarathustra' (English-language Indian film): infobox budget/gross blank. BOI movieid=2989 'The Path of Zarathustra (2015) Hindi' (4 Sep 2015, matches; live page checked): Budget --, India gross 5,00,000, overseas $--- → ₹0.05 Cr india_gross; Disaster → flop. Not in BH 2015 table"},
+ {"tmdb_movie_id": 511130, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dynamite (2015 film)': infobox budget/gross blank; 'Tamil hit' line is about the original film; no verdict; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 356783, "budget_inr_crore": 3, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kunjiramayanam"},
+  "notes": "Wiki 'Kunjiramayanam' Box office section: 'made at a budget of ₹3cr' (cited to Malayalam filmibeat Onam-release collections article) → ₹3 Cr budget; '₹6cr within 14 days' is a partial running total (not stored); infobox blank; no verdict wording; Malayalam, not in BOI"}
+]

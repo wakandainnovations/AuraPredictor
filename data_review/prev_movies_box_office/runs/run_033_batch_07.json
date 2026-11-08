@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 375240, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "flopped",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Rockstar_(2015_film)"},
+  "notes": "Wiki 'Rockstar (2015 film)': 'the film flopped in theatres' (no inline cite) → flop; no budget/gross; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 369957, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mukhtiar Chadha' infobox gross {{INRConvert|8.16|c}} has no citation — stored $1,220,269 ≈ this figure, left as is (apply can't null), FLAGGED as uncited; body cites only ₹2.31 Cr overseas in 10 days (IBTimes, partial); 'did decent business' is not a verdict; no budget; Punjabi, not in BOI"},
+ {"tmdb_movie_id": 561312, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Plan (2015 film)': no budget/gross, no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 369949, "budget_inr_crore": 10.5, "revenue_inr_crore": 38, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kumari_21F", "revenue": "https://en.wikipedia.org/wiki/Kumari_21F", "verdict": "https://en.wikipedia.org/wiki/Kumari_21F"},
+  "notes": "Wiki 'Kumari 21F': infobox budget '₹6–15 crore' (cited, incl. Sify) → midpoint ₹10.5 Cr — confirms stored; infobox gross blank but Box office section (cited to IBTimes 'Top 20 highest-grossing Telugu movies of 2015', 5 Jan 2016): 'In its lifetime, Kumari 21F grossed ₹38 crore and earned a distributor share of ₹18 crore worldwide' → ₹38 Cr WW gross (not the share); 'declared a commercial success' → hit; Telugu, not in BOI"},
+ {"tmdb_movie_id": 368369, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Salt Mango Tree': no budget/gross, no box-office wording; Malayalam, not in BOI; not found"}
+]

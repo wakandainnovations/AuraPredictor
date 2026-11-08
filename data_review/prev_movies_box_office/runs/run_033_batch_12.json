@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 370236, "budget_inr_crore": null, "revenue_inr_crore": 0.35, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2983", "verdict": "https://boxofficeindia.com/movie.php?movieid=2983"},
+  "notes": "Wiki 'Kaun Kitne Paani Mein' infobox gross '₹0.29 crore' is cited to the BH movie box-office page dated the release day (28 Aug 2015) — it equals the BH 2015 year-table lifetime nett (0.29 Cr), i.e. a nett figure, not gross (run 29/30 pattern); stored $43,853 = that nett → corrected to BOI movieid=2983 (live page checked): India gross 35,00,000, overseas $--- → ₹0.35 Cr india_gross; Disaster → flop (BH 2015: Flop — agrees); no budget"},
+ {"tmdb_movie_id": 376199, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Faraar (2015 film)': infobox budget/gross blank; Box office section gives only an overseas first-weekend figure (₹10.7 million, IBTimes — partial); 'third highest opening of 2015' is a ranking, not a verdict; Punjabi; BOI 'Faraar' hit is the 2011 Hindi film (not this one); not found"},
+ {"tmdb_movie_id": 315859, "budget_usd": 40000000, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Muhammad:_The_Messenger_of_God_(film)"},
+  "notes": "Iranian film (Persian), not Indian. Wiki infobox budget '$40 million' cited to Firstpost (27 Aug 2015) → confirms stored $40,000,000 (USD as stated); infobox gross '$1.4 million' has no citation — stored $1,400,000 left as is (not confirmed); no verdict; not in BOI"},
+ {"tmdb_movie_id": 833030, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kaash (2015 film)' (Ishaan Nair): festival film, premiered at Tokyo International Film Festival (24 Oct 2015); no budget/gross, no theatrical box office; not in BOI (BOI 'Kaash…' hits are other films) / BH 2015"},
+ {"tmdb_movie_id": 369215, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercially successful",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Cinema_Choopistha_Mava"},
+  "notes": "Wiki 'Cinema Choopistha Mava' lead: 'The film was commercially successful at box office' (no inline cite) → hit; no budget/gross; Telugu, not in BOI"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 377544, "budget_inr_crore": 6, "revenue_inr_crore": 20, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Deool_Band", "revenue": "https://en.wikipedia.org/wiki/Deool_Band"},
+  "notes": "Wiki 'Deool Band' (2015; not the 2026 sequel 'Deool Band 2' the search ranked first) infobox: budget ₹6 crore, gross ₹20 crore, both cited to News18 'Deool Band 2 Explained' (Jun 2026) — confirm stored values; scope not stated; no verdict wording for the 2015 film (the cite's 'surprise hit' is about the sequel); Marathi, not in BOI"},
+ {"tmdb_movie_id": 352115, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aavi Kumar': no budget/gross, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 849203, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bullet Basya': no budget/gross; 'successful' refers to earlier films Rambo/Victory; no verdict; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 350549, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Love 24x7': no budget/gross, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 352291, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Acha Dhin': 'performed poorly at the box office' cited only to the TOI review — not a stated verdict → NULL; no budget/gross; Malayalam, not in BOI"}
+]

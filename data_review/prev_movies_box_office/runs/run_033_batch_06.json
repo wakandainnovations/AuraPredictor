@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 546697, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sharp Shooter (film)': no budget/gross, no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 395319, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Definition of Fear': UK English-language film; released at Delhi International Film Festival (5 Dec 2015) then on DVD (31 Jan 2018) — no theatrical box office; not in BOI"},
+ {"tmdb_movie_id": 329133, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"verdict": "https://www.onmanorama.com/entertainment/entertainment-news/sivakarthikeyan-rajinimurugan-first-tamil-blockbuster-of-2016.html"},
+  "notes": "Released 14 Jan 2016 (Wiki 'Rajinimurugan'; DB date 2015-12-04 is a pre-postponement date). Current Wiki article has no budget/gross and no box-office section. One web search: IANS (Onmanorama, 19 Jan 2016, day 5): 'has emerged as the industry's first blockbuster of the year' → hit (early trade call, noted); its '₹20 crore worldwide' is opening weekend (partial, not stored). Search summary quoted a Wiki '₹22 Cr budget / ₹51 Cr box office' that is not in the current article (mirror) → not used. Tamil, not in BOI"},
+ {"tmdb_movie_id": 826756, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Veediki Dookudekkuva' (2015 Telugu, Srikanth; only a row in List of Telugu films of 2015); not in BOI; not found"},
+ {"tmdb_movie_id": 958152, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Minchagi Nee Baralu' (Kannada, DB language 'english'): no budget/gross, no box-office wording; not in BOI; not found"}
+]
