@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1594591, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only the Malayalam 2026 list); sacnilk 'Kanimangalam Kovilakam' only 7 days (₹29 L India gross, still ₹2 L/day) — partial, not stored; not found"},
+ {"tmdb_movie_id": 1616993, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Safia/Safdar' (Baba Azmi; Naseeruddin Shah, Aditi Subedi): premiered on ZEE5 16 Jan 2026 (festival screening 2025) — direct-to-streaming, no box office"},
+ {"tmdb_movie_id": 1607854, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Vanya (Badiger Devendra; Kannada, 15 Jan 2026): no Wiki article, no sacnilk page; not found"},
+ {"tmdb_movie_id": 1380611, "budget_inr_crore": null, "revenue_inr_crore": 1.92, "revenue_scope": "worldwide", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Pennu_Case_2026"}, "notes": "Wiki 'Pennu Case' (Febin Sidharth; Nikhila Vimal; 10 Jan 2026; Prime Video 10 Mar): blank infobox; The Hindu 'an average con drama' is a review → no verdict; sacnilk WW ₹1.92 Cr (41 days, India gross 1.67 + overseas 0.25); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1107009, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nilakanta (film)' (Rakesh Madhavan; Master Mahendran; 2 Jan 2026): blank infobox, reviews only; sacnilk only 6 days (₹7 L) — partial, not stored; not found"}
+]

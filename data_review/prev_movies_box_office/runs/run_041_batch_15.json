@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1483068, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Xarax (Salil Jason Fernandez; Neil Bhoopalam; English, 28 Oct 2025): no Wiki article, no sacnilk page, not in BOI; stored tmdb budget 25,000 USD unverified, left; not found"},
+ {"tmdb_movie_id": 1603841, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Cherukkanum Pennum' (Pradeep Nair; 31 Oct 2025): blank infobox; sacnilk only 5 days (₹9 L, rising) — partial; not found"},
+ {"tmdb_movie_id": 1568434, "budget_inr_crore": null, "revenue_inr_crore": 0.15, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Green_2025"}, "notes": "No Wiki article (Kannada 2025 list only); sacnilk 'Green' (Raaj Vijay; Gopal Krishna Deshpande) India gross ₹15 L (10 days, figures till 2 Nov 2025, ended at ₹1 L/day; overseas —); no verdict"},
+ {"tmdb_movie_id": 1570731, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Kannada 2025 list only); sacnilk 'Tortoise: The Tale of Murders' only 4 days (₹4 L) — partial; not found"},
+ {"tmdb_movie_id": 1443010, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Warm Shadows (Aakash Chhabra; Punjabi-tagged, 17 Oct 2025): no Wiki article, no sacnilk page; probably a festival/indie title; not found"}
+]
