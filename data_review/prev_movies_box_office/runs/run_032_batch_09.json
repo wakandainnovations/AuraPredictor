@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 466967, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kuttikalundu Sookshikkuka' has no budget/gross and no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 552229, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Bahniman' (2016 Assamese, Biswajeet Bora; red link on the Assamese 2010s list, direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 427733, "budget_inr_crore": null, "revenue_inr_crore": 0.26, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3434", "verdict": "https://boxofficeindia.com/movie.php?movieid=3434"},
+  "notes": "Wiki 'Moh Maya Money' has no budget/gross. BOI movieid=3434 (live page checked): Budget --, India gross 26,00,000, overseas $--- → ₹0.26 Cr india_gross; Disaster → flop (BH 2016: 0.27 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 371810, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kavalai Vendam' infobox blank; 'did average collections' refers to the Telugu dub Entha Varaku Ee Prema (2017), not the Tamil original — not used; not in BOI; not found"},
+ {"tmdb_movie_id": 426614, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial blockbuster",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Ekkadiki_Pothavu_Chinnavada"},
+  "notes": "Wiki lead: 'released on 18 November 2016 to positive reviews … and was a commercial blockbuster' (cite IndiaGlitz) → hit; infobox has no budget/gross; Telugu, not in BOI"}
+]

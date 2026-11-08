@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 427607, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kaadu Pookkunna Neram' (Dr. Biju; Montreal WFF premiere, release 25 Nov 2016) has no budget/gross and no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 418214, "budget_inr_crore": null, "revenue_inr_crore": 7.7, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "a hit at the box office",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Zulfiqar_(film)", "verdict": "https://en.wikipedia.org/wiki/Zulfiqar_(film)"},
+  "notes": "Wiki infobox gross ₹7.7 Cr (cite TOI 'Bengali films which became Box Office hits despite negative reviews') — confirms stored revenue; budget ₹5.5 Cr is uncited (matches stored $825,521 — left as is, not confirmed). Lead: 'Despite receiving mostly negative reviews, the film became a hit at the box office' → hit. Bengali, not in BOI"},
+ {"tmdb_movie_id": 420488, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Idolle Ramayana' has no budget/gross and no box-office wording; Kannada/Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 420489, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dana Kayonu' has no budget/gross and no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 579409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Abhimaan (2016 film)' (Raj Chakraborty) has no budget/gross and no box-office wording; Bengali, not in BOI; not found"}
+]

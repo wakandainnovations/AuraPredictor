@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 574910, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aatadukundam Raa' has no budget/gross and no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 411822, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "only a moderate success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Pinneyum"},
+  "notes": "'Once Again' = Wiki 'Pinneyum' (Adoor Gopalakrishnan, 18 Aug 2016): 'This movie was only a moderate success at the box office compared to earlier Adoor films' (uncited) → avg; infobox budget/gross blank. BOI index hit 'Ghayal Once Again' is a different film (false match)"},
+ {"tmdb_movie_id": 411629, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Thikka"},
+  "notes": "Wiki lead: 'The film became a box office bomb' → flop; infobox budget/gross blank; Telugu, not in BOI"},
+ {"tmdb_movie_id": 436548, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'YZ (film)' has no budget/gross and no box-office wording; Marathi, not in BOI; not found"},
+ {"tmdb_movie_id": 403859, "budget_inr_crore": null, "revenue_inr_crore": 1.53, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3353", "verdict": "https://boxofficeindia.com/movie.php?movieid=3353"},
+  "notes": "Wiki 'Fever (2016 film)' has no budget/gross. BOI movieid=3353 (live page checked): Budget --, India gross 1,53,00,000, overseas $--- → ₹1.53 Cr india_gross; Disaster → flop (BH 2016: 0.81 Cr, Flop — agrees)"}
+]

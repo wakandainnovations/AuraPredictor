@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 406781, "budget_inr_crore": 7.8, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average venture",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kasaba_(2016_film)", "verdict": "https://en.wikipedia.org/wiki/Kasaba_(2016_film)"},
+  "notes": "Wiki infobox budget ₹7.8 crore (OnManorama 'Top 10 highest grossing Mollywood movies of 2016') — confirms stored budget. Box office section: 'declared an average venture at the box office' (IBTimes) → avg. Infobox gross {{Estimation}} ₹14.37 crore is the KERALA final-run figure (section: 'collected … in Kerala … and ₹14.37 crore in its final run', IBTimes 8 Aug 2016) — Kerala-only, not stored; stored revenue $2,129,012 = this Kerala figure, left as is (apply can't null), FLAGGED. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 402696, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Appa (2016 film)' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 277848, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Anaganaga Oka Ashokavanam' (2016, Sam J Chaitanya; search API returns nothing); not in BOI; not found"},
+ {"tmdb_movie_id": 328628, "budget_inr_crore": null, "revenue_inr_crore": 0.0975, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2905", "verdict": "https://boxofficeindia.com/movie.php?movieid=2905"},
+  "notes": "Wiki 'Rough Book' (Ananth Mahadevan; NYIFF 2015) has no budget/gross. BOI movieid=2905 (live page checked; cast Tannishtha Chatterjee / dir. Mahadevan match; BOI release date 10 Jul 2015): Budget --, India gross 9,75,000, overseas $--- → ₹0.0975 Cr india_gross; Disaster → flop (BH 2016: 0.03 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 560829, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lakshmana (film)' (R. Chandru; remake of Athanokkade) has no budget/gross and no box-office wording; Kannada, not in BOI; not found"}
+]

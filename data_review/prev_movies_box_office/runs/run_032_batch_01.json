@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 664409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dhat Teri Ki' (2017 Bangladeshi Bengali, Shamim Ahamed Roni; remake of Carry On Jatta) has no budget/gross and no box-office wording; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 1351769, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Short film (Pune Mirror 'Short film review: Mumbai-Varanasi Express', listed on Wiki 'List of films shot in Varanasi'); no article, not in BOI/BH 2017; no box office"},
+ {"tmdb_movie_id": 450496, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki '8 Thottakkal' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 452334, "budget_inr_crore": null, "revenue_inr_crore": 0.95, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Mirza_Juuliet", "verdict": "https://boxofficeindia.com/movie.php?movieid=3502"},
+  "notes": "Wiki infobox gross ₹9.5 million (= ₹0.95 Cr) cited to BOI; BOI movieid=3502 (live page checked): Budget --, India gross 95,00,000, overseas $--- → india_gross; Disaster → flop (BH 2017: 0.61 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 453547, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Senjittale En Kadhala' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"}
+]

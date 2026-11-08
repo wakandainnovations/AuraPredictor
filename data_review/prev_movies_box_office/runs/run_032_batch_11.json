@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 376455, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kodi (film)' infobox blank; Box office section has only '₹15 crore in Tamil Nadu in two days' (Indian Express, 31 Oct 2016) — partial, not stored; no verdict wording; Tamil, not in BOI"},
+ {"tmdb_movie_id": 411491, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kadalai' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 442433, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Love Express (2016 film)' (Bengali, Rajiv Kumar Biswas) has no budget/gross and no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 207932, "budget_inr_crore": null, "budget_usd": 75000000, "revenue_inr_crore": null, "revenue_usd": 220000000, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Inferno_(2016_film)", "revenue": "https://en.wikipedia.org/wiki/Inferno_(2016_film)"},
+  "notes": "Wiki infobox budget $75 million, gross $220 million (Box Office Mojo) — confirms stored values; lead only says 'grossed $220 million against a $75 million production budget' — no verdict wording (a verdict is not derived from the numbers)"},
+ {"tmdb_movie_id": 411679, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tope (film)' (The Bait, Buddhadeb Dasgupta; TIFF 2016 premiere) has no budget/gross and no box-office wording; Bengali, not in BOI; not found"}
+]

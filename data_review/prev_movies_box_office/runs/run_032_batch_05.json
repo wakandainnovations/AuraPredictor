@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 444869, "budget_inr_crore": null, "revenue_inr_crore": 0.2525, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3474", "verdict": "https://boxofficeindia.com/movie.php?movieid=3474"},
+  "notes": "Corrected: stored $35,987 = Wiki infobox ₹0.24 Cr cited to the BH box-office page, which is the BH lifetime nett (BH 2017 table: 0.24 Cr) — replaced with BOI movieid=3474 (live page checked): India gross 25,25,000, overseas $--- → ₹0.2525 Cr india_gross (BOI nett 18,30,000). Disaster → flop (BH Flop — agrees)"},
+ {"tmdb_movie_id": 413028, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rum (film)' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 1480961, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Carry On Kesar' has no budget/gross and no box-office wording; Gujarati, not in BOI; stored budget $234,174 (tmdb) left as is, unverified; not found"},
+ {"tmdb_movie_id": 860596, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "~7-minute short film (Anupam Kher; Best International Short Film, Vancouver IFF 2017 — Business Standard/IANS; on YouTube); no Wiki article; no box office"},
+ {"tmdb_movie_id": 481484, "budget_inr_crore": 12, "revenue_inr_crore": 14.3607, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "commercial failure / Flop",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Hind_Ka_Napak_Ko_Jawab:_MSG_Lion_Heart_2", "revenue": "https://boxofficeindia.com/movie.php?movieid=3465", "verdict": "https://en.wikipedia.org/wiki/Hind_Ka_Napak_Ko_Jawab:_MSG_Lion_Heart_2"},
+  "notes": "Wiki infobox budget ₹12 crore (cited to BOI) — confirms stored budget; Wiki gross 'Disputed' (cites a ₹100 Cr-in-7-days claim) → no usable figure, so BOI movieid=3465 (live page checked): Worldwide gross 14,36,07,000 (India 14,28,00,000 + overseas $12,000) → ₹14.3607 Cr worldwide. Verdict: Wiki lead 'was a commercial failure' + BOI 'Flop' → flop"}
+]

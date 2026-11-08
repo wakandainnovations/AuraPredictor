@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 407003, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Vinodham 100%' (2016 Telugu, Sriram Murthy; direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 420501, "budget_inr_crore": null, "revenue_inr_crore": 10.5, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Karvva"},
+  "notes": "Wiki 'Karvva' infobox gross '₹10-11 crores' (IBTimes 'Sandalwood 2016: Highest-grossing Kannada movies of 2016', 22 Dec 2016) → midpoint ₹10.5 Cr, scope not stated — confirms stored revenue; 'highest-grossing' list is a ranking, not a verdict; no budget; Kannada, not in BOI"},
+ {"tmdb_movie_id": 690578, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Laal Ishq (film)' infobox gross '₹7.37 crore (5 days)' (The Quint, 2 Jun 2016) is a 5-day running nett — stored $1,100,586 = this figure, left as is (apply can't null), FLAGGED; budget '₹5-6 crore' uncited (not stored); no verdict wording; Marathi, not in BOI"},
+ {"tmdb_movie_id": 476718, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Lex Talionis' (2016, Bhanu Pratap Singh; search returns only the Latin-phrase pages, direct fetch 404); not in BOI / BH 2016; not found"},
+ {"tmdb_movie_id": 394034, "budget_inr_crore": 5, "revenue_inr_crore": 0.4, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Buddha_in_a_Traffic_Jam", "revenue": "https://boxofficeindia.com/movie.php?movieid=3281", "verdict": "https://boxofficeindia.com/movie.php?movieid=3281"},
+  "notes": "Wiki body (Production): 'the total budget was about five crore INR' (cited) → ₹5 Cr; infobox gross blank; 'did not perform well at the box office' alone is not a verdict. BOI movieid=3281 (live page checked): Budget --, India gross 40,00,000, overseas $--- → ₹0.40 Cr india_gross; Disaster → flop (BH 2016: 0.3 Cr, Flop — agrees)"}
+]

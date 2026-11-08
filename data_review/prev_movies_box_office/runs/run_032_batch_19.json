@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 604659, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Daav Thai Gayo Yaar' (2016 Gujarati, Dushyant V. Patel; direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 544902, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Twelve Months' (2016 Marathi, Dhiraj Meshram; search returns only cast pages, direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 883428, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shororipu' (2016 Bengali, Ayan Chakraborty) infobox budget/gross blank, no box-office wording; stored $75,000 / $80,000 (tmdb) left as is, unverified; not in BOI"},
+ {"tmdb_movie_id": 506946, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lalbaugchi Rani' has no budget/gross and no box-office wording; stored budget $230,000 (tmdb) left as is, unverified; Marathi, not in BOI"},
+ {"tmdb_movie_id": 692851, "budget_inr_crore": null, "revenue_inr_crore": 0.03625, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3295", "verdict": "https://boxofficeindia.com/movie.php?movieid=3295"},
+  "notes": "Wiki 'Project Marathwada' has no budget/gross. BOI movieid=3295 (live page checked): Budget --, India gross 3,62,500, overseas $--- → ₹0.03625 Cr india_gross; Disaster → flop (BH 2016: 0.03 Cr, Flop — agrees)"}
+]

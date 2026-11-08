@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 423194, "budget_inr_crore": null, "revenue_inr_crore": 0.05, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3497", "verdict": "https://boxofficeindia.com/movie.php?movieid=3497"},
+  "notes": "Wiki 'Mantra (2016 film)' (Nicholas Kharkongor; SAIFF Dec 2016, India 17 Mar 2017) has no budget/gross. BOI movieid=3497 (live page checked): Budget --, India gross 5,00,000, overseas $--- → ₹0.05 Cr india_gross; Disaster → flop (BH 2017: 0.06 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 447562, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Urvi (film)' has no budget/gross and no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 448510, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'C/O Saira Banu' infobox blank; Box office section gives only day-1 (₹0.9 Cr) and first-3-days Kerala (₹1.37 Cr, share ₹0.6 Cr) — partial totals, not stored; 'slowly gained a foothold' is not a verdict. Stored revenue $900,000 (tmdb) left as is, unverified; not in BOI"},
+ {"tmdb_movie_id": 696486, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "18-minute short film (Wiki 'White Shirt', Royal Stag Large Short Films / YouTube); no box office"},
+ {"tmdb_movie_id": 450525, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Khamosh Adalat Jaari Hai' (2017, Ritesh Menon; Hindi version of Shantata! Court Chalu Aahe; direct fetch 404); not in BOI / BH 2017; not found"}
+]

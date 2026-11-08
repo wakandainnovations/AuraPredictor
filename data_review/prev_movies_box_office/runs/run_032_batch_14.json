@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 376446, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thodari' infobox blank; Box office section empty (only a day-2 Indian Express cite 'Thodari fails to beat Iru Mugan' — not a verdict); Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 447842, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nila (2015 film)' (Selvamani Selvaraj) has no budget/gross and no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 447839, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Wrong Side Raju' infobox blank, no box-office wording (National Award, reviews only); Gujarati, not in BOI; not found"},
+ {"tmdb_movie_id": 357718, "budget_inr_crore": null, "revenue_inr_crore": 0.2025, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3372", "verdict": "https://boxofficeindia.com/movie.php?movieid=3372"},
+  "notes": "Wiki 'Island City (2015 film)' (Venice 2015, India 2 Sep 2016) has no budget/gross. BOI movieid=3372 (live page checked): Budget --, India gross 20,25,000, overseas $--- → ₹0.2025 Cr india_gross; Disaster → flop (BH 2016: 0.23 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 413727, "budget_inr_crore": null, "revenue_inr_crore": 0.74, "revenue_scope": "india_gross", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Hotel_Salvation"},
+  "notes": "Wiki 'Hotel Salvation' (Mukti Bhawan; Venice 2016, India 7 Apr 2017): 'a box office failure in India, where it only grossed ₹7.4 million' (cited BOI movieid=3505 — live page: India gross 74,00,000, Disaster; BH 2017 Flop) 'However, the film has been a box office success overseas, particularly in Japan' — India-only failure vs overseas success → verdict left NULL; overseas gross not given, so revenue = India gross only"}
+]

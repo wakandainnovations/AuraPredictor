@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1557453, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nataraja Service' has no budget/gross and no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 908130, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vazandar' infobox: budget '5 cr.' uncited; gross '4.50 cr.' cited to Loksatta dated 15 Nov 2016 (4 days after the 11 Nov release) — a running total. Stored $733,904 / $660,514 come from these; left as is (apply can't null), FLAGGED; no verdict wording; Marathi, not in BOI"},
+ {"tmdb_movie_id": 425695, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Naruda Donoruda' has no budget/gross and no box-office wording (reviews only); Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 426024, "budget_inr_crore": 3.5, "revenue_inr_crore": 25, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Ventilator_(2016_film)", "revenue": "https://en.wikipedia.org/wiki/Ventilator_(2016_film)", "verdict": "https://en.wikipedia.org/wiki/Ventilator_(2016_film)"},
+  "notes": "Wiki infobox budget ₹35 million (Forbes India, 4 Mar 2017) = ₹3.5 Cr — confirms stored; gross {{Estimation}} ₹250 million (The Hindu, 'Marathi, Punjabi films that made a mark in 2016', 26 Dec 2016 — 7 weeks after release) = ₹25 Cr, scope not stated; stored $4,000,000 was Wiki's USD conversion, re-derived at the release-date rate. Lead: 'the film was a commercial success' → hit. Marathi, not in BOI"},
+ {"tmdb_movie_id": 512504, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Passport' (2016 Gujarati, Rajesh Sharma; search and direct fetches miss); not in BOI; not found"}
+]

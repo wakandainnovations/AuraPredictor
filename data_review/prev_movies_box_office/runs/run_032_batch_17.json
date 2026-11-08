@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 407547, "budget_inr_crore": null, "revenue_inr_crore": 3.11, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3412", "verdict": "https://boxofficeindia.com/movie.php?movieid=3412"},
+  "notes": "Wiki 'Beiimaan Love' (released 14 Oct 2016) has no budget/gross. BOI movieid=3412 (live page checked): Budget --, India gross 3,11,00,000, overseas $--- → ₹3.11 Cr india_gross; Disaster → flop (BH 2016: 2.18 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 411053, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Annmariya_Kalippilaanu"},
+  "notes": "Wiki lead: 'The film was a box office success' → hit; infobox has no budget/gross; stored revenue $1,500,000 (tmdb) left as is, unverified; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 417636, "budget_inr_crore": null, "revenue_inr_crore": 24.51, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "Blockbuster",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Bambukat", "verdict": "https://en.wikipedia.org/wiki/Bambukat"},
+  "notes": "Wiki infobox gross ₹24.51 crore worldwide (cited BOI report 'Qismat Is A Blockbuster - Top Punjabi Films Worldwide'; ₹14.12 Cr India) — confirms stored revenue; Box office section: 'Box Office India declared the film as \"Blockbuster\"' → hit; no budget. Punjabi, not in the BOI movie index"},
+ {"tmdb_movie_id": 452851, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Power (2016 film)' (Bengali, Rajiv Kumar Biswas) has no budget/gross and no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 403790, "budget_inr_crore": null, "revenue_inr_crore": 0.1275, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3367", "verdict": "https://boxofficeindia.com/movie.php?movieid=3367"},
+  "notes": "Wiki 'Waarrior Savitri' (released 25 Aug 2016) has no budget/gross. BOI movieid=3367 'Warrior Savitri' (live page checked): Budget --, India gross 12,75,000, overseas $--- → ₹0.1275 Cr india_gross; Disaster → flop (BH 2016 'Waarrior Savitri': 0.01 Cr, Flop — agrees)"}
+]

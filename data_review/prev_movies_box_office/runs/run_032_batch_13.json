@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 1035415, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for \"Mama's Boy\" (2016 Hindi, Akshat Verma — likely a short; search returns unrelated films, direct fetch 404); not in BOI / BH 2016; not found"},
+ {"tmdb_movie_id": 843801, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Brina' (2016, Pawan Kumar Sharma; 'Brina (film)' redirects to Sanjay Mishra); not in BOI / BH 2016; not found"},
+ {"tmdb_movie_id": 433816, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Koppayile Kodumkaattu' (2016 Malayalam, Soujan Josseph; direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 466979, "budget_inr_crore": 1.5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Olappeeppi"},
+  "notes": "Wiki infobox budget ₹1.50 crore (Mathrubhumi) — confirms stored budget; no gross (the cited Mathrubhumi headline says the film 'received ₹8,680' — producer's return, not a gross, not stored); no verdict wording; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 414693, "budget_inr_crore": null, "revenue_inr_crore": 0.1925, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3386", "verdict": "https://boxofficeindia.com/movie.php?movieid=3386"},
+  "notes": "Wiki 'Wah Taj' has no budget/gross. BOI movieid=3386 'Wah Taj!' (live page checked): Budget --, India gross 19,25,000, overseas $--- → ₹0.1925 Cr india_gross; Disaster → flop (BH 2016: 0.11 Cr, Flop — agrees)"}
+]

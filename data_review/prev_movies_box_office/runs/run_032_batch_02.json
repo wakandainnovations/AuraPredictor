@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 326241, "budget_inr_crore": null, "revenue_inr_crore": 0.003, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3791", "verdict": "https://boxofficeindia.com/movie.php?movieid=3791"},
+  "notes": "Wiki 'For Here or to Go?' (US/India English, Cinequest 2015, US limited 31 Mar 2017) has no budget/gross; The Numbers domestic n/a. BOI movieid=3791 'For Here Or To Go? (2018)' (India release 6 Jul 2018; live page checked): Budget --, India gross 30,000, overseas $--- → ₹0.003 Cr india_gross; Disaster → flop (BH box-office page: Flop — agrees)"},
+ {"tmdb_movie_id": 517181, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Short film released on YouTube (Wiki 'Khujli': released 31 Mar 2017, YouTube); no box office"},
+ {"tmdb_movie_id": 452967, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Baaki Itihaas' (2017, Nikhil Mahajan; search returns only cast pages, direct fetch 404); not in BOI / BH 2017; not found"},
+ {"tmdb_movie_id": 409159, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kadugu' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 411280, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kattappava Kanom' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"}
+]

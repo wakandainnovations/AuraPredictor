@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 500695, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aakatayi' has no budget/gross and no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 429662, "budget_inr_crore": null, "budget_usd": 8500000, "revenue_inr_crore": null, "revenue_usd": 11800000, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Viceroy%27s_House_(film)", "revenue": "https://en.wikipedia.org/wiki/Viceroy%27s_House_(film)"},
+  "notes": "Wiki infobox: budget $8.5 million (Financial Times), gross $11.8 million (Box Office Mojo) — confirms stored values; no verdict wording; UK/India English film (Hindi dub 'Partition: 1947' in India), not in BOI"},
+ {"tmdb_movie_id": 444940, "budget_inr_crore": null, "revenue_inr_crore": 0.315, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3478", "verdict": "https://boxofficeindia.com/movie.php?movieid=3478"},
+  "notes": "Wiki 'Jeena Isi Ka Naam Hai (film)' has no budget/gross. BOI movieid=3478 (live page checked): Budget --, India gross 31,50,000, overseas $--- → ₹0.315 Cr india_gross; Disaster → flop (BH 2017: 0.19 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 413019, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Muthuramalingam' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 413637, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Veeram (2016 film)': budget conflicts within the article — infobox ₹35 crore (Indian Express) vs body 'made on a budget of ₹20 crore' — not stored; no gross, no verdict wording (Amazon Prime 2022); not in BOI"}
+]

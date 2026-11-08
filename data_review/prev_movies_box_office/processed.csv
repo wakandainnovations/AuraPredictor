@@ -3099,3 +3099,103 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,run,batch,budget_status,r
 464123,tt6745804,Ajab Singh ki Gazab Kahani,2017-04-21,hindi,31,20,not_found,found_inr,found,2026-11-08T00:29:47+00:00
 1330716,tt6416358,Raaga,2017-04-21,kannada,31,20,not_found,not_found,not_found,2026-11-08T00:29:47+00:00
 457326,tt6581528,Sathya,2017-04-20,malayalam,31,20,not_found,not_found,not_found,2026-11-08T00:29:47+00:00
+664409,tt6546086,Dhatteriki,2017-04-14,bengali,32,1,not_found,not_found,not_found,2026-11-08T00:35:34+00:00
+1351769,tt5614858,Mumbai Varanasi Express,2017-04-11,hindi,32,1,not_found,not_found,not_found,2026-11-08T00:35:34+00:00
+450496,tt6747242,8 Thottakkal,2017-04-07,tamil,32,1,not_found,not_found,not_found,2026-11-08T00:35:34+00:00
+452334,tt6016672,Mirza Juuliet,2017-04-07,hindi,32,1,not_found,found_inr,found,2026-11-08T00:35:34+00:00
+453547,tt6984772,Senjittale En Kadhala,2017-04-07,tamil,32,1,not_found,not_found,not_found,2026-11-08T00:35:34+00:00
+326241,tt4157510,For Here or to Go?,2017-03-31,english,32,2,not_found,found_inr,found,2026-11-08T00:35:34+00:00
+517181,tt6861286,Khujli,2017-03-31,hindi,32,2,not_found,not_found,not_found,2026-11-08T00:35:34+00:00
+452967,tt7319870,Baaki Itihaas,2017-03-28,hindi,32,2,not_found,not_found,not_found,2026-11-08T00:35:34+00:00
+409159,tt6642814,Kadugu,2017-03-24,tamil,32,2,not_found,not_found,not_found,2026-11-08T00:35:34+00:00
+411280,tt6656784,Kattappava Kaanom,2017-03-17,tamil,32,2,not_found,not_found,not_found,2026-11-08T00:35:34+00:00
+423194,tt5046500,Mantra,2017-03-17,hindi,32,3,not_found,found_inr,found,2026-11-08T00:36:30+00:00
+447562,tt6203964,Urvi,2017-03-17,kannada,32,3,not_found,not_found,not_found,2026-11-08T00:36:30+00:00
+448510,tt6541008,C/O Saira Banu,2017-03-17,malayalam,32,3,not_found,not_found,not_found,2026-11-08T00:36:30+00:00
+696486,tt6845748,White Shirt,2017-03-15,hindi,32,3,not_found,not_found,not_found,2026-11-08T00:36:30+00:00
+450525,tt5182656,Khamosh Adalat Jaari Hai,2017-03-14,hindi,32,3,not_found,not_found,not_found,2026-11-08T00:36:30+00:00
+500695,tt6340092,Aakatayi,2017-03-10,telugu,32,4,not_found,not_found,not_found,2026-11-08T00:36:30+00:00
+429662,tt4977530,Viceroy's House,2017-03-03,english,32,4,found_usd,found_usd,not_found,2026-11-08T00:36:30+00:00
+444940,tt5756052,Jeena Isi Ka Naam Hai,2017-03-03,hindi,32,4,not_found,found_inr,found,2026-11-08T00:36:30+00:00
+413019,tt6567406,Muthuramalingam,2017-02-24,tamil,32,4,not_found,not_found,not_found,2026-11-08T00:36:30+00:00
+413637,tt5886216,Veeram,2017-02-24,malayalam,32,4,not_found,not_found,not_found,2026-11-08T00:36:30+00:00
+444869,tt6499258,Wedding Anniversary,2017-02-24,hindi,32,5,not_found,found_inr,found,2026-11-08T00:37:18+00:00
+413028,tt6544384,Rum,2017-02-17,tamil,32,5,not_found,not_found,not_found,2026-11-08T00:37:18+00:00
+1480961,tt5908764,Carry On Kesar,2017-02-17,gujarati,32,5,not_found,not_found,not_found,2026-11-08T00:37:18+00:00
+860596,tt6534486,Kheer,2017-02-13,hindi,32,5,not_found,not_found,not_found,2026-11-08T00:37:18+00:00
+481484,tt6467380,Hind Ka Napak Ko Jawab: MSG Lion Heart 2,2017-02-10,hindi,32,5,found_inr,found_inr,found,2026-11-08T00:37:18+00:00
+415669,tt6348454,Adhe Kangal,2017-01-26,tamil,32,6,not_found,not_found,not_found,2026-11-08T00:37:18+00:00
+436413,tt6409272,Beautiful Manasugalu,2017-01-20,kannada,32,6,not_found,not_found,not_found,2026-11-08T00:37:18+00:00
+47971,tt1293847,xXx: Return of Xander Cage,2017-01-13,english,32,6,found_usd,found_usd,found,2026-11-08T00:37:18+00:00
+411852,tt5877882,Sometimes,2017-01-07,tamil,32,6,not_found,not_found,not_found,2026-11-08T00:37:18+00:00
+465143,tt6395948,God Say,2017-01-07,malayalam,32,6,not_found,not_found,not_found,2026-11-08T00:37:18+00:00
+433676,tt10686470,Meow,2016-12-30,tamil,32,7,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+434295,tt6420830,Appatlo Okadundevadu,2016-12-30,telugu,32,7,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+1031574,tt5911504,Bancha Elo Phire,2016-12-30,bengali,32,7,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+720057,tt5110256,The Kill,2016-12-27,marathi,32,7,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+410480,tt6385842,Kaththi Sandai,2016-12-23,tamil,32,7,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+778064,tt5321044,One Way Ticket,2016-12-23,marathi,32,8,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+453059,tt6396296,Byomkesh Pawrbo,2016-12-16,bengali,32,8,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+412582,tt6389070,Parandhu Sella Vaa,2016-12-09,tamil,32,8,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+427896,tt5684262,Ore Mukham,2016-12-02,malayalam,32,8,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+463617,tt6303464,Mummy Save Me,2016-12-02,kannada,32,8,not_found,not_found,not_found,2026-11-08T00:38:04+00:00
+466967,tt6208132,Kuttikalundu Sookshikkuka,2016-12-02,malayalam,32,9,not_found,not_found,not_found,2026-11-08T00:38:42+00:00
+552229,,Bahniman,2016-12-02,assamese,32,9,not_found,not_found,not_found,2026-11-08T00:38:42+00:00
+427733,tt5343678,Moh Maya Money,2016-11-25,hindi,32,9,not_found,found_inr,found,2026-11-08T00:38:42+00:00
+371810,tt6268114,Kavalai Vendam,2016-11-24,tamil,32,9,not_found,not_found,not_found,2026-11-08T00:38:42+00:00
+426614,tt6258486,Ekkadiki Pothavu Chinnavada,2016-11-18,telugu,32,9,not_found,not_found,found,2026-11-08T00:38:42+00:00
+1557453,tt13243130,Nataraja Service,2016-11-17,kannada,32,10,not_found,not_found,not_found,2026-11-08T00:38:42+00:00
+908130,tt6078304,Vazandar,2016-11-11,marathi,32,10,not_found,not_found,not_found,2026-11-08T00:38:42+00:00
+425695,tt6269286,Naruda Donoruda,2016-11-04,telugu,32,10,not_found,not_found,not_found,2026-11-08T00:38:42+00:00
+426024,tt6120548,Ventilator,2016-11-04,marathi,32,10,found_inr,found_inr,found,2026-11-08T00:38:42+00:00
+512504,tt6221254,Passport,2016-11-04,gujarati,32,10,not_found,not_found,not_found,2026-11-08T00:38:42+00:00
+376455,tt5556784,Kodi,2016-10-28,tamil,32,11,not_found,not_found,not_found,2026-11-08T00:39:51+00:00
+411491,tt6264404,Kadalai,2016-10-28,tamil,32,11,not_found,not_found,not_found,2026-11-08T00:39:51+00:00
+442433,tt6246362,Love Express,2016-10-22,bengali,32,11,not_found,not_found,not_found,2026-11-08T00:39:51+00:00
+207932,tt3062096,Inferno,2016-10-13,english,32,11,found_usd,found_usd,not_found,2026-11-08T00:39:51+00:00
+411679,tt8869484,The Bait,2016-10-12,bengali,32,11,not_found,not_found,not_found,2026-11-08T00:39:51+00:00
+427607,tt5461134,Kaadu Pookkunna Neram,2016-10-08,malayalam,32,12,not_found,not_found,not_found,2026-11-08T00:39:52+00:00
+418214,tt5232308,Zulfiqar,2016-10-07,bengali,32,12,not_found,found_inr,found,2026-11-08T00:39:52+00:00
+420488,tt6117158,Idolle Ramayana,2016-10-07,kannada,32,12,not_found,not_found,not_found,2026-11-08T00:39:52+00:00
+420489,tt6123210,Dana Kayonu,2016-10-07,kannada,32,12,not_found,not_found,not_found,2026-11-08T00:39:52+00:00
+579409,tt8682052,Abhimaan,2016-10-06,bengali,32,12,not_found,not_found,not_found,2026-11-08T00:39:52+00:00
+1035415,tt8427926,Mama's Boy,2016-10-06,hindi,32,13,not_found,not_found,not_found,2026-11-08T00:40:32+00:00
+843801,tt5950816,Brina,2016-10-02,hindi,32,13,not_found,not_found,not_found,2026-11-08T00:40:32+00:00
+433816,tt5821100,Koppayile Kodumkaattu,2016-09-30,malayalam,32,13,not_found,not_found,not_found,2026-11-08T00:40:32+00:00
+466979,tt6120732,Olappeeppi,2016-09-30,malayalam,32,13,found_inr,not_found,not_found,2026-11-08T00:40:32+00:00
+414693,tt5928576,Wah Taj,2016-09-23,hindi,32,13,not_found,found_inr,found,2026-11-08T00:40:32+00:00
+376446,tt5959700,Thodari,2016-09-22,tamil,32,14,not_found,not_found,not_found,2026-11-08T00:40:32+00:00
+447842,tt5082662,Nila,2016-09-22,tamil,32,14,not_found,not_found,not_found,2026-11-08T00:40:32+00:00
+447839,tt5979920,Wrong Side Raju,2016-09-09,gujarati,32,14,not_found,not_found,not_found,2026-11-08T00:40:32+00:00
+357718,tt4916048,Island City,2016-09-02,hindi,32,14,not_found,found_inr,found,2026-11-08T00:40:32+00:00
+413727,tt5997928,Mukti Bhawan,2016-09-02,hindi,32,14,not_found,found_inr,not_found,2026-11-08T00:40:32+00:00
+552222,tt8191102,Doordarshan Eti Jantra,2016-09-02,assamese,32,15,not_found,not_found,not_found,2026-11-08T00:41:09+00:00
+412104,tt3740118,Shankara,2016-08-27,telugu,32,15,not_found,not_found,not_found,2026-11-08T00:41:09+00:00
+1771255,,Evaru...?,2016-08-26,telugu,32,15,not_found,not_found,not_found,2026-11-08T00:41:09+00:00
+280945,tt3557978,Nambiyaar,2016-08-19,tamil,32,15,not_found,not_found,not_found,2026-11-08T00:41:09+00:00
+434296,tt6070344,Chuttalabbai,2016-08-19,telugu,32,15,not_found,not_found,not_found,2026-11-08T00:41:09+00:00
+574910,tt6872516,Aatadukundam Raa,2016-08-19,telugu,32,16,not_found,not_found,not_found,2026-11-08T00:41:09+00:00
+411822,tt5578722,Once Again,2016-08-18,malayalam,32,16,not_found,not_found,found,2026-11-08T00:41:09+00:00
+411629,tt6001942,Thikka,2016-08-13,telugu,32,16,not_found,not_found,found,2026-11-08T00:41:09+00:00
+436548,tt5780076,YZ,2016-08-12,marathi,32,16,not_found,not_found,not_found,2026-11-08T00:41:09+00:00
+403859,tt4022278,Fever,2016-08-05,hindi,32,16,not_found,found_inr,found,2026-11-08T00:41:09+00:00
+407547,tt5227468,Beiimaan Love,2016-08-05,hindi,32,17,not_found,found_inr,found,2026-11-08T00:41:39+00:00
+411053,tt5838806,Annmariya Kalippilaanu,2016-08-05,malayalam,32,17,not_found,not_found,found,2026-11-08T00:41:39+00:00
+417636,tt5929890,Bambukat,2016-07-29,punjabi,32,17,not_found,found_inr,found,2026-11-08T00:41:39+00:00
+452851,tt6163150,Power,2016-07-24,bengali,32,17,not_found,not_found,not_found,2026-11-08T00:41:39+00:00
+403790,tt4642936,Warrior Savitri,2016-07-22,hindi,32,17,not_found,found_inr,found,2026-11-08T00:41:39+00:00
+406781,tt5642720,Kasaba,2016-07-07,malayalam,32,18,found_inr,not_found,found,2026-11-08T00:42:15+00:00
+402696,tt5849148,Appa,2016-07-01,tamil,32,18,not_found,not_found,not_found,2026-11-08T00:42:15+00:00
+277848,,Anaganaga Oka Ashokavanam,2016-06-25,english,32,18,not_found,not_found,not_found,2026-11-08T00:42:15+00:00
+328628,tt4358344,Rough Book,2016-06-24,hindi,32,18,not_found,found_inr,found,2026-11-08T00:42:15+00:00
+560829,tt5612380,Lakshmana,2016-06-24,kannada,32,18,not_found,not_found,not_found,2026-11-08T00:42:15+00:00
+604659,tt5894252,Daav Thai Gayo Yaar,2016-06-24,gujarati,32,19,not_found,not_found,not_found,2026-11-08T00:43:03+00:00
+544902,,Twelve Months,2016-06-17,marathi,32,19,not_found,not_found,not_found,2026-11-08T00:43:03+00:00
+883428,tt6687734,Shororipu 1,2016-06-17,english,32,19,not_found,not_found,not_found,2026-11-08T00:43:03+00:00
+506946,tt5691732,Lalbaugchi Rani,2016-06-03,marathi,32,19,not_found,not_found,not_found,2026-11-08T00:43:03+00:00
+692851,tt5714802,Project Marathwada,2016-06-03,hindi,32,19,not_found,found_inr,found,2026-11-08T00:43:03+00:00
+407003,,Vinodham 100%,2016-05-27,telugu,32,20,not_found,not_found,not_found,2026-11-08T00:43:03+00:00
+420501,tt5760590,Karva,2016-05-27,kannada,32,20,not_found,found_inr,not_found,2026-11-08T00:43:03+00:00
+690578,tt7458720,Laal Ishq,2016-05-27,marathi,32,20,not_found,not_found,not_found,2026-11-08T00:43:03+00:00
+476718,tt5965728,Lex Talionis,2016-05-17,english,32,20,not_found,not_found,not_found,2026-11-08T00:43:03+00:00
+394034,tt1890363,Buddha in a Traffic Jam,2016-05-13,hindi,32,20,found_inr,found_inr,found,2026-11-08T00:43:03+00:00
