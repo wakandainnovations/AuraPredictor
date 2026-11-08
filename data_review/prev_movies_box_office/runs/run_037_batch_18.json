@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 495126, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ranbhool' (Sanjay Surkar): infobox budget/gross blank, no box-office wording; Marathi, not in BOI; not found"},
+ {"tmdb_movie_id": 512562, "budget_inr_crore": 4.0, "revenue_inr_crore": 0.075, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI); Flop (BH 2010)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=931", "revenue": "https://boxofficeindia.com/movie.php?movieid=931", "verdict": "https://boxofficeindia.com/movie.php?movieid=931"},
+  "notes": "No Wiki article ('Vroom (film)' 404) → BOI movieid=931 'Vroom' (2010, Hindi; director Savin Tuscano = DB; 14 May 2010): Budget 4,00,00,000 (₹4 Cr), Worldwide Gross 7,50,000 with overseas $--- → India gross ₹0.075 Cr, Disaster; BH 2010 table: Flop, lifetime ₹0.06 Cr — agrees"},
+ {"tmdb_movie_id": 79661, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Irumbukkottai Murattu Singam' (Chimbu Deven): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 99166, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Guru Sishyan (2010 film)' (Sakthi Chidambaram): infobox budget/gross blank, no box-office wording (the 'commercial success' line belongs to the 1988 film); Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 521986, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kutti Pisasu' (Rama Narayanan): infobox budget/gross blank, only review lines; Tamil, not in BOI; not found"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 214875, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Race (2011 film)' (Kukku Surendran): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 85342, "budget_inr_crore": 4.5, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "'hit status' (Wiki, IBN Live)",
+  "sources": {"budget": "https://www.news18.com/news/india/2011-was-troublesome-for-malayalam-films-434144.html", "verdict": "https://www.news18.com/news/india/2011-was-troublesome-for-malayalam-films-434144.html"},
+  "notes": "Wiki 'Makeup Man' (Shafi): infobox budget ₹4.5 Cr cited to IBN Live/News18 '2011 was troublesome for Malayalam films' (4 Jan 2012) — confirms the stored value; box-office section: 'made at a budget of ₹4.5 crore got a distributor's share of ₹3.04 crore and a satellite right for ₹2.25 crore. The film was a \"hit status\" at the box office' → hit; the ₹3.04 Cr is a distributors' share, not stored; not in BOI"},
+ {"tmdb_movie_id": 262546, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thambikottai' (R. Ammu Ramesh; Tamil, DB tags English): infobox budget/gross blank; lead 'mixed reviews upon release but was a commercial success' is cited only to the Sify release review → weak cite, NULL; not in BOI; not found"},
+ {"tmdb_movie_id": 408765, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Necklace' (Sekhar Das, Bengali 2011; 'Necklace (2011 film)' 404); not in BOI; not found"},
+ {"tmdb_movie_id": 269209, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Wanted (2011 film)' (B. V. S. Ravi, Telugu): infobox budget/gross blank, no box-office wording; BOI 'Wanted' is the 2009 Hindi film (false hit); not found"}
+]

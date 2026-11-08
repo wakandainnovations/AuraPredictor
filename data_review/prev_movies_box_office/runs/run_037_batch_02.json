@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 627770, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "'failed to perform commercially' (Wiki)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kool:_Sakkath_Hot_Maga"},
+  "notes": "Wiki 'Kool: Sakkath Hot Maga' (Ganesh; Wiki release 12 May 2011, DB date 2011-08-16): infobox budget/gross blank; 'The film also failed to perform commercially', cited to TOI 'Kool was a learning experience: Ganesh' (7 Jun 2011, ~4 weeks after release) → flop; Kannada, not in BOI"},
+ {"tmdb_movie_id": 466990, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Uyarthiru 420' (S. Premnath): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 244322, "budget_inr_crore": 1.5, "revenue_inr_crore": 0.031, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=822", "revenue": "https://boxofficeindia.com/movie.php?movieid=822", "verdict": "https://boxofficeindia.com/movie.php?movieid=822"},
+  "notes": "No Wiki article (only list mentions) → BOI movieid=822 'Milta Hai Chance By Chance' (2011, Hindi, released 12 Aug 2011): Budget 1,50,00,000 (₹1.5 Cr), Worldwide Gross 3,10,000 with overseas $--- → India gross ₹0.031 Cr, Disaster; not in the BH 2011 table"},
+ {"tmdb_movie_id": 558116, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nobel Chor' (Suman Ghosh; Wiki release 20 Feb 2012): infobox budget/gross blank, no box-office wording; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 490839, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Key (film)' (Nagendra Prasad, direct fetch — bulk search missed it): stub, no budget/gross, no box-office wording; Telugu, not in BOI; not found"}
+]

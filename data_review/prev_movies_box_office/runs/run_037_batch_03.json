@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 99350, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Brahmi Gadi Katha' (V. Eeshwar Reddy): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 113581, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Patang (The Kite), Prashant Bhargava: no Wiki article ('Patang' is a disambiguation page without this film); not in BOI index or BH 2011 table; one web search (Tribeca, rogerebert, Laemmle listings) — festival/US arthouse run, no box-office figures; not found"},
+ {"tmdb_movie_id": 226298, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Virodhi (2011 film)' (Neelakanta): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 596487, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "'declared a box office failure' (Wiki)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Love_Mein_Ghum"},
+  "notes": "Wiki 'Love Mein Ghum' (Reema Khan, Pakistani Urdu): infobox budget/gross blank; 'Despite having impressive opening, the film was declared a box office failure', cited to Express Tribune 'No Tiger for Pakistan this Eid' (17 Aug 2012, a year after release) → flop; only a 'most expensive Lollywood film' claim, no figure; not in BOI"},
+ {"tmdb_movie_id": 211765, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bombay March 12' (Babu Janardhanan): infobox budget/gross blank, only review lines; Hindi dub 'Hadsa Bombay March 12' not in BOI index; Malayalam; not found"}
+]

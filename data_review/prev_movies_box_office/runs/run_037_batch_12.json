@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 450213, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nagaram Marupakkam' (Sundar C, 19 Nov 2010): infobox budget/gross blank, only soundtrack review lines; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 492489, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'College Days (2010 film)' (Jiyen Krishnakumar): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 44115, "budget_usd": 18000000, "revenue_usd": 60700000, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://boxofficemojo.com/movies/?id=127hours.htm", "revenue": "https://boxofficemojo.com/movies/?id=127hours.htm"},
+  "notes": "Wiki '127 Hours' (Danny Boyle): infobox budget $18 million, gross $60.7 million, both cited to Box Office Mojo — confirm the stored values; no box-office verdict stated ('acclaimed by critics and audiences' is reception) → verdict NULL; not in BOI"},
+ {"tmdb_movie_id": 81986, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "'commercial failure' (Wiki, linked to Box office bomb)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kalyanram_Kathi"},
+  "notes": "Wiki 'Kalyanram Kathi' (Mallikarjun): infobox budget/gross blank; 'It was a [[Box office bomb|commercial failure]]' → flop; Telugu, not in BOI"},
+ {"tmdb_movie_id": 420380, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "'declared as a hit' / 'commercial success' (Wiki)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Yemaindi_Ee_Vela"},
+  "notes": "Wiki 'Yemaindi Ee Vela' (Sampath Nandi): lead 'It became a commercial success … completing a 50-day run' and box-office section 'The film was declared as a hit and collected ₹10 crore in a fifty-day run' (uncited sentences) → hit. Stored revenue $2.23M = infobox '₹10 crore (50 Days Collection)', cited to an idlebrain interview with the director — a producer-side claim, gross/share not stated; left as is, not confirmed; Telugu, not in BOI"}
+]

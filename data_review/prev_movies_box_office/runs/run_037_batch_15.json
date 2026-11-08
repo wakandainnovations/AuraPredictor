@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 55795, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "'an above average success at the box office' (Wiki)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Baana_Kaathadi"},
+  "notes": "Wiki 'Baana Kaathadi' (Badri Venkatesh): infobox budget/gross blank; lead 'The movie received critical acclaim and an above average success at the box office' (uncited lead sentence) → Above Average → avg; Tamil, not in BOI"},
+ {"tmdb_movie_id": 411610, "budget_inr_crore": 0.015, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://timesofindia.indiatimes.com/city/pune/my-film-reflects-my-own-struggle-for-education/articleshow/8968010.cms"},
+  "notes": "Wiki 'Pistulya' (Nagraj Manjule): an 18-minute Marathi short film (National Award, non-feature; Wiki date 2009), no theatrical box office; infobox budget '₹1.5 lakh' cited to TOI 'My film reflects my own struggle for education' (24 Jun 2011) → stored; revenue/verdict not applicable; not in BOI"},
+ {"tmdb_movie_id": 78505, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2010 'Ogo Bodhu Sundari' (Sunanda Mitra) — the search hit 'Ogo Bodhu Shundori' is the 1981 Salil Dutta film (its 'blockbuster' text not used); Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 1786596, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thaskara Lahala' (Ramesh Das): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 82587, "budget_inr_crore": null, "revenue_inr_crore": 10.5, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "http://boxofficeindia.com/boxnewsdetail.php?page=shownews&articleid=5703&nCat="},
+  "notes": "Wiki 'Mel Karade Rabba' (Navaniat Singh): infobox gross ₹105.0 million, box-office section 'collected Rs 19.5 million in Punjab in its opening week. It went on to gross Rs 105.0 million', cited to BOI 'Top Punjabi Film Opening Weeks' (archived 2013) — confirms the stored $2.25M; no verdict stated ('highest-grossing Punjabi films' see-also is a ranking); Punjabi, not in BOI index"}
+]

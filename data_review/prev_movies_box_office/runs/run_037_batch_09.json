@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 396466, "budget_inr_crore": 1.5, "revenue_inr_crore": 0.015, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "'box-office disaster' (Wiki); Disaster (BOI)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bhoot_and_Friends", "revenue": "https://boxofficeindia.com/movie.php?movieid=975", "verdict": "https://boxofficeindia.com/movie.php?movieid=975"},
+  "notes": "Wiki 'Bhoot and Friends': infobox budget 'est. ₹1.5 crore', gross 'est. ₹1.5 lakh' (both one ref) and lead 'was a box-office disaster'; BOI movieid=975: Budget 1,50,00,000, Worldwide Gross 1,50,000 (overseas $---), Disaster — both confirm the stored $335,570 / $3,356 → flop; not in the BH 2010 table"},
+ {"tmdb_movie_id": 1396270, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Puthumukhangal' (Don Alex, Biju Majeed): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 67678, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ranga The Donga' (G. V. Sudhakar Naidu): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 79336, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thenmerku Paruvakaatru' (Seenu Ramasamy): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 804809, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nellu (2010 film)' (Shiva Shankar): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"}
+]

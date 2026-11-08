@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 82945, "budget_inr_crore": 4.25, "revenue_inr_crore": 0.075, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI); Flop (BH 2011)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=830", "revenue": "https://boxofficeindia.com/movie.php?movieid=830", "verdict": "https://boxofficeindia.com/movie.php?movieid=830"},
+  "notes": "Wiki 'Mummy Punjabi' (Pammi Somal): infobox budget/gross blank, no box-office wording → BOI movieid=830: Budget 4,25,00,000 (₹4.25 Cr), Worldwide Gross 7,50,000 with overseas $--- → India gross ₹0.075 Cr, Disaster; BH 2011 table: Flop, India lifetime ₹0.20 Cr (nett figure above BOI gross, not used)"},
+ {"tmdb_movie_id": 665148, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returns only the Mahaakshay Chakraborty bio); not in BOI index, not in BH 2011 table; not found"},
+ {"tmdb_movie_id": 70072, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Politics of Love' (William Dear, US film): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 75985, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Puli Vesham' (P. Vasu): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 137364, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Money Money, More Money' (J. D. Chakravarthy): infobox budget/gross blank, no box-office wording (the 'success' lines belong to the 1994 'Money Money'); Telugu, not in BOI; not found"}
+]

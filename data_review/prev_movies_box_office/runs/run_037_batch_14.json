@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 117133, "budget_inr_crore": 4.75, "revenue_inr_crore": 0.10, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI); Flop (BH 2010)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=952", "revenue": "https://boxofficeindia.com/movie.php?movieid=952", "verdict": "https://boxofficeindia.com/movie.php?movieid=952"},
+  "notes": "Wiki 'Benny and Babloo' (Yunus Sajawal): infobox budget/gross blank → BOI movieid=952: Budget 4,75,00,000 (₹4.75 Cr), Worldwide Gross 10,00,000 with overseas $--- → India gross ₹0.10 Cr, Disaster; BH 2010 table: Flop (agrees), but lists lifetime ₹8.46 Cr — inconsistent with BOI's ₹7.25 lakh nett, looks like a BH data error, not used"},
+ {"tmdb_movie_id": 200305, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Saradaga Kasepu' (Vamsy): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 160197, "budget_inr_crore": 1.75, "revenue_inr_crore": 4.0, "revenue_scope": "unknown", "verdict": "hit", "verdict_label": "'super hit' (Sify, via Wiki)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Elsamma_Enna_Aankutty", "revenue": "https://en.wikipedia.org/wiki/Elsamma_Enna_Aankutty", "verdict": "https://en.wikipedia.org/wiki/Elsamma_Enna_Aankutty"},
+  "notes": "Wiki 'Elsamma Enna Aankutty' (Lal Jose): infobox budget ₹1.75 Cr (ref BBO), gross ₹4 Cr (ref The Hindu, 'collected more than ₹4 crore') — confirm the stored values; box-office section: '100 day run … one of the major hits of 2010', 'Sify declared the film as a \"super hit\"' → hit; not in BOI"},
+ {"tmdb_movie_id": 1184188, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'M For Mother-In-Law' (Marathi 2010); not in BOI; not found"},
+ {"tmdb_movie_id": 112491, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vamsam' (Pandiraaj): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"}
+]

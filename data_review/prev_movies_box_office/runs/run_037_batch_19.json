@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 412562, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Wilson Periera' (Dhaneesh Jameson, 2010; 'Wilson Periera' 404); not in BOI; not found"},
+ {"tmdb_movie_id": 558084, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "'declared to be a blockbuster' (Wiki)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Wanted_(2010_film)"},
+  "notes": "Wiki 'Wanted (2010 film)' (Ravi Kinagi, Bengali): infobox budget/gross blank; 'It was declared to be a blockbuster at the box office with a 60 week long run in theatres' (uncited) → hit; BOI 'Wanted' (movieid=137) is the 2009 Hindi Salman Khan film — false hit, not used"},
+ {"tmdb_movie_id": 112830, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bayam Ariyaan' (Prathesh): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 322765, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rettaisuzhi' (Thamira): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 347332, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Prithvi (2010 film)' (Jacob Verghese): infobox budget/gross blank; 'a commercial success in the A centers and multiplexes, but it flopped in B and C Centres' — mixed, not a single verdict → NULL; '₹8 crores pre-release business' is not gross; Kannada, not in BOI; not found"}
+]

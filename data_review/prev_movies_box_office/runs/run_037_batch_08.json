@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 309918, "budget_inr_crore": 1.75, "revenue_inr_crore": 0.0875, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=767", "revenue": "https://boxofficeindia.com/movie.php?movieid=767", "verdict": "https://boxofficeindia.com/movie.php?movieid=767"},
+  "notes": "Wiki 'Mumbai Mast Kallander' (director Aman Mihani per Wiki and BOI; DB lists Musavir Jaleel; same film, 14 Jan 2011): infobox budget/gross blank → BOI movieid=767: Budget 1,75,00,000 (₹1.75 Cr), Worldwide Gross 8,75,000 with overseas $--- → India gross ₹0.0875 Cr, Disaster; not in the BH 2011 table"},
+ {"tmdb_movie_id": 1503102, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Boss (2011 film)' (R. Raghuraj): infobox budget/gross blank, no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 57736, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "'commercial success' (Wiki)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Mirapakay"},
+  "notes": "Wiki 'Mirapakay' (Harish Shankar): lead 'became a commercial success at the box office' → hit. FLAG: infobox gross is '₹17 crore distributors' share' (T2BLive) — the stored revenue $3.75M (= ₹17 Cr) is that share, not gross; no gross figure to replace it, left as is; Telugu, not in BOI"},
+ {"tmdb_movie_id": 139887, "budget_inr_crore": 0.2, "revenue_inr_crore": 0.1075, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1055", "revenue": "https://boxofficeindia.com/movie.php?movieid=1055", "verdict": "https://boxofficeindia.com/movie.php?movieid=1055"},
+  "notes": "No Wiki article ('Love, Wrinkle-free', Sandeep Mohan; DB tags Kannada, 2011-01-01) → BOI movieid=1055 'Love Wrinkle Free' (Hindi, director Sandeep Mohan, India release 25 May 2012 — festival-then-India date gap, director matches): Budget 20,00,000 (₹0.2 Cr), Worldwide Gross 10,75,000 with overseas $--- → India gross ₹0.1075 Cr, Disaster"},
+ {"tmdb_movie_id": 302927, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Deswa' (Nitin Chandra; Bhojpuri, DB tags English; released 9 Dec 2011): infobox budget/gross blank, no box-office wording; not in BOI; not found"}
+]

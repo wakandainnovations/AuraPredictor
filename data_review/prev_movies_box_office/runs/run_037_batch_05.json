@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 110963, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Documentary (Rakeysh Omprakash Mehra & Jeff Zimbalist; Tribeca/Cannes 2011); no Wiki article ('Bollywood: The Greatest Love Story Ever Told' 404); not in BOI; no box office; not found"},
+ {"tmdb_movie_id": 82909, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "'failed at the box office' (Wiki)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Nenu_Naa_Rakshasi"},
+  "notes": "Wiki 'Nenu Naa Rakshasi' (Puri Jagannadh): infobox budget/gross blank; lead 'The film released on 28 April 2011 to mixed reviews and failed at the box office' (uncited lead sentence) → flop; Telugu, not in BOI"},
+ {"tmdb_movie_id": 202719, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "'commercial failure in Kerala box office' (Wiki)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Doubles_(2011_film)"},
+  "notes": "Wiki 'Doubles (2011 film)' (Sohan Seenulal): infobox budget/gross blank; box-office section 'The film was commercial failure in Kerala box office but its Tamil version Puduvai Managaram was commercial success in Tamil Nadu', cited to TOI 'Mammootty's charity behind the success of Doubles' → flop for this (Malayalam) film; not in BOI"},
+ {"tmdb_movie_id": 263314, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Taryanche Bait' (Kiran Yadnyopavit; Marathi, DB tags English): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 198256, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Blockbuster (Wiki, Economic Times)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/China_Town_(2011_film)"},
+  "notes": "Wiki 'China Town (2011 film)' (Rafi Mecartin): lead 'the film was a blockbuster at the box office' and box-office section 'The Economic Times called it a \"blockbuster film\"' (ET, 21 May 2011) → hit. Budget: infobox ₹6 Cr vs box-office section ₹7 Cr, both cited to the same refs (IBN Live 'troublesome for Malayalam films', New Indian Express) — internal conflict, stored ₹6 Cr ($1.35M) left as is, flagged. Gross '₹9.2 Cr within one month' is a partial total → not stored; not in BOI"}
+]

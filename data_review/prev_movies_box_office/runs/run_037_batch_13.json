@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 55796, "budget_inr_crore": 5.0, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "'major success … blockbuster' (Wiki)",
+  "sources": {"budget": "http://www.tehelka.com/story_main50.asp?filename=hub090711The.asp", "verdict": "https://en.wikipedia.org/wiki/Mynaa"},
+  "notes": "Wiki 'Mynaa' (Prabhu Solomon): infobox budget ₹5 crore cited to Tehelka 'The new darlings of Kollywood' (9 Jul 2011) — confirms the stored $1.14M; lead 'Mynaa became a major success and ended as a blockbuster among the 2010 Diwali releases' → hit; no gross figure; Tamil, not in BOI"},
+ {"tmdb_movie_id": 316461, "budget_inr_crore": 0.004, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "http://www.outlookindia.com/article.aspx?264467"},
+  "notes": "Wiki 'The Untitled Kartik Krishnan Project' (Srinivas Sunderrajan; bulk search missed it, direct fetch): infobox budget '₹40,000 (1000 USD$)' cited to Outlook 'A Little Thrift' (8 Mar 2010) — confirms the stored $900 (micro-budget, not an error); festival film (Berlin Asian Hot Shots, MIFF), no gross, no verdict; not in BOI"},
+ {"tmdb_movie_id": 1511183, "budget_inr_crore": 5.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "http://www.sify.com/movies/three-kannada-films-to-be-released-next-week-news-kannada-kkwlzIibfaasi.html"},
+  "notes": "Wiki 'Veera Parampare' (S. Narayan): infobox budget ₹5 Cr cited to Sify 'Three Kannada films to be released next week' — confirms the stored $1.13M; no gross, no box-office wording; Kannada, not in BOI"},
+ {"tmdb_movie_id": 330218, "budget_inr_crore": 5.75, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Four_Friends_(2010_film)"},
+  "notes": "Wiki 'Four Friends (2010 film)' (Saji Surendran): infobox budget ₹5.75 crore (ref 'budget'; also stated in the lead) — confirms the stored $1.29M; no gross, no box-office wording; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 135223, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Cocktail (2010 film)' (Arun Kumar Aravind): infobox budget/gross blank; the article itself describes a controversy — Sify box-office analysis 'did not do well' vs Expressbuzz 'sleeper hit'/'dream run' → verdict conflict, NULL; Malayalam, not in BOI; not found"}
+]

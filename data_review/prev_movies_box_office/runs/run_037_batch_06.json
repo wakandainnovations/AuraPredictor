@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 72582, "budget_inr_crore": 4.5, "revenue_inr_crore": 0.285, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=782", "revenue": "https://boxofficeindia.com/movie.php?movieid=782", "verdict": "https://boxofficeindia.com/movie.php?movieid=782"},
+  "notes": "Wiki 'Monica (2011 film)' (Sushen Bhatnagar): stub, infobox budget/gross blank → BOI movieid=782 'Monica' (2011, Hindi, 25 Mar 2011): Budget 4,50,00,000 (₹4.5 Cr), Worldwide Gross 28,50,000 with overseas $--- → India gross ₹0.285 Cr, Disaster; not in the BH 2011 table"},
+ {"tmdb_movie_id": 796872, "budget_inr_crore": 3.0, "revenue_inr_crore": 0.54, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI); Flop (BH 2011)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=784", "revenue": "https://boxofficeindia.com/movie.php?movieid=784", "verdict": "https://boxofficeindia.com/movie.php?movieid=784"},
+  "notes": "Wiki 'Happy Husbands (2011 film)' (Hindi, director Anay Sharma — the DB director 'Jaiveer' is a character name; same film, 25 Mar 2011): infobox budget/gross blank → BOI movieid=784 (director Anay, 25 Mar 2011): Budget 3,00,00,000 (₹3 Cr), Worldwide Gross 54,00,000 with overseas $--- → India gross ₹0.54 Cr, Disaster; BH 2011 table: Flop, lifetime ₹0.36 Cr nett — agrees"},
+ {"tmdb_movie_id": 282600, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Rakta Patham' 404; search returns only an actor bio); Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 63661, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Singam Puli' (Sai Ramani): infobox budget/gross blank, no box-office wording (the 'average run'/'massive hit' lines belong to the actor Singampuli's article); Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 214970, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Payyans' (Leo Thaddeus): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"}
+]
