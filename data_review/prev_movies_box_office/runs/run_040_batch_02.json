@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 76968, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "major commercial success", "sources": {"verdict": "https://en.wikipedia.org/wiki/Thimiru"}, "notes": "Wiki 'Thimiru' (Tarun Gopi; Vishal; 4 Aug 2006): infobox budget/gross blank; lead 'became a major commercial success' cited to TOI '15 Years of Thimiru' (2021-08-04) → hit; Tamil, not in BOI"},
+ {"tmdb_movie_id": 964228, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Abhimanyu (2006 film)' (Swapan Saha; Mithun Chakraborty; 4 Aug 2006): infobox budget/gross blank, no box-office wording; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 774571, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Bhalobasar Anek Naam' (Tarun Majumdar; Bengali 2006; search returns only cast pages, direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 66510, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Madrasi (2006 film)' (Arjun; Wiki release 17 Feb 2006): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 605857, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Aai Shappath..!' (Sanjay Soorkar; Marathi 2006; search returns only cast pages, direct fetch 404); not in BOI; not found"}
+]
