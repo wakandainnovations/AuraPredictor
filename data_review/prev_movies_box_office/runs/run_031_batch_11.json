@@ -1,0 +1,59 @@
+[
+ {
+  "tmdb_movie_id": 463293,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 11,
+  "revenue_scope": "unknown",
+  "verdict": "hit",
+  "verdict_label": "sleeper hit",
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Meyaadha_Maan",
+   "verdict": "https://en.wikipedia.org/wiki/Meyaadha_Maan"
+  },
+  "notes": "Wiki 'Meyaadha Maan': 'The film was a sleeper hit at the box office' → hit; 'In its opening week it collected over Rs.6.15 crore and collected over Rs 11 crore in its overall domestic collection' (cited TOI 'Small-budget films that made a mark in 2017', a year-end piece) → ₹11 Cr lifetime domestic, stated as 'over' (lower bound), gross/nett not stated → scope unknown. Budget blank; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 476450,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Chennaiyil Oru Naal 2' has no budget/gross and no box-office wording (figures on the search hit 'Chennaiyil Oru Naal' are the 2013 film); Tamil, not in BOI; not found"
+ },
+ {
+  "tmdb_movie_id": 478747,
+  "budget_inr_crore": 10,
+  "revenue_inr_crore": 45.3,
+  "revenue_scope": "worldwide",
+  "verdict": "hit",
+  "verdict_label": "commercial blockbuster",
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Mahanubhavudu",
+   "revenue": "https://en.wikipedia.org/wiki/Mahanubhavudu",
+   "verdict": "https://en.wikipedia.org/wiki/Mahanubhavudu"
+  },
+  "notes": "Wiki 'Mahanubhavudu': budget ₹10 crore (cited TOI), gross '{{Estimation}} ₹45.3 crore' cited to IBTimes 'Tollywood in 2017: 15 highest grossing Telugu movies of the year' (17 Dec 2017, end of run) → both confirmed (stored $1,531,100 / $6,935,883 reproduce them); 'was a commercial blockbuster' → hit. Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 456567,
+  "budget_inr_crore": 31,
+  "revenue_inr_crore": 14.76,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=3607",
+   "revenue": "https://en.wikipedia.org/wiki/Bhoomi_(2017_film)",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=3607"
+  },
+  "notes": "Wiki 'Bhoomi (2017 film)': budget blank; gross ₹14.76 crores cited to BH 'Worldwide collections and day wise break up of Bhoomi' dated 23 Sep 2017 (the day after release) → per run 29 practice replaced with BOI movieid=3607 (live page checked): Budget 31,00,00,000 (₹31 Cr), India gross 12,03,00,000, overseas $515,000, Worldwide 15,37,75,000 → ₹15.3775 Cr WW (old $2,276,211 = ₹14.76 Cr); BOI Disaster → flop (BH 2017 table: nett 10.63 Cr, Flop — agrees) | CORRECTED after batch 18: revenue reverted to Wiki ₹14.76 Cr ($2,276,211) — correction of run 31 batch 11: Wiki 'Bhoomi (2017 film)' gross ₹14.76 Cr (cited BH worldwide day-wise page, a full-run WW figure above BOI India gross) is a cited Wiki figure within ~4% of BOI WW ₹15.3775 Cr → keep Wikipedia per source priority (consistent with Sachin: A Billion Dreams in batch 18); BOI value noted"
+ },
+ {
+  "tmdb_movie_id": 524188,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Cockpit (2017 film)' has no budget/gross and no box-office verdict ('disaster' in the lead is the genre — a disaster film); stored tmdb budget $219,900 unverified, left as is; Bengali, not in BOI; not found"
+ }
+]

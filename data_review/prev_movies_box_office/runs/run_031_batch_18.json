@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 484914, "budget_inr_crore": null, "revenue_inr_crore": 0.1475, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3642", "verdict": "https://boxofficeindia.com/movie.php?movieid=3642"},
+  "notes": "No Wikipedia article for 'Ram Ratan' (search returns Prem Ratan Dhan Payo etc.). BOI movieid=3642 (live page checked; 'Ram (Rishi Bhutani)' — the Daisy Shah film, BOI release 3 Nov 2017 vs DB 2017-06-12): Budget --, India gross 14,75,000, overseas $--- → ₹0.1475 Cr india_gross; Disaster → flop (BH 2017: 03 Nov 2017, nett 0.05 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 475942, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Aroni Tokhon' (Bengali, Sourav Chakraborty; search returns only a cast page); not in BOI; not found"},
+ {"tmdb_movie_id": 454952, "budget_inr_crore": null, "revenue_inr_crore": 0.195, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3538", "verdict": "https://boxofficeindia.com/movie.php?movieid=3538"},
+  "notes": "Wiki 'Sweetiee Weds NRI' has no budget/gross. BOI movieid=3538 (live page checked): Budget --, India gross 19,50,000, overseas $--- → ₹0.195 Cr india_gross; Disaster → flop (BH 2017: nett 0.15 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 401552, "budget_inr_crore": 39, "revenue_inr_crore": 76.86, "revenue_scope": "worldwide", "verdict": "avg", "verdict_label": "Average",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sachin:_A_Billion_Dreams", "revenue": "https://en.wikipedia.org/wiki/Sachin:_A_Billion_Dreams", "verdict": "https://boxofficeindia.com/movie.php?movieid=3532"},
+  "notes": "Wiki 'Sachin: A Billion Dreams': budget ₹39 crores (cited; BOI Budget 39,00,00,000 agrees) → confirms stored $6,040,577; gross '{{estimation}} ₹76.86 Cr' cited to BH 'Worldwide Collections and Day wise breakup' (cite dated 27 May, i.e. creation date — the figure is a full-run WW well above BOI India gross) → cited Wiki kept, confirms stored $11,904,584; BOI movieid=3532 (live page checked) WW 64,95,15,000 (₹64.95 Cr; India gross 54.18 Cr, overseas $1,670,000) differs by ~15% → noted, not used. Verdict: BOI Average and BH 2017 Average (nett 50.89 Cr) → avg; no Wiki verdict"},
+ {"tmdb_movie_id": 499895, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Bhamashah' (2017, Vikram Nath Gupta; search empty); not in BOI or the BH 2017 table; not found"}
+]

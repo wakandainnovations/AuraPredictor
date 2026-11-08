@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 408634, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mannar Vagaiyara' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 480158, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nimir' infobox budget/gross blank, no verdict wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 498479, "budget_inr_crore": null, "revenue_inr_crore": 1.26, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3702", "verdict": "https://boxofficeindia.com/movie.php?movieid=3702"},
+  "notes": "Stored revenue $8,448,300 is wrong: the Wiki 'Vodka Diaries' infobox reads '₹1.26 crore (US$8,448,300 in 2023 terms)' — a broken inflation template, and the stored value took the dollar figure. ₹1.26 Cr (cited to the BH movie page) equals BOI movieid=3702 India gross 1,26,00,000 (live page checked; overseas $---, budget --) → corrected to ₹1.26 Cr india_gross. BOI Disaster → flop (BH 2018: nett 1.29 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 507728, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'GujjuBhai: Most Wanted' (released 23 Feb 2018): gross '{{Estimation}} ₹10 crore' cited to a Webdunia Gujarati piece; the body says 'In first two weeks, the film collected ₹10 crore' → a running total; stored $1,575,673 left as is (flagged, not confirmed). No budget, no verdict wording; Gujarati, not in BOI"},
+ {"tmdb_movie_id": 496321, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Eeda' infobox budget/gross blank, no verdict wording; stored tmdb revenue $126,500 unverified, left as is; Malayalam, not in BOI; not found"}
+]

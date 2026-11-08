@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 526984, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Happy New Year (2017 film)' (Kannada) has no budget/gross and no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 457829, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Gemini' (2017 Malayalam, P K Baburaj; search returns only cast/list pages); not in BOI; not found"},
+ {"tmdb_movie_id": 464123, "budget_inr_crore": null, "revenue_inr_crore": 0.0175, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3518", "verdict": "https://boxofficeindia.com/movie.php?movieid=3518"},
+  "notes": "No Wikipedia article for 'Ajab Singh ki Gazab Kahani' (search empty). BOI movieid=3518 'Ajab Singh Ki Gazab Kahani' (live page checked): Budget --, India gross 1,75,000, overseas $--- → ₹0.0175 Cr india_gross; Disaster → flop (BH 2017 'Ajab Singh Ki Gajab Kahani': nett 0.04 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 1330716, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Raaga (film)' has no budget/gross and no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 457326, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sathya (2017 Malayalam film)' has no budget/gross and no box-office wording; not in BOI; not found"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 535372, "budget_inr_crore": null, "revenue_inr_crore": 0.40, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3770", "verdict": "https://boxofficeindia.com/movie.php?movieid=3770"},
+  "notes": "Wiki 'Angrezi Mein Kehte Hain (film)' has no budget/gross. BOI movieid=3770 (live page checked): Budget --, India gross 40,00,000, overseas $--- (WW repeats India gross) → ₹0.40 Cr india_gross; Disaster → flop (BH 2018: nett 0.27 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 495503, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Iravukku Aayiram Kangal' infobox budget/gross blank, no verdict wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 596088, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Lagna Mubarak' (Marathi; search hits only Sanskruti Balgude); not in BOI; not found"},
+ {"tmdb_movie_id": 522621, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chanakya Thanthram' has no budget/gross and no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 714731, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Copy' (2018, Arindam Sil, Vikrant Massey; search returns only Vikrant Massey / unrelated films); not in BOI or the BH 2018 table; not found"}
+]

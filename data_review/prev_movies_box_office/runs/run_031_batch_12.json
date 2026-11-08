@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 474575, "budget_inr_crore": null, "revenue_inr_crore": 0.1175, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3597", "verdict": "https://boxofficeindia.com/movie.php?movieid=3597"},
+  "notes": "Wiki 'Sameer (film)' (NYIFF premiere May 2017, India release 8 Sep 2017) has no budget/gross. BOI movieid=3597 (live page checked): Budget --, India gross 11,75,000, overseas $--- → ₹0.1175 Cr india_gross; Disaster → flop (BH 2017: nett 0.03 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 474955, "budget_inr_crore": null, "revenue_inr_crore": 10.8, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"revenue": "https://www.thehansindia.com/posts/index/Cinema/2017-11-22/Yuddham-Sharanam-Final-Collections-Report/340825"},
+  "notes": "Bulk search missed it; Wiki 'Yuddham Sharanam' fetched directly: gross '{{Estimation}} ₹10.8 crore' cited to The Hans India 'Yuddham Sharanam Final Collections Report' (22 Nov 2017); that page: 'The worldwide share of the film is 5.43 crores whereas the gross is 10.8 crore rupees' → WW gross, confirms stored $1,689,553. Only 'failed to meet the expectations of the audiences' — not a verdict → NULL. Budget blank; Telugu, not in BOI"},
+ {"tmdb_movie_id": 474958, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Meda Meeda Abbayi' has no budget/gross and no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 455032, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kurangu Bommai' infobox budget/gross blank, no verdict wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 558685, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mugulu Nage' has no budget/gross and no box-office wording; Kannada, not in BOI; not found"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1183131, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Crony' (2017 Kannada, Abhilash Shetty; search empty); not in BOI; not found"},
+ {"tmdb_movie_id": 472471, "budget_inr_crore": null, "revenue_inr_crore": 0.93, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2017/"},
+  "notes": "Bulk search empty; Wiki 'Sniff (film)' fetched directly: budget/gross blank, no box-office wording. No BOI page (not in boi_index.csv). BH 2017 year table: 'Sniff !!!' 25 Aug 2017, opening 0.10, weekend 0.60, week 1 0.86, lifetime 0.93 (nett), Flop → ₹0.93 Cr india_net, flop"},
+ {"tmdb_movie_id": 591900, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chhaya O Chhobi' has no budget/gross and no box-office wording; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 465029, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'E (2017 film)' has no budget/gross and no box-office wording; stored tmdb budget $310,000 unverified, left as is; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 470934, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Kachha Limbu' (Marathi, Prasad Oak; search empty, 'Kaccha_Limbu' / 'Kachcha_Limbu' empty); not in BOI; not found"}
+]

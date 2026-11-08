@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 510404, "budget_inr_crore": 1, "revenue_inr_crore": 1.95375, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=3732", "revenue": "https://boxofficeindia.com/movie.php?movieid=3732", "verdict": "https://boxofficeindia.com/movie.php?movieid=3732"},
+  "notes": "Wiki 'Dil Juunglee' budget blank; gross ₹1.30 crore cited to the BH movie box-office page = BH lifetime nett (BH 2018 table 1.30, Flop) → replaced (run 30 practice) with BOI movieid=3732 (live page checked): Budget 1,00,00,000 (₹1 Cr), India gross 1,47,00,000, overseas $75,000, Worldwide 1,95,37,500 → ₹1.95375 Cr WW (old stored $199,971 = the nett); Disaster → flop (BH Flop agrees)"},
+ {"tmdb_movie_id": 1650832, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Heegondhu Dina' (released 30 Mar 2018) has no budget/gross and no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 507040, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Raa Raa (2018 film)' infobox budget/gross blank, no verdict wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 620606, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Bulk search empty; Wiki 'Rakshas (film)' (Raakshas, Marathi, dir Dnyanesh Zoting, 23 Feb 2018) found by direct fetch — budget blank, no gross, only critics' reviews; not in BOI; not found"},
+ {"tmdb_movie_id": 500723, "budget_inr_crore": null, "revenue_inr_crore": 13.25, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Awe_(film)", "verdict": "https://en.wikipedia.org/wiki/Awe_(film)"},
+  "notes": "Wiki 'Awe (film)': gross ₹13.25 crore cited to IBTimes 'Tollywood box office report of 2018 … List of hits and flops' (10 Sep 2018, ~7 months after release) → end-of-run, confirms stored $2,058,638 (scope taken as WW); lead: 'went on to become a commercial success at the box office' → hit. Budget blank; Telugu, not in BOI"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 467765, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aami' infobox budget/gross blank, no verdict wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 493103, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kalakalappu 2' has no budget/gross and no box-office verdict (the 'commercial success' / ₹6.5 Cr budget belong to the 2012 'Kalakalappu'); Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 500500, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box-office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Inttelligent"},
+  "notes": "Bulk search missed it; Wiki 'Inttelligent' fetched directly: budget/gross blank; Box office: 'became a box-office bomb, collecting a share of ₹3.65 crore after being sold for ₹27 crore' (cited The Hans India final report, 10 Mar 2018) → flop; the ₹3.65 Cr is a distributors' share, not stored. Telugu, not in BOI"},
+ {"tmdb_movie_id": 655021, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Pahelo Divas' (Gujarati; search hits only the Gujarati 2018 list); not in BOI; not found"},
+ {"tmdb_movie_id": 1628274, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Test Drive' (2018, Sameer Chand, Ashutosh Rana; search returns War (2019) etc., direct 'Test_Drive_(2018_film)' 404); not in BOI or BH 2018; not found"}
+]

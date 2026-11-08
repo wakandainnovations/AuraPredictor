@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 412101, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Gemini Ganeshanum Suruli Raajanum' has no budget/gross and no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 812862, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Mirzaa' (2017, Ilmaz Syed, Rahul Dev; search empty, 'Mirzaa_(film)' empty); not in BOI (only 'Mirza Juuliet', a different film) or the BH 2017 table; not found"},
+ {"tmdb_movie_id": 945345, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'The Hungry Stones' (2017 Bengali, Shayon Maitra; search returns only cast pages); not in BOI; not found"},
+ {"tmdb_movie_id": 444540, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "sleeper hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Ivan_Thanthiran"},
+  "notes": "Wiki 'Ivan Thanthiran': 'released on 30 June 2017 to positive reviews and eventually became a sleeper hit success' → hit. Infobox budget/gross blank; Tamil, not in BOI"},
+ {"tmdb_movie_id": 420055, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "failed at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Anbanavan_Asaradhavan_Adangadhavan"},
+  "notes": "Wiki 'Anbanavan Asaradhavan Adangadhavan': 'released on 23 June 2017 to negative critical reviews, and failed at the box office' → flop. Infobox budget/gross blank; stored tmdb budget $5.9M unverified, left as is; Tamil, not in BOI"}
+]

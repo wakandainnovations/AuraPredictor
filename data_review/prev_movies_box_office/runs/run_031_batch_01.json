@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 528914, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Shivu Paru' (search hits only the Kannada 2018 list); Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 576466, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aa Bb Kk' (Marathi) has no budget/gross fields and no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 528765, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Raju Gadu' infobox budget/gross blank, no verdict wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 521080, "budget_inr_crore": null, "revenue_inr_crore": 0.5463, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3776", "verdict": "https://boxofficeindia.com/movie.php?movieid=3776"},
+  "notes": "Wiki 'Bioscopewala' has no budget/gross (TIFF 2017 premiere, India release 25 May 2018). BOI movieid=3776 (live page checked): Budget --, India gross 49,25,000, overseas $8,000, Worldwide 54,63,000 → ₹0.5463 Cr WW; verdict Disaster → flop (BH 2018 table: nett 0.55 Cr, Flop — agrees)"},
+ {"tmdb_movie_id": 478473, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kaali (2018 film)' infobox budget/gross blank, no verdict wording; one web search found only an IMDb user list ('flop') and early Twitter reactions — not usable; Tamil, not in BOI; not found"}
+]
