@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1436660, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ramam Raghavam' (Dhanraj Koranani; Samuthirakani; 21 Feb 2025): blank infobox, reviews only; sacnilk only 7 days (₹35 L) → partial; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1438006, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only the Bengali 2025 list); sacnilk only 7 days (₹4 L) → partial; not in BOI"},
+ {"tmdb_movie_id": 1503562, "budget_inr_crore": null, "revenue_inr_crore": 0.18, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Chattuli_2025"}, "notes": "No Wiki article (only the Malayalam 2025 list); sacnilk 'Chattuli' India gross ₹18 L (19 days, till 11 Mar 2025; overseas —); no verdict; not in BOI"},
+ {"tmdb_movie_id": 1011861, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (festival film; search returned only general pages); no sacnilk page; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 1411540, "budget_inr_crore": null, "revenue_inr_crore": 0.40, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/2K_Love_Story_2025"}, "notes": "Wiki '2K Love Story' (Suseenthiran; Jagaveer; 14 Feb 2025): blank infobox, Aha/Prime from 14 Mar 2025; sacnilk India gross ₹40 L (9 days, till 22 Feb 2025, ended at ₹1 L/day; overseas —); no verdict; Tamil, not in BOI"}
+]

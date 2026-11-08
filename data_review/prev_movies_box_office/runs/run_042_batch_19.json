@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1711955, "budget_inr_crore": null, "revenue_inr_crore": 0.13, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Unlock_Raghava_2025"}, "notes": "No Wiki article (only the Kannada 2025 list); sacnilk 'Unlock Raghava' India gross ₹13 L (11 days, till 17 Feb 2025; overseas —); no verdict; not in BOI"},
+ {"tmdb_movie_id": 1410632, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk only 7 days (₹11 L) → partial; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1420505, "budget_inr_crore": null, "revenue_inr_crore": 3.25, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Majhail_2025"}, "notes": "Wiki 'Majhail (film)' (Dheeraj Rattan; Dev Kharoud; 31 Jan 2025): blank infobox, no verdict; sacnilk India gross ₹3.25 Cr (42 days, till 13 Mar 2025; overseas —); Punjabi, not in BOI"},
+ {"tmdb_movie_id": 1427163, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ring Ring (2025 film)' (Shakthivel; Vivek Prasanna; 31 Jan 2025): blank infobox; sacnilk only 3 days (₹3 L) → partial; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1481409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search matched 'Middle Class (film)' 2025 Tamil and 'Middle Class Melodies' — different films, rejected); no sacnilk page; not in BOI; not found"}
+]
