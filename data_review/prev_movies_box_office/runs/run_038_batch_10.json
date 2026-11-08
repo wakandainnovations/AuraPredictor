@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 79352, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Vamanan' (I. Mueenuddin Ahmed, Tamil 2009; search returns unrelated films, 'Vamanan' is a different article, 'Vamanan (film)' / '(2009 film)' 404); not in BOI; not found"},
+ {"tmdb_movie_id": 151875, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ee Pattanathil Bhootham' (Johny Antony; Mammootty): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 86607, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "'an average grosser in its initial release' / 'had an average run at the box office' (Wiki)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Oy!_(film)"},
+  "notes": "Wiki 'Oy! (film)' (Anand Ranga; Siddharth; 3 Jul 2009): infobox budget/gross blank; lead 'Although the film was an average grosser in its initial release, it gained a strong cult following' (uncited) and reception 'The film had an average run at the box office' (cited only to a 2023 YouTube interview) → avg (weak cites noted); 2024 re-release figures not used; Telugu, not in BOI; budget/revenue not found"},
+ {"tmdb_movie_id": 252582, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Sukhaant' (Sanjay Soorkar, Marathi 2009 with Atul Kulkarni; DB tags English; direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 151637, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "'a commercial success … one of the highest-grossing films of the year' (Wiki, Sify Kerala box office)",
+  "sources": {"verdict": "http://www.sify.com/movies/boxoffice.php?id=14906803&cid=14625530"},
+  "notes": "Wiki 'Bhramaram' (Blessy; Mohanlal; 25 Jun 2009): infobox budget/gross blank; lead 'The film was a commercial success and was one of the highest-grossing films of the year', cited to Sify 'Kerala Box-office (July 25-Aug 25)' (archived) → hit; Malayalam, not in BOI; budget/revenue not found"}
+]

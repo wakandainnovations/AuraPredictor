@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1609777, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Boond' (Abhishek Pathak, Hindi 2009; search returns only actor/list pages, 'Boond (2009 film)' 404); BOI 'Boond' (movieid=706) is the 2001 film — false hit, not used; not in BH 2009 table. Stored tmdb budget $9,998 is implausible/unverified (flagged, left); not found"},
+ {"tmdb_movie_id": 322941, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Anthony Yaar?' (C. T. Pandi): infobox budget/gross blank, reviews only; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 269728, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ainthaam Padai' (Badri): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 491631, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vedigundu Murugesan' (A. Govindamoorthy): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 331060, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Winter (2009 film)' (Deepu Karunakaran): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"}
+]

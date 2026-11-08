@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 224958, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rajadhi Raja (2009 film)' (Sakthi Chidambaram; Wiki release 15 May 2009, DB 2009-09-30): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 1734859, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kannukulle' (Lena Moovendhar): infobox blank; box office section only 'took a below average opening at the Chennai box office' — an opening, not a lifetime verdict → NULL; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 237717, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Loudspeaker (2009 film)' (Jayaraj; Mammootty): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 977408, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "'Eenadu' is the Telugu version of the bilingual 'Unnaipol Oruvan (2009 film)' (Chakri Toleti); that article's infobox budget/gross are blank and it gives no Telugu-version box-office figure or verdict; not in BOI; not found"},
+ {"tmdb_movie_id": 22157, "budget_inr_crore": 1.75, "revenue_inr_crore": 0.065, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1114", "revenue": "https://boxofficeindia.com/movie.php?movieid=1114", "verdict": "https://boxofficeindia.com/movie.php?movieid=1114"},
+  "notes": "Wiki 'Mohandas (2008 film)' (Mazhar Kamran; SAIFF Oct 2008, India release 4 Sep 2009): infobox budget/gross blank → BOI movieid=1114 'Mohandas (2009) Hindi': Budget 1,75,00,000 (₹1.75 Cr), Worldwide Gross 6,50,000 with overseas $--- → India gross ₹0.065 Cr, Disaster; not in BH 2009 table"}
+]

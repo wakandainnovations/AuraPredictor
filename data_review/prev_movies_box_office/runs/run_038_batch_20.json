@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1425760, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Andhra Andagadu' (Sudha Kongara Prasad, Telugu 2008, Krishna Bhagavan; DB tags English; search returns only crew/actor pages, direct fetch 404); not in BOI; not found"},
+ {"tmdb_movie_id": 79334, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jayamkondaan' (R. Kannan; Vinay; 29 Aug 2008): infobox budget/gross blank; 'successful due to straightforward narration' is a review of the script, not box office → NULL; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 263906, "budget_inr_crore": 8.0, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Nayagan_(2008_film)"},
+  "notes": "Wiki 'Nayagan (2008 film)' (Saravana Sakthi; J. K. Rithesh): infobox budget ₹8 crore (ref 'AudioLaunch') — confirms the stored $1,842,435; gross blank. 'Nayagan was not a success, but Rithesh gained significant attention' (Cinema Express obituary, 2019) — 'not a success' is not a stated verdict → NULL; Tamil, not in BOI; revenue not found"},
+ {"tmdb_movie_id": 1512159, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kodagana Koli Nungitha' (Victory Vasu; Jaggesh; Wiki release 14 Nov 2008, DB 2008-08-22): infobox budget/gross blank, no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 115267, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Baladoor' (K. R. Udhayashankar; Ravi Teja; 14 Aug 2008; DB spells 'Baladur'): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"}
+]

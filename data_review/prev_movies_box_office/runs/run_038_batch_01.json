@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 215304, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thanthonni' (George Varghese; released 18 Mar 2010): infobox budget/gross blank, only reviews (Rediff 'a disappointment'), no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 338704, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nayakan (2010 film)' (Lijo Jose Pellissery): infobox budget/gross blank, reception section is reviews only; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 608962, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Yagam (2010 film)' (P. A. Arun Prasad): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 79353, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "'failed at the box office' (Wiki, TOI 3 Jun 2010)",
+  "sources": {"verdict": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/The-hide-seek-in-Tollywood/articleshow/6003362.cms"},
+  "notes": "Wiki 'Aval Peyar Thamizharasi' (Meera Kathiravan; DIFF premiere Dec 2009, theatrical 5 Mar 2010): infobox budget/gross blank; lead and release section 'the film failed at the box office', cited to TOI 'The hide & seek in Tollywood!' (3 Jun 2010, three months after release) → flop; Tamil, not in BOI; budget/revenue not found"},
+ {"tmdb_movie_id": 340730, "budget_inr_crore": 18.0, "revenue_inr_crore": 1.8125, "revenue_scope": "worldwide", "verdict": "flop", "verdict_label": "Disaster (BOI); Flop (BH 2010)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=120", "revenue": "https://boxofficeindia.com/movie.php?movieid=120", "verdict": "https://boxofficeindia.com/movie.php?movieid=120"},
+  "notes": "Wiki 'Sadiyaan' (Raj Kanwar; released 2 Apr 2010 — DB date 2010-03-02): infobox budget/gross blank → BOI movieid=120 'Sadiyaan (2010) Hindi': Budget 18,00,00,000 (₹18 Cr), India Gross 70,00,000 + Overseas $250,000 → Worldwide Gross 1,81,25,000 (₹1.8125 Cr), Disaster; BH 2010 table: 02 Apr 2010, Flop, lifetime ₹0.69 Cr nett — verdicts agree"}
+]

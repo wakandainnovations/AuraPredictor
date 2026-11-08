@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1181130, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mooru Guttu Ondu Sullu Ondu Nija' (Dinesh Baboo; 6 Nov 2009): infobox budget/gross blank, no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 113512, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Virgin Goat' (Murali Nair, 2009; search returns only actor/list pages, direct fetch 404); not in BOI index (no title match) or BH 2009 table; not found"},
+ {"tmdb_movie_id": 66226, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "'became a commercial success' (Wiki lead)",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Kanden_Kadhalai"},
+  "notes": "Wiki 'Kanden Kadhalai' (R. Kannan; Jab We Met remake): infobox budget/gross blank; lead 'The film was released on 30 October 2009 and became a commercial success' (uncited lead sentence, as accepted in runs 33/37) → hit; Tamil, not in BOI; budget/revenue not found"},
+ {"tmdb_movie_id": 256783, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Love Kaa Taddka' (Rajan Waghdhare, 2009; search returns only actor pages, direct fetch 404); not in BOI index or BH 2009 table; not found"},
+ {"tmdb_movie_id": 405991, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Angel John' (S. L. Puram Jayasurya; 22 Oct 2009): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"}
+]
