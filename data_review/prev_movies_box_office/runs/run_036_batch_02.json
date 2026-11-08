@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 965691, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returns Sunny Leone / Sunny Deol pages); no director in DB; looks like a non-theatrical Sunny Leone title; not in BOI / BH 2013; not found"},
+ {"tmdb_movie_id": 161037, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Puthagam': infobox budget/gross blank; body 'poor opening ... ₹3.5 lakh in the first week' is a week-1 figure (not stored) and 'poor opening' is not a verdict; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 156990, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Saadi Love Story': infobox budget/gross blank, no box-office wording; Punjabi, not in BOI; not found"},
+ {"tmdb_movie_id": 158744, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nee Ko Njaa Cha' infobox gross ₹2.35 crore is uncited (stored $427,612 ≈ that figure) — not confirmed, flagged; no box-office wording (Sify review 'verdict: Average' is a review rating, not box office); Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 925635, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kamina (film)' (Lakshmikanth Chenna; released 13 Sep 2013, DB 2013-01-01): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"}
+]

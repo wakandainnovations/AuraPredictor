@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 938753, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returns Son of Sardaar); not in BOI index, not in BH 2012/2013 tables; not found"},
+ {"tmdb_movie_id": 517409, "budget_inr_crore": 1, "revenue_inr_crore": 0.027, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1212", "revenue": "https://boxofficeindia.com/movie.php?movieid=1212", "verdict": "https://boxofficeindia.com/movie.php?movieid=1212"},
+  "notes": "Wiki 'Hansa (film)' infobox budget/gross blank (PVR Director's Rare release 28 Dec 2012) → BOI movieid=1212: Budget 1,00,00,000 (₹1 Cr) replaces the stored wikidata value 12,780; Worldwide Gross 2,70,000 with overseas $--- → India gross ₹0.027 Cr; verdict Disaster; BH 2012 table: lifetime ₹0.01 Cr, Flop (agrees)"},
+ {"tmdb_movie_id": 196801, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Yamudiki Mogudu (2012 film)' (E. Satti Babu): infobox budget/gross blank, no box-office wording (the 'major success'/'Industry Hit' lines belong to the 1988 Chiranjeevi film); Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 207920, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mithunam (2012 film)': infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 180015, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Matinee (2012 film)': infobox budget/gross blank, no box-office wording (only song YouTube views); Malayalam, not in BOI; not found"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1400295, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Luck Luck Ki Baat': Infobox television — a Disney Channel India TV film (remake of The Luck of the Irish), no theatrical release → no box office"},
+ {"tmdb_movie_id": 430193, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Accident (2012 film)' (Nandita Roy / Shiboprosad Mukherjee): infobox budget/gross blank, no box-office wording; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 135542, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Trivandrum_Lodge"},
+  "notes": "Wiki 'Trivandrum Lodge' lead: 'It was a commercial success at the box office' (cited to IBNLive 'Run Baby Run to Trivandrum Lodge … back-to-back hits') → hit; Sify 'below average' is a review verdict; infobox budget/gross blank, only a UK gross of $1,887 (not stored); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 146658, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chaarulatha' (Kannada/Tamil bilingual): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 1158813, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Hindi version of Bidyut Kotoky's 'Ekhon Nedekha Nodir Xhipare' (Assamese); that article's '{{Estimation}} ₹1 crore' gross is for the Assamese film and marked an estimate — not stored; no own article; not in BOI / BH 2012; not found"}
+]

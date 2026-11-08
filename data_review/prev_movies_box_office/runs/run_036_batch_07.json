@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 146847, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Paagan': infobox budget/gross blank; box-office section gives only a first-week ₹15.4 lakh (Behindwoods) and 'below average opening' — partial and not a verdict; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 271416, "budget_inr_crore": 3.5, "revenue_inr_crore": 0.2, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1047", "revenue": "https://boxofficeindia.com/movie.php?movieid=1047", "verdict": "https://boxofficeindia.com/movie.php?movieid=1047"},
+  "notes": "Wiki 'Chal Pichchur Banate Hain' infobox budget/gross blank → BOI movieid=1047 (7 Sep 2012): Budget 3,50,00,000 (₹3.5 Cr), Worldwide Gross 20,00,000 with overseas $--- → India gross ₹0.20 Cr, Disaster; BH 2012: lifetime ₹0.07 Cr, Flop (agrees)"},
+ {"tmdb_movie_id": 128207, "budget_inr_crore": null, "revenue_inr_crore": 0.48, "revenue_scope": "india_net", "verdict": "flop", "verdict_label": "Flop (BH)",
+  "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/", "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2013/"},
+  "notes": "Wiki 'Ship of Theseus (film)': TIFF 6 Sep 2012, India theatrical release 19 Jul 2013 (UTV / Kiran Rao); infobox budget/gross blank, no box-office wording; not in BOI index; BH 2013 table row 'Ship Of Theseus | 19 Jul 2013 | 0.05 | 0.25 | 0.48 | 0.48 | Flop' → lifetime nett ₹0.48 Cr, Flop (India release is ~10 months after the DB date)"},
+ {"tmdb_movie_id": 138078, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shirdi Sai': infobox budget/gross blank, only review lines; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 245178, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "moderate commercial hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Paglu_2"},
+  "notes": "Wiki 'Paglu 2': 'The film grossed financially well' cited to TOI (1 Apr 2019) 'Sujit Mandal has given us moderate commercial hits like Paglu 2 …' → avg ('moderate hit' → avg, as Chandrettan Evideya in run 7); the Paglu article's uncited 'Paglu 2 was also a hit' noted; infobox gross blank; stored tmdb revenue $970,000 unverified — flagged, left; Bengali, not in BOI"}
+]

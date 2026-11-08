@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 179349, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Madirasi': infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 181256, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki '101 Weddings': infobox budget/gross blank; body gives only a UK gross of $301 (not stored); no verdict wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 127870, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'The Bright Day' (Mohit Takalkar; festival film); not in BOI / BH 2012; not found"},
+ {"tmdb_movie_id": 267522, "budget_inr_crore": 2, "revenue_inr_crore": 0.075, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1025", "revenue": "https://boxofficeindia.com/movie.php?movieid=1025", "verdict": "https://boxofficeindia.com/movie.php?movieid=1025"},
+  "notes": "Wiki 'Chhodo Kal Ki Baatein' (Hindi; released 12 Apr 2012, DB 2012-11-15) infobox budget/gross blank → BOI movieid=1025 (13 Apr 2012): Budget ₹2 Cr, Worldwide Gross 7,50,000 with overseas $--- → India gross ₹0.075 Cr, Disaster; BH 2012: lifetime ₹0.12 Cr, Flop (agrees)"},
+ {"tmdb_movie_id": 171384, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Denikaina_Ready"},
+  "notes": "Wiki 'Denikaina Ready' lead: 'It was a commercial success at the box office' (uncited; name filter skipped the page, read directly) → hit; infobox budget blank, gross blank; Telugu, not in BOI"}
+]

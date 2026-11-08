@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 178314, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "critical and commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Shutter_(2012_film)"},
+  "notes": "Wiki 'Shutter (2012 film)' (Joy Mathew; IFFK 9 Dec 2012, theatrical 22 Feb 2013 — DB date 2012-02-22): 'The film was a critical and commercial success' (cited to Khaleej Times 'The best of Malayalam cinema in 2013') → hit; infobox budget/gross blank; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1437535, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'According To Plan A' (Anuj Nijhawan); not in BOI / BH 2012; not found"},
+ {"tmdb_movie_id": 91833, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Poola Rangadu (2012 film)' infobox gross ₹50 crore = body '₹500 million after 50 days … Movie makers have released a press note' (supergoodmovies) — a producer's 50-day claim, not a trade total; stored $10,146,718 matches it — flagged, left; the 'blockbuster' / 'Blockbuster Super Hit movie. 100days Running Successfully' lines are uncited promotional text → verdict NULL; stored tmdb budget $200,000 unverified — flagged; Telugu, not in BOI"},
+ {"tmdb_movie_id": 625871, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki \"Father's Day (2012 film)\": infobox budget/gross blank, only review lines; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 111563, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Marina (2012 film)' (Pandiraj): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"}
+]

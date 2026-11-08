@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 197368, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "box office success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Hemlock_Society_(film)"},
+  "notes": "Wiki 'Hemlock Society (film)' lead: 'It emerged as a box office success' (cited to a Bollywood Hungama Srijit Mukherji interview on the Killbill Society sequel — weak cite) → hit; infobox budget/gross blank; Bengali, not in BOI"},
+ {"tmdb_movie_id": 308098, "budget_inr_crore": 1.75, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "success … started a new wave; ran sixteen weeks",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Kevi_Rite_Jaish", "verdict": "https://en.wikipedia.org/wiki/Kevi_Rite_Jaish"},
+  "notes": "Wiki 'Kevi Rite Jaish' infobox budget ₹1.75 crore (Sadhana Weekly, 2015) → confirms stored $316,198; gross blank; lead 'The success of the film started a \"new wave\" in Gujarati cinema' (cited to Economic Times) and body 'prints increased from 34 to 60 in the second week … completed sixteen weeks' (cited to the BOI trade magazine) → hit; Gujarati, not in BOI index"},
+ {"tmdb_movie_id": 120149, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Spirit (2012 film)': infobox budget/gross blank; 'performed well at the box office and completed 125 days theatrical run in Kerala' — 'performed well' is not a stated verdict (cf. run 35 Kutti Puli) → NULL; stored tmdb budget $598,500 unverified — flagged, left; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 153860, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Endukante Premanta': infobox budget/gross blank, no box-office wording; stored tmdb budget $3.6M unverified — flagged, left; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 389199, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Those City Girls' (Subrata Sen, Bengali 2012); not in BOI; not found"}
+]

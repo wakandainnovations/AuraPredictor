@@ -1,0 +1,15 @@
+[
+ {"tmdb_movie_id": 117369, "budget_inr_crore": 7.5, "revenue_inr_crore": 2.44, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1111", "revenue": "https://boxofficeindia.com/movie.php?movieid=1111", "verdict": "https://boxofficeindia.com/movie.php?movieid=1111"},
+  "notes": "Wiki 'Arjun: The Warrior Prince' (UTV animated film) infobox budget/gross blank, only reviews → BOI movieid=1111 (25 May 2012): Budget 7,50,00,000 (₹7.5 Cr), Worldwide Gross 2,44,00,000 with overseas $--- → India gross ₹2.44 Cr, Disaster; BH 2012 'Arjun – The Warrior Prince': lifetime ₹1.52 Cr, Flop (agrees)"},
+ {"tmdb_movie_id": 128930, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ishtam (2012 film)' (Prem Nizar): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 578345, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Jaaneman_(2012_film)"},
+  "notes": "Wiki 'Jaaneman (2012 film)' (Raja Chanda) lead: 'It became a blockbuster at the box office and ran more than 110 days in theatres' (uncited) → hit; infobox budget/gross blank; Bengali, not in BOI"},
+ {"tmdb_movie_id": 118832, "budget_inr_crore": 7, "revenue_inr_crore": 0.0365, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1030", "revenue": "https://boxofficeindia.com/movie.php?movieid=1030", "verdict": "https://boxofficeindia.com/movie.php?movieid=1030"},
+  "notes": "Wiki 'Mr. Bhatti on Chutti' infobox budget/gross blank → BOI movieid=1030 (18 May 2012): Budget 7,00,00,000 (₹7 Cr), Worldwide Gross 3,65,000 with overseas $--- → India gross ₹0.0365 Cr, Disaster; BH 2012: lifetime ₹0.01 Cr, Flop (agrees)"},
+ {"tmdb_movie_id": 108603, "budget_inr_crore": 1.5, "revenue_inr_crore": 0.039, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1035", "revenue": "https://boxofficeindia.com/movie.php?movieid=1035", "verdict": "https://boxofficeindia.com/movie.php?movieid=1035"},
+  "notes": "Wiki 'The Forest (2009 film)' (Ashvin Kumar; Cinequest 2009 premiere, India release 11 May 2012; search missed it, fetched directly): infobox budget/gross blank → BOI movieid=1035 (11 May 2012): Budget 1,50,00,000 (₹1.5 Cr), Worldwide Gross 3,90,000 with overseas $--- → India gross ₹0.039 Cr, Disaster; BH 2012: lifetime ₹0.11 Cr, verdict 'Pending' (no verdict)"}
+]

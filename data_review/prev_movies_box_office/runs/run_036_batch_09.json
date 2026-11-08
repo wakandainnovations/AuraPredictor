@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 250649, "budget_inr_crore": 20.1, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Uu_Kodathara%3F_Ulikki_Padathara%3F"},
+  "notes": "Wiki 'Uu Kodathara? Ulikki Padathara?' infobox budget ₹201 million (₹20.1 Cr, cited to an idlebrain Lakshmi Manchu interview) → confirms stored $3,636,416; gross blank; body 'the Telugu version's poor performance at the box office meant the Tamil version was not released' — 'poor performance' is not a stated verdict (cf. run 33 'performed poorly') → NULL; Telugu, not in BOI"},
+ {"tmdb_movie_id": 140895, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mullamottum Munthiricharum': infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 137344, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Namukku Parkkan' (Aji John): infobox budget/gross blank; 'rated as average by Sify and Rediff reviews' is a review rating, not box office; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 208625, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Celluloid Man': documentary on P. K. Nair (Il Cinema Ritrovato 26 Jun 2012, India 3 May 2013); infobox budget/gross blank, no box-office wording; not in BOI / BH; not found"},
+ {"tmdb_movie_id": 67635, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "had an average run at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Saguni"},
+  "notes": "Wiki 'Saguni' lead: 'released on 22 June 2012 to mixed reviews from critics and had an average run at the box office' (cited to TOI 'Karthi defends Saguni', 28 Jul 2012, five weeks after release) → avg; infobox budget/gross blank; Tamil, not in BOI"}
+]

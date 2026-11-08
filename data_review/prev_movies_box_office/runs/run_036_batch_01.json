@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 200013, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "commercial failure at the box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Ongole_Gittha"},
+  "notes": "Wiki 'Ongole Gittha' lead: 'released ... to negative reviews from critics and commercial failure at the box office' (uncited lead) → flop; infobox budget/gross blank; body '₹14.6 crore in 17 days' is a partial total and the same section says the producers were arrested for fake collections — not stored; Telugu, not in BOI"},
+ {"tmdb_movie_id": 578623, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returns only lists / unrelated pages); no director in DB; not in BOI / BH 2013; not found"},
+ {"tmdb_movie_id": 161252, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "semi-hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Tu_Mera_22_Main_Tera_22"},
+  "notes": "Wiki lead 'did good business at the box office, completing verdict of \"semi-hit\"' (cited to cinepunjab.com) → hit; Wiki body 'per Box Office Mojo estimates earned ₹4.8 million worldwide' (₹0.48 Cr) is a BOM figure, almost certainly overseas-only and at odds with a semi-hit — not stored, flagged; budget blank; Punjabi, not in BOI"},
+ {"tmdb_movie_id": 269671, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki search returned nothing; no article; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 162007, "budget_inr_crore": 7.5, "revenue_inr_crore": 13.5, "revenue_scope": "worldwide", "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Proprietors:_Kammath_%26_Kammath", "revenue": "https://en.wikipedia.org/wiki/Proprietors:_Kammath_%26_Kammath", "verdict": "https://en.wikipedia.org/wiki/Proprietors:_Kammath_%26_Kammath"},
+  "notes": "Wiki infobox gross ₹13.5 crore; body 'collected ₹13.5 crore worldwide' cited to Business Standard/IANS 'Comedies reaped gold for southern cinema (2013 In Retrospect)' → confirms stored $2,513,475; body 'Made on a budget of ₹7.5 crore' cited to Sify 'Kerala Box-Office (January/February 2013)' → budget filled; lead 'The film was a commercial success at the box office' (uncited) → hit; Malayalam, not in BOI"}
+]

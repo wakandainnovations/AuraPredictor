@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 187855, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Second Show' (Dulquer Salmaan debut): infobox budget/gross blank; Sify 'an above average film' is a review rating, not box office; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 804429, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Welcome Back Gandhi' redirects to 'Mudhalvar Mahatma' (Tamil, A. Balakrishnan, 30 Jan 2012; Welcome Back Gandhi is its Hindi dub, fetched directly): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 627420, "budget_inr_crore": 4, "revenue_inr_crore": 0.8, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Arakshaka", "revenue": "https://en.wikipedia.org/wiki/Arakshaka"},
+  "notes": "Wiki 'Arakshaka' infobox budget ₹4 crore and gross ₹0.80 crore, both cited to News18 'Sandalwood progress report of first half of 2012' (3 Jul 2012, five months after release) → confirm stored $804,314 / $160,863; no verdict wording; Kannada, not in BOI"},
+ {"tmdb_movie_id": 105504, "budget_inr_crore": 12, "revenue_inr_crore": 8, "revenue_scope": "worldwide", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Casanovva", "revenue": "https://en.wikipedia.org/wiki/Casanovva"},
+  "notes": "Wiki 'Casanovva' infobox budget ₹12 crore (New Indian Express) → confirms stored $2,394,851; box-office section 'The film grossed above 8 cr from worldwide box office. The movie lost around 1.8 crores of production budget' (cited to TOI e-paper, 14 Mar 2012, seven weeks after release) → revenue ₹8 Cr worldwide (stated as 'above' — a lower bound); 'collections tanked' / 'lost around 1.8 crores' is not a stated verdict (the 'huge flop' title is a blogspot source) → NULL; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 197837, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aparajita Tumi' (Aniruddha Roy Chowdhury; fetched directly): infobox budget/gross blank, no box-office wording; Bengali, not in BOI; not found"}
+]

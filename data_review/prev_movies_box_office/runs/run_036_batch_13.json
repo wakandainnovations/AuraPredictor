@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 214444, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Orange (2012 film)' (Biju Varkey): infobox budget/gross blank, no box-office wording (the 'box office failure' lines are the 2010 Telugu film); Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 665131, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ullam (2012 film)': 'after production delays failed to gain a theatrical release and was released straight to DVD in 2012' → no box office"},
+ {"tmdb_movie_id": 78634, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Sethu Samudhiram' (Sanjay Ram; Tamil, DB tags it English); not in BOI; not found"},
+ {"tmdb_movie_id": 748869, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pakarnnattam' (Jayaraj): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 94372, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "did well at box office to become a hit",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Ishq_(2012_film)"},
+  "notes": "Wiki 'Ishq (2012 film)': box-office section 'made with a budget of 7.8 crores and did well at box office to become a hit' (uncited) and lead 'only commercial success movie of Nithiin in 7 years' → hit; infobox budget ₹7.8 crore and gross '{{Estimation}} ₹20 crore' are uncited (stored $1,592,324 / $4,082,882 match them) — not confirmed, flagged, left; Telugu, not in BOI"}
+]

@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 322189, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maduve Mane' (Ganesh): infobox budget/gross blank, no box-office wording; Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 78438, "budget_inr_crore": 5.5, "revenue_inr_crore": 0.6325, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=875", "revenue": "https://en.wikipedia.org/wiki/Mod_(film)", "verdict": "https://boxofficeindia.com/movie.php?movieid=875"},
+  "notes": "Wiki 'Mod (film)' (Nagesh Kukunoor; name filter skipped it, read directly) infobox gross ₹63 lakh cited to BOI movieid=875 = BOI Worldwide Gross 63,25,000 with overseas $--- → confirms stored $128,834 as India gross ₹0.6325 Cr; Wiki budget blank → BOI Budget 5,50,00,000 (₹5.5 Cr); BOI verdict Disaster, BH 2011 table lifetime ₹0.51 Cr Flop (agree)"},
+ {"tmdb_movie_id": 78440, "budget_inr_crore": 33, "revenue_inr_crore": 2.45, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "boxoffice disaster (Wiki) / Disaster (BOI) / Flop (BH)",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Aazaan", "revenue": "https://en.wikipedia.org/wiki/Aazaan", "verdict": "https://boxofficeindia.com/movie.php?movieid=846"},
+  "notes": "Wiki 'Aazaan' infobox budget ₹330 million (₹33 Cr, cited to BOI movieid=846; note: includes P&A) → confirms stored $6,748,466; infobox gross '₹23 million–₹26 million' (BOI + BH cites) → midpoint ₹2.45 Cr (range rule; stored $531,697 was the range top ₹2.6 Cr → corrected); BOI's current page: India gross 2,63,00,000 (₹2.63 Cr, overseas $---), noted; Reception 'it was a boxoffice disaster', BOI Disaster, BH 2011 lifetime ₹2.31 Cr Flop → flop"},
+ {"tmdb_movie_id": 85818, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Pilla_Zamindar"},
+  "notes": "Wiki 'Pilla Zamindar' lead: 'a commercial success at the box office' (T2BLive 'Tollywood Top 10 … 2011') and Reception 'The film was successful at the box-office' (TOI 'Nani is thrilled with Pilla Zamindar's response', 15 Nov 2011, a month after release) → hit; infobox budget/gross blank; Telugu, not in BOI"},
+ {"tmdb_movie_id": 205401, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sandwich (2011 film)' (M. S. Manu; fetched directly): infobox budget/gross blank; 'Despite the film being unsuccessful …' (cited to a review page) — 'unsuccessful' is not a stated verdict → NULL; Malayalam, not in BOI; not found"}
+]

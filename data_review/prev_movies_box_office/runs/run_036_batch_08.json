@@ -1,0 +1,13 @@
+[
+ {"tmdb_movie_id": 941536, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Perumaan' (Tamil, Rajesh Kannan J; DB tags it English): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 148893, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Mr._Marumakan"},
+  "notes": "Wiki 'Mr. Marumakan' lead: 'Upon release, the film received positive reviews, and the film was commercial success' (uncited) → hit; infobox budget/gross blank; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 343881, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office disaster",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Etho_Seithai_Ennai"},
+  "notes": "Wiki 'Etho Seithai Ennai' lead: 'released on 17 August 2012 to negative reviews and became a box office disaster' (uncited) → flop; infobox budget/gross blank; Tamil, not in BOI"},
+ {"tmdb_movie_id": 154337, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Andala Rakshasi' infobox budget '₹1.5 crore–' and gross '₹12 crore–' are uncited and truncated ranges (dangling en-dash) — not stored, flagged; no box-office wording in the body; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 755450, "budget_inr_crore": 4.5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Godfather_(2012_film)"},
+  "notes": "Wiki 'Godfather (2012 film)' infobox budget ₹4.5 crore (filmibeat, 13 Aug 2012) → confirms stored $812,287; infobox gross ₹7 crore is cited to a kannada.filmibeat article dated 12 Aug 2012 (16 days after release) and the body says '>₹7.5 crore in two weeks … completed 50 days' → stored $1,263,557 is a running total — flagged, left; verdict self-conflict in the article ('performed moderately well', 'did moderate business overall' vs 'declared a \"blockbuster\"' / 'Super Hit') → NULL; Kannada, not in BOI"}
+]

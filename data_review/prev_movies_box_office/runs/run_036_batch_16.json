@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 83889, "budget_inr_crore": 40, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Businessman_(film)"},
+  "notes": "Wiki 'Businessman (film)' infobox budget ₹40 crore (Businessworld 'The South Side Story', 3 Jan 2013) → confirms stored $7,762,808; gross is inconsistent within the article — infobox '{{Estimation}} ₹72 crore' and lead 'over ₹72 crore in its original release' vs Reception 'over ₹90 crore in its lifetime', both cited to the same Cinema Express 2025 re-release news item → stored $13,973,054 (= ₹72 Cr) not confirmed, flagged, left; 'one of the highest-grossing Telugu films of 2012' is a ranking, the 'successful' line is the 2023 re-release → verdict NULL; Telugu, not in BOI"},
+ {"tmdb_movie_id": 146917, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kollaikaran': infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 232312, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Yamaho Yama' (Telugu, Jithender Yadagiri; released 14 Dec 2012, DB 2012-01-02): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 115430, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maharaja (2011 film)' (D. Manoharan): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 1366182, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki search returned nothing for '8aam Number Veedu'; no director in DB; not in BOI; not found"}
+]

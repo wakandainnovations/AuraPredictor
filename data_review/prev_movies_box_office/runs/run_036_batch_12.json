@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 214117, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Doctor Innocentanu': infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 373545, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; an adult video title (search returns the Sunny Leone filmography / Elegant Angel) — no theatrical release, no box office"},
+ {"tmdb_movie_id": 993232, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Calcutta Taxi' (Vikram Dasgupta); not in BOI / BH 2012; not found"},
+ {"tmdb_movie_id": 183082, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "failure at the box office / box office bomb",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/The_King_%26_the_Commissioner"},
+  "notes": "Wiki 'The King & the Commissioner' lead: 'The film was a failure at the box office' (cited to TOI photo feature 'Great Mollywood films that flopped at the box office'); 'The King (1995 film)' article: the sequel 'was panned by critics and became a box office bomb' → flop; infobox budget/gross blank; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 78843, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kazhugu (2012 film)' (Sathyasiva): infobox budget/gross blank, no box-office wording (the 'average grosser'/'failed' lines are the 1981 film); Tamil, not in BOI; not found"}
+]
