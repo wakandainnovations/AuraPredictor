@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 1192883, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Dhating Dhingana' (2013 Marathi, Mandar Devasthali; search returned cast/music pages, direct title 404); not in BOI; not found"},
+ {"tmdb_movie_id": 199857, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "successful at box office",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/David_%26_Goliath_(2013_film)"},
+  "notes": "= Wiki 'David & Goliath (2013 film)' (Rajeevnath, Jayasurya; released 22 Feb 2013). Lead: 'The movie was successful at box office.' (uncited sentence — weak cite; the refs just before it are pre-release previews, e.g. IBN Live 'expected to be a hit', and are not used) → hit. Infobox budget/gross blank; reviews negative (Rediff 'disappointing'); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1098801, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Onnorokom Bhalobasha' (2013 Bangladeshi Bengali film, Shaheen Shumon, Bappy Chowdhury / Mahiya Mahi; only a Bangladeshi year-list row, direct title 404); not Indian, not in BOI; not found"},
+ {"tmdb_movie_id": 307779, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Okkadine' (Srinivas Raga, Nara Rohit): infobox budget/gross blank; only satellite rights ₹4 crores (not box office); Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 795413, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Golemale Pirit Koro Na' (Anindya Banerjee): infobox budget/gross blank; 'As a whole, the film was an average' sits in the critical-reception paragraph (mixed reviews) — a review summary, not a box-office verdict → NULL; Bengali, not in BOI; not found"}
+]

@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 209863, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Best of Luck (2013 film)' (Punjabi, Gippy Grewal): infobox budget/gross blank, no box-office wording; not in BOI; not found"},
+ {"tmdb_movie_id": 412571, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Porichoi' (Rupali Guha): stub, infobox budget/gross blank, no box-office wording; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 528746, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Sweetheart' (2013 Bengali, Prodip Saha; search matched 'Sweetheart (2016 film)', a Bangladeshi film by Wazed Ali Sumon — wrong film, not used); not in BOI; not found"},
+ {"tmdb_movie_id": 410275, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Om 3D' lead: '…received mixed reviews from critics and became a box-office bomb' — but the sentence is cited only to an IBTimes trailer article dated 14 Jul 2013, before the 19 Jul release (pre-release cite, as with One Way Ticket in run 32) → NULL, flagged. Infobox budget/gross blank; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 208417, "budget_inr_crore": 30, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Sahasam_(2013_film)"},
+  "notes": "Wiki 'Sahasam (2013 film)' infobox budget ₹30 crores (idlebrain, 11 Jun 2013) → confirms stored $5,030,603. Infobox gross is '₹13.5 crores distributors' share' (andhraboxoffice total) — stored $2,263,772 (= ₹13.5 Cr) is a share, not gross; left (apply can't null), flagged. Verdict conflict within the article: lead 'a successful venture for its producers but a small loss venture for its distributors' vs 'declared as a Super Hit' (cited to idlebrain 15 Jul 2013, 3 days after release) → NULL. Telugu, not in BOI"}
+]

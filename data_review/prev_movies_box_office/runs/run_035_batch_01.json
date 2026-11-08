@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 546698, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Yuddham (2014 film)' (Bharathi Ganesh; search missed it, fetched directly): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 558693, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Yashwantrao Chavan: Bakhar Eka Vaadalaachi' (Marathi, Jabbar Patel): infobox budget/gross blank, no box-office wording; not in BOI / BH 2014; not found"},
+ {"tmdb_movie_id": 1690183, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Endrendrum' infobox budget '1C' / gross '25L' are uncited (and oddly formatted) — not stored, flagged; no box-office wording; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 256971, "budget_inr_crore": 4, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Jaatishwar"},
+  "notes": "Wiki 'Jaatishwar' infobox budget ₹4.0 crore (cited to IMDb business page) → confirms stored $647,089; gross blank; 'critically and commercially successful' refers to the album (soundtrack), not a box-office verdict; one web search found no trade figure; Bengali, not in BOI"},
+ {"tmdb_movie_id": 268479, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Happy Journey (2014 Malayalam film)': infobox budget/gross blank, no box-office wording (the ₹4 Cr gross belongs to the 2014 Marathi namesake); not in BOI; not found"}
+]

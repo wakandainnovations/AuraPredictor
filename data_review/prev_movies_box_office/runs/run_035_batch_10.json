@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 222981, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "= Wiki '6 (film)' ('6 Melugu Vathigal', V. Z. Durai, Shaam; released 20 Sep 2013): infobox budget/gross blank; 'received positive reviews' is critical, not box office; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 228914, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Narbachi Wadi' (Aditya Sarpotdar): infobox budget/gross blank, no box-office wording. Stored tmdb budget $272,000 unverified, left; Marathi, not in BOI; not found"},
+ {"tmdb_movie_id": 224409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ezhamathe Varavu' (Hariharan): infobox budget/gross blank; 'did not get a commercial release' refers to the original 1980s film; no box-office verdict; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 240823, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercially successful",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Potugadu"},
+  "notes": "Wiki 'Potugadu' lead: 'released on 14 September 2013 and was commercially successful at the box office' (uncited sentence — weak cite) → hit; box-office section 'biggest hit ever in Manoj's career' (cited to a 17-day collections page — ranking). Infobox gross is '₹8 crore distributors' share' (Tollywood top-10 list) — stored $1,263,676 (= ₹8 Cr) is a share, not gross; left (apply can't null), flagged. Budget blank; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1022419, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Swabhoomi' (2013 Bengali, Ujjal Chatterjee; only list rows, direct title 404); not in BOI; not found"}
+]

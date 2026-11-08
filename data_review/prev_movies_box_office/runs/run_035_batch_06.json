@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 241645, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Punyalan_Agarbattis"},
+  "notes": "Wiki 'Punyalan Agarbattis': 'It was both a commercial and critical success' cited to New Indian Express (11 Jan 2018, retrospective); lead 'commercial success at the box office' → hit. Infobox gross '₹7 crore (Kerala alone)' (IBTimes 2016) is a Kerala-only gross — stored $1,115,596 (= ₹7 Cr) is Kerala, not India/WW; left (apply can't null), flagged. Budget blank; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 246406, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "= Wiki 'Shabdo' (Kaushik Ganguly, Ritwick Chakraborty; Dubai fest Dec 2012, Kolkata release 12 Apr 2013). Infobox budget ₹7 million / gross ₹16 million are uncited (stored $111,560 / $254,993 reproduce them) — left, flagged as uncited; 'widely appreciated by reviewers' is not a verdict; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 211086, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Faith Connections' (Pan Nalin documentary on the Kumbh Mela; search unrelated, direct title 404); not in BOI / BH 2013. Stored tmdb budget $550,000 unverified, left; not found"},
+ {"tmdb_movie_id": 395061, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "'Naa Bangaaru Talli' redirects to Wiki 'Ente (film)' (Rajesh Touchriver; Malayalam Jan 2013, Telugu 21 Nov 2014): infobox budget/gross blank, reception is reviews/awards only; not in BOI; not found"},
+ {"tmdb_movie_id": 235990, "budget_inr_crore": 5, "revenue_inr_crore": 17, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Bhaji_in_Problem", "revenue": "https://en.wikipedia.org/wiki/Bhaji_in_Problem"},
+  "notes": "Wiki 'Bhaji in Problem' infobox budget ₹5 crores / gross ₹17 crores, both cited to India Today 'Going regional…' (13 Sep 2014, after the run) → confirms stored $795,130 / $2,703,443; scope not stated. No verdict wording; Punjabi, not in BOI"}
+]

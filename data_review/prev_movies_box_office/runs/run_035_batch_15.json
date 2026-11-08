@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 609961, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Adbhoot' (2013 Bengali, Sayantan Mukherjee; search returned cast pages / list, 'Adbhoot (2013 film)' 404); not in BOI; not found"},
+ {"tmdb_movie_id": 691728, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki \"Director's Special (film)\" (Guruprasad): infobox budget/gross blank; reviews only ('commercial relief' is about a song); Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 1189122, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kho-Kho (2013 film)' (Kedar Shinde): infobox budget/gross blank, no box-office wording; Marathi, not in BOI; not found"},
+ {"tmdb_movie_id": 198063, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kutti Puli' lead: 'opened to mixed reviews but performed well at the box office' (cited to an in.com review) — 'performed well' is not a stated verdict (as in earlier runs) → NULL. Infobox budget/gross blank; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 226080, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chukkalanti Ammayi Chakkanaina Abbayi' (Kanmani, Tarun; Telugu — DB language 'english' is wrong): infobox budget/gross blank, no box-office wording; not in BOI; not found"}
+]

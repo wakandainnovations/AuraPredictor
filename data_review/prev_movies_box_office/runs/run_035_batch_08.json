@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 222394, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Anwar Ka Ajab Kissa' (Buddhadev Dasgupta): premiered BFI London 17 Oct 2013, released on Eros Now 20 Nov 2020 (direct-to-streaming, no theatrical box office); infobox budget/gross blank; not in BOI / BH 2013; not found"},
+ {"tmdb_movie_id": 228962, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Idukki Gold (film)' (Aashiq Abu): infobox budget/gross blank, reviews only (Sify 'average' is a review rating). One web search: IBTimes opening report 'average collections' (opening weekend, not a verdict); filmibeat budget/box office TBA. Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 241120, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Doosukeltha': infobox budget/gross blank; box-office section 'Final worldwide earnings were ₹200.5 million' is cited to a Sakshi Post 'Doosukeltha 6th day collections' article (22 Oct 2013) — a day-6 running total, not stored, flagged; 'biggest hit ever in Vishnu Manchu's overseas career' is a ranking, not a verdict; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 256457, "budget_inr_crore": null, "revenue_inr_crore": 7.5, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"revenue": "https://en.wikipedia.org/wiki/Mishawr_Rawhoshyo"},
+  "notes": "= Wiki 'Mishawr Rawhoshyo' (Srijit Mukherji). Infobox gross ₹7.5 crore cited to The Telegraph '5 films that rocked the box office this year' (22 Dec 2013, year-end) → confirms stored $1,225,691; scope not stated. No verdict sentence in the article (the cite's headline is not quoted as a verdict) → NULL. Budget blank; Bengali, not in BOI"},
+ {"tmdb_movie_id": 230846, "budget_inr_crore": 1.75, "revenue_inr_crore": 7, "revenue_scope": "unknown", "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Fandry", "revenue": "https://en.wikipedia.org/wiki/Fandry"},
+  "notes": "Wiki 'Fandry' infobox budget ₹1.75 crore (Hindustan Times, 2016) and gross ₹7 crore (India Today 'Sold on substance', Jan 2016) → confirm stored $285,995 / $1,143,978; scope not stated. Festival premiere MIFF Oct 2013, India release 14 Feb 2014. No box-office verdict wording (awards only); Marathi, not in BOI"}
+]

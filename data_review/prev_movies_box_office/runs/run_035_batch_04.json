@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 265420, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Salalah Mobiles': infobox budget/gross blank; box-office section gives 'around 4 crores in the first two weeks' (indianmdb blog, partial running total — not stored) and UK $3,196; no verdict; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 738171, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Gandhi of the Month' (Kranti Kanadé, Harvey Keitel; search unrelated, direct title 404); not in BOI / BH 2014; not found"},
+ {"tmdb_movie_id": 246214, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercial and critical success",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Oru_Indian_Pranayakadha"},
+  "notes": "Wiki 'Oru Indian Pranayakadha' reception: 'The film was commercial and critical success' cited to The News Minute (30 Nov 2018, retrospective); lead 'sleeper hit' is {{citation needed}}; ran 125 days → hit. Gross '₹3.3 crore in 10 days' from Kerala (Sify) is a partial running total — not stored; budget blank; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 242640, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ivan Veramathiri': infobox budget/gross blank; box office only first day ₹2.5 Cr / first weekend ₹6.2 Cr (TN, partial) and '100 days-run in one theater' (not a verdict). Stored tmdb revenue $260,000 unverified (below the first-weekend figure — likely wrong), left, flagged; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 274139, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Rab Ton Sohna Ishq' (2013 Punjabi, Vicky J; only a list row, direct title 404); not in BOI; not found"}
+]

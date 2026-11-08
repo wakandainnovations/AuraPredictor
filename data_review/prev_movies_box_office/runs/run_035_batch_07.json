@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 303350, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chandi (film)' (V. Samudra, Priyamani; bulk search missed it, found with a second query): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 253230, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kadhaveedu' (Sohanlal): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 239318, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Angel of the Skies' (2013, Christopher-Lee dos Santos — South African WWII film; only the director's page; direct title 404); not Indian, not in BOI. Stored tmdb budget $30,000 unverified, left; not found"},
+ {"tmdb_movie_id": 509909, "budget_inr_crore": 1.5, "revenue_inr_crore": 0.09, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1656", "revenue": "https://boxofficeindia.com/movie.php?movieid=1656", "verdict": "https://boxofficeindia.com/movie.php?movieid=1656"},
+  "notes": "Wiki 'Dilli Gang' infobox budget/gross blank. BOI movieid=1656 (live page re-fetched = index): Budget 1,50,00,000 (₹1.5 Cr), India Gross 9,00,000 (₹0.09 Cr; overseas $--- so Worldwide = India gross), Total Nett 6,55,000, verdict Disaster → flop. BH 2013 table: Flop, lifetime ₹0.065 Cr (agrees)"},
+ {"tmdb_movie_id": 526657, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'For Sale' (2013 Malayalam, Sathish Ananthapuri; only a list row, 'For Sale (2013 film)' 404); not in BOI; not found"}
+]

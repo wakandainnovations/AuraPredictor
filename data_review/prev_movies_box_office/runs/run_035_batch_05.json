@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 327539, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Good Bad & Ugly' (V R Ratheesh Ram): infobox budget/gross blank, no box-office wording ('unsuccessful' refers to an actor's earlier films); Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 241563, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kalyana Samayal Saadham': infobox budget/gross blank; 'hugely successful' refers to the social-media campaign, not box office; Tamil, not in BOI; not found"},
+ {"tmdb_movie_id": 376062, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Just U & Me' (2013 Punjabi, Manduip Singh; search unrelated, direct titles 404); not in BOI; not found"},
+ {"tmdb_movie_id": 258913, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "flop",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Paisa_(2014_film)"},
+  "notes": "Wiki 'Paisa (2014 film)' lead: 'It was a flop at the box office' (uncited sentence — weak cite) → flop. Infobox budget ₹20 crores and gross '{{Estimation}} ₹22.34 crores' are both uncited (stored $3.26M / $3.64M reproduce them) — left, flagged as uncited. Released 7 Feb 2014 per Wiki (DB 2013-12-05). Telugu, not in BOI"},
+ {"tmdb_movie_id": 240074, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vidiyum Munn': infobox budget/gross blank; reviews only, no box-office wording; Tamil, not in BOI; not found"}
+]

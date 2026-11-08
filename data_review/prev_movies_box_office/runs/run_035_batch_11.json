@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 218197, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "average grosser",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Thanga_Meenkal"},
+  "notes": "Wiki 'Thanga Meenkal' lead: 'released on 30 August 2013, to positive reviews from critics but was considered an average grosser by box office analysts' cited to Sify 'Chennai Box-Office – September 6 to 9' (trade report, week 2) → avg. Infobox budget/gross blank; Tamil, not in BOI"},
+ {"tmdb_movie_id": 215775, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Jatt Boys Putt Jattan De' (2013 Punjabi; search returned cast pages / list, direct title 404); not in BOI; not found"},
+ {"tmdb_movie_id": 1337232, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Bangla Naache Bhangra' (2013 Bengali; search unrelated, direct title 404); not in BOI; not found"},
+ {"tmdb_movie_id": 243797, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "= Wiki 'Kamasutra: The Revenge' (Rupesh Paul's 'Kamasutra 3D', Sherlyn Chopra): in [[Category:Unreleased Hindi-language films]], infobox budget/gross blank — never released theatrically, no box office. Stored tmdb budget $35,000,000 unverified and implausible, left, flagged; not in BOI (index hits are other Kamasutra titles); not found"},
+ {"tmdb_movie_id": 148255, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aadhalal Kadhal Seiveer' (Suseenthiran): infobox budget/gross blank; release/reception sections are reviews only; Tamil, not in BOI; not found"}
+]

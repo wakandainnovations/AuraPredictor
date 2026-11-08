@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 546297, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Naa Rakumarudu' (T Satya; search returned nothing, fetched directly): infobox budget/gross blank, no box-office wording; Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 578973, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Taan (film)': infobox budget/gross blank, no box-office wording; Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 304384, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Obhishopto Nighty': infobox budget/gross blank, no box-office wording ('successful' is in the plot); Bengali, not in BOI; not found"},
+ {"tmdb_movie_id": 262489, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Salaam Kashmier' (Joshiy): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 335729, "budget_inr_crore": 25, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "blockbuster",
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Brahma_(2014_film)", "verdict": "https://en.wikipedia.org/wiki/Brahma_(2014_film)"},
+  "notes": "Wiki 'Brahma (2014 film)' infobox budget ₹25 crore (cited to chitraloka pre-production piece) → confirms stored $4,020,670. Box-office section: opening weekend ₹9.75 Cr (partial, not stored); 'It was declared a blockbuster by Box Office India as it ran for 50 days in 35 centres' (cited only to a BookMyShow person page — weak cite) → hit. No lifetime gross; Kannada, not in BOI index"}
+]

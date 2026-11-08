@@ -1,0 +1,9 @@
+[
+ {"tmdb_movie_id": 222978, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Up & Down: Mukalil Oralundu' (T. K. Rajeev Kumar): infobox budget/gross blank, no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 1655911, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Chitra I Love You' (2013 Telugu, Rahul Sankrityan; search returned only year lists, direct title 404) — likely a short; not in BOI; not found"},
+ {"tmdb_movie_id": 339167, "budget_inr_crore": 2, "revenue_inr_crore": 0.7, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1272", "revenue": "https://boxofficeindia.com/movie.php?movieid=1272", "verdict": "https://boxofficeindia.com/movie.php?movieid=1272"},
+  "notes": "Wiki \"I Don't Luv U\" infobox budget ₹2,00,00,000 / gross ₹70,00,000 are uncited (same numbers as BOI). BOI movieid=1272 (live page re-fetched = index): Budget 2,00,00,000 (₹2 Cr), India Gross 70,00,000 (₹0.70 Cr; overseas $---), Total Nett 51,50,000, verdict Disaster → flop. BH 2013 table: Flop, lifetime ₹0.45 Cr (agrees)"},
+ {"tmdb_movie_id": 190400, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Oonga (film)' (Devashish Makhija): premiered New York Indian Film Festival 3 May 2013; infobox budget/gross blank ('shot on a limited budget' only); no box office; not in BOI / BH 2013; not found"},
+ {"tmdb_movie_id": 116571, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Naan Rajavaga Pogiren' (Prithvi Rajkumar): infobox budget/gross blank, no box-office wording; Tamil, not in BOI; not found"}
+]

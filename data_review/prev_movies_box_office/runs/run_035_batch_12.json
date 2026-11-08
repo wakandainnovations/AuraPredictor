@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 605445, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jayammana Maga' (Vikas, Duniya Vijay): infobox budget/gross blank, no box-office wording ('commercial film directors' is about the director); Kannada, not in BOI; not found"},
+ {"tmdb_movie_id": 202796, "budget_inr_crore": 3.5, "revenue_inr_crore": 0.86, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1277", "revenue": "https://boxofficeindia.com/movie.php?movieid=1277", "verdict": "https://boxofficeindia.com/movie.php?movieid=1277"},
+  "notes": "CORRECTED. Wiki 'Zindagi 50-50' (released 24 May 2013) infobox budget ₹45 million is cited to an unrelated 2010 Business Standard 'Dabangg already a hit' article (miscite) and gross ₹110 million is uncited — stored $740,250 / $1,809,500 came from them. BH 2013 table: Flop, lifetime ₹0.38 Cr, far below the Wiki ₹11 Cr. BOI movieid=1277 (live page re-fetched = index): Budget 3,50,00,000 (₹3.5 Cr), India Gross 86,00,000 (₹0.86 Cr; overseas $---), Total Nett 63,20,000, verdict Disaster → flop (BH Flop agrees)"},
+ {"tmdb_movie_id": 236031, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "commercially well received",
+  "sources": {"verdict": "https://en.wikipedia.org/wiki/Proloy_(film)"},
+  "notes": "Wiki 'Proloy (film)' (Raj Chakraborty) lead: 'The film was critically and commercially well received' cited to TOI '7 years of Proloy' (retrospective) → hit. Infobox budget/gross blank; Bengali, not in BOI"},
+ {"tmdb_movie_id": 537639, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Abbai Class Ammai Mass' (Koneti Srinu; fetched directly): infobox budget/gross blank, no box-office wording ('successful' lines are plot); Telugu, not in BOI; not found"},
+ {"tmdb_movie_id": 964929, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "= Wiki 'Silk Sakkath Hot' (Trishul, Veena Malik; poster 'Silk Sakkath Maga'): infobox budget/gross blank; only 'reported to have housefull theaters' (Indian Express, 5 Aug 2013 — opening weekend, not a verdict); Kannada, not in BOI; not found"}
+]

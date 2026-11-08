@@ -1,0 +1,11 @@
+[
+ {"tmdb_movie_id": 174877, "budget_inr_crore": 5, "revenue_inr_crore": null, "verdict": null,
+  "sources": {"budget": "https://en.wikipedia.org/wiki/Gundello_Godari"},
+  "notes": "Wiki 'Gundello Godari' infobox budget ₹5 Crore (timesofap.com) → confirms stored $920,839. Gross blank; box office only opening-day occupancy and '₹5 Crores in its opening weekend' (partial); 'got positive response at the box office' is not a verdict → NULL. Telugu, not in BOI"},
+ {"tmdb_movie_id": 204419, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lucky Star (2013 film)' infobox budget '2.6cr' / gross '12 cr' are uncited (stored $478,836 / $2,210,014 reproduce them) — left, flagged as uncited; no box-office wording; Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 465153, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wikipedia article for 'Pakaram' (2013 Malayalam, Sreevallabhan; only list rows, direct titles 404); not in BOI; not found"},
+ {"tmdb_movie_id": 194008, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rebecca Uthup Kizhakkemala' (Sundar Das): infobox budget/gross blank, no box-office wording (Rediff 'disappoints' is a review); Malayalam, not in BOI; not found"},
+ {"tmdb_movie_id": 342066, "budget_inr_crore": 1.5, "revenue_inr_crore": 0.0825, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster",
+  "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1267", "revenue": "https://boxofficeindia.com/movie.php?movieid=1267", "verdict": "https://boxofficeindia.com/movie.php?movieid=1267"},
+  "notes": "No Wikipedia article for 'Bin Phere Free Me Tere' (search unrelated). BOI 'Bin Phere Free Me Ttere' movieid=1267 (released 3 May 2013; DB date 2013-03-05 looks day/month-swapped; live page re-fetched = index): Budget 1,50,00,000 (₹1.5 Cr), India Gross 8,25,000 (₹0.0825 Cr; overseas $---), Total Nett 6,50,000, verdict Disaster → flop. BH 2013 table: Flop, lifetime ₹0.03 Cr (agrees)"}
+]
