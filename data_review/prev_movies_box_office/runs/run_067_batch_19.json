@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 324513, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Paalai': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 132546, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Playoff (film)': budget $25 million is uncited — the stored $25,000,000 is that value; not confirmed. No gross, no verdict wording. Israeli/German film, not in BOI"},
+ {"tmdb_movie_id": 80237, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vithagan': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 180358, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Hero Hitler in Love': blank budget/gross, no box-office wording. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 94987, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sri Rama Rajyam': gross '₹72 crore (India)' cited to tollyrevenue.com 'Total Collections' (fan site, 2013) — the stored $14,052,756 (≈ ₹72 Cr) is that value; not confirmed (flagged, left). Lead 'became a commercial success' is cited to TOI 'Sri Rama Rajyam in demand' (13 Nov 2011, pre-release); '50 days in 49 centres' is not a verdict → NULL. Telugu, not in BOI"}
+]

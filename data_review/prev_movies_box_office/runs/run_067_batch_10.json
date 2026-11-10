@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1321437, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Prasad (2012 film)': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 1506361, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Narasimha (2012 film)': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 1242475, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Wiki 'Afternoon' is the time of day). Not in BOI index (exact/fuzzy)"},
+ {"tmdb_movie_id": 146925, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maasi (film)': blank budget/gross, no box-office wording. Tamil, not in BOI (fuzzy hit 'Mai' 2013 is a different film)"},
+ {"tmdb_movie_id": 286398, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Macho Mustanaa': gross {{INRConvert|1.4|c}} is uncited — the stored $280,926 (≈ ₹1.4 Cr) is that value; not confirmed (flagged, left). No verdict wording. Bengali, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 420507, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Siva Manasulo Sruthi' (= SMS): blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 1142447, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'AK 56': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 1180254, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Parijatha': blank budget/gross, no box-office wording ('a musical hit' is about the soundtrack → NULL). Kannada, not in BOI"},
+ {"tmdb_movie_id": 281614, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in the 2012 Telugu list only). Telugu, not in BOI"},
+ {"tmdb_movie_id": 578297, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Bengali, not in BOI"}
+]

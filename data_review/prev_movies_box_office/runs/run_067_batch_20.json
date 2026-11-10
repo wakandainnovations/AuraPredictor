@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 78637, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Tamil, not in BOI"},
+ {"tmdb_movie_id": 111057, "budget_inr_crore": 2.75, "revenue_inr_crore": 0.155, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1160", "revenue": "https://boxofficeindia.com/movie.php?movieid=1160", "verdict": "https://boxofficeindia.com/movie.php?movieid=1160"}, "notes": "Wiki 'Gattu': blank budget/gross (festival premiere 14 Nov 2011 = DB date; India release 20 Jul 2012). BOI 1160 ('Gattu', 20 Jul 2012, Hindi, dir Rajan Khosa = DB): Disaster, budget ₹2,75,00,000, India/WW gross ₹15,50,000 (overseas $---) → filled, flop. BH 2012: Flop, ₹0.23 Cr nett (agrees)"},
+ {"tmdb_movie_id": 1434655, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Veeraputhran': blank budget/gross, no box-office wording (Wiki release 14 Oct 2011). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 200297, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rajanna': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 81163, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thambi Vettothi Sundaram': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

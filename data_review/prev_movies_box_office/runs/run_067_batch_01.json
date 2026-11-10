@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 167467, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Marathi film, tagged English; only a row in the 2012 Marathi list / Subodh Bhave roles). not in BOI"},
+ {"tmdb_movie_id": 168242, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Eppadi Manasukkul Vanthai': blank budget/gross, no box-office wording (Nowrunning 'average masala story' is a review). Tamil, not in BOI"},
+ {"tmdb_movie_id": 262579, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Panithuli': blank budget/gross, no box-office wording. Tamil; BOI carries only the 2014 Hindi version 'Tum Ho Yaara' (2471, used in run 64) → not stored for the Tamil film"},
+ {"tmdb_movie_id": 267690, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Gramam': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 143785, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'box-office bomb'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Simhasanam_(2012_film)"}, "notes": "Wiki 'Simhasanam (2012 film)': blank budget/gross. Lead 'received negative reviews from critics and became a box-office bomb' (uncited) and 'Despite Simhasanam being a disaster' → flop. Malayalam, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 115270, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Leelai': blank budget/gross, no box-office wording (released two years after completion). Tamil, not in BOI"},
+ {"tmdb_movie_id": 264998, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Tamil, not in BOI"},
+ {"tmdb_movie_id": 170663, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aduthathu': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 77089, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'major commercial success'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Oru_Kal_Oru_Kannadi"}, "notes": "Wiki 'Oru Kal Oru Kannadi': infobox 'See below'. Box office: Sify H1-2012 report (7 Jul 2012) budget ₹13 Cr / WW gross ~₹25 Cr vs IANS 2012 retrospective (24 Apr 2013) cost under ₹2 Cr / gross over ₹15.86 Cr (Tamil + Telugu dub) — the two sources disagree on both fields → neither stored (flagged). Lead 'was deemed a major commercial success' → hit. Tamil, not in BOI"},
+ {"tmdb_movie_id": 137404, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Cobra (2012 film)': blank budget/gross, no box-office wording (Sify 'average' is a review rating → NULL). Malayalam, not in BOI"}
+]

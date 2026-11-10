@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 308233, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Onamalu': blank budget/gross, no box-office wording (Telugu film, tagged English). not in BOI"},
+ {"tmdb_movie_id": 531048, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in the 2012 Telugu list only). Telugu, not in BOI"},
+ {"tmdb_movie_id": 137497, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 277831, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'surprise box office success, 100 days'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Appu_and_Pappu"}, "notes": "Wiki 'Appu and Pappu' (dir R. Anantharaju, Master Snehith — same film; Wiki dates it 17 Sep 2010 vs DB 8 Jun 2012): blank budget/gross. 'became a surprise success and ran for 100 days at the box-office' / 'surprise box office success', cited to \"'Appu Pappu' scores 100\" (29 Dec 2010) → hit. Kannada, not in BOI"},
+ {"tmdb_movie_id": 1462356, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Crazy Loka': blank budget/gross, no box-office wording (review 'average' lines only). Kannada (tagged English), not in BOI"}
+]
