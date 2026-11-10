@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 263497, "budget_inr_crore": 5.0, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Yaamirukka_Bayamey"}, "notes": "Wiki 'Yaamirukka Bayamey': budget ₹5 crore (Sify cite) — stored $835,686 reproduces it → confirmed. Box-office section gives only the TN opening weekend (₹2.42 Cr) and a first-week total — partial, not stored. Sify 'Yaamirukku Bayamey is a super hit!' is dated 18 May 2014 (day 9, a week-1 report) → verdict NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 269632, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in the 2014 Tamil list only; DB tags it English). Not in BOI"},
+ {"tmdb_movie_id": 269820, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki \"God's Own Country (2014 film)\": blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 541225, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Siddhant (film)' 404; search hits actor pages). Marathi film (dir Vivek Wagh) tagged Hindi; not in BOI index or BH 2014 table"},
+ {"tmdb_movie_id": 1428654, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article found (search hits unrelated Jungle titles); stored tmdb budget $1,000 left. Not in BOI"}
+]

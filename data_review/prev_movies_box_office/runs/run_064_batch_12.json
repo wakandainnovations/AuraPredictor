@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 259171, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Silent Mountain' (Austrian/Italian WWI film, English-language): blank budget/gross. 'a box-office success in Austria and Italy' is cited only to a moviedisclosure.com review and is country-specific → verdict NULL. Not in BOI"},
+ {"tmdb_movie_id": 260630, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Marumugam': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 270478, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Konthayum Poonoolum': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 551864, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jeeya Jurir Xubax': blank budget/gross, no box-office wording. Assamese, not in BOI"},
+ {"tmdb_movie_id": 397277, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dhag' (Pune fest 2012, India 7 Mar 2014): blank budget/gross, no box-office wording. Marathi, not in BOI"}
+]

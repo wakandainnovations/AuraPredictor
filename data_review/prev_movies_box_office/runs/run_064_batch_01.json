@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 263476, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Saivam': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 278259, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Athithi (2014 film)': blank budget/gross. Deccan Chronicle 'Above Average' is a review rating (28 Jun 2014), not box office → verdict NULL. Tamil, not in BOI (fuzzy hit 'Kaththi' is a different film)"},
+ {"tmdb_movie_id": 279280, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Enna Satham Indha Neram': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 310989, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Monayi Angane Aanayi' 404; search hits cast pages only). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 270782, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vetri Selvan': blank budget/gross, no box-office wording (reviews only). Tamil, not in BOI"}
+]

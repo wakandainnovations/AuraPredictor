@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 260791, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Virattu': blank budget/gross, no box-office wording ('average reviews' only). Tamil, not in BOI"},
+ {"tmdb_movie_id": 1364533, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Nangna Sityam' 404; search hits Veena Malik). Telugu, not in BOI"},
+ {"tmdb_movie_id": 261055, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Praise the Lord (film)': blank budget/gross, no box-office wording (reviews only). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 331306, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('My Dear Mummy' 404). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1426050, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article found (search hits unrelated 2014 films); stored tmdb budget $26,250 left. Not in BOI"}
+]
