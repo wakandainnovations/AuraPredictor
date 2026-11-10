@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 730177, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits Malayalam year lists only). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1186074, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits cast page only). Marathi, not in BOI"},
+ {"tmdb_movie_id": 282520, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chathrigalu Saar Chathrigalu': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 1039053, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dehorokkhi': blank budget/gross, no box-office wording. Bangladeshi, not in BOI"},
+ {"tmdb_movie_id": 181929, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'Blockbuster'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Gunde_Jaari_Gallanthayyinde"}, "notes": "Wiki 'Gunde Jaari Gallanthayyinde': gross '{{Estimation}} ₹22 crore distributors' share' (T2BLive) — the stored revenue ($4.04M ≈ ₹22 Cr) is that share (flagged, left); body '₹25.09 crores' is cited to '2 Week's Collections' (4 May 2013) — partial, not stored. 'The film was a Blockbuster at the box office' (cites 'GJG has a superb weekend' 22 Apr 2013, 'Telugu cinema toasts new directors' 2017) → hit. Telugu, not in BOI"}
+]

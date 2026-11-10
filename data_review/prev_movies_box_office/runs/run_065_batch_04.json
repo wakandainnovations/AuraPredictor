@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 989883, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Samhita (film)': blank budget/gross, no box-office wording. Marathi, not in BOI"},
+ {"tmdb_movie_id": 1764296, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sakkare' (Kannada 2013, dir Abhaya Simha; tagged English): blank budget/gross, no box-office wording. not in BOI"},
+ {"tmdb_movie_id": 504372, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'blockbuster'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Purno_Doirgho_Prem_Kahini"}, "notes": "Wiki 'Purno Doirgho Prem Kahini' (Bangladeshi): gross BDT 3.5 crore (uncited, BDT — script can't convert) → not stored. 'The film was a blockbuster at the box office' cited to 'PDPK blockbuster hit' (27 Oct 2013) and 'Eid films attract more viewers' (25 Oct 2013); ran 100 days → hit. Not in BOI"},
+ {"tmdb_movie_id": 551022, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits cast pages only). Punjabi, not in BOI"},
+ {"tmdb_movie_id": 258686, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits the 2013 Marathi list and cast pages). Marathi (tagged English), not in BOI"}
+]

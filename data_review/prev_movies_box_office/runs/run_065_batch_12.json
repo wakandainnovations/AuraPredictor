@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 495309, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Alik Sukh': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 227235, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits Hridaynath Mangeshkar only). Marathi (tagged English), not in BOI"},
+ {"tmdb_movie_id": 824126, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits cast pages only). Not in BOI or BH 2013"},
+ {"tmdb_movie_id": 230100, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Buddy (2013 Indian film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 152795, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 356172, "revenue_scope": "worldwide", "verdict": null, "sources": {"revenue": "https://en.wikipedia.org/wiki/The_Congress_(2013_film)"}, "notes": "Wiki 'The Congress (2013 film)': gross $356,172 (Box Office Mojo) matches stored → confirmed; budget €8 million cited only to IMDb (and EUR) → not stored. No verdict wording. Israeli/European film, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 624072, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits generic pages). Pakistani Urdu, not in BOI"},
+ {"tmdb_movie_id": 361521, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returned nothing; French music documentary). Not in BOI"},
+ {"tmdb_movie_id": 184788, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Daddy Cool Munde Fool': blank budget/gross; only the opening-week ₹2.60 Cr (partial, not stored); no verdict. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 180682, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercially successful'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Kedi_Billa_Killadi_Ranga"}, "notes": "Wiki 'Kedi Billa Killadi Ranga': blank budget/gross. Lead 'opened to positive reviews ... and was commercially successful' (uncited lead line; Sify 'decent opening') → hit. Tamil, not in BOI"},
+ {"tmdb_movie_id": 241119, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aravind 2': blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

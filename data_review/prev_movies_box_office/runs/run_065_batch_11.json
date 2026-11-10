@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 210924, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "Wiki 'above average hit' (Sify Chennai BO)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Sonna_Puriyathu"}, "notes": "Wiki 'Sonna Puriyathu': blank budget/gross. 'finally declared as an above average hit in the boxoffice' cited to Sify 'Chennai Box-Office – Aug 2 to 4' (6 Aug 2013, weekly trade verdict) → avg (Above Average). Tamil, not in BOI"},
+ {"tmdb_movie_id": 254725, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Time Please': blank budget/gross, no box-office wording. Marathi, not in BOI"},
+ {"tmdb_movie_id": 282523, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mangana Kaiyalli Manikya' (Kannada, tagged English): blank budget/gross, no box-office wording. not in BOI"},
+ {"tmdb_movie_id": 943584, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits cast pages only). Bengali, not in BOI"},
+ {"tmdb_movie_id": 225547, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kevvu Keka': blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

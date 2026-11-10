@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 243629, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kalimannu': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 263977, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dalam': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 410305, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Adda (2013 film)': blank budget/gross, no box-office wording. Telugu, not in BOI (fuzzy hit 'D Day' is a different film)"},
+ {"tmdb_movie_id": 1176001, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits the actor Govinda). Marathi, not in BOI"},
+ {"tmdb_movie_id": 190847, "budget_inr_crore": null, "revenue_inr_crore": null, "budget_usd": 10600000, "revenue_usd": 187191, "revenue_scope": "worldwide", "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/The_Last_Days_on_Mars", "revenue": "https://en.wikipedia.org/wiki/The_Last_Days_on_Mars"}, "notes": "Wiki 'The Last Days on Mars': budget $10.6 million (The Numbers), gross $187,191 (Box Office Mojo) — both match stored → confirmed. No verdict wording (reviews only). Irish/British film, not in BOI"}
+]

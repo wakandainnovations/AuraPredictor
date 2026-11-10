@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 224087, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Run' (2013, William Moseley / Eric Roberts) — only an unlinked line on the 'Run' disambiguation page. Not in BOI"},
+ {"tmdb_movie_id": 619865, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article: 'Hamara Hero Shaktimaan' redirects to a section of 'Shaktimaan (franchise)' with no box-office data. Not in BOI or BH 2013"},
+ {"tmdb_movie_id": 234845, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Ayal (film)' / 'Ayal (2013 film)' 404). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 201759, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 1100000, "revenue_scope": "worldwide", "verdict": null, "sources": {"revenue": "https://en.wikipedia.org/wiki/The_Mark_of_the_Angels_–_Miserere"}, "notes": "Wiki 'The Mark of the Angels – Miserere': gross $1.1 million cited to JPBox-Office — matches stored → confirmed; budget $15.4 million is uncited (stored value left, not confirmed). 'failed to make an impact at the box office' is not a clear verdict → NULL. French film, not in BOI"},
+ {"tmdb_movie_id": 224325, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2013 'Sikander' ('Sikander (2013 film)' redirects to the 2019 sequel 'Sikander 2'). Punjabi, not in BOI"}
+]

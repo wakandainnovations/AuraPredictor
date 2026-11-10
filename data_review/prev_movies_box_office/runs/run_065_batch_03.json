@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 254086, "budget_inr_crore": 3.5, "revenue_inr_crore": 0.52, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster", "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1658", "revenue": "https://boxofficeindia.com/movie.php?movieid=1658", "verdict": "https://boxofficeindia.com/movie.php?movieid=1658"}, "notes": "No Wiki article (row in the 2013 Hindi list only). BOI 1658 ('Ishq Actually', 25 Oct 2013, dir Anish Khanna, Rajeev Khandelwal / Neha Ahuja): Disaster, budget ₹3,50,00,000, India/WW gross ₹52,00,000 (no overseas; nett ₹38.5 lakh) → flop. Not in BH 2013 table"},
+ {"tmdb_movie_id": 251057, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nadodimannan': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 267723, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nugam': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 267724, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nirnayam (2013 film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 304634, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vanshvel': blank budget/gross, no box-office wording. Marathi (tagged English), not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 702900, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Vasan Bala short; 'Geek Out (film)' 404). Not in BOI or BH 2013"},
+ {"tmdb_movie_id": 409083, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kamalatho Naa Prayanam' (released 1 Jun 2014): blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 195737, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jatts in Golmaal': blank budget/gross, no box-office wording. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 215330, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'English (2013 film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 304650, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Story Kathe': blank budget/gross; 'earned less than expected at the box office' is not a stated verdict → NULL. Kannada, not in BOI"}
+]

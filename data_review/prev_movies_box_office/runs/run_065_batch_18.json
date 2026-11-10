@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1645382, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Nepali/English short 'Sahasi Chori'; search returned nothing). Not in BOI"},
+ {"tmdb_movie_id": 190945, "budget_inr_crore": 5.75, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki/Khaleej Times 'remarkable box-office success'", "sources": {"budget": "https://en.wikipedia.org/wiki/Mumbai_Police_(film)", "verdict": "https://en.wikipedia.org/wiki/Mumbai_Police_(film)"}, "notes": "Wiki 'Mumbai Police (film)': budget ₹5.75 Cr cited to The Hindu 'Dreaming big' (2 May 2013) — stored $1,066,400 reproduces it → confirmed; gross blank. Lead: Khaleej Times (Dec 2013 'The best of Malayalam cinema') named it one of the 'remarkable box-office success[es]' of 2013 → hit. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 147153, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Moondru Per Moondru Kadal': blank budget/gross; Sify 'rated the film as average' is a review rating, not box office → NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 1276205, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits unrelated pages). Not in BOI or BH 2013"},
+ {"tmdb_movie_id": 188342, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lucky Di Unlucky Story': blank budget/gross, no box-office wording. Punjabi, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 592509, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Ganesh Talkies' 404; search hits cast pages). Bengali, not in BOI"},
+ {"tmdb_movie_id": 1180303, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'declared as Hit' (cn)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Auto_Raja_(2013_film)"}, "notes": "Wiki 'Auto Raja (2013 film)': blank budget/gross. Box-office section 'completed 50 days and was declared as \"Hit\"' ({{Citation needed|April 2025}}; uncited, explicit verdict) → hit. Kannada, not in BOI"},
+ {"tmdb_movie_id": 831192, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Ram Gopal Varma short; search hits Manchu family pages). Not in BOI"},
+ {"tmdb_movie_id": 228081, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Saradaga Ammayitho': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 245684, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Meghe Dhaka Tara (2013 film)': blank budget/gross, no box-office wording (the 'box-office failure' line is about the director's earlier Uro Chithi). Bengali, not in BOI"}
+]

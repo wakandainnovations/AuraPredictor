@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 435313, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits the 2013 Malayalam list and cast pages only). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 242301, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercially successful'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Venkatadri_Express_(film)"}, "notes": "Wiki 'Venkatadri Express (film)': gross '₹10 crore distributors' share' (Tollywood Top 10 2013) — the stored revenue ($1.63M ≈ ₹10 Cr) is that distributors' share (flagged, left; apply can't null). Body: opening day ₹3.5 Cr, first weekend ₹13.5 Cr nett (partial). 'The film is commercially successful' cited to ibnlive ''Venkatadri Express' hit, Chota K. Naidu calls it team effort' → hit. Telugu, not in BOI"},
+ {"tmdb_movie_id": 240078, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jannal Oram': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 262127, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Escape from Uganda': blank budget/gross, no box-office wording (stored tmdb budget left). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 241052, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bicycle Thieves (2013 film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"}
+]

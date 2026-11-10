@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 360870, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits cast pages only). Telugu, not in BOI"},
+ {"tmdb_movie_id": 491603, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'box office bomb' (cn)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Orissa_(film)"}, "notes": "Wiki 'Orissa (film)': blank budget/gross. Reception 'received an average response from critics and was a box office bomb' ({{Citation needed|June 2026}}; uncited, explicit verdict) → flop. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 808835, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ramachari': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 192473, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nagaraja Cholan MA, MLA': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 676829, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Madarangi': blank budget/gross, no box-office wording. Kannada, not in BOI (fuzzy hit 'Mardaani' is a different film)"}
+]
