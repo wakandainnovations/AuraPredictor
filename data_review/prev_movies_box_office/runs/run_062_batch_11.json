@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 462383, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2015 Hindi 'Cheers' (Piyush Raghani / Ali Fazal; search unrelated). Not in BOI (fuzzy hit 'Chehere' is a different film) or the BH 2015 table"},
+ {"tmdb_movie_id": 1235103, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dagudumootha Dandakor': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 379476, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kadambari (2015 film)': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 381677, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dongaata (2015 film)' (fetched directly; search's title filter skipped it): blank budget/gross, no box-office wording (only 'shot on a tight budget'). Telugu, not in BOI"},
+ {"tmdb_movie_id": 528421, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Boudi.com' (Bengali 2015 list row only). Not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 330399, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rajathandhiram': blank budget/gross, no box-office wording (now on JioHotstar). Tamil, not in BOI"},
+ {"tmdb_movie_id": 330409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for 'Aivaraattam' (search returned nothing). Tamil, not in BOI"},
+ {"tmdb_movie_id": 730961, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tommy (2015 film)': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 329588, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bench Talkies' (anthology of six shorts): blank budget/gross, no box-office wording (only review lines). Tamil, not in BOI"},
+ {"tmdb_movie_id": 331302, "budget_inr_crore": null, "revenue_inr_crore": 1.03, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2720", "verdict": "https://boxofficeindia.com/movie.php?movieid=2720"}, "notes": "Wiki 'Badmashiyaan': blank budget/gross. BOI 'Badmashiyaan - Fun Never Ends' (movieid=2720, 6 Mar 2015, dir Amit Khanna / Sidhant Gupta): Disaster, budget --, India gross ₹1,03,00,000 (overseas $---; nett ₹78.75 lakh) → revenue ₹1.03 Cr india_gross + flop; BH 2015 table: Flop, nett ₹0.69 Cr (agrees)"}
+]

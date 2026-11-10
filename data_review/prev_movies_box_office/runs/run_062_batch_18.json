@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 329142, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vajram (2015 film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 341453, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Namasthe Bali': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 411189, "budget_inr_crore": 1.5, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Bham_Bolenath"}, "notes": "Wiki 'Bham Bolenath' (Wiki release 27 Mar 2015 vs DB 27 Feb): budget '₹1.5 crore' cited to the director's Idlebrain interview (20 Apr 2023) → re-derives the stored $243,218 (confirmed). Gross blank; no verdict. Telugu, not in BOI"},
+ {"tmdb_movie_id": 411870, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2015 Malayalam 'Compartment' (Salim Kumar; 'Compartment (film)' 404, search unrelated). Not in BOI"},
+ {"tmdb_movie_id": 1374136, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Razzakar': blank budget/gross, no box-office wording. Marathi, not in BOI"}
+]
