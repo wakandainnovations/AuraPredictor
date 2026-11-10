@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 391062, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'sleeper hit'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Joker_(2016_film)"}, "notes": "Wiki 'Joker (2016 film)': blank budget/gross; lead 'The film won many awards … and became a sleeper hit' (uncited lead line, accepted as in runs 33/39) → hit. Tamil, not in BOI"},
+ {"tmdb_movie_id": 423332, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits unrelated); Telugu film (dir Karanam P. Babji) tagged English. Not in BOI"},
+ {"tmdb_movie_id": 953692, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; French short. Not in BOI"},
+ {"tmdb_movie_id": 456251, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Iranian film (Ghorban Mohammadpour); Wiki search returned unrelated pages ('Salam Mumbai' not found by search) — stored Wikipedia-sourced $2M budget / $3.9M revenue not re-verified, left. Not in BOI"},
+ {"tmdb_movie_id": 407599, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ishq Positive' (Pakistani): infobox gross 'Rs 08.0 million' (uncited, PKR); body 'PKR 3 to 40 million in two weeks' (partial). Stored $119,047 = 8,000,000 ÷ 67.2 — PKR 8M converted at the INR rate (wrong currency) → flagged, left (PKR not stored). No verdict. Not in BOI"}
+]

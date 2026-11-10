@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 407825, "budget_inr_crore": null, "revenue_inr_crore": 0.35, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3282", "verdict": "https://boxofficeindia.com/movie.php?movieid=3282"}, "notes": "No Wiki article. BOI 3282 (dir Surya Lakkoju, 13 May 2016): Budget '--', India/WW gross ₹35,00,000 (no overseas; nett ₹13.25 lakh), Disaster; BH 2016 Flop (nett ₹0.18 Cr) → india_gross + flop"},
+ {"tmdb_movie_id": 456851, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (list row only). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 552201, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Assamese 2010s list row only). Not in BOI"},
+ {"tmdb_movie_id": 381070, "budget_inr_crore": null, "revenue_inr_crore": null, "budget_usd": 1000000, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Loev"}, "notes": "Wiki 'Loev': budget 'US$1 million (approximate)'; body 'With a modest budget of $1 million' → stored $1,000,000 confirmed. Festival premiere (Tallinn 2015) then Netflix 1 May 2017 — no theatrical release, no box office. Not in BOI / BH"},
+ {"tmdb_movie_id": 438215, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Let Her Cry (film)' (Sri Lankan, Sinhala): blank budget/gross, no box-office wording. not in BOI"}
+]

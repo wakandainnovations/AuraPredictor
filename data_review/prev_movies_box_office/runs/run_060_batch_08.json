@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 511376, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (list row only). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 545291, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Postmaster (film)' (Delhi IFF Dec 2015; Kolkata release 24 Jun 2016): blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 372345, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ozhivudivasathe Kali' (IFFK 2015, Kerala 17 Jun 2016): blank budget/gross, no box-office wording; stored tmdb budget $30,000 unverified, left. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 378230, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lens (film)' (Tamil/English, Kerala release 17 Jun 2016, TN May 2017; fetched directly): budget/gross blank (comment placeholders), no box-office wording. Not in BOI"},
+ {"tmdb_movie_id": 391616, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Enakku Innoru Per Irukku': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

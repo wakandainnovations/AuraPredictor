@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 473465, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated); South African film. Not in BOI"},
+ {"tmdb_movie_id": 367179, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Oru Naal Koothu': budget blank; gross '{{Estimation}} ₹4 crore' uncited (= stored $598,272) — not verified, left. No verdict. Tamil, not in BOI"},
+ {"tmdb_movie_id": 391758, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dulla Bhatti (2016 film)': gross ₹3.50 Cr cited to dekhnews '7th Day Box Office Collection' (15 Jun 2016) — a week-1 running total, = stored $523,488 → flagged as partial, left. No budget, no verdict. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 411195, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Right Right': blank figures; 'The movie was declared as a flop' cited to IndiaGlitz \"'Right Right' release date\" (pre-release article) → verdict NULL. Telugu, not in BOI"},
+ {"tmdb_movie_id": 552212, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Assamese 2010s list row only). Not in BOI"}
+]

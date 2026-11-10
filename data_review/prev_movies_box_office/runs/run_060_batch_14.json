@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 397367, "budget_inr_crore": null, "revenue_inr_crore": 0.22, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3278", "verdict": "https://boxofficeindia.com/movie.php?movieid=3278"}, "notes": "Wiki 'Dear Dad (2016 film)' (Wiki release 13 May 2016): blank figures. BOI 3278 (dir Tanuj Bhramar, 13 May 2016): Budget '--', India/WW gross ₹22,00,000 (no overseas; nett ₹16 lakh), Disaster; BH 2016 Flop (nett ₹0.13 Cr) → india_gross + flop"},
+ {"tmdb_movie_id": 412004, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shikhamani' (Wiki release 29 Mar 2016): blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 412119, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Raja Cheyyi Vesthe': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 391059, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vetrivel': blank budget/gross; only review quotes ('decent commercial entertainer' is a review phrase, not a verdict). Tamil, not in BOI"},
+ {"tmdb_movie_id": 393661, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vaisakhi List': blank budget/gross, no box-office wording. Punjabi, not in BOI"}
+]

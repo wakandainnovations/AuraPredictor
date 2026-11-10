@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1239954, "budget_inr_crore": null, "revenue_inr_crore": 0.0325, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3665", "verdict": "https://boxofficeindia.com/movie.php?movieid=3665"}, "notes": "No Wiki article. BOI 3665 'Pramod Gupta J.E.' (dir Chittaranjan Tripathy = DB; BOI release 24 Nov 2017 vs DB 31 Aug 2016, so the script converts at the 2016 rate): Budget '--', India/WW gross ₹3,25,000 (no overseas; nett ₹2.5 lakh), Disaster → india_gross + flop. Not in BH 2016/2017 tables"},
+ {"tmdb_movie_id": 398636, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shaheb Bibi Golaam': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 412224, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Meendum Oru Kadhal Kadhai': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 431001, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits unrelated lists). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 594242, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (List of Gujarati films of 2016 row only). Not in BOI"}
+]

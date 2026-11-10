@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 388733, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aagam (film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 390914, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sawaari (2016 film)': blank figures; only a Behindwoods review 'verdict' line (a review, not box office). Tamil, not in BOI"},
+ {"tmdb_movie_id": 398116, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ithu Thaanda Police': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 428798, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits cast/director pages). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 946168, "budget_inr_crore": null, "revenue_inr_crore": 0.09, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3250", "verdict": "https://boxofficeindia.com/movie.php?movieid=3250"}, "notes": "No Wiki article (song-list row only). BOI 3250 'Cute Kameena' (dir Simmi Karna, 18 Mar 2016): Budget '--', India/WW gross ₹9,00,000 (no overseas; nett ₹6.5 lakh), Disaster; BH 2016 Flop (nett ₹0.16 Cr) → india_gross + flop"}
+]

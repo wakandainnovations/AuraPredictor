@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 391757, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Never Back Down: No Surrender' (direct-to-video, US): blank figures, no box office. Not in BOI"},
+ {"tmdb_movie_id": 417990, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Israeli film; search unrelated). Not in BOI"},
+ {"tmdb_movie_id": 456855, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits cast pages). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 873338, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Virgins (film)' (Wiki release 30 Jun 2016): blank figures, no box-office wording; not in BOI index or BH 2016 table"},
+ {"tmdb_movie_id": 420952, "budget_inr_crore": 2, "revenue_inr_crore": 8.5, "revenue_scope": "unknown", "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Praktan", "revenue": "https://en.wikipedia.org/wiki/Praktan"}, "notes": "Wiki 'Praktan': budget ₹2 crore (Telegraph 15 Jun 2016), gross ₹8.5 crore (TOI 13 Oct 2016 'Of bad reviews and good collections in Tollywood') → re-derive the stored $298,666 / $1,269,333 (confirmed). Box-office section has only opening-day/week figures and 'significant success overseas' (about overseas only) → verdict NULL. Bengali, not in BOI"}
+]

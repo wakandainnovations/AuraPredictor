@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1014847, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returned nothing). Bengali, not in BOI"},
+ {"tmdb_movie_id": 1155240, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated); not in BOI index or BH 2016 table"},
+ {"tmdb_movie_id": 369819, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sowkarpettai': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 431596, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Appuram Bengal Ippuram Thiruvithamkoor': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 455272, "budget_inr_crore": 8, "revenue_inr_crore": 0.52, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=3236", "revenue": "https://boxofficeindia.com/movie.php?movieid=3236", "verdict": "https://boxofficeindia.com/movie.php?movieid=3236"}, "notes": "Wiki 'Zubaan' (Busan Oct 2015; India 4 Mar 2016): infobox budget/gross blank, no verdict. BOI 3236 (4 Mar 2016): Budget 8,00,00,000 (₹8 Cr), India/WW gross ₹52,00,000 (no overseas; nett ₹38 lakh), Disaster; BH 2016 Flop (nett ₹0.46 Cr) → budget + india_gross + flop"}
+]

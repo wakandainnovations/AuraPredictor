@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 393430, "budget_inr_crore": null, "revenue_inr_crore": 0.0625, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3270", "verdict": "https://boxofficeindia.com/movie.php?movieid=3270"}, "notes": "Wiki 'Shortcut Safari' (NCFF 2014; theatrical 29 Apr 2016): blank figures. BOI 3270 (dir Amitabha Singh, 29 Apr 2016): Budget '--', India/WW gross ₹6,25,000 (no overseas; nett ₹4.75 lakh), Disaster; BH 2016 'Shortcut Safaari' Flop (nett ₹0.04 Cr) → india_gross + flop"},
+ {"tmdb_movie_id": 392939, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Eedo Rakam Aado Rakam': blank figures; 'The film was a commercial success' cited to The Hans India 16 Apr 2016 'Box office collections' (2 days after release) → verdict NULL. Telugu, not in BOI"},
+ {"tmdb_movie_id": 1784613, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Telugu, not in BOI"},
+ {"tmdb_movie_id": 393264, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shankhachil' (Wiki release 15 Apr 2016): blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 647658, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Marathi short, dir Rohan Kanawade). Not in BOI"}
+]
