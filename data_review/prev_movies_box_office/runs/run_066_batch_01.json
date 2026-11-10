@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 181268, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'blockbuster' ({{cn}})", "sources": {"verdict": "https://en.wikipedia.org/wiki/Chennaiyil_Oru_Naal"}, "notes": "Wiki 'Chennaiyil Oru Naal': blank budget/gross. Lead 'was a blockbuster at the box office' carries {{Citation needed}} (the sentence's refs are release-day reviews for 'positive reviews') → taken as hit (uncited lead line, as for Auto Raja in run 65); weak. Tamil, not in BOI"},
+ {"tmdb_movie_id": 214515, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in the 2013 Malayalam list only). Malayalam, not in BOI (BOI 'Players' 2012 is the Hindi Abbas–Mustan film)"},
+ {"tmdb_movie_id": 232294, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Priyathama Neevachata Kusalama': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 269684, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Karuppampatti': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 269685, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kan Pesum Vaarthaigal': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

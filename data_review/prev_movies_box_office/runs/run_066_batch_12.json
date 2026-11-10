@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 180798, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Poppins': blank budget/gross; Sify's 'Below Average' is a review rating, not a box-office verdict → NULL. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 192679, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chettayees': blank budget/gross; IBN Live 'an average fare' is a review → NULL. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1157839, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bhoomiyude Avakashikal': blank budget/gross, no box-office wording (IFFI premiere 27 Nov 2012). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1539136, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Bhoot Raja Aur Ronnie' 404). Hindi children's film; not in BOI index, not in BH 2012 table"},
+ {"tmdb_movie_id": 166460, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Routine Love Story': budget {{INRConvert|2.5|c}} and gross {{INRConvert|12.5|c}} are uncited — the stored $450,250 / $2,251,250 are those values; not confirmed (flagged, left). Only 'good start at the box office' (opening) → NULL. Telugu, not in BOI"}
+]

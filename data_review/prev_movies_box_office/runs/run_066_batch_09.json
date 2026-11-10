@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 797510, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Aagun Pakhi' 404; a row in the 2014 Bengali list). Bengali (tagged English), not in BOI"},
+ {"tmdb_movie_id": 1684384, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Genius (2012 film)': blank infobox budget/gross; body 'made on a budget of Rs. 11 crore' is uncited → not stored. 'hit the nail on the head' is a TOI review line, not a verdict → NULL. Telugu (tagged English), not in BOI"},
+ {"tmdb_movie_id": 1771008, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Aamhi Chamkate Taare' 404). Marathi, not in BOI"},
+ {"tmdb_movie_id": 541662, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chorabali (2012 film)': blank budget/gross, no box-office wording. Bangladeshi, not in BOI"},
+ {"tmdb_movie_id": 1410307, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2012 Malayalam film (search hit 'White Paper (film)' is a 2010 Iranian film). Not in BOI"}
+]

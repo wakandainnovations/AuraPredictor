@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 325687, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits a cast page only). Bengali, not in BOI"},
+ {"tmdb_movie_id": 132387, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Desperate Endeavors': blank budget/gross, no box-office wording (NYIFF 2011, US indie). not in BOI"},
+ {"tmdb_movie_id": 134513, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Paandi Oliperukki Nilayam' 404). Tamil, not in BOI"},
+ {"tmdb_movie_id": 167327, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2012 Marathi 'Kutumb' (Sudesh Manjrekar; tagged English). BOI 'Kutumb - The Family' (2017) is a different film"},
+ {"tmdb_movie_id": 1211764, "budget_inr_crore": 0.75, "revenue_inr_crore": 0.0325, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster", "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1041", "revenue": "https://boxofficeindia.com/movie.php?movieid=1041", "verdict": "https://boxofficeindia.com/movie.php?movieid=1041"}, "notes": "No Wiki article. BOI 1041 ('Dhama Chaukdi', release 31 Aug 2012 = DB, Hindi comedy, tagged English): Disaster, budget ₹75,00,000, India/WW gross ₹3,25,000 (overseas $---; nett ₹2.25 lakh) → flop. Not in BH 2012 table"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 586312, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2012 Malayalam film ('Paradise (2012 film)' redirects to Ulrich Seidl's Paradise trilogy). Malayalam (tagged English), not in BOI"},
+ {"tmdb_movie_id": 1144999, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Golmaal (2012 film)': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 1199881, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2012 Telugu film '6' (Jagapati Babu); '6 (film)' is the 2013 Tamil V. Z. Durai film. Telugu, not in BOI"},
+ {"tmdb_movie_id": 1359225, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'box office failure'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Kaashh"}, "notes": "Wiki 'Kaashh': blank budget/gross. 'The film was a box office failure.' cited to The Hindu 'Copy, paste script and story' (13 Nov 2014) → flop. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1035356, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Astra (2012 film)': blank budget/gross, no box-office wording. Bengali, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 320654, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki search returned 'Chhayamoy' (Bengali 2013, Haranath Chakraborty) but the fetch kept no infobox figures / box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 1278334, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in the 2013 Telugu list only; Telugu film tagged English). Not in BOI"},
+ {"tmdb_movie_id": 1557376, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'box office failure'", "sources": {"verdict": "https://en.wikipedia.org/wiki/CID_Eesha"}, "notes": "Wiki 'CID Eesha': blank budget/gross. 'It was a box office failure.' cited to TOI 'Jaggesh joins Twitter' (31 Jul 2013, four months after release) → flop. Kannada, not in BOI"},
+ {"tmdb_movie_id": 393506, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'flop at the box office'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Ithu_Pathiramanal"}, "notes": "Wiki 'Ithu Pathiramanal': blank budget/gross. 'The film became a flop at the box office.' (uncited, links Box-office bomb) → flop. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 253986, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Papilio Buddha (film)': blank budget/gross, no box-office wording (independent Malayalam/English film). not in BOI"}
+]

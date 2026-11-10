@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 170434, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Save Your Legs!': blank budget/gross; only the Australian opening ($165,000 on 176 screens, Mumbrella 'disappointing opening') — partial, and 'disappointing opening' is not a verdict → NULL. Not in BOI"},
+ {"tmdb_movie_id": 192889, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki '10:30 am Local Call': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 179413, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Haridas (2013 film)': blank budget/gross. Lead 'moderately successful at the box office' is cited to TOI 'Haridas from Feb 22' (a pre-release article); 'average collections ... number 5 in the Chennai box office' cites a release-eve IBN gallery → NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 1021988, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in the 2013 Bengali list only). Bengali, not in BOI"},
+ {"tmdb_movie_id": 584319, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Black Butterfly (2013 film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"}
+]
