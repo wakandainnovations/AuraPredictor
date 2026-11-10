@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 401100, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mahanagar@Kolkata': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 63827, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pen Singam': blank budget/gross, no box-office wording. Tamil, not in BOI (fuzzy hit 'Singham' 2011 Hindi is a different film)"},
+ {"tmdb_movie_id": 586296, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kattradhu Kalavu': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 901138, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kadhalagi': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 1054746, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Nalan Kumarasamy short film). not in BOI"}
+]

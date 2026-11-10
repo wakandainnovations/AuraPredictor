@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 330498, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Drona 2010': blank budget/gross, no box-office wording (review lines only). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1794508, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Brahmasthram' redirects to the 2006 Telugu film 'Brahmastram'). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 141202, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Ben Kingsley short educational film). not in BOI"},
+ {"tmdb_movie_id": 575558, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bolo Na Tumi Aamar' (found by search; dir Sujit Mondal = DB): blank budget/gross, no box-office wording; stored tmdb revenue $930,000 unverified. Bengali, not in BOI"},
+ {"tmdb_movie_id": 308306, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sambho Siva Sambho': blank budget/gross. 'Despite mixed reviews, the film performed well and was declared a box office hit' carries {{Citation needed}} → NULL. Telugu (Hindi dub 'Mera Krodh' 2012), not in BOI"}
+]

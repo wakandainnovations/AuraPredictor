@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 117005, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Baava': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 278217, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sadgamaya': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 48016, "budget_inr_crore": null, "revenue_inr_crore": null, "budget_usd": 200000, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/The_Maze_(2010_film)"}, "notes": "Wiki 'The Maze (2010 film)': budget US$200,000 ('With a budget of $200,000, it was released to theaters on October 19, 2010', cited to the book 'Projecting Tomorrow') — stored $200,000 matches → confirmed (USD). No gross, no verdict wording. US film, not in BOI"},
+ {"tmdb_movie_id": 63943, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'West Is West (2010 film)': budget £2.5 million (uncited; ≈ the stored tmdb $3,837,625) and gross £4.9 million (Box Office Mojo UK) — GBP figures, which the script cannot convert; the stored tmdb revenue $3,867,000 is well below £4.9M (≈ $7.6M) → flagged, left. No verdict wording. British film (UK release 25 Feb 2011), not in BOI"},
+ {"tmdb_movie_id": 1186908, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Marathi, not in BOI"}
+]

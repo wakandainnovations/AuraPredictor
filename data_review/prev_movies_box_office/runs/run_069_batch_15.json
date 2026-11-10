@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 230275, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mundhinam Paartheney': blank budget/gross. 'However, the film did not perform well at the box office' (Sify) — soft wording, not a verdict → NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 258583, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Yathumaagi': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 1009916, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'commercial failure'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Aakasa_Ramanna"}, "notes": "Wiki 'Aakasa Ramanna': blank budget/gross. 'The film was a commercial failure at the box-office' (uncited) → flop. Telugu, not in BOI"},
+ {"tmdb_movie_id": 1190359, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Marathi, not in BOI"},
+ {"tmdb_movie_id": 87153, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'box office failure'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Kalavar_King"}, "notes": "Wiki 'Kalavar King': blank budget/gross. 'The film was a box office failure' cited to TOI 'One wrong move....' (13 May 2010, eleven weeks after release) → flop. Telugu, not in BOI"}
+]
