@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 481540, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Kannada, not in BOI"},
+ {"tmdb_movie_id": 521875, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "Wiki 'broke even'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Parbona_Ami_Chartey_Tokey"}, "notes": "Wiki 'Parbona Ami Chartey Tokey': budget '₹70 lakh{{cn}}' and gross '₹3 Crore{{cn}}' — citation needed, not used (stored $105,439 / $451,884 left, unverified). Body 'the film broke even at the box office' (uncited) → avg. Bengali, not in BOI"},
+ {"tmdb_movie_id": 1727516, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Not in BOI index, not in BH 2015 table"},
+ {"tmdb_movie_id": 384072, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (list row only). Tamil, not in BOI"},
+ {"tmdb_movie_id": 580794, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated; Kannada film per Kannada 2015 list hit, DB 'hindi'). Not in BOI index, not in BH 2015 table"}
+]

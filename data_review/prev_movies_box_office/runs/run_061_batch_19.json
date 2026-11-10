@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 386756, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Bengali, not in BOI"},
+ {"tmdb_movie_id": 349198, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chandi Veeran': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 369564, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rasputin (2015 film)': blank budget/gross, no box-office wording (stored tmdb budget $393,290 unverified, left). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 848983, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Kannada, not in BOI"},
+ {"tmdb_movie_id": 1183220, "budget_inr_crore": 4.5, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Shortcut_(2015_film)"}, "notes": "Wiki 'Shortcut (2015 film)': budget ₹4.5 crore (TOI 'Shortcut trailer: 10 lakh for Bajrangi tie-up') → re-derives the stored $705,543 (confirmed); gross blank, no verdict. Marathi, not in BOI"}
+]

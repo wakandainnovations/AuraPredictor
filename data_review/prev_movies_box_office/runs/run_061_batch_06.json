@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 563897, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Not in BOI index, not in BH 2015/2016 tables"},
+ {"tmdb_movie_id": 384547, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ho Mann Jahaan' (Pakistani Urdu, 31 Dec 2015 UAE / 1 Jan 2016 Pakistan): gross blank, no budget, no verdict sentence. Not in BOI"},
+ {"tmdb_movie_id": 397163, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'disaster at the box office'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Soukhyam"}, "notes": "Wiki 'Soukhyam': budget '{{INRConvert|15|c}}' with no cite (the stored $2,269,289 = ₹15 Cr) — uncited, not confirmed; box office only opening weekend ₹10 Cr gross / ₹7 Cr share (IBTimes 28 Dec 2015) — partial. Lead 'The film was a disaster at the box office.' (uncited) → flop. Telugu, not in BOI"},
+ {"tmdb_movie_id": 1110854, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (TV-franchise animated film; search unrelated). Not in BOI index, not in BH 2015/2016 tables"},
+ {"tmdb_movie_id": 611010, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Taskara' (Telugu, 19 Dec 2015): blank budget/gross, no box-office wording. not in BOI"}
+]

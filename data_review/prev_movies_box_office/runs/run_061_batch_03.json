@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 449733, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Speedunnodu': blank budget/gross (only a song budget ₹2.25 Cr); stored tmdb budget $4.9M unverified, left. IBTimes 28 Dec 2016 year-end: 'failed to live up to the expectations' (soft) → NULL. Telugu, not in BOI"},
+ {"tmdb_movie_id": 456675, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (list row only). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 450368, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sohra Bridge' (Bengali/Assamese/Khasi, released 26 Feb 2016): blank budget/gross, no box-office wording. Not in BOI"},
+ {"tmdb_movie_id": 1540707, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 456657, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Kadhantharam' 404; list row only). Malayalam, not in BOI"}
+]

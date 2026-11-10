@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 339325, "budget_inr_crore": null, "revenue_inr_crore": 0.135, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3202", "verdict": "https://boxofficeindia.com/movie.php?movieid=3202"}, "notes": "Wiki 'Chauranga' (MAMI Oct 2014; India 8 Jan 2016): budget 'approx. ₹8 crore' with no cite (uncited → not used); gross blank, no verdict. BOI 3202 (2016): Budget --, India/WW gross ₹13,50,000 (no overseas; nett ₹9.7 lakh), Disaster; BH 2016 Flop (nett ₹0.10 Cr) → india_gross + flop"},
+ {"tmdb_movie_id": 398624, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maalgudi Days': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 369376, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Karaiyoram' → redirect 'Alone (2015 Kannada film)' (Kannada 27 Nov 2015 / Tamil 1 Jan 2016): blank budget/gross, no box-office wording. Not in BOI"},
+ {"tmdb_movie_id": 370711, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maalai Naerathu Mayakkam': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 375858, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Azhagu Kutti Chellam': blank budget/gross; only 'opened to positive reviews' (critical) → NULL. Tamil, not in BOI"}
+]

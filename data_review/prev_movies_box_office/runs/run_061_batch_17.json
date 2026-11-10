@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 317094, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 454796, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Malini & Co.': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 457453, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returned actor pages). Telugu, not in BOI"},
+ {"tmdb_movie_id": 358645, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Utopiayile Rajavu': gross '{{Estimation}} ₹1.5crore' cited to IBTimes 8 Oct 2015 ('Will Mammootty's Pathemari affect… Ennu Ninte Moideen'), but that article says it 'failed to create a mark at the Kerala box office and collected just Rs 5.50 crore after 15 days of release' — the stored $226,828 (= ₹1.5 Cr) does not match its cite → FLAGGED, left (5.5 Cr is a Kerala 15-day running total, not stored). 'failed to create a mark' is soft wording → verdict NULL. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 356146, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Munde Kamaal De' (Punjabi; DB 'english'): blank budget/gross; box office only 'first week is netted around 1.94 crores' (boxofficeeye tracking) — partial; 'poor opening' is not a verdict. Not in BOI index, not in BH 2015 table"}
+]

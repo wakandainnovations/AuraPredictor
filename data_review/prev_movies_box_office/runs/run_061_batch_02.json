@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 349732, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vil Ambu': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 398562, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kattumakkan': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 443643, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Polam Pol': blank budget/gross, no box-office wording. Gujarati, not in BOI"},
+ {"tmdb_movie_id": 555350, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ki Kore Toke Bolbo': blank budget/gross, no box-office wording (stored tmdb budget $276,000 unverified, left). Bengali, not in BOI"},
+ {"tmdb_movie_id": 847995, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Garam (film)': budget '{{INRConvert|12|c}}' with no cite (the stored $1,760,666 = ₹12 Cr) — uncited, not confirmed; box-office section only opening day ₹3 Cr / weekend ₹5 Cr (Hans India) — partial. IBTimes 28 Dec 2016 year-end: 'failed to live up to the expectations' (soft) → NULL. Telugu, not in BOI"}
+]

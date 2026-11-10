@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 547469, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty). Marathi, not in BOI"},
+ {"tmdb_movie_id": 278398, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Pathemari"}, "notes": "Wiki 'Pathemari': blank budget/gross; box office only opening day ₹50 lakh (IBTimes 12 Oct 2015) — partial. Box-office section 'The film was a commercial success.' cited to TOI 2 Jan 2020 and News18 16 Mar 2016 (post-run) → hit. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 363182, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kaththukkutti' (fetched directly): blank budget/gross; 'describing the film as \"Above Average\"' is a review rating, not box office → NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 365890, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dildariyaan': blank budget/gross; box office only overseas first weekend ₹37.17 lakh (IBTimes) — partial, no verdict. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 421567, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chasing Robert Barker' (English-language film): blank budget/gross, no box-office wording. Not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 361493, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kirumi': blank budget/gross, no box-office wording (only reviews and a 'commercial cinema' review quote). Tamil, not in BOI"},
+ {"tmdb_movie_id": 600842, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Halla Gulla' (Pakistani Urdu, 25 Sep 2015): blank budget/gross, no box-office wording. not in BOI"},
+ {"tmdb_movie_id": 361083, "budget_inr_crore": null, "revenue_inr_crore": 15, "revenue_scope": "unknown", "verdict": null, "sources": {"revenue": "https://en.wikipedia.org/wiki/Gujjubhai_the_Great"}, "notes": "Wiki 'Gujjubhai the Great': gross '₹15 crore' and body 'The film grossed ₹15 crore at the box office' (TOI 22 Jun 2016 'Gujarati films to hit a century this year', post-run) → re-derives the stored $2,281,030 (confirmed; scope not stated → unknown). No verdict sentence. Gujarati, not in BOI"},
+ {"tmdb_movie_id": 578977, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Bengali, not in BOI"},
+ {"tmdb_movie_id": 280140, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'bombed at the box office'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Yatchan"}, "notes": "Wiki 'Yatchan': blank budget/gross; lead 'released on 11 September 2015 to negative reviews and bombed at the box office' (uncited) → flop. Tamil, not in BOI"}
+]

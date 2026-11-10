@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 413572, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Krishnashtami': no budget/gross in infobox; box-office section has only opening day (₹3.5 Cr AP/TS) and opening weekend (₹6 Cr, Financial Express 22 Feb 2016) — partial. IBTimes 28 Dec 2016 Telugu year-end: 'failed to live up to the expectations' (soft wording, not a verdict) → NULL. Telugu, not in BOI"},
+ {"tmdb_movie_id": 456691, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Out of Range (film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1613428, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search unrelated). Bhojpuri (DB 'hindi'), not in BOI index, not in BH 2016 table"},
+ {"tmdb_movie_id": 368230, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Miruthan': no budget/gross in infobox; box-office section only first-weekend figures (TN ₹10.66 Cr, WW ₹20.13 Cr — Sify 23 Feb 2016, producer figures) — partial. Behindwoods 'Top 9 successful films of 2016 – 1st quarter' #9: 'relatively safe at Box Office' (soft wording) → NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 280115, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Anjala (film)': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

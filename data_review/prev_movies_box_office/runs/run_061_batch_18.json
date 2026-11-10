@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 569786, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Natoker Moto': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 373035, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for this film (search returned the 1992 UK TV series). Not an Indian release, not in BOI"},
+ {"tmdb_movie_id": 465040, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (list row only). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 862096, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Laxman Gole' is the biography of the subject, not the film; no film article. Not in BOI index, not in BH 2015 table"},
+ {"tmdb_movie_id": 356158, "budget_inr_crore": null, "revenue_inr_crore": 0.26, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=2950", "verdict": "https://boxofficeindia.com/movie.php?movieid=2950"}, "notes": "Wiki 'Gour Hari Dastaan': infobox budget/gross blank, no verdict. BOI 2950 (14 Aug 2015): Budget --, India/WW gross ₹26,00,000 (no overseas; nett ₹18.5 lakh), Disaster; BH 2015 'Gour Hari Dastaan – The Freedom File' Flop (nett ₹0.25 Cr) → india_gross + flop"}
+]
