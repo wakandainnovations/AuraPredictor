@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 451749, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Bengali, not in BOI"},
+ {"tmdb_movie_id": 486703, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sisak (film)': short film, no box office. Not in BOI"},
+ {"tmdb_movie_id": 483880, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; probably the short 'Devi' (Karishma Dube). Not in BOI"},
+ {"tmdb_movie_id": 115436, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Hason Raja (2017 film)': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 449742, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Kavan_(film)"}, "notes": "Wiki 'Kavan (film)': blank budget/gross; lead 'became a commercial success' (uncited) → hit. Body figures are partial (TN opening weekend ₹10.1 Cr; HT '₹20 crore in 10 days'). Tamil, not in BOI"}
+]

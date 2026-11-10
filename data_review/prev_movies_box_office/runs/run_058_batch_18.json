@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 372402, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Engitta Modhathey' (via disambiguation 'Enkitta Mothathe'): blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 452968, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BOI/BH 2017"},
+ {"tmdb_movie_id": 369835, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bruce Lee (2017 film)': blank figures; 'failed at the box office' is cited only to a release-day review (17 Mar 2017) → verdict NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 447043, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jindua': blank budget/gross, no box-office wording. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 468852, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maa Abbayi': blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

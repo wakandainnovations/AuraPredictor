@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 313755, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 639198, "revenue_scope": "worldwide", "verdict": null, "sources": {"revenue": "https://en.wikipedia.org/wiki/The_Black_Prince_(film)"}, "notes": "Wiki gross $639,198 (The Numbers) → confirms stored $639,198 (BOM: $633K in three territories — UK/NZ/Australia). Budget blank, no verdict. English/Punjabi, not in BOI"},
+ {"tmdb_movie_id": 468014, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (red link in the 2017 Malayalam list). Not in BOI"},
+ {"tmdb_movie_id": 468836, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vaisakham': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 478643, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Savarikkadu': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 499830, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dekh Kemon Lage': blank budget/gross, no box-office wording; stored tmdb budget $15,670 unverified, left. Bengali, not in BOI"}
+]

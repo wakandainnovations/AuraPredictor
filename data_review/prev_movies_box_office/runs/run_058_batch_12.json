@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 740184, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (2017 Telugu list row only). Not in BOI"},
+ {"tmdb_movie_id": 440935, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits Disney short 'Paperman'). Not in BOI"},
+ {"tmdb_movie_id": 457260, "budget_inr_crore": null, "revenue_inr_crore": 0.0415, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3531", "verdict": "https://boxofficeindia.com/movie.php?movieid=3531"}, "notes": "Wiki: blank budget/gross (released 26 May 2017). BOI 3531 India/WW gross ₹4,15,000 (no overseas; nett ₹3 lakh), budget '--'; BOI Disaster, BH 2017 Flop (nett ₹0.06 Cr) → flop. BOI page: dir Aditya Sarpotdar, 26 May 2017"},
+ {"tmdb_movie_id": 457479, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No 2017 Wiki article (search hits the 2001 Tamil 'Vedham'). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 457497, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lahoriye': blank infobox; body 'over $1.5 million in three territories in its opening weekend' (Forbes) and '₹7.25 crore net in India in its first week' (BOI report 2937 'Lahoriye HIT') — both partial, and the HIT call is a week-1 report → verdict NULL. Punjabi, not in BOI index"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 450054, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rogue (2017 film)': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 452694, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kambhoji (film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1032028, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sultana Bibiana': blank figures; 'The film was not a commercial success' (Daily Star 8 Apr 2017) — soft negative, left NULL as in runs 31/37/38. Bangladeshi, not in BOI"},
+ {"tmdb_movie_id": 1615728, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ebong Kiriti': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 363313, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Paambhu Sattai': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

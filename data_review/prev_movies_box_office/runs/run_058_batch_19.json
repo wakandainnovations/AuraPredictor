@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 541084, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (2017 Malayalam list row only). Not in BOI"},
+ {"tmdb_movie_id": 448773, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nisabdham': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 456765, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 402780, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kuttram 23': blank figures; 'was a success at the box office' cited to The Hindu 15 Oct 2016 (pre-release) and The Hindu 15 Mar 2017 'Screen wars' (day 12) → verdict NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 410592, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mupparimanam': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

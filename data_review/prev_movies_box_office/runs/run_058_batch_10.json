@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1228836, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BOI (Punjabi, no director in DB)"},
+ {"tmdb_movie_id": 409521, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bongu (film)': blank budget/gross, no box-office wording (reviews only). Tamil, not in BOI"},
+ {"tmdb_movie_id": 466498, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vilayattu Aarambam': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 497027, "budget_inr_crore": null, "revenue_inr_crore": 7, "revenue_scope": "unknown", "verdict": null, "sources": {"revenue": "https://en.wikipedia.org/wiki/Muramba"}, "notes": "Wiki gross ₹7 Cr cited to Cinestaan 'Do you know how Muramba did at the Box Office?' → confirms stored $1,089,165. Budget blank, no verdict; later on Netflix/SonyLIV. Marathi, not in BOI"},
+ {"tmdb_movie_id": 459458, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Careful (2017 film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"}
+]

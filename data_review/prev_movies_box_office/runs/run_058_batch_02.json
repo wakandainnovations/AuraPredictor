@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 921756, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits Raj Chakraborty). Bengali, not in BOI"},
+ {"tmdb_movie_id": 432140, "budget_inr_crore": null, "revenue_inr_crore": 0.29, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3573", "verdict": "https://boxofficeindia.com/movie.php?movieid=3573"}, "notes": "Wiki gross '₹67 million (Weekend gross)' = Firstpost 7 Aug 2017 first-3-days figure — a partial running total, and 23× BOI's lifetime → stored $1,052,168 (₹6.7 Cr) corrected to BOI 3573 India/WW gross ₹29,00,000 (no overseas; nett ₹22.3 lakh). Budget: Wiki blank, BOI '--'. Wiki 'not a commercial success' (soft); BOI Disaster, BH 2017 Flop (nett ₹0.53 Cr) → flop. BOI page: dir Shanker Raman, 4 Aug 2017"},
+ {"tmdb_movie_id": 469783, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Darsakudu': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 1507109, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Bangladeshi; search hits Shilpi Sharkar Apu). Not in BOI"},
+ {"tmdb_movie_id": 461426, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nakshatram (film)': blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

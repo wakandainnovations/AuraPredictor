@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 287637, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tigers (2014 film)': TIFF 2014, then released on ZEE5 on 21 Nov 2018 — no theatrical box office. Not in BOI/BH"},
+ {"tmdb_movie_id": 412197, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercially successful'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Maragadha_Naanayam"}, "notes": "Wiki 'Maragadha Naanayam': blank budget/gross; lead 'became commercially successful' (uncited) → hit. Tamil, not in BOI"},
+ {"tmdb_movie_id": 462248, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kaadhali (2017 film)': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 481050, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in the 2017 Telugu list only). Not in BOI"},
+ {"tmdb_movie_id": 589738, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Siliconn City': blank budget/gross, no box-office wording. Kannada, not in BOI"}
+]
