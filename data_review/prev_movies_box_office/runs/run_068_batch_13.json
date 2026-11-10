@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 63692, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bhavani (2011 film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 412521, "budget_inr_crore": 1.65, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Nanjupuram"}, "notes": "Wiki 'Nanjupuram' (Wiki release 1 Apr 2011): budget ₹1.65 crore cited to Tehelka 'The new darlings of Kollywood' (9 Jul 2011) — stored $364,198 reproduces it → confirmed. No gross, no verdict wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 443195, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Living Together (2011 film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1499164, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Bangladeshi film, tagged English). not in BOI"},
+ {"tmdb_movie_id": 79820, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vastadu Naa Raju': blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

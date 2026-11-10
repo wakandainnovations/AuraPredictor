@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 491642, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Priyappetta Nattukare': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 259964, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vengayam': blank budget/gross, no box-office wording ('underperformed at the box office due to its low profile release' is soft wording → NULL). Tamil, not in BOI"},
+ {"tmdb_movie_id": 1177550, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jaan Kurbaan': blank budget/gross, no box-office wording (Bangladeshi, Wiki release 31 Aug 2011). not in BOI"},
+ {"tmdb_movie_id": 244520, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "Wiki 'average grosser'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Ami_Shubhash_Bolchi"}, "notes": "Wiki 'Ami Shubhash Bolchi': blank budget/gross. 'The film went on to be an average grosser in box office' (uncited) → avg. Bengali, not in BOI"},
+ {"tmdb_movie_id": 272604, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sankarankovil (film)': blank budget/gross, no box-office wording ('performed poorly at the box office', cited to a Behindwoods Chennai top-ten page — soft wording → NULL). Tamil, not in BOI"}
+]

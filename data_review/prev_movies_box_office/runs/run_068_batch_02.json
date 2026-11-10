@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 214972, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pachuvum Kovalanum': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 112121, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sadhurangam (2011 film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 112847, "budget_inr_crore": 5.5, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Vellore_Maavattam"}, "notes": "Wiki 'Vellore Maavattam': budget ₹5.5 crore cited to Tehelka 'The new darlings of Kollywood' (9 Jul 2011) — stored $1,119,592 reproduces it → confirmed. No gross, no verdict wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 115271, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "Wiki 'average grosser'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Vaagai_Sooda_Vaa"}, "notes": "Wiki 'Vaagai Sooda Vaa': blank budget/gross. Lead 'released … to mostly positive reviews but become an average grosser' (uncited) → avg. Tamil, not in BOI"},
+ {"tmdb_movie_id": 88872, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Yaara o Dildaara': blank budget/gross, no box-office wording. Punjabi, not in BOI"}
+]

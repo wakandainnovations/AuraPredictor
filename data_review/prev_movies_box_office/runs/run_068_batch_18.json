@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 278211, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sahasram (film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 111592, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nandalala': blank budget/gross, no box-office wording ('fared poorly at the box office', cited to a 3 Dec 2010 week-1 article — soft wording, early cite → NULL). Tamil, not in BOI"},
+ {"tmdb_movie_id": 848697, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ekti Tarar Khonje' (Wiki release 25 Jun 2010): blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 1529210, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Oru Small Family': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 491421, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Koottukar (2010 film)': infobox budget '1 cr' / gross '12 cr' are uncited → not stored. No verdict wording. Malayalam, not in BOI"}
+]

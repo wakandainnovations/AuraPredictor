@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 885360, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only Subhrajit Dutta's filmography). Stored revenue $2,001 (tmdb) is implausible and unsourced — flagged, left (apply can't null). Bengali, not in BOI"},
+ {"tmdb_movie_id": 492493, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bangkok Summer': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 306487, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (UK film). not in BOI"},
+ {"tmdb_movie_id": 202704, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Collector (2011 film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 936000, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Gosainbaganer Bhoot' (Wiki release 30 Dec 2011): blank budget/gross, no box-office wording. Bengali, not in BOI"}
+]

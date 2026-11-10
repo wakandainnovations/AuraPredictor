@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 495782, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Marathi). not in BOI"},
+ {"tmdb_movie_id": 79808, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Telugu/Tamil bilingual). not in BOI"},
+ {"tmdb_movie_id": 509320, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a row in Mukesh Gautam's filmography). Not in BOI index"},
+ {"tmdb_movie_id": 70988, "budget_inr_crore": 4.0, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Yuddham_Sei"}, "notes": "Wiki 'Yuddham Sei' (Wiki release 4 Feb 2011): budget ₹4 crore cited to Sify 'Mysskin – Back to the roots' (23 Feb 2010, during pre-production; archive copy could not be fetched to check the wording) → filled from the cited infobox. No gross; web search found only reviews (TOI 'what it needs to win … at the box-office' is a review) → verdict NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 1643791, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vaada Poda Nanbargal': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

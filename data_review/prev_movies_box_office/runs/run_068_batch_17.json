@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 93479, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Morya (film)' (Wiki release 19 Aug 2011): blank budget/gross, no box-office wording. Marathi, not in BOI"},
+ {"tmdb_movie_id": 305248, "budget_inr_crore": 1.5, "revenue_inr_crore": 0.075, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster", "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=802", "revenue": "https://boxofficeindia.com/movie.php?movieid=802", "verdict": "https://boxofficeindia.com/movie.php?movieid=802"}, "notes": "No Wiki article. BOI 802 ('Hum Do Anjaane', 27 May 2011 vs DB 1 Jan 2011; Hindi, dir Milind Swamy = DB, Jackie Shroff): Disaster, budget ₹1,50,00,000, India/WW gross ₹7,50,000 (overseas $---) → filled, flop. Not in BH 2011 table"},
+ {"tmdb_movie_id": 647828, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dharmaa': blank budget/gross; 'considered commercially successful at the box office' carries {{citation needed}} → NULL. Nepali, not in BOI"},
+ {"tmdb_movie_id": 262431, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Agam Puram': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 1293339, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mar Jawan Gur Khake': blank budget/gross, no box-office wording (Punjabi film, tagged English). not in BOI"}
+]

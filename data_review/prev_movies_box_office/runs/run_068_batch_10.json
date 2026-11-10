@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 77711, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a row in 'List of Telugu films of 2011'). not in BOI"},
+ {"tmdb_movie_id": 72579, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Noukadubi (2011 film)': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 110945, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chatrak' (= Mushrooms, Cannes 2011): blank budget/gross, no box-office wording. not in BOI"},
+ {"tmdb_movie_id": 262566, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Narthagi': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 69925, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success' / 'declared a hit'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Seema_Tapakai"}, "notes": "Wiki 'Seema Tapakai': infobox gross '₹7 crore distributors' share' (T2BLive 'Tollywood Top 10 … 2011', 19 Feb 2019) — the stored $1,561,628 (≈ ₹7 Cr) is that share, not gross (flagged, left). Lead 'was a commercial success at the box office' (same T2BLive cite, post-run) and body 'declared a hit' → hit. Telugu, not in BOI"}
+]

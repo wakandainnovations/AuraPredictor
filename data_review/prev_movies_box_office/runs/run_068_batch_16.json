@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 259608, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Tamil, not in BOI"},
+ {"tmdb_movie_id": 729484, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Note Out': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 197834, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Takhan Teish': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 269995, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Punjabi film; only a row in 'List of Punjabi films of 2011'). Not in BOI index"},
+ {"tmdb_movie_id": 83318, "budget_inr_crore": 9.0, "revenue_inr_crore": 0.435, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=858", "revenue": "https://boxofficeindia.com/movie.php?movieid=858", "verdict": "https://boxofficeindia.com/movie.php?movieid=858"}, "notes": "Wiki 'I Am Singh' (Wiki release 2 Dec 2011; DB 1 Jan 2011): blank budget/gross. BOI 858 ('I Am Singh', 2 Dec 2011, Hindi, dir Puneet Issar = DB): Disaster, budget ₹9,00,00,000, India/WW gross ₹43,50,000 (overseas $---) → filled, flop. BH 2011: Flop, ₹0.37 Cr nett (agrees)"}
+]

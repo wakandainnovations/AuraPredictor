@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 66495, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vallakottai (film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 69511, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Uthamaputhiran_(2010_film)"}, "notes": "Wiki 'Uthamaputhiran (2010 film)': blank budget/gross. Lead 'ended up as a commercial success among 2010 Deepavali releases' (uncited) and body 'It was a successful venture at the box office' (cited to Sify 'Dhanush's Uthamaputhiran is a hit!', 11 Nov 2010 — day 7) → hit on the uncited post-run lead. Tamil, not in BOI"},
+ {"tmdb_movie_id": 494707, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Nepali). not in BOI"},
+ {"tmdb_movie_id": 813755, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tara (2010 film)': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 351945, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Wiki 'Just Another Love Story' is the 2007 Danish film). Bengali; not in BOI (fuzzy 'A Strange Love Story' is a different film)"}
+]
