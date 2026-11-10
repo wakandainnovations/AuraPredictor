@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 607698,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article ('Nirmal Anand Ki Puppy' 404); Sandeep Mohan film released on Netflix (2019) — direct-to-streaming; not in BOI index or BH 2019 table"
+ },
+ {
+  "tmdb_movie_id": 610340,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Maarconi Mathaai' (Sanil Kalathil; Jayaram, Vijay Sethupathi; 11 Jul 2019): blank budget/gross; 'This movie was a box-office failure' is cited only to the TOI review (2.5/5) → not a box-office cite, verdict NULL; no sacnilk page; Malayalam, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 606559,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Kalavani 2' (A. Sarkunam; Vimal): blank budget/gross, no box-office text for the sequel (the success lines are about the 2010 original); no sacnilk page; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 637560,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Devaki (2019 film)' (H. Lohith; Priyanka Upendra): blank budget/gross, no box-office text (Amazon Prime 21 Feb 2020 after theatrical run); no sacnilk page; Kannada, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 613249,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Evidey' (K. K. Rajeev): blank budget/gross, no box-office text; no sacnilk page; Malayalam, not in BOI"
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1156120, "budget_inr_crore": 3.5, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Aflatoon_(2023_film)"}, "notes": "Wiki 'Aflatoon (2023 film)': budget {{estimation}} ₹3.50 Cr (NDTV Hindi cites, 'under ₹4 crore') = stored → confirmed; FLAGGED, left: stored revenue $1.22M = Wiki {{estimation}} ₹10.01 Cr cited to an NDTV 'more than ₹10 crore in six days' article → running total, no full-run figure found; sacnilk '—'; 'fourth grossing Marathi film of 2023' is a ranking → no verdict; Marathi, not in BOI"},
+ {"tmdb_movie_id": 1187779, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only the Telugu 2023 list); sacnilk '—'; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1338801, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kirkkan': blank infobox, no box-office text; sacnilk '—'; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1352288, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1154286, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Hidimbha': blank infobox, release line {{citation needed}}, Aha from 10 Aug 2023; sacnilk Hidimbha_2023 WW ₹2.90 Cr after 8 days (till 27 Jul 2023; its India net ₹5.52 Cr exceeds the gross — inconsistent) → partial, not stored; Telugu, not in BOI"}
+]

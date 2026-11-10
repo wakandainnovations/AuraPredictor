@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1596883, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 917620, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk Khela_Jawkhon_2022 '—'; Bengali, not in BOI"},
+ {"tmdb_movie_id": 741921, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dharani Mandala Madhyadolage (2022 film)': blank budget/gross; sacnilk '—'; Kannada, not in BOI"},
+ {"tmdb_movie_id": 873992, "budget_inr_crore": 3.10, "revenue_inr_crore": 8.30, "revenue_scope": "unknown", "verdict": null, "sources": {"budget": "https://www.indiatoday.in/india-today-insight/story/why-small-is-beautiful-in-mollywood-2317355-2023-01-04", "revenue": "https://www.indiatoday.in/india-today-insight/story/why-small-is-beautiful-in-mollywood-2317355-2023-01-04"}, "notes": "Wiki infobox budget ₹3.10 crores / gross ₹8.30 crores, both cited to India Today 'Why small is beautiful in Mollywood' (4 Jan 2023, ~5 weeks after release) → stored $380,788 / $1,019,529 re-derived (confirm; scope not stated); no verdict wording; sacnilk '—'"},
+ {"tmdb_movie_id": 912381, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Khedda (film)': gross '{{Estimation}} ₹1.8 crore' uncited → not stored; reviews only; sacnilk '—'; Malayalam, not in BOI"}
+]

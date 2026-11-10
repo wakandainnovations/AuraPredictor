@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1105261, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mr. King': blank infobox, reviews + later Prime Video release only; sacnilk Mr_King_2023 '—' (default 'Disaster' ignored); Telugu, not in BOI"},
+ {"tmdb_movie_id": 1182714, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2023 table or BOI index"},
+ {"tmdb_movie_id": 1173033, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2023 table or BOI index"},
+ {"tmdb_movie_id": 1088838, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aagantuk': blank infobox; sacnilk Aagantuk_2023 figures till 17 Feb 2023 (release day, ₹5 L nett) → partial, not stored; Gujarati, not in BOI"},
+ {"tmdb_movie_id": 1087788, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only National Film Awards mentions); no sacnilk page; Punjabi, not in BOI"}
+]

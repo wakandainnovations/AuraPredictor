@@ -1,0 +1,3 @@
+[
+ {"tmdb_movie_id": 1211406, "budget_inr_crore": null, "revenue_inr_crore": 0.02, "revenue_scope": "india_net", "verdict": null, "sources": {"revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"}, "notes": "Recheck of run 45 batch 8 for consistency: BH 2023 table lifetime nett ₹0.02 Cr (Kaisi Ye Dor, 15 Dec 2023, Flop) — the only figure; batch 8 had skipped it while later batches stored BH nett as india_net"}
+]

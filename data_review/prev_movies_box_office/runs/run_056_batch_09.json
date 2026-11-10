@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 710712, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; likely a short / web film. Not in BOI or BH 2018"},
+ {"tmdb_movie_id": 510047, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aalorukkam' (V C Abhilash; Indrans, 6 Apr 2018): blank budget/gross, no box-office text. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 589412, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returns only cast pages). Bengali, not in BOI"},
+ {"tmdb_movie_id": 988208, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Kannada films of 2018). Kannada, not in BOI"},
+ {"tmdb_movie_id": 512295, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Swathanthryam Ardharathriyil' (Tinu Pappachan; Antony Varghese, 31 Mar 2018): blank budget/gross; 'became a box office success{{Citation needed}}' → NULL. Stored revenue (tmdb $660,390) unverified, left. Malayalam, not in BOI"}
+]

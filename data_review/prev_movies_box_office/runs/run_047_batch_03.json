@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1308795, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Great Escape (2023 film)': blank infobox; no sacnilk page; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 880791, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Great Indian Kitchen (2023 film)' (Tamil remake): blank infobox, ZEE5 post-theatrical rights only; sacnilk '—' (default 'Disaster' ignored); not in BOI"},
+ {"tmdb_movie_id": 1061597, "budget_inr_crore": null, "revenue_inr_crore": 6.37, "revenue_scope": "india_net", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Run_Baby_Run_2023"}, "notes": "Wiki 'Run Baby Run (2023 film)': blank infobox, no verdict; sacnilk India net (all languages) ₹6.37 Cr, figures till 16 Feb 2023 (14 days; day 14 ₹13 L), India gross / overseas '—' → stored as india_net; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1081717, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Naan Kadavul Illai': blank infobox, reviews only; sacnilk '—'; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1081727, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thalaikoothal (film)': blank infobox; sacnilk '—'; Tamil, not in BOI"}
+]

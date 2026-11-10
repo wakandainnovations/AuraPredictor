@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1090540, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Hun Iqbal': blank infobox; sacnilk Hun_Iqbal_2023 figures till 9 Feb 2023 (day 7, ₹39 L nett) → partial, not stored; Gujarati, not in BOI"},
+ {"tmdb_movie_id": 1189472, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2023 table or BOI index"},
+ {"tmdb_movie_id": 800301, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 11100000, "revenue_scope": "worldwide", "verdict": null, "sources": {"revenue": "https://www.boxofficemojo.com/title/tt13430858/"}, "notes": "British film (dir. Shekhar Kapur). Wiki infobox gross $11.1 million cited to Box Office Mojo → stored $11,100,000 confirmed; budget blank; no verdict wording; sacnilk '—'"},
+ {"tmdb_movie_id": 1045394, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Butta Bomma (film)': blank infobox (released 4 Feb 2023); sacnilk '—'; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1078512, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bamboo (2023 film)': blank infobox, release date only; sacnilk '—'; Marathi, not in BOI"}
+]

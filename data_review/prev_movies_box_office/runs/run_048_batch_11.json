@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 820854, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mahaveeryar': blank budget/gross, no box-office text (Sun NXT 10 Feb 2023); sacnilk Mahaveeryar_2022 India gross ₹4.15 Cr till 27 Jul 2022 (day 7) → partial, not stored; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 953052, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dejavu (2022 film)': blank budget/gross; lead 'became a box office success' is tagged {{citation needed|date=April 2024}} → not used, NULL; sacnilk Dejavu_2022 India gross ₹3.29 Cr till 27 Jul 2022 (day 6) → partial, not stored; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1038098, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Bad Egg (film)' 404); no sacnilk page; not in BH 2022 table or BOI index"},
+ {"tmdb_movie_id": 656999, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Odd Couple (2022 film)': released directly on Amazon Prime Video 2 Aug 2022 → no box office"},
+ {"tmdb_movie_id": 833051, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Padma (2022 film)' 404); sacnilk Padma_2022 '—' (default 'Disaster' ignored); Malayalam, not in BOI"}
+]

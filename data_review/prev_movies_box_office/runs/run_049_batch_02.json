@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 978530, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Punjabi film (English-tagged; dir Ksshitij Chaudhary, Neeru Bajwa, Gurnam Bhullar); no Wiki article ('Kokka' is a Japanese magazine); sacnilk Kokka_2022 figures till 21 May 2022 (day 2, India net ₹43 L / gross ₹51 L) → partial, not stored; not in BOI"},
+ {"tmdb_movie_id": 987174, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Tulu film (Kannada-tagged); no Wiki article (only a 'List of Tulu films of 2022' row); no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 1179058, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Adrushya': blank budget/gross, no box-office text; sacnilk Adrushya_2022 '—' (default 'Disaster' ignored); Marathi, not in BOI"},
+ {"tmdb_movie_id": 1317966, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk Cutting_Shop_2022 '—' (default 'Disaster' ignored); not in BOI"},
+ {"tmdb_movie_id": 863467, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pathaam Valavu': blank budget/gross, theatrical 13 May 2022, ManoramaMAX 22 Jul 2022, no box-office text; sacnilk Pathaam_Valavu_2022 '—' (default 'Disaster' ignored); Malayalam, not in BOI"}
+]

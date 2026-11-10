@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 951440, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a 'List of Indian Bengali films of 2022' row, no figures); sacnilk Kulpi_2022 '—' (default 'Disaster' ignored); Bengali, not in BOI"},
+ {"tmdb_movie_id": 1390364, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a 'List of Malayalam films of 2022' row); sacnilk Bachelors_2022 '—' (default 'Disaster' ignored); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 804319, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "box office bomb", "sources": {"verdict": "https://en.wikipedia.org/wiki/Jack_N%27_Jill"}, "notes": "Wiki 'Jack N' Jill': blank budget/gross; lead says it 'was a box office bomb' (uncited sentence; Prime Video from 17 Jun 2022) → flop; sacnilk Jack_N_Jill_2022 figures till 21 May 2022 (day 2, ₹32 L India gross) → partial, not stored; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 977875, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a 'List of Malayalam films of 2022' row); sacnilk Four_2022 '—' (default 'Disaster' ignored); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 978192, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a 'List of Kannada films of 2022' row); sacnilk Saara_Vajra_2022 '—' (default 'Disaster' ignored); Kannada, not in BOI"}
+]

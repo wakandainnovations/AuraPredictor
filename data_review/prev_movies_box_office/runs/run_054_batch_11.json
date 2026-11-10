@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 463423, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kalavu (2019 film)' (Murali Karthick; Kalaiyarasan): released as a ZEE5 original on 9 Feb 2019 — direct-to-streaming, no box office"},
+ {"tmdb_movie_id": 531084, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Neil Biswas; Jaz Deol — UK/India thriller, 8 Feb 2019); not in BOI; no figures found"},
+ {"tmdb_movie_id": 581632, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "= Wiki 'Tritiya Adhyay' (Manoj Michigan; Abir Chatterjee, Paoli Dam, 8 Feb 2019): blank budget/gross, no box-office text; Bengali, not in BOI"},
+ {"tmdb_movie_id": 581925, "budget_inr_crore": null, "revenue_inr_crore": 0.0225, "revenue_scope": "india_gross", "verdict": "flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=5599", "verdict": "https://boxofficeindia.com/movie.php?movieid=5599"}, "notes": "No Wiki article. BOI 5599 'End Counter (2019)', 8 Feb 2019: Disaster, India gross ₹2,25,000 (overseas $---, nett ₹2,00,000), budget '--' → india_gross ₹0.0225 Cr + flop; BH 2019 agrees: nett ₹0.02 Cr, Flop"},
+ {"tmdb_movie_id": 695821, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Debatma Mandal; Bidita Bag — Bengali short, DB tags English); no box office"}
+]

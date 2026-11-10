@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 913932, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ikk': blank budget/gross, no box-office text; sacnilk Ikk_2021 '—' (default ignored); Tamil, not in BOI"},
+ {"tmdb_movie_id": 861294, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "English-language film (dir/lead Bari Kang); no Wiki article (search hits are the 1917 John Ford film and Scrapper 2023 — rejected); no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 732898, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "English-language film (dir Maya Witters); no Wiki article; no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 850166, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Skylab (film)': blank budget/gross, no box-office text; sacnilk Skylab_2021 India net ₹2.01 Cr, figures till 9 Dec 2021 (6 days) → partial, not stored; Telugu, not in BOI"},
+ {"tmdb_movie_id": 674531, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bob Biswas': premiered on ZEE5 3 Dec 2021 → no box office"}
+]

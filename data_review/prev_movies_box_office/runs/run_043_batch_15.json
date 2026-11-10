@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1365994, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bal Naren' (released 11 Nov 2022 per Wiki; DB 2024-09-20): blank infobox, no box office; no sacnilk page; not in BOI index or BH 2024 table"},
+ {"tmdb_movie_id": 1233993, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1358142, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Love Is Love' match is a 2020 Deauville festival film — not confirmed as this Kapil Kaustubh Sharma / Zarina Wahab title; no figures; no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 787172, "budget_inr_crore": null, "revenue_inr_crore": 0.40, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Kaalapatthar_2024"}, "notes": "Wiki 'Kaalapatthar' (Vikky Varun; 13 Sep 2024): blank infobox, reviews only; sacnilk India gross ₹40 L (20 days, till 2 Oct 2024; overseas —); no verdict; Kannada, not in BOI"},
+ {"tmdb_movie_id": 819356, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Telugu, not in BOI"}
+]

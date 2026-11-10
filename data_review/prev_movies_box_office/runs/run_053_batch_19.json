@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 610332,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only a row in List of Malayalam films of 2019); no sacnilk page; Malayalam, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 612106,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only a row in List of Telugu films of 2019); no sacnilk page; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 653097,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.0275,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5660",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5660"
+  },
+  "notes": "Hindi film (DB tags English). No Wiki article (only a row in List of Hindi films of 2019). BOI 5660 'Gunwali Dulhania (2019)', 17 May 2019: Disaster, India gross ₹2,75,000 (overseas $---, nett ₹2.5 L), budget '--' → india_gross ₹0.0275 Cr + flop; BH 2019 table agrees: nett ₹0.001 Cr, Flop",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 587711,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'ABCD: American Born Confused Desi (2019 film)' (Sanjeev Reddy; Allu Sirish, 17 May 2019): blank budget/gross, only reviews (the 'commercial success' lines belong to the 2013 Malayalam original); no sacnilk page; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 611440,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only a row in List of Kannada films of 2019); no sacnilk page; Kannada, not in BOI"
+ }
+]

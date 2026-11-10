@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 542627, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Loudspeaker (2018 film)' (Shiva Tejass, 10 Aug 2018): blank budget/gross, only a TOI review; Kannada, not in BOI"},
+ {"tmdb_movie_id": 543401, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Crisscross (film)' (Birsa Dasgupta; Nusrat Jahan, Mimi Chakraborty, 10 Aug 2018): blank budget/gross, no box-office text; Bengali, not in BOI"},
+ {"tmdb_movie_id": 687700, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a row in List of Kannada films of 2018); Kannada, not in BOI"},
+ {"tmdb_movie_id": 538123, "budget_inr_crore": null, "revenue_inr_crore": 0.06, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3805", "verdict": "https://boxofficeindia.com/movie.php?movieid=3805"}, "notes": "No Wiki article. BOI 3805 'Adrishya' (3 Aug 2018, Hindi, 20 screens): Disaster, India gross ₹6,00,000 (nett ₹5,00,000, overseas $---), budget '--' → india_gross ₹0.06 Cr + flop; BH 2018 agrees: nett ₹0.02 Cr, Flop"},
+ {"tmdb_movie_id": 539877, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Katheyondu Shuruvagide' (Senna Hegde; Diganth, 3 Aug 2018): blank budget/gross, no box-office text; Kannada, not in BOI"}
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 681235,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Torbaaz': premiered on Netflix 11 Dec 2020 → no box office; no sacnilk page; not in BOI"
+ },
+ {
+  "tmdb_movie_id": 505924,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Kanni Raasi': theatrical 4 Dec 2020, blank budget/gross, no box-office text; no sacnilk page; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1217271,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only 'List of Tamil films of 2020' returned); no sacnilk page; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 770391,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Bombhaat': blank budget/gross; only critics' reviews, no box-office text; no sacnilk page; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 770508,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; not in BOI"
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 539811, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "= Wiki '60 Vayadu Maaniram' (Radha Mohan; Vikram Prabhu, 31 Aug 2018): blank budget/gross, only reviews (the 'box office hit' line is about the Kannada original). One web search: filmibeat 'Box Office TBA', no trade figures. Tamil, not in BOI"},
+ {"tmdb_movie_id": 546235, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a row in List of Telugu films of 2018); Telugu; BOI fuzzy hit 'Sameer' (2017 Hindi) is unrelated"},
+ {"tmdb_movie_id": 546653, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Hindi (Tigmanshu Dhulia; Amit Sadh, Taapsee Pannu). No Wiki article; not in the BOI index or BH 2018 table — apparently never released theatrically"},
+ {"tmdb_movie_id": 552966, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Naduve Antaravirali' (Raveen Kumaara; Prakhyath Paramesh, 5 Oct 2018): blank budget/gross, no box-office text; Kannada, not in BOI"},
+ {"tmdb_movie_id": 699966, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Natsamrat (2018 film)' (Jayant Gilatar; Siddharth Randeria, 30 Aug 2018; Gujarati remake): gross '{{Estimation}} ₹2 crore' cited only to a BookMyShow box-office page (not a trade source; stored $281,983 ≈ that figure) → FLAGGED, left, not confirmed. No verdict. Gujarati, not in BOI"}
+]

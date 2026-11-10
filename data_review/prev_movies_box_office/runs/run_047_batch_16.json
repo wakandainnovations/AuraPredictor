@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1042443, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk Kulche_Chole_2022 '—' (default 'Disaster' ignored); Punjabi, not in BOI"},
+ {"tmdb_movie_id": 1091609, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Haryanvi film (DB tag 'hindi'). Wiki 'Dada Lakhmi': no budget/gross, National Film Award only; no sacnilk page; not in BH 2022 table or BOI index"},
+ {"tmdb_movie_id": 800754, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chathuram': blank infobox; sacnilk '—'; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1024350, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Flagged, left as is: stored budget $114,492 = Wiki 'Daman (2022 film)' '₹94 lakh' cited to odishadarsan.com, tagged {{unreliable source}} → not confirmed; gross blank; no sacnilk page; Odia, not in BOI"},
+ {"tmdb_movie_id": 1036785, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bomma Blockbuster': blank infobox (the title is not a verdict); sacnilk '—'; Telugu, not in BOI"}
+]

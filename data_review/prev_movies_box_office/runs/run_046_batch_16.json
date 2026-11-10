@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 1110814,
+  "budget_inr_crore": 9,
+  "revenue_inr_crore": 5,
+  "revenue_scope": "worldwide",
+  "verdict": null,
+  "sources": {
+   "budget": "https://en.wikipedia.org/wiki/Ghar_Banduk_Biryani",
+   "revenue": "https://en.wikipedia.org/wiki/Ghar_Banduk_Biryani"
+  },
+  "notes": "Wiki 'Ghar Banduk Biryani': budget {{estimation}} ₹8–10 Cr (Saam TV cite) → midpoint ₹9 Cr = stored (confirm); gross {{estimation}} ₹5 Cr worldwide 'in its final theatrical run' = stored (confirm; the section's only cite is a 4-day Marathi article, so weakly sourced); 'underperformed' / ninth-highest Marathi 2023 → no verdict; ZEE5 from 2 Jun 2023; no sacnilk page; Marathi, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1142313,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article for this 2023 film (dir. Khadar Kumar S, Prajwal Devaraj — search returned the 2014 Tamil / 2016 Malayalam 'Veeram', not used); sacnilk Veeram_2023 net ₹64 L till 13 Apr 2023 (7 days) → partial; not in BH/BOI"
+ },
+ {
+  "tmdb_movie_id": 1049230,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Kallanum Bhagavathiyum': blank infobox, no box-office text; sacnilk '—'; Malayalam, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1121291,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Punjabi 2023 list); sacnilk '—'; Punjabi, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1065913,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Purusha Pretham': released on SonyLIV 24 Mar 2023 (direct-to-OTT) → no box office; Malayalam, not in BOI"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 751640,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search returned song lists); no sacnilk page; not in BOI index or BH 2020 table"
+ },
+ {
+  "tmdb_movie_id": 743382,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Serious Men (film)': released on Netflix 2 Oct 2020 → no box office; sacnilk page '—'"
+ },
+ {
+  "tmdb_movie_id": 748818,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Orey Bujjiga': released directly on Aha 2 Oct 2020 → no box office. sacnilk Orey_Bujjiga_2020 shows 7 days to 7 Jan 2021 (₹50 L gross), 'Budget ₹15.00 Cr', 'Flop' — dates do not fit the Aha premiere (likely a later limited theatrical run) and no director/cast to confirm → not stored"
+ },
+ {
+  "tmdb_movie_id": 734819,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'London Confidential': premiered on ZEE5 18 Sep 2020 → no box office"
+ },
+ {
+  "tmdb_movie_id": 728196,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; Gujarati, not in BOI"
+ }
+]

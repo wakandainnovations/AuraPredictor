@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 937409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BH 2022 table or BOI index; no sacnilk page"},
+ {"tmdb_movie_id": 940005, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a 'List of Punjabi films of the 2020s' line); sacnilk Jal_Wayu_Enclave_2022 '—' (default ignored); Punjabi, not in BOI"},
+ {"tmdb_movie_id": 937527, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Byadh': a Hoichoi streaming series, not a theatrical film → no box office"},
+ {"tmdb_movie_id": 941728, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ferrous (film)': 2018 festival film (RTF Lagos), later adapted as an Ullu series → no box office; not in BH/BOI"},
+ {"tmdb_movie_id": 935552, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Anbulla Ghilli': blank budget/gross, no box-office text; no sacnilk page; Tamil, not in BOI"}
+]

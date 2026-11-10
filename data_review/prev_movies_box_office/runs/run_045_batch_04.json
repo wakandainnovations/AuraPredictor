@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1179389, "budget_inr_crore": null, "revenue_inr_crore": 0.44, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Vivekanandan_Viralanu_2024"}, "notes": "Wiki 'Vivekanandan Viralanu' (Kamal): blank infobox, no box-office text; sacnilk India gross ₹44 L (net ₹38 L, 16 days, till 3 Feb 2024; overseas —); no verdict; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1613274, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rangasamudra': blank infobox, no box-office text; sacnilk Rangasamudra_2024 ₹6 L after 6 days (till 24 Jan 2024) → partial, not stored; Kannada, not in BOI"},
+ {"tmdb_movie_id": 1114281, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a row in List of Odia films of 2024); no sacnilk page; Odia, not in BOI"},
+ {"tmdb_movie_id": 1355429, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returned unrelated pages); no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 1225458, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sevappi': Aha Tamil original, premiered on Aha on 12 Jan 2024 → direct-to-streaming, no box office"}
+]

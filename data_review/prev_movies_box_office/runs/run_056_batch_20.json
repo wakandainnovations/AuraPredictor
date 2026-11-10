@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 499373, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "below average", "sources": {"verdict": "https://en.wikipedia.org/wiki/Rangula_Ratnam_(2018_film)"}, "notes": "Wiki 'Rangula Ratnam (2018 film)' (Shreeranjani; Raj Tarun, 14 Jan 2018): blank budget/gross; 'The film had a below average run at the box office' (uncited) → Below Average → flop. Telugu, not in BOI"},
+ {"tmdb_movie_id": 1363118, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "'Maa' (Niranjan Iyengar; Nina Kulkarni, 2018): no Wiki article (search returns unrelated films); likely a short film. Not in BOI (BOI 'Maatr' 2017 is a different film) or BH 2018"},
+ {"tmdb_movie_id": 496313, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Diwanjimoola Grand Prix' (Anil Radhakrishnan Menon; Kunchacko Boban, 5 Jan 2018): blank budget/gross, no box-office text. Stored revenue (tmdb $164,400) unverified, left. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 661304, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Gujarati films of 2018). Gujarati, not in BOI (BOI 'DHD' is a different film)"},
+ {"tmdb_movie_id": 726408, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Indian Bengali films of 2018). Bengali, not in BOI"}
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 1146948,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search hit 'Paglu' is the 2011 Bengali film); no sacnilk page; Odia, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 926900,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Thalainagaram 2': blank infobox, only 'premiered on Prime Video' (after theatrical); no sacnilk page; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1103708,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Asvins (film)': blank infobox, no box-office text; sacnilk '—'; Tamil/Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1143235,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 919031,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Tiku Weds Sheru': premiered on Prime Video 23 Jun 2023 (direct-to-OTT) → no box office; not in BH/BOI"
+ }
+]

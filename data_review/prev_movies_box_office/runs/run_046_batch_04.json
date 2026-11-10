@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1157674, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; BH 2023 table has 'Lomad The Fox' dated 04 Apr 2023 (₹0.005 Cr nett, Flop) vs DB 4 Aug 2023 — date conflict and BH movie page unreachable → not stored; not in BOI index"},
+ {"tmdb_movie_id": 1160937, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nila (2023 film)': blank infobox, no box-office text (WIFF premiere, India 3 Aug 2023); sacnilk '—'; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1156202, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Stolen (2023 film)': Venice 2023 premiere, then Prime Video from 4 Jun 2025 — no Indian theatrical release / box office; not in BOI or BH"},
+ {"tmdb_movie_id": 1155713, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Appatha': premiered on JioCinema 29 Jul 2023 (direct-to-OTT) → no box office; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1020358, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Corona Dhavan': blank infobox, plot/cast only; sacnilk '—'; Malayalam, not in BOI"}
+]

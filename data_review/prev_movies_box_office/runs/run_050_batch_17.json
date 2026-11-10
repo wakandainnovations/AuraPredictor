@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1732147, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Makrand Deshpande play-film); stored tmdb budget $10,000 left as is (unverified); not in BOI index or BH 2021 table; no sacnilk page"},
+ {"tmdb_movie_id": 831199, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in 'List of Gujarati films of 2021'); no sacnilk page; Gujarati, not in BOI"},
+ {"tmdb_movie_id": 790740, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Abhijaan (2022 film)' (Parambrata Chatterjee; Jisshu Sengupta): released 14 Apr 2022 (DB 2021-05-19); blank budget/gross, no box-office text; no sacnilk page; Bengali, not in BOI (index hit 'Ahaan' is a different film)"},
+ {"tmdb_movie_id": 718739, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'RK/RKay' (Rajat Kapoor): US release 14 May 2021, India theatrical 22 Jul 2022; blank budget/gross, reviews only; not in BOI index (±1 yr) or BH 2021/2022 tables; no sacnilk page"},
+ {"tmdb_movie_id": 824387, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Cinema Bandi': premiered on Netflix 14 May 2021 → no box office; Telugu, not in BOI"}
+]

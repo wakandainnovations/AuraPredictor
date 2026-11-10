@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 987591, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Flagged, left as is: stored revenue $309,035 = Wiki infobox ₹2.56 crore marked {{cn}} (body line {{fact}}) — uncited, not confirmed; sacnilk Hatyapuri_2022 14 days, self-contradicting (WW ₹65 L, India net ₹1.97 Cr, India gross ₹1.71 Cr) → not used; 'one of the highest grossing Bengali films of 2022' is a ranking, not a verdict; Bengali, not in BOI"},
+ {"tmdb_movie_id": 1186108, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Bangladeshi film; no Wiki article; no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 915501, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "= Laththi (Vishal; 'Laththi Charge' is its multi-language title). Wiki: budget/gross blank, mixed reviews, Sun NXT rights; sacnilk Laththi_2022 figures till 29 Dec 2022 (day 8: India net ₹11.25 Cr / gross ₹13.28 Cr) → partial, not stored; Tamil, not in BOI"},
+ {"tmdb_movie_id": 901220, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Sivudu' redirects to a Baahubali character); sacnilk Sivudu_2021 '—'; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1309739, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2022 table or BOI index"}
+]

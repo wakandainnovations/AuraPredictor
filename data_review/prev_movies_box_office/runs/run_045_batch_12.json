@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1210351, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (French documentary; search returned unrelated pages); no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 1031954, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Swathi Mutthina Male Haniye' (Raj B. Shetty): blank infobox, no box-office text; sacnilk page '—'; Kannada, not in BOI"},
+ {"tmdb_movie_id": 1197850, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returned unrelated pages); no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 1208217, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Joe (2023 film)': blank infobox; lead only says it 'completed 50 days at the box office' (a run length, not a verdict) → NULL; no sacnilk page; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1209850, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk Gudiya_2023 page '—' (no cast to confirm it is this film); Punjabi, not in BOI"}
+]

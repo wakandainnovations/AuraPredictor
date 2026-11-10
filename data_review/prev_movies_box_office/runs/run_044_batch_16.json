@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1260893, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Hide and Seek (2024 film)' (Punith Nagaraj): blank infobox; sacnilk ₹11 L for 7 days only (till 21 Mar 2024) → partial, not stored; Kannada, not in BOI"},
+ {"tmdb_movie_id": 1262698, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Odia, not in BOI"},
+ {"tmdb_movie_id": 903247, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Indian Bengali films of 2024 only); no sacnilk page; Bengali, not in BOI"},
+ {"tmdb_movie_id": 1254267, "budget_inr_crore": null, "revenue_inr_crore": 0.13, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Manasa_Vacha_2024"}, "notes": "Wiki 'Manasa Vacha' (Sreekumar Podiyan): blank infobox, no box-office text; sacnilk India gross ₹13 L (9 days, till 16 Mar 2024; overseas —); no verdict; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1284661, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Kannada films of 2024; DB tags it English, it is Kannada); sacnilk ₹4 L for 5 days only → partial, not stored; not in BOI"}
+]

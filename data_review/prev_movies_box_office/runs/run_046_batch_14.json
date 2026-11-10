@@ -1,0 +1,45 @@
+[
+ {
+  "tmdb_movie_id": 1140530,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Telugu 2023 list); sacnilk '—'; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 886921,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Leader: Amie Bangladesh' (Bangladeshi): gross Tk 9.5 crore (Business Post year-end list) — BDT, not INR/USD, not entered; 'said to be superhit' is cited to a Dhaka Tribune day-3 'on the way to superhit' piece and the producer (BMDb) says his share was Tk 76 lakh on a Tk 2.25 crore cost → conflicting, verdict NULL; no sacnilk page; not in BOI"
+ },
+ {
+  "tmdb_movie_id": 915865,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Mrs Undercover': ZEE5 original film (direct-to-OTT, 14 Apr 2023) → no box office; not in BH/BOI"
+ },
+ {
+  "tmdb_movie_id": 1113562,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Punjabi 2023 list); sacnilk Udeekan_Teriyan_2023 only day-1 net ₹8 L → partial; Punjabi, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1517973,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.07,
+  "revenue_scope": "india_net",
+  "verdict": null,
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"
+  },
+  "notes": "Wiki 'Bicycle Days (film)': blank infobox, no box-office text; BH 2023 table 14 Apr 2023: India nett ₹0.07 Cr, verdict 'Pending' → nett only, no verdict; sacnilk '—'; not in BOI index"
+ }
+]

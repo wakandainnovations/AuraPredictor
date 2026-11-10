@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1192423, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk page '—'; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1210464, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty); no sacnilk page; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1189269, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hit only 'JioCinema' — likely a JioCinema release); no sacnilk page; not in BOI index or BH 2023 table"},
+ {"tmdb_movie_id": 752936, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki '800 (film)' (Muralitharan biopic): blank infobox budget/gross, no box-office verdict text; no sacnilk page; stored tmdb budget left as is; not in BOI"},
+ {"tmdb_movie_id": 930108, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Raththam' (C. S. Amudhan, Vijay Antony; DB spelling 'Ratham'): blank infobox, no box-office text (Prime Video from Nov 2023); no sacnilk page; Tamil, not in BOI"}
+]

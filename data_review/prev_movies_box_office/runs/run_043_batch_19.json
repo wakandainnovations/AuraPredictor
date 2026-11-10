@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 942561, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ghudchadi' (Binoy Gandhi; Sanjay Dutt): premiered directly on JioCinema on 9 Aug 2024 — no box office; sacnilk page '—'"},
+ {"tmdb_movie_id": 984387, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Simbaa' (9 Aug 2024): blank infobox; sacnilk India gross ₹17 L for 7 days only → partial, not stored; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1072693, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Phir Aayi Hasseen Dillruba': premiered directly on Netflix on 9 Aug 2024 — no box office"},
+ {"tmdb_movie_id": 1222792, "budget_inr_crore": null, "revenue_inr_crore": 0.31, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Super_Zindagi_2024"}, "notes": "Wiki 'Super Zindagi' (Vintesh; Dhyan Sreenivasan; 9 Aug 2024): blank infobox; sacnilk India gross ₹31 L (12 days, till 20 Aug 2024; overseas —); no verdict; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1326711, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (listed in 'List of Tamil films of 2024'); sacnilk India gross ₹11 L for 6 days only → partial, not stored; Tamil, not in BOI"}
+]

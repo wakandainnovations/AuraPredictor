@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1211406, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Flop", "sources": {"verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"}, "notes": "No Wiki article (row in List of Hindi films of 2023); BH 2023 table: Kaisi Ye Dor (15 Dec 2023) Flop, lifetime nett ₹0.02 Cr (not stored — nett only, tiny); sacnilk page '—'; not in BOI index. FLAG: stored tmdb budget $2.7M looks implausible for this release, left as is"},
+ {"tmdb_movie_id": 1484241, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Telugu films of 2023); sacnilk page '—'; stored tmdb budget/revenue left as is; not in BOI"},
+ {"tmdb_movie_id": 1533567, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Prema Katha' is the 1999 RGV film (wrong match); no article for the 2023 film; no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 1794343, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1310859, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BOI index or BH 2023 table"}
+]

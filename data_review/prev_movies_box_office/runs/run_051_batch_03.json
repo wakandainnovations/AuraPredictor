@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 753841, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returned Amber Tamblyn etc.); no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 810802, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Punjabi, not in BOI"},
+ {"tmdb_movie_id": 412102, "budget_inr_crore": 7, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "Above Average", "sources": {"budget": "https://www.sacnilk.com/movie/Nenjam_Marappathillai_2021", "verdict": "https://www.sacnilk.com/movie/Nenjam_Marappathillai_2021"}, "notes": "Wiki 'Nenjam Marappathillai (2021 film)': theatrical 5 Mar 2021 after Madras HC ruling; blank budget/gross. sacnilk Nenjam_Marappathillai_2021 (dir Selvaraghavan — matches): Budget ₹7.00 Cr, Verdict Above Average; figures only 14 days (till 18 Mar 2021, WW ₹9.15 Cr, day 14 still ₹1.60 Cr) → partial, revenue not stored; Tamil, not in BOI"},
+ {"tmdb_movie_id": 798594, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Hiralal (film)': blank budget/gross; sacnilk Hiralal_2021 7 days (₹4 L) → partial, default 'Disaster' not used; Bengali, not in BOI"},
+ {"tmdb_movie_id": 802773, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in 'List of Telugu films of 2021' only); sacnilk A_Ad_Infinitum_2021 3 days (₹17 L) → partial; Telugu, not in BOI"}
+]

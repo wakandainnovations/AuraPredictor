@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1398967, "budget_inr_crore": null, "revenue_inr_crore": 0.39, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Once_Upon_a_Time_in_Madras_2024"}, "notes": "Wiki 'Once Upon a Time in Madras' (Prasadh Murugan; Bharath; 13 Dec 2024): blank infobox, no box-office text; sacnilk India gross ₹39 L (14 days, till 26 Dec 2024; overseas —); no verdict; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1399754, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk India gross ₹17 L for 7 days only (till 19 Dec 2024) → partial, not stored; Punjabi, not in BOI"},
+ {"tmdb_movie_id": 1398084, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Salliyargal' (T. Kittu): released 1 Jan 2026 after distribution struggles (DB date 2024-12-07); blank infobox, no box-office figures; no sacnilk page (2025/2026 slugs); Tamil, not in BOI"},
+ {"tmdb_movie_id": 1414672, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search and 'Sadabahar (film)' miss); no sacnilk page; not in BOI index or BH 2024/2025 tables"},
+ {"tmdb_movie_id": 1377191, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Assamese festival title (DB 26 Nov 2024), not in BOI"}
+]

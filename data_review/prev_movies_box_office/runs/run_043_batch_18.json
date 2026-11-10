@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1078495, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Virunnu' (Kannan Thamarakkulam; Arjun Sarja; 29 Aug 2024): blank infobox, later on Prime Video / Simply South; sacnilk page shows '—' everywhere; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1121822, "budget_inr_crore": null, "revenue_inr_crore": 0.51, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Thaanara_2024"}, "notes": "No Wiki article (listed in 'List of Malayalam films of 2024'); sacnilk India gross ₹51 L (13 days, till 4 Sep 2024; net ₹44 L; overseas —); no verdict; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1395569, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for this title (search → 'Distant' disambiguation / other films); no sacnilk page; stored tmdb budget $3,000 left as is (unverified); not in BOI"},
+ {"tmdb_movie_id": 1329146, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'EVOL (film)': released directly on Aha on 15 Aug 2024 — no box office"},
+ {"tmdb_movie_id": 810870, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (listed in 'List of Kannada films of 2024'); sacnilk India gross ₹5 L for 5 days only → partial, not stored; Kannada, not in BOI"}
+]

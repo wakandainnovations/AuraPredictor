@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 750176, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lapet' (Nishith Brahmbhatt, 15 Feb 2019): blank budget/gross, no box-office text; Gujarati, not in BOI"},
+ {"tmdb_movie_id": 505432, "budget_inr_crore": 5, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Oru_Adaar_Love"}, "notes": "Wiki 'Oru Adaar Love' (Omar Lulu, 14 Feb 2019): budget ₹5 Cr (body, IBTimes 9 Mar 2019) → stored value confirmed. Stored revenue ₹12 Cr = 'As of 9 March 2019, the film has grossed more than ₹12 crore in India' — a 3-week running total, FLAGGED, left as is. Lead 'underperformed at the box office' → not a verdict, NULL. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 647934, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kaagar' (Makarand Mane; Rinku Rajguru): theatrical 26 Apr 2019 (DB 14 Feb was the earlier planned date), later on Netflix; blank budget/gross; TOI 2.5/5 'average experience' is a review rating, not a verdict; Marathi, not in BOI"},
+ {"tmdb_movie_id": 1079696, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Satarupa Sanyal; Anurag Kashyap, 11 Feb 2019 — festival/indie title); not in BOI index or BH 2019 table"},
+ {"tmdb_movie_id": 575843, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Udita Bhargava; festival short, 10 Feb 2019); no box office"}
+]

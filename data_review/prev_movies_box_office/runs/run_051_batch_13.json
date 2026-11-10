@@ -1,0 +1,44 @@
+[
+ {
+  "tmdb_movie_id": 757545,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Mookuthi Amman': released on Disney+ Hotstar 14 Nov 2020 after the theatrical release was cancelled → no box office (the ₹90–100 Cr budget in search results belongs to the 2026 sequel)"
+ },
+ {
+  "tmdb_movie_id": 764135,
+  "budget_inr_crore": 4,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {
+   "budget": "https://www.sacnilk.com/movie/Biskoth_2020"
+  },
+  "notes": "Wiki 'Biskoth': theatrical 14 Nov 2020, moved to OTT after two weeks; blank budget/gross. sacnilk Biskoth_2020 (dir R. Kannan — matches): 'Budget ₹4.00 Cr' → filled; figures only 9 days (till 22 Nov 2020, India gross ₹3.40 Cr) → partial, not stored; no verdict; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 763848,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Maa Vintha Gaadha Vinuma': premiered on Aha 13 Nov 2020 → no box office"
+ },
+ {
+  "tmdb_movie_id": 784892,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; stored tmdb budget $100,000 left as is"
+ },
+ {
+  "tmdb_movie_id": 869989,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Canadian English film; no Wiki article; no sacnilk page; not in BOI"
+ }
+]

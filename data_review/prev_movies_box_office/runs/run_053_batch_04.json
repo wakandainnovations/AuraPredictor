@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 641282, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mitin Mashi' (Arindam Sil; Koel Mallick, 2 Oct 2019): blank budget/gross, no box-office text; stored tmdb budget $200,000 left as is (unverified); no sacnilk page; Bengali, not in BOI"},
+ {"tmdb_movie_id": 718327, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "sources": {"verdict": "https://en.wikipedia.org/wiki/Password_(2019_Indian_film)"}, "notes": "Wiki 'Password (2019 Indian film)' (Kamaleshwar Mukherjee; Dev, 2 Oct 2019): blank budget/gross; body says 'The film flopped at box-office' (uncited) and lead 'didn't manage to do well at the box-office' (cites are pre-release) → flop, weak cite noted. (Same-named 2019 Bangladeshi film is a different film.) No sacnilk page; Bengali, not in BOI"},
+ {"tmdb_movie_id": 1318963, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BOI index or BH 2019 table (likely festival/short)"},
+ {"tmdb_movie_id": 807296, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Picasso (film)': Jagran FF 28 Sep 2019; 'not released in theatres', Amazon Prime Video 19 Mar 2021 — direct-to-streaming, no box office"},
+ {"tmdb_movie_id": 656751, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BOI index or BH 2019 table"}
+]

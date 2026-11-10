@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 463062, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kalari (film)' (Kiran Chand; Krishna, 24 Aug 2018): blank budget/gross, no box-office text; Tamil, not in BOI"},
+ {"tmdb_movie_id": 533889, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lakshmi (2018 film)' (A. L. Vijay; Prabhu Deva, 24 Aug 2018, Tamil/Telugu): blank budget/gross, no box-office text. BOI 'Lakshmi' entries are other films (Hindi 2014, Kannada 2013 — rejected)"},
+ {"tmdb_movie_id": 544681, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Neevevaro' (Hari Nath; Aadhi Pinisetty, Taapsee Pannu, 23 Aug 2018): blank budget/gross, no box-office text; Telugu, not in BOI"},
+ {"tmdb_movie_id": 544889, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Kannada 'Good Bye' (V. Ravichandran). No Wiki article found (search hits unrelated); not in BOI"},
+ {"tmdb_movie_id": 600433, "budget_inr_crore": null, "revenue_inr_crore": 0.018, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3820", "verdict": "https://boxofficeindia.com/movie.php?movieid=3820"}, "notes": "No Wiki article. BOI 3820 'Karim Mohammed' (24 Aug 2018, Hindi, 25 screens): Flop, India gross ₹1,80,000 (nett ₹1,50,000, overseas $---), budget '--' → india_gross ₹0.018 Cr + flop. Not in BH 2018 table"}
+]

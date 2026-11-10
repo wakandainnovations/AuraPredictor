@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1019701, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Punjabi, not in BOI"},
+ {"tmdb_movie_id": 1175512, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2022 table or BOI index"},
+ {"tmdb_movie_id": 835030, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Peace (2022 film)': blank budget/gross, theatrical 26 Aug 2022 then SunNXT 5 Oct 2022, no box-office text; sacnilk Peace_2022 '—' (default 'Disaster' ignored); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 972797, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only the Malayalam 2022 list); no sacnilk page; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1013726, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk Kalapuram_2022 '—' (default 'Disaster' ignored); Telugu, not in BOI"}
+]

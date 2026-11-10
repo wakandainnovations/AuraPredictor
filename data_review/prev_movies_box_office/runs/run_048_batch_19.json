@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 845856, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'X=Prem': blank budget/gross; 'It was a flop at the box office' is cited only to an Anandabazar article about the start of shooting (accessed Nov 2021, pre-release) → NULL; no sacnilk page; Bengali, not in BOI"},
+ {"tmdb_movie_id": 985618, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Gajanana and Gang': blank budget/gross, no box-office text; sacnilk '—' (default 'Disaster' ignored); Kannada, not in BOI"},
+ {"tmdb_movie_id": 890119, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Black (2022 film)': blank budget/gross, no box-office text; no sacnilk page; Telugu, not in BOI"},
+ {"tmdb_movie_id": 857346, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kuttavum Shikshayum (2022 film)': blank budget/gross, reviews only (Netflix from 26 Jun 2022); sacnilk Kuttavum_Shikshayum_2022 India gross ₹40 L till 29 May 2022 (day 3) → partial; its 'Disaster' verdict on a 3-day page not used; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 865464, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'John Luther (film)': blank budget/gross, plot only; sacnilk John_Luther_2022 India gross ₹1.00 Cr till 2 Jun 2022 (day 7) → partial; its 'Disaster' verdict on a 7-day page not used; Malayalam, not in BOI"}
+]

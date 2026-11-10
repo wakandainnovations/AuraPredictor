@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 563152, "budget_inr_crore": null, "revenue_inr_crore": 0.02, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Sheesh_Mahal_2024"}, "notes": "Wiki 'Sheeshmahal' (Camp Sasi): blank infobox, no box-office text; sacnilk India gross ₹2 L (8 days, till 21 Feb 2024; overseas —); no verdict; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1246163, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article found (search returned unrelated pages); no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 1246679, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty); no sacnilk page; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1230767, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a row in List of Malayalam films of 2024); sacnilk Jerry_2024 ₹8 L gross but only 6 days (till 14 Feb 2024) → partial, not stored; not in BOI"},
+ {"tmdb_movie_id": 1236545, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lantrani': released on ZEE5 on 9 Feb 2024 without any theatrical release → no box office; not in BOI/BH"}
+]

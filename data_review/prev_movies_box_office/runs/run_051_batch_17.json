@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 735120,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'C U Soon': released on Amazon Prime Video 1 Sep 2020 → no box office; stored tmdb budget $684,937 unverified, left as is"
+ },
+ {
+  "tmdb_movie_id": 719949,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Khuda Haafiz': premiered on Disney+ Hotstar 14 Aug 2020 ('became a success in Disney+ Hotstar' is streaming, not box office) → no box office; sacnilk page '—'"
+ },
+ {
+  "tmdb_movie_id": 734413,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; Aha web film; no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 864210,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Onbathu Kuzhi Sampath': blank budget/gross, no box-office text (Aug 2020 — cinemas closed); no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 733137,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; not in BOI"
+ }
+]

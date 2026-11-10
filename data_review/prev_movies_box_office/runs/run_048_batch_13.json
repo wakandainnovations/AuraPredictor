@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 920736, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "FLAG: stored tmdb revenue $3,294 is not a real gross (unverified; apply can't null it). Wiki 'Happy Birthday (2022 Indian film)': blank budget/gross, no box-office text; sacnilk Happy_Birthday_2022 India gross ₹3.58 Cr till 13 Jul 2022 (day 6) → partial, not stored; Telugu, not in BOI"},
+ {"tmdb_movie_id": 984518, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk Gandharwa_2022 '—' (default 'Disaster' ignored); Telugu, not in BOI"},
+ {"tmdb_movie_id": 996745, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Telugu film tagged English); sacnilk Maa_Nanna_Naxalite_2022 '—' (default 'Disaster' ignored); not in BOI"},
+ {"tmdb_movie_id": 997476, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bestie (film)': blank budget/gross, no box-office text; sacnilk '—' (default 'Disaster' ignored); Tamil, not in BOI"},
+ {"tmdb_movie_id": 1001455, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tootu Madike': blank budget/gross, no box-office text; sacnilk '—' (default 'Disaster' ignored); Kannada, not in BOI"}
+]

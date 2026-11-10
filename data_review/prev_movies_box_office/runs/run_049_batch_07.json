@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 897557, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Me Vasantrao': blank budget/gross, no box-office text; sacnilk Me_Vasantrao_2022 '—'; Marathi, not in BOI"},
+ {"tmdb_movie_id": 718635, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Bengali, not in BOI"},
+ {"tmdb_movie_id": 958420, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Kannada, not in BOI"},
+ {"tmdb_movie_id": 1461280, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hit only the director's page); not in BH 2022 table or BOI index; no sacnilk page; stored tmdb budget $400,000 unverified, left as is"},
+ {"tmdb_movie_id": 885908, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (listed in 'List of Malayalam films of 2023' — festival 2022, theatrical 2023); no sacnilk page; Malayalam, not in BOI"}
+]

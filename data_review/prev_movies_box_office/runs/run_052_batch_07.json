@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 672709, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returned a cast page); no sacnilk page; Kannada, not in BOI"},
+ {"tmdb_movie_id": 697549, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Gujarati films of 2020); sacnilk Affraa_Taffri_2020 (dir Viral Rao) all '—'; Gujarati, not in BOI"},
+ {"tmdb_movie_id": 718206, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Prawaas' (Shashank Udapurkar; Ashok Saraf — matches): blank budget/gross, no box-office text; sacnilk Prawaas_2020 all '—'; Marathi, not in BOI"},
+ {"tmdb_movie_id": 748540, "budget_inr_crore": 2, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://www.sacnilk.com/movie/Navarathna_2020"}, "notes": "No Wiki article (row in List of Kannada films of 2020). sacnilk Navarathna_2020 (dir Prathap Raj; Moksha Kushal — matches): Budget ₹2.00 Cr → stored; gross ₹23 L but 'Total · 5 days' tracked within a 14-day span (till 27 Feb 2020) → partial, not stored, and its 'Disaster' not used for a partial page; Kannada, not in BOI"},
+ {"tmdb_movie_id": 1020270, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bidrohini' (Sandip Chowdhury; Rituparna Sengupta — matches): blank budget/gross, no box-office text; no sacnilk page; Bengali, not in BOI"}
+]

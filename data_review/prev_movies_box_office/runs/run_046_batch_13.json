@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 1118467,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Master Anshuman': no infobox figures, no box-office text; sacnilk '—'; Bengali, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1181780,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Telugu 2023 list); sacnilk '—'; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1119250,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Shubh Yatra': blank infobox, plot only; sacnilk net ₹1.23 Cr till 4 May 2023 (7 days, no gross; 'Disaster Day' is page text, not a verdict) → partial; Gujarati, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 806799,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Bangladeshi 2023 list); no sacnilk page; Bangladeshi Bengali, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1020193,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; Bangladeshi film (Ananta Jalil); BOI index hit 'Kill' (2024 Hindi) is a different film"
+ }
+]

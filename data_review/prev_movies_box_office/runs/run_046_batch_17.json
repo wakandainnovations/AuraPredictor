@@ -1,0 +1,47 @@
+[
+ {
+  "tmdb_movie_id": 1095108,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Tamil 2023 list); sacnilk '—'; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1098950,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Parundhaaguthu Oor Kuruvi': blank infobox, no box-office text; sacnilk shows the default 'Disaster' on a page with no figures → ignored; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1099677,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Kanjoos Makhichoos': ZEE5 film (Hindi 2023 list names ZEE5 as producer; released on ZEE5 24 Mar 2023) → no box office; not in BH/BOI"
+ },
+ {
+  "tmdb_movie_id": 1103937,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.012,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6275",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6275"
+  },
+  "notes": "No Wiki article (Hindi 2023 list only); BOI movieid=6275 (live page): India gross ₹1,20,000 (overseas $---, Worldwide = India gross), nett ₹1 L, budget '--', verdict Disaster; sacnilk page has no figures (default 'Disaster' ignored); not in BH 2023 table"
+ },
+ {
+  "tmdb_movie_id": 1104118,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search empty, direct fetch 404); no sacnilk page; Punjabi, not in BOI"
+ }
+]

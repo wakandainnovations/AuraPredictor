@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1238603, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bhamakalapam 2': premiered 16 Feb 2024 on Aha → direct-to-streaming, no box office; no sacnilk page"},
+ {"tmdb_movie_id": 1243194, "budget_inr_crore": null, "revenue_inr_crore": 0.36, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/KTM_2024"}, "notes": "Wiki 'KTM (film)' (Aruna; Dheekshith Shetty): blank infobox, no box-office text (Star Suvarna TV premiere 21 Apr 2024); sacnilk India gross ₹36 L (24 days, till 10 Mar 2024; overseas —); no verdict; Kannada, not in BOI"},
+ {"tmdb_movie_id": 1243494, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Kannada films of 2024 only); sacnilk ₹5 L for 6 days only → partial, not stored; Kannada, not in BOI"},
+ {"tmdb_movie_id": 1243508, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1243182, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Saramsha' (Surya Vasishta): blank infobox; sacnilk ₹9 L for 7 days only (till 22 Feb 2024) → partial, not stored; Kannada, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 526476, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chalbaaz' (Joydip Mukherjee; Shakib Khan, 20 Apr 2018): blank budget/gross; 'topped the box office in its opening week' (Prothom Alo 3 May 2018 'storms box office') is an opening-week report, not a verdict → NULL. Bengali, not in BOI"},
+ {"tmdb_movie_id": 539142, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Khido Khundi' (Rohit Jugraj; Ranjit Bawa, 20 Apr 2018): blank budget/gross, no box-office text. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 541547, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Marathi films of 2018: Viju Mane). Marathi, not in BOI"},
+ {"tmdb_movie_id": 459722, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kammara Sambhavam' (Rathish Ambat; Dileep, 14 Apr 2018): blank budget/gross; lead 'underperformed at the box office' (piped to Box-office bomb) cited only to a BookMyShow listing; 'underperformed' alone is not a verdict → NULL. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 492419, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maniyaar Kudumbam' (Thambi Ramaiah; released 3 Aug 2018): blank budget/gross; '~40 lakhs' is the cost of one song shoot, not the budget; no verdict. Tamil, not in BOI"}
+]

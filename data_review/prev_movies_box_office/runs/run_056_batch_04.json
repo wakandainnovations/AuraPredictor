@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 531911, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Malayalam films of 2018; 'Sthaanam' 404). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 531916, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'School Diary' (M Hajamoinu, 18 May 2018): stub with no infobox figures and no box-office text. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 545688, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Harjeeta' (Vijay Kumar Arora; Ammy Virk, 18 May 2018): blank budget/gross; 'was a commercially unsuccessful' (cited to a trailer article + an interview) — weak wording ('unsuccessful', run 36 rule) → NULL. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 551637, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search returns unrelated pages); likely a short / TV film. Not in BOI or BH 2018"},
+ {"tmdb_movie_id": 548057, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Amma I Love You' (K. M. Chaitanya; Chiranjeevi Sarja, released 15 Jun 2018): blank budget/gross. 'completed a 50-day run … became one of the hit films of 2018' is cited only to a TOI 'Top 10 Kannada film songs of 2018' list and a 14 Jun 2018 pre-release director interview → weak cite, NULL. Kannada, not in BOI"}
+]

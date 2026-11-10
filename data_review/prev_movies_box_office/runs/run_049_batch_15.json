@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 918574, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Swastik Sanket': blank budget/gross, no box-office text; sacnilk Swastik_Sanket_2021 '—'; Bengali, not in BOI"},
+ {"tmdb_movie_id": 926105, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'AGP Schizophrenia' (= DB 'AGP'): blank budget/gross, no box-office text; sacnilk AGP_2022 '—' (default ignored); Tamil, not in BOI"},
+ {"tmdb_movie_id": 974713, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search empty, direct 404 for both spellings); no sacnilk page; Marathi, not in BOI"},
+ {"tmdb_movie_id": 1038479, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the film (search hit only the poet's page); no sacnilk page; Telugu, not in BOI"},
+ {"tmdb_movie_id": 925876, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Carbon (2022 Indian film)': blank budget/gross, no box-office text; sacnilk Carbon_2022 '—'; Tamil, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 882128, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in 'List of Telugu films of 2021'); no sacnilk page; Telugu, not in BOI"},
+ {"tmdb_movie_id": 803391, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bhramam': released on Amazon Prime Video in India (theatres only overseas) 7 Oct 2021 → no India box office; blank budget/gross; sacnilk Bhramam_2021 '—'; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 824744, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shiddat': premiered on Disney+ Hotstar 1 Oct 2021 → no box office; sacnilk '—'; not in BOI index or BH 2021 table"},
+ {"tmdb_movie_id": 882420, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Idhe Maa Katha': 'The film was a commercial failure' is cited only to a socialtelecast.com 'Total Box Office Collection Report' dated 3 Oct 2021 (day 2 of release) → weak cite, verdict NULL; blank budget/gross; sacnilk Idhe_Maa_Katha_2021 figures till 2 Oct 2021 (1 day) → partial; Telugu, not in BOI"},
+ {"tmdb_movie_id": 897077, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in 'List of Telugu films of 2021'); sacnilk The_Rose_Villa_2021 figures till 1 Oct 2021 (1 day, ₹0.20 L) → partial, its 'Disaster' not used; Telugu, not in BOI"}
+]

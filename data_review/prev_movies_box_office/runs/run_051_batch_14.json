@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 744876,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Kaali Khuhi': Netflix film (released 30 Oct 2020) → no box office"
+ },
+ {
+  "tmdb_movie_id": 746418,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; stored tmdb budget $42,500 left as is"
+ },
+ {
+  "tmdb_movie_id": 743126,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; not in BOI"
+ },
+ {
+  "tmdb_movie_id": 837676,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 743112,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search returned 'Kayattam', the film's later title — not fetched as a match); festival film; no sacnilk page"
+ }
+]

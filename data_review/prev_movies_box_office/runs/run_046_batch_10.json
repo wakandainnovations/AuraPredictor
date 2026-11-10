@@ -1,0 +1,52 @@
+[
+ {
+  "tmdb_movie_id": 1129654,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Pareshan': blank infobox, no box-office text; sacnilk '—'; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1135839,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Punjabi 2023 list); sacnilk Medal_2023 ₹4.50 Cr gross after 7 days (till 8 Jun 2023) → partial; Punjabi, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1137429,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.07,
+  "revenue_scope": "india_net",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "revenue": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/",
+   "verdict": "https://www.bollywoodhungama.com/box-office-collections/filterbycountry/IND/2023/"
+  },
+  "notes": "Wiki 'Chidiakhana': blank infobox, no box-office text; BH 2023 table 02 Jun 2023: India nett ₹0.07 Cr, Flop; sacnilk '—'; not in BOI index"
+ },
+ {
+  "tmdb_movie_id": 1038487,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.325,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6279",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=6279"
+  },
+  "notes": "Wiki 'Aazam': blank infobox, no box-office text; BOI movieid=6279 (live page): India gross ₹32,50,000 (overseas $---, so Worldwide = India gross), nett ₹27 L, budget '--', verdict Disaster; BH 2023 'Aazam – Rise Of A New Don' nett ₹0.30 Cr Flop (agrees); sacnilk '—'"
+ },
+ {
+  "tmdb_movie_id": 1093983,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'MenToo (film)': blank infobox, reviews only (Aha from 9 Jun 2023); sacnilk '—'; Telugu, not in BOI"
+ }
+]

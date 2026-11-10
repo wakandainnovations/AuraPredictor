@@ -1,0 +1,48 @@
+[
+ {
+  "tmdb_movie_id": 606756,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only a row in List of Malayalam films of 2019); no sacnilk page; Malayalam, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 703419,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (Punjabi film 'Black and White TV', DB tags English); no sacnilk page; not in BOI"
+ },
+ {
+  "tmdb_movie_id": 737508,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.0375,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5669",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5669"
+  },
+  "notes": "Wiki 'Nakkash' (Zaigham Imam; Inaamulhaq): blank budget/gross, festival text only. BOI 5669 'Nakkash (2019)', 31 May 2019: Disaster, India gross ₹3,75,000 (overseas $---, nett ₹3.25 L), budget '--' → india_gross ₹0.0375 Cr + flop; BH 2019 table agrees: nett ₹0.01 Cr, Flop",
+  "revenue_scope": "india_gross"
+ },
+ {
+  "tmdb_movie_id": 533674,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Neeya_2"
+  },
+  "notes": "Wiki 'Neeya 2' (L. Suresh; Jai, 24 May 2019): blank budget/gross; lead 'was a commercial failure at box office' (uncited) → flop, weak cite noted; no sacnilk page; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 646455,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Bebaak (film)' (Shazia Iqbal): short film (festival / online release) — no box office; not in BOI index or BH table"
+ }
+]

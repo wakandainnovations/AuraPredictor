@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 807072, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Hello Charlie': released on Amazon Prime Video 9 Apr 2021 → no box office; not in BOI index or BH 2021 table"},
+ {"tmdb_movie_id": 1240208, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BOI index or BH 2021 table; no sacnilk page"},
+ {"tmdb_movie_id": 1002800, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; English-language title, not in BOI"},
+ {"tmdb_movie_id": 807158, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Irul': released on Netflix 2 Apr 2021 → no box office; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 813360, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Flight (2021 film)' (Suraj Joshi; Mohit Chadda): released 2 Apr 2021; blank budget/gross, no box-office text; BOI page movieid=6130 exists but all fields '--' and no verdict; not in BH 2021 table; sacnilk Flight_2021 '—'"}
+]

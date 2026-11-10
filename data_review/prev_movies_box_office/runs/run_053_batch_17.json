@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 608120,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Viswamitra (film)' (Raj Kiran; Nanditha Raj, 14 Jun 2019): blank budget/gross, no box-office text; no sacnilk page; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 613047,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Laiye Je Yaarian' (Sukh Sanghera; Harish Verma): blank infobox; body 'As of 16 June 2019 … grossed over ₹11 crore' (11 days after release) and overseas splits cited to BH 17 Jun 2019 → running total, not stored; 'ninth highest-grossing Punjabi film of 2019' is a ranking → verdict NULL; no sacnilk page; Punjabi, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 578207,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Seven (2019 Indian film)' (Nizar Shafi; Havish): blank budget/gross, no box-office text (Netflix VOD Aug 2019); no sacnilk page; Telugu/Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 600428,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Thamaasha' (Ashraf Hamza; Vinay Forrt, 5 Jun 2019): blank budget/gross, no box-office text; no sacnilk page; Malayalam, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 617509,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Kidnap (2019 film)' (Raja Chanda; Dev): blank budget/gross, no box-office text; no sacnilk page; Bengali, not in BOI"
+ }
+]

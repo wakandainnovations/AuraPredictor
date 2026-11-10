@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 931953, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Huttu Habbada Shubhashayagalu': blank budget/gross, no box-office text; sacnilk page '—' (default ignored); Kannada, not in BOI"},
+ {"tmdb_movie_id": 1112978, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "English-tagged Hindi film (dir Alok Sharma, Javed Jaffrey); no Wiki article; not in BH 2021 table or BOI index; no sacnilk page"},
+ {"tmdb_movie_id": 798257, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sleelatahanir Pore' (= DB 'Shlilatahanir Pore'): blank budget/gross, released 12 Mar 2021 per Wiki (DB 29 Dec 2021), no box-office text; no sacnilk page; Bengali, not in BOI"},
+ {"tmdb_movie_id": 877875, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BH 2021 table or BOI index; no sacnilk page"},
+ {"tmdb_movie_id": 794995, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'WWW (film)': released on SonyLIV 24 Dec 2021 → no box office"}
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 1019341,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Pendulum (2023 film)': blank infobox, no box-office text (Saina Play from Dec 2023); sacnilk '—'; Malayalam, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1138889,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Gulaam Chor': released directly on JioCinema 11 Jun 2023 (direct-to-OTT) → no box office; Gujarati, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1126848,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Maurh': blank infobox; 'lukewarm response', ₹2.5 Cr first weekend (BOI report 'Below The Mark') — opening figure and no verdict label → not stored; sacnilk WW ₹10 Cr after 7 days (till 15 Jun 2023) → partial; Punjabi, not in BOI index"
+ },
+ {
+  "tmdb_movie_id": 979801,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Veeran (film)': blank infobox, no box-office text; sacnilk India gross ₹7.60 Cr after 7 days (till 8 Jun 2023) → partial; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1034181,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Ahimsa (2023 film)': blank infobox; 'This remains one of Teja's flops' is cited to a release-day ABP review (2 Jun 2023) → not a box-office verdict, NULL; sacnilk net ₹1.64 Cr till 7 Jun 2023 (6 days, no gross) → partial; Telugu, not in BOI"
+ }
+]

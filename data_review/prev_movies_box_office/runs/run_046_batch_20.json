@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 974792,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Gulmohar (2023 film)': released on Disney+ Hotstar 3 Mar 2023 (direct-to-OTT) → no box office; not in BH/BOI"
+ },
+ {
+  "tmdb_movie_id": 1094599,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (search returned only Kannada year lists; direct fetch 404); sacnilk '—'; Kannada, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1240950,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; sacnilk shows the default 'Disaster' on a page with no figures → ignored; Kannada, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 876969,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": 188292,
+  "revenue_scope": "worldwide",
+  "verdict": null,
+  "sources": {
+   "revenue": "https://en.wikipedia.org/wiki/Assassin_Club"
+  },
+  "notes": "Wiki 'Assassin Club' infobox gross $188,292 (Box Office Mojo cite) = stored → confirmed; no budget, no verdict; US film, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1090197,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Punjabi 2023 list); sacnilk Ji_Wife_Ji_2023 net ₹54 L after 7 days (till 2 Mar 2023) with 'Verdict Disaster' — partial page and the same label is sacnilk's default on empty pages, so neither figure nor verdict stored; Punjabi, not in BOI"
+ }
+]

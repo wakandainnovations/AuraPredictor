@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 974433, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mama Mascheendra' (direct fetch; DB spelling 'Maama'): blank infobox; lead 'The film was a box office bomb' is cited only to a TOI 7 Sep 2023 release-date article (pre-release) → verdict left NULL; sacnilk page has only a day-1 net ₹32 L (till 7 Oct 2023) → partial; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1158430, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BOI index or BH 2023 table"},
+ {"tmdb_movie_id": 1187637, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Great Indian Suicide' (aka Telisinavaallu): blank infobox, no box-office text; no sacnilk page; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1188003, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Month of Madhu': blank infobox, no box-office text (Aha from 3 Nov 2023); sacnilk page (dir Srikanth Nagothi) '—'; Telugu, not in BOI"},
+ {"tmdb_movie_id": 1424065, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Malayalam films of 2023); sacnilk page '—'; not in BOI"}
+]

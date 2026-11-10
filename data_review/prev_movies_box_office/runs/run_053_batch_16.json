@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 610296,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Jiivi' (V. J. Gopinath; Vetri, 28 Jun 2019): blank budget/gross; 'was a successful venture' is cited only to BookMyShow, an IndiaGlitz review dated the release day and an interview → not a usable box-office cite, verdict NULL; no sacnilk page; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 723151,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Miss U Mister' (Sameer Joshi): blank budget/gross, no box-office text; no sacnilk page; Marathi, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 610266,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki '1st Rank Raju (2019 film)' (Naresh Kumar HN; Chetan Maddineni): blank budget/gross; the '100 successful days' line is about the 2015 Kannada original → NULL; no sacnilk page; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 652030,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Trijya': Shanghai IFF Jul 2019, Indian release 22 Dec 2020 (festival / OTT); blank budget/gross, no box-office text"
+ },
+ {
+  "tmdb_movie_id": 496028,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": 0.5,
+  "verdict": "flop",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5674",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5674"
+  },
+  "notes": "Wiki 'Khamoshi (2019 film)' (Chakri Toleti; Prabhu Deva, Tamannaah): blank budget/gross, no box-office text. BOI 5674 'Khaamoshi (2019)', 14 Jun 2019: Disaster, India gross ₹50,00,000 (overseas $---, nett ₹42 L), budget '--' → india_gross ₹0.50 Cr + flop; BH 2019 table: Flop (lifetime nett ₹0.67 Cr — differs from BOI, noted)",
+  "revenue_scope": "india_gross"
+ }
+]

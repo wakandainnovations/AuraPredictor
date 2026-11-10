@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1258606, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Spanish film (Pablo Barce); no Wiki article (search returns unrelated 'Moro' pages); no sacnilk page; not in BOI"},
+ {"tmdb_movie_id": 1055753, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pambattam' (V. C. Vadivudaiyan; Jeevan): blank infobox; sacnilk ₹45 L for 7 days only (till 29 Feb 2024) → partial, not stored; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1246983, "budget_inr_crore": null, "revenue_inr_crore": 0.25, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Mr_Natwarlal_2024"}, "notes": "No Wiki article (row in List of Kannada films of 2024 only); sacnilk India gross ₹25 L (13 days, till 6 Mar 2024; overseas —); no verdict; Kannada, not in BOI"},
+ {"tmdb_movie_id": 1249050, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nasoor (2024 film)' (Rishil Joshi; Hitu Kanodia): blank infobox; sacnilk ₹15 L for 7 days only → partial, not stored; Gujarati, not in BOI"},
+ {"tmdb_movie_id": 1252601, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in List of Kannada films of 2024 only); sacnilk ₹7 L for 7 days only → partial, not stored; Kannada, not in BOI"}
+]

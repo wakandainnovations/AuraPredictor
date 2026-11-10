@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 895245, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chor Bazaar (film)': blank budget/gross; The Hans India review's 'flop show' is a review comment, not box office → NULL; no sacnilk page; Telugu, not in BOI"},
+ {"tmdb_movie_id": 961624, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk Pellikuturu_Party_2022 '—' (default 'Disaster' ignored); Telugu, not in BOI"},
+ {"tmdb_movie_id": 1012977, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Gangster Gangaraju': blank budget/gross, no box-office text (Prime Video later); sacnilk '—' (default 'Disaster' ignored); Telugu, not in BOI"},
+ {"tmdb_movie_id": 752877, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maamanithan (2022 film)': blank budget/gross, no box-office verdict (Aha from 15 Jul 2022); sacnilk Maamanithan_2021 India gross ₹5.94 Cr till 30 Jun 2022 (day 7) → partial, not stored; Tamil, not in BOI"},
+ {"tmdb_movie_id": 972876, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Bengali, not in BOI"}
+]

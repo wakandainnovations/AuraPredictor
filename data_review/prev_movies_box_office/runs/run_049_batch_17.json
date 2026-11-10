@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 610265, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk EPCo_302_2021 '—'; Tamil, not in BOI"},
+ {"tmdb_movie_id": 722382, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Arjun Gowda': blank budget/gross; 'became another flop for Prajwal at the box office' is cited only to a Vijay Karnataka audience-reaction video (release week) → weak cite, verdict NULL; sacnilk Arjun_Gowda_2021 '—'; Kannada, not in BOI"},
+ {"tmdb_movie_id": 834732, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Keshu Ee Veedinte Nadhan': released directly on Disney+ Hotstar 31 Dec 2021 → no box office"},
+ {"tmdb_movie_id": 900808, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Djibouti (film)': blank budget/gross; 'It was a box office disaster' is cited only to pre-release articles (Sify 30 Nov 2021, News18 26 Oct 2021) → weak cite, verdict NULL; sacnilk Djibouti_2021 '—' (default ignored); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 919229, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Theerpugal Virkapadum': blank budget/gross, no box-office text; no sacnilk page; Tamil, not in BOI"}
+]

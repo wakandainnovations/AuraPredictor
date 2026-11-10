@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1042029, "budget_inr_crore": null, "revenue_inr_crore": 3.16, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Aum_Mangalam_Singlem_2022"}, "notes": "Wiki 'Aum Mangalam Singlem': blank infobox; sacnilk India gross ₹3.16 Cr (India net ₹2.68 Cr), 28 days, figures till 15 Dec 2022, overseas '—' → stored as india_gross; Gujarati, not in BOI"},
+ {"tmdb_movie_id": 1077794, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1108580, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Tamil, not in BOI"},
+ {"tmdb_movie_id": 880018, "budget_inr_crore": 5.00, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://www.sacnilk.com/movie/Mukundan_Unni_Associates_2022"}, "notes": "Wiki infobox budget blank → sacnilk 'Budget ₹5.00 Cr'. Flagged, left as is: stored revenue $1,218,000 = Wiki infobox '₹10 crore' with no citation — not confirmed; sacnilk revenue stops at 7 days (till 17 Nov 2022, India gross ₹2.71 Cr) → partial, not stored; no verdict; later Hotstar release"},
+ {"tmdb_movie_id": 1032698, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nachindi Girl Friendu': blank infobox; sacnilk '—'; Telugu, not in BOI"}
+]

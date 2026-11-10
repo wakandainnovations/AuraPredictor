@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1079069, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Beginning (2023 film)': blank infobox; sacnilk '—'; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1079170, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Direct-to-OTT: Wiki 'Operation Fryday' — released 26 Jan 2023 on ZEE5; no box office"},
+ {"tmdb_movie_id": 412581, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vallavanukkum Vallavan': blank infobox, reviews only; sacnilk '—'; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1035806, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 53342, "revenue_scope": "worldwide", "verdict": null, "sources": {"revenue": "https://www.boxofficemojo.com/title/tt22394702/"}, "notes": "US film (limited theatrical + VOD). Wiki gross $53,342 cited to Box Office Mojo → stored $53,342 confirmed; Wiki budget blank — stored tmdb budget $2,000,000 left as is (unverified); no verdict"},
+ {"tmdb_movie_id": 1065320, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2023 table or BOI index"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1086874, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2023 table or BOI index"},
+ {"tmdb_movie_id": 1074464, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mitthye Premer Gaan': blank infobox; sacnilk Mitthye_Premer_Gaan_2023 figures till 16 Feb 2023 (day 7, ₹33 L nett) → partial, not stored; Bengali, not in BOI"},
+ {"tmdb_movie_id": 1084871, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Flagged, left as is: stored budget $1,212,157 / revenue $242,431 = Wiki infobox '₹10 crores' / '{{est}} 2 crores', both uncited — not confirmed; sacnilk Vasantha_Mullai_2023 '—'; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1085540, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Marathi film (DB tag 'english'). Flagged, left as is: stored revenue $303,039 = Wiki '{{estimation}} ₹2.50 crore' cited to a boxofficebusiness.in 'Day 7 box office collection' article (19 Feb 2023) → running total, not confirmed; sacnilk Jaggu_Ani_Juliet_2023 '—'; no budget"},
+ {"tmdb_movie_id": 1093015, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Popcorn (2023 film)': blank infobox, no box-office text; no sacnilk page; Telugu, not in BOI"}
+]

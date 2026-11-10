@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1326926, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (listed in 'List of Tamil films of 2024'); sacnilk page shows '—' everywhere; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1252502, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BOI index or BH 2024 table"},
+ {"tmdb_movie_id": 896954, "budget_inr_crore": null, "revenue_inr_crore": 3.11, "revenue_scope": "india_gross", "verdict": null, "sources": {"revenue": "https://www.sacnilk.com/movie/Mazhai_Pidikatha_Manithan_2024"}, "notes": "Wiki 'Mazhai Pidikkatha Manithan' (Vijay Milton; Vijay Antony; 2 Aug 2024): blank infobox, Prime Video later; sacnilk India gross ₹3.11 Cr (13 days, till 14 Aug 2024; net ₹2.74 Cr) — 'Worldwide gross ₹6 L' header is below India gross, so India gross stored; no verdict; Tamil, not in BOI"},
+ {"tmdb_movie_id": 926027, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vasco Da Gama (film)' (R. G. Krishnan; Nakkhul; 2 Aug 2024): blank infobox, no box-office text; no sacnilk page; Tamil, not in BOI"},
+ {"tmdb_movie_id": 1171732, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tiragabadara Saami' (A. S. Ravi Kumar Chowdary; Raj Tarun; 2 Aug 2024): blank infobox; sacnilk India gross ₹61 L for 7 days only → partial, not stored; Telugu, not in BOI"}
+]

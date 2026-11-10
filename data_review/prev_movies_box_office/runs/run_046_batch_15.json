@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 972874,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Burqa (film)': premiered on Aha 6 Apr 2023 (NYIFF festival screening) → direct-to-OTT, no box office; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1001261,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Meter (film)': blank infobox; 'was a box-office bomb' sentence is cited to a 5 Apr 2023 pre-release interview → not usable, verdict NULL; sacnilk net ₹1.83 Cr till 13 Apr 2023 (7 days, no gross) → partial; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1066436,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Malayalam 2023 list); sacnilk '—'; Malayalam, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1094011,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Circuitt': blank infobox, no box-office text; sacnilk net ₹24 L till 9 Apr 2023 (3 days) → partial; Marathi, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1107553,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article (only the Punjabi 2023 list); sacnilk WW ₹7.50 Cr after 7 days (till 27 Apr 2023) → partial; Punjabi, not in BOI"
+ }
+]

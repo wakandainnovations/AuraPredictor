@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 904717,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Kannai Nambathey' (direct fetch; DB spelling 'Kannai Nambathe'): blank budget/gross, only 'released theatrically 17 Mar 2023, mixed reviews'; no sacnilk page; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1040160,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'D3 (film)': blank infobox, no box-office text; sacnilk shows the default 'Disaster' on a page with no figures → ignored; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1043199,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Ghosty (film)': blank infobox, no box-office text; sacnilk shows the default 'Disaster' on a page with no figures → ignored; Tamil, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1078383,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Radio (2023 film)' (Bangladeshi, Anonno Mamun): blank infobox, no box-office text; no sacnilk page; not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1100668,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Nigah Marda Ayi Ve': blank infobox, no box-office text; sacnilk net ₹1.95 Cr till 26 Mar 2023 (10 days, no gross line) → partial, not stored; Punjabi, not in BOI"
+ }
+]

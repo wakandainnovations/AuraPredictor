@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1505014, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hit Vanitha Vijayakumar's page — its 'commercial failure' line is about her own Tamil film, not this one); sacnilk Vanitha_2023 '—' (default 'Disaster' ignored); Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1125323, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2023 table or BOI index; stored tmdb budget $10,000 left as is (unverified)"},
+ {"tmdb_movie_id": 1098002, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; Punjabi, not in BOI"},
+ {"tmdb_movie_id": 1072488, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Orchestra Mysuru': blank infobox; sacnilk '—'; Kannada, not in BOI"},
+ {"tmdb_movie_id": 1066773, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lakiro': blank infobox; sacnilk Lakiro_2023 figures till 12 Jan 2023 (day 7, ₹52 L nett) → partial, not stored; Gujarati, not in BOI"}
+]

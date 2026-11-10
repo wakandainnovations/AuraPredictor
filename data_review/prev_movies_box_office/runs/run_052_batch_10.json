@@ -1,0 +1,51 @@
+[
+ {
+  "tmdb_movie_id": 658113,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": "flop",
+  "verdict_label": "failed at box office",
+  "sources": {
+   "verdict": "https://en.wikipedia.org/wiki/Aswathama_(film)"
+  },
+  "notes": "Wiki 'Aswathama (film)' lead (uncited): 'received mixed reviews from critics but failed at box office' → flop. FLAG: stored revenue (₹13.65 Cr) is the infobox '{{Estimation}} ₹13.65 crore (5 days)' cited to TOI 5 Feb 2020 'mints over Rs 13 crore in five days' → a 5-day running total, not lifetime; sacnilk Aswathama_2020 all '—', so nothing to replace it — left, flagged. Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 669145,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Choosi Choodangaane' (Sesha Sindhu Rao — matches): blank budget/gross, no box-office text; no sacnilk page; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 671539,
+  "budget_inr_crore": 7,
+  "revenue_inr_crore": 0.145,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5803",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5803",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=5803"
+  },
+  "notes": "Wiki 'Happy Hardy and Heer': blank budget/gross; box-office section gives only an opening-day figure cited to a BH pre-release prediction → not used. BOI movieid=5803 (live page checked, 31 Jan 2020 Hindi): Budget ₹7,00,00,000, India gross ₹14,50,000 (overseas $---), nett ₹12 L, verdict Disaster → flop; BH 2020 table: lifetime nett ₹0.13 Cr, Flop (agrees). sacnilk Happy_Hardy_And_Heer_2020 shows a much higher 7-day gross ₹90 L and Budget ₹10 Cr — BOI kept per source priority, sacnilk noted"
+ },
+ {
+  "tmdb_movie_id": 673072,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Choricha Mamla' (Priyadarshan Jadhav; Amruta Khanvilkar — matches): theatrical 31 Jan 2020, blank budget/gross, only review wording; sacnilk Choricha_Mamla_2020 all '—'; Marathi, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 679657,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Luv Ni Love Storys' (Durgesh Tanna — matches): blank budget/gross, no box-office text; sacnilk Luv_Ni_Love_Storys_2020 (dir Durgesh Tanna) all '—'; Gujarati, not in BOI"
+ }
+]

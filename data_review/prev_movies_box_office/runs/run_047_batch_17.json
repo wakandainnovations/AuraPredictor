@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1080952, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mann Kasturi Re': blank infobox; sacnilk '—'; Marathi, not in BOI"},
+ {"tmdb_movie_id": 1030221, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; no sacnilk page; not in BH 2022 table or BOI index"},
+ {"tmdb_movie_id": 915415, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Autorickshawkarante Bharya': blank infobox; no sacnilk page; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1033878, "budget_inr_crore": null, "revenue_inr_crore": 0.024, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "Disaster", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=6265", "verdict": "https://boxofficeindia.com/movie.php?movieid=6265"}, "notes": "Wiki 'Tara vs Bilal': blank budget/gross, 'underperformed' (BH opening day ₹11,750) — not a verdict; BOI (live page checked): Disaster, India gross ₹2,40,000 (nett ₹2,00,000), overseas $---, budget '--' → revenue as india_gross; BH 2022 table: nett ₹0.02 Cr, Flop — agrees; sacnilk '—'"},
+ {"tmdb_movie_id": 1034215, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Anukoni Prayanam': blank infobox; sacnilk '—'; Telugu, not in BOI"}
+]

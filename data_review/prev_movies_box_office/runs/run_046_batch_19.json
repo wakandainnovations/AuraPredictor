@@ -1,0 +1,42 @@
+[
+ {
+  "tmdb_movie_id": 1141775,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; not in BH 2023 table or BOI index"
+ },
+ {
+  "tmdb_movie_id": 1103285,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; no sacnilk page; not in BH 2023 table or BOI index"
+ },
+ {
+  "tmdb_movie_id": 1184930,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "No Wiki article; sacnilk shows the default 'Disaster' on a page with no figures → ignored; Telugu, not in BOI"
+ },
+ {
+  "tmdb_movie_id": 1164339,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'I Go to School': Kazakh film released in Kazakhstan 10 Mar 2022 — no Indian box office, no figures; no sacnilk page"
+ },
+ {
+  "tmdb_movie_id": 773271,
+  "budget_inr_crore": null,
+  "revenue_inr_crore": null,
+  "verdict": null,
+  "sources": {},
+  "notes": "Wiki 'Pallu Padama Paathuka': blank infobox, no box-office text; sacnilk '—'; Tamil, not in BOI"
+ }
+]

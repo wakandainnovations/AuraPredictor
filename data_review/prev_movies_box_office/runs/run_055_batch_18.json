@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 536026, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a row in List of Kannada films of 2018); Kannada, not in BOI"},
+ {"tmdb_movie_id": 560610, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Maati (film)' (Saibal Banerjee, Leena Gangopadhyay; Adil Hussain, Paoli Dam, 13 Jul 2018): blank budget/gross, no box-office text; Bengali; BOI fuzzy hit 'Maatr' (2017 Hindi) is unrelated"},
+ {"tmdb_movie_id": 527833, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tamizh Padam 2' (C. S. Amudhan; Shiva, 13 Jul 2018): blank budget/gross; Box office gives only the opening weekend (₹17 Cr, India Today 15 Jul 2018) → partial, not stored; TN theatrical rights ₹3.5 Cr (a sale, not gross); 'is on fire' opening piece is not a verdict → NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 1431882, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "'H C London Presents Business English Weekends' — not a theatrical film (language-course video); no Wiki article; stored tmdb budget $3,000 left"},
+ {"tmdb_movie_id": 578275, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Bengali 'Bhagshesh: The Remainder' (Rema Bose; Soumitra Chatterjee). No Wiki article; not in BOI"}
+]

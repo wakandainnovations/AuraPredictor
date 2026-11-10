@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 760966, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only the Bengali 2022 list); sacnilk Sahobashe_2022 '—' (default 'Disaster' ignored); Bengali, not in BOI"},
+ {"tmdb_movie_id": 954512, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Darja (film)': blank budget/gross; lead 'was a commercial failure' is tagged {{Citation needed|date=September 2025}} → not used, NULL; sacnilk '—' (default 'Disaster' ignored); Telugu, not in BOI"},
+ {"tmdb_movie_id": 980199, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Physics Teacher (film)' (Sumukha; Wiki release 27 May 2022 vs DB 22 Jul 2022): blank budget/gross, reviews only; sacnilk '—' (default 'Disaster' ignored); Kannada, not in BOI"},
+ {"tmdb_movie_id": 997298, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; sacnilk Padma_Shri_Kaur_Singh_2022 '—' (default 'Disaster' ignored); stored tmdb budget $1,200,000 unverified, left as is; Punjabi, not in BOI"},
+ {"tmdb_movie_id": 1002825, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Kuri (film)' 404); sacnilk Kuri_2022 '—' (default 'Disaster' ignored); Malayalam, not in BOI"}
+]

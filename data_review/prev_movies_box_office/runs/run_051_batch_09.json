@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 793799, "budget_inr_crore": 2, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://www.sacnilk.com/movie/Vaanku_2021"}, "notes": "Wiki 'Vaanku (film)': released 29 Jan 2021, blank budget/gross, no box-office verdict. sacnilk Vaanku_2021: release Fri 29 Jan 2021 (= Wiki date), 'Budget ₹2.00 Cr' → filled; only 4 tracked days (₹11 L) → partial, default 'Disaster' not used; Malayalam, not in BOI"},
+ {"tmdb_movie_id": 786538, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pulikkuthi Pandi': released as a direct television premiere on Sun TV 15 Jan 2021 (theatrical release cancelled) → no box office; no sacnilk page"},
+ {"tmdb_movie_id": 1750435, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Vietnamese film ('Sám Hối: The Living Sandbag' search hit, not fetched as a title match); no new figures; stored Wiki revenue $56,800 left as is; not in BOI"},
+ {"tmdb_movie_id": 850577, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Hungarian-tagged short; no Wiki article; no sacnilk page; stored tmdb budget $10,000 left as is"},
+ {"tmdb_movie_id": 628534, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The White Tiger (2021 film)': Netflix film (limited US theatrical 13 Jan 2021, Netflix worldwide 22 Jan) → no box-office figures; sacnilk page '—'; not in BOI"}
+]
