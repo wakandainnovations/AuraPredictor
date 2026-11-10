@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 471317, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('One Less God' 404) — Australian film on the 2008 Mumbai attacks. No figures"},
+ {"tmdb_movie_id": 479855, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Oye Ninne' (Satyam Challakoti, 6 Oct 2017): blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 491836, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bailaras' (Ksshitij Chaudhary; Binnu Dhillon, 6 Oct 2017): blank budget/gross, no box-office wording. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 580640, "budget_inr_crore": null, "revenue_inr_crore": 0.145, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"revenue": "https://boxofficeindia.com/movie.php?movieid=3621", "verdict": "https://boxofficeindia.com/movie.php?movieid=3621"}, "notes": "No Wiki article. BOI 3621 '2016 The End' (2017, Hindi): India/WW gross ₹14,50,000 (no overseas; nett ₹11.2 lakh), budget '--', Disaster; BH 2017 Flop (nett ₹0.05 Cr) → flop"},
+ {"tmdb_movie_id": 499871, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2017 film (search hit is the 1968 'Kanyadaan'; 'Kanyadaan (2017 film)' 404). Not in BOI or BH 2017"}
+]

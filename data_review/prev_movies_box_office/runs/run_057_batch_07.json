@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 458498, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ippadai Vellum' (Gaurav Narayanan; Udhayanidhi Stalin, 9 Nov 2017): blank budget; gross {{INRConvert|18|c}} uncited (= stored $2,760,957) — not confirmed, left as is. No verdict wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 461448, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nenjil Thunivirundhal' (Suseenthiran; Sundeep Kishan, 10 Nov 2017): blank budget/gross; 'poor commercial response at the Chennai box office', 'underperformed commercially' (Cinema Express, 28 Dec 2017), ran six days in Chennai — soft negatives, not a stated verdict → NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 548287, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits Indraneil Sengupta, Anweshaa). Bengali, not in BOI"},
+ {"tmdb_movie_id": 1038720, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Curzoner Kalom': stub with no infobox figures or box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 461092, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Angel (2017 film)' (Palani; Naga Anvesh, 3 Nov 2017): blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

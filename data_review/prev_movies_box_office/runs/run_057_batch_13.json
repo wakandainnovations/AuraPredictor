@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 456226, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Karuppan' (R. Panneerselvam; Vijay Sethupathi, 29 Sep 2017): blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 459728, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sherlock Toms' (Shafi; Biju Menon, 29 Sep 2017): blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 461292, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tharangam (2017 film)' (Dominic Arun; Tovino Thomas, 29 Sep 2017): blank budget/gross; only review wording. Malayalam; BOI fuzzy hits (Tarana, Chauranga) are different films"},
+ {"tmdb_movie_id": 478826, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Chinese film (Li Chen). Wiki budget CNY 200 million and gross CNY 317.28 million (cbooo.cn) — CNY figures, which the script cannot convert → not stored; noted for manual entry"},
+ {"tmdb_movie_id": 517294, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Kirdar-E-Sardar' redirects to List of Punjabi films of 2017). Punjabi, not in BOI"}
+]

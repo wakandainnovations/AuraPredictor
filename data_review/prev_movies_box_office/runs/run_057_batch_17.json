@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 410481, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thupparivaalan' (Mysskin; Vishal, 14 Sep 2017): blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 423899, "budget_inr_crore": null, "revenue_inr_crore": null, "budget_usd": 21000000, "revenue_usd": 68300000, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Victoria_%26_Abdul", "revenue": "https://en.wikipedia.org/wiki/Victoria_%26_Abdul"}, "notes": "British film. Wiki budget $21 million (FilmL.A. 2017 study) and gross $68.3 million (Box Office Mojo) = stored → confirmed. No verdict"},
+ {"tmdb_movie_id": 472278, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Afghan film 'Black Kite', Tarique Qayumi; festival release). No figures"},
+ {"tmdb_movie_id": 810892, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ayana (film)' (Gangadhar Salimath, 8 Sep 2017; later on Netflix): blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 474473, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vellipomakey' (Yakub Ali; Vishwak Sen, 2 Sep 2017): blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

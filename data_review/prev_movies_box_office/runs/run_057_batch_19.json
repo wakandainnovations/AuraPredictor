@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1021987, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits Ritwick Chakraborty etc.). Bengali, not in BOI"},
+ {"tmdb_movie_id": 270780, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Puriyatha Puthir' (Ranjit Jeyakodi; Vijay Sethupathi, 1 Sep 2017): blank budget/gross, no box-office wording (search also hit the 1990 'Puriyada Pudir' — not used). Tamil, not in BOI"},
+ {"tmdb_movie_id": 1162634, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article; not in BOI or BH 2017 — likely a short film (Tania Deohans; Anupriya Goenka)"},
+ {"tmdb_movie_id": 472470, "budget_inr_crore": 21, "revenue_inr_crore": 0.45, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster / BH Flop", "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=3587", "revenue": "https://boxofficeindia.com/movie.php?movieid=3587", "verdict": "https://boxofficeindia.com/movie.php?movieid=3587"}, "notes": "Wiki 'Qaidi Band' (Habib Faisal; Aadar Jain, 25 Aug 2017): blank budget/gross. BOI 3587: budget ₹21,00,00,000, India/WW gross ₹45,00,000 (no overseas; nett ₹35.4 lakh), Disaster; BH 2017 Flop (nett ₹0.36 Cr) → flop"},
+ {"tmdb_movie_id": 474403, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Gujarati, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 596084, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits unrelated: Nandini TV series, Dalit). Marathi, not in BOI"},
+ {"tmdb_movie_id": 615930, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Double Engine (2018 film)' (Chandra Mohan; Chikkanna, released 13 Jul 2018 — DB 2018-01-01 placeholder): blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 280958, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kalavaadiya Pozhuthugal' (Thankar Bachan; Prabhu Deva, 29 Dec 2017): blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 412853, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "sources": {"verdict": "https://en.wikipedia.org/wiki/Balloon_(2017_film)"}, "notes": "Wiki 'Balloon (2017 film)' (Sinish; Jai, 29 Dec 2017): blank budget/gross; lead 'This film performed averagely at the box office' (uncited) → avg; body 'favourable response it had at the box office'. Tamil, not in BOI"},
+ {"tmdb_movie_id": 493094, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sangu Chakkaram' (Maarison, 29 Dec 2017): blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]
