@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 418434, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Telugu, not in BOI"},
+ {"tmdb_movie_id": 419560, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nirmala Convent': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 375183, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 1641235, "revenue_scope": "worldwide", "verdict": null, "sources": {"revenue": "https://www.boxofficemojo.com/title/tt1718924/"}, "notes": "Wiki gross '$1.6 million' cited to BOM tt1718924, which gives international/worldwide $1,641,235 (no domestic) → stored $1,600,000 corrected to the exact BOM figure (TIFF 2016, US VOD/limited Jul 2017). Budget blank, no verdict. Not in BOI"},
+ {"tmdb_movie_id": 421334, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Zindagi Kitni Haseen Hay': Pakistani film; budget PKR 4 crore / gross PKR 3 crore (uncited infobox; body only day-1–3 / weekend PKR figures) — PKR, the script cannot convert them; stored tmdb $280,000 / $950,000 unverified, left. No verdict. Not in BOI"},
+ {"tmdb_movie_id": 637578, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bossgiri': Bangladeshi film, blank budget/gross, no box-office wording; stored tmdb budget $473,050 unverified, left. Not in BOI"}
+]

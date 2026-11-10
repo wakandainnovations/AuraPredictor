@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 383703, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Yaman_(film)"}, "notes": "Wiki 'Yaman (film)': blank budget/gross; lead 'The movie was a commercial success.' (uncited) → hit (weak: uncited; a body ref is a fan box-office blog, not used). Tamil, not in BOI"},
+ {"tmdb_movie_id": 443611, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sargi': blank budget/gross, no box-office wording. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 493838, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 2680, "revenue_scope": "worldwide", "verdict": null, "sources": {"revenue": "https://en.wikipedia.org/wiki/Division_19"}, "notes": "Wiki gross $2,680 (BOM release group) → confirms stored $2,680 (US release Apr 2019 after Fantasporto 2017). Budget: Wiki blank; stored tmdb $1.4M unverified, left. No verdict. British film, not in BOI"},
+ {"tmdb_movie_id": 1499024, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Srinivasa Kalyana' (2017, M. G. Srinivas): blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 410851, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ennodu Vilayadu': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

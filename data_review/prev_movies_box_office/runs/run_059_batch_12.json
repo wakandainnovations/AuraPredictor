@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 555502, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'John Jani Janardhan (2016 film)': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 431651, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Bengali, not in BOI"},
+ {"tmdb_movie_id": 465049, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Cholai (film)': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 622118, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki '8969': Pakistani film; gross 'Rs 6 Million' (PKR, uncited) — stored $88,181 looks like that figure read as INR; PKR cannot be converted by the script, flagged, left. No verdict. Not in BOI"},
+ {"tmdb_movie_id": 427727, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kannula Kaasa Kattappa': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 372844, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('The Violin Player' is a 1995 Vanessa-Mae album). Not in the BOI index or the BH 2016 table"},
+ {"tmdb_movie_id": 410432, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Aandavan_Kattalai_(2016_film)"}, "notes": "Wiki 'Aandavan Kattalai (2016 film)': blank budget/gross; lead 'received positive reviews from critics and became a commercial success' (uncited) → hit. Tamil, not in BOI"},
+ {"tmdb_movie_id": 526983, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sipaayi (2016 film)': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 270776, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Iruvar Ullam (2021 film)' (G. Ramesh, Vinay Rai — matches DB): shot 2013, released on streaming platforms on 16 Sep 2021 — no theatrical box office; DB date 2016 is off. Not in BOI"},
+ {"tmdb_movie_id": 417141, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Uchathula Shiva': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

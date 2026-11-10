@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1152235, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Telugu, not in BOI"},
+ {"tmdb_movie_id": 408921, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bogan (film)': blank budget/gross, no box-office wording (only production 'success of Romeo Juliet' lines). Tamil, not in BOI"},
+ {"tmdb_movie_id": 412583, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Enakku Vaaitha Adimaigal': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 383785, "budget_inr_crore": null, "revenue_inr_crore": null, "budget_usd": 65000000, "revenue_usd": 257800000, "revenue_scope": "worldwide", "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Kung_Fu_Yoga", "revenue": "https://en.wikipedia.org/wiki/Kung_Fu_Yoga"}, "notes": "Wiki budget $65M (Variety 4 Nov 2015) → confirms stored $65,000,000. Wiki gross $257.8M (BOM) → stored wikidata $254,212,245 corrected (1.4% off). Verdict: 'major box-office success in China' but 'a commercial failure in India' in the same section → conflicting, left NULL. Chinese film, not in BOI"},
+ {"tmdb_movie_id": 498176, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mumbai (film)' (Kannada, S. R. Ramesh): blank budget/gross, no box-office wording. not in BOI"}
+]
