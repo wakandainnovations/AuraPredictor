@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 243890, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits cast pages); not in BOI index or BH 2014/2015 tables — festival title"},
+ {"tmdb_movie_id": 311152, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kappal': blank budget/gross ('successful screening in September 2014' refers to a preview screening, not box office). Tamil, not in BOI"},
+ {"tmdb_movie_id": 313788, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits Alexandra Paul); a US TV film (Syfy), no box office. Not in BOI"},
+ {"tmdb_movie_id": 327904, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aamayum Muyalum': blank budget/gross; 'got mixed review and commercially' (uncited, soft) → verdict NULL; 'Average' is a Bollywood Chatz review rating. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1705476, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (documentary on Shyam Benegal's films); not in BOI/BH — no theatrical box office"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 724827, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shutter (2014 film)' (Marathi remake of the 2012 Malayalam film; Wiki release 3 Jul 2014): blank budget/gross, no box-office wording. Not in BOI"},
+ {"tmdb_movie_id": 1480349, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Baavre Prem He' 404; search hits Spruha Joshi). Marathi, not in BOI"},
+ {"tmdb_movie_id": 386853, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('HI (film)' 404); not in BOI index or BH 2014 table"},
+ {"tmdb_movie_id": 1268681, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Down to Zero (film)' 404); not in BOI index or BH 2014 table"},
+ {"tmdb_movie_id": 273880, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Amara Kaaviyam': blank budget/gross. The soundtrack article says 'the film underperformed at the box-office' (Film Companion interview 2018) — 'underperformed' alone is not a verdict → NULL. Tamil, not in BOI"}
+]

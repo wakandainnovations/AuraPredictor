@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 394123, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Mayapuri 3D' 404; row in the 2015 Malayalam list only). Not in BOI"},
+ {"tmdb_movie_id": 564121, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Lorai' (= Lorai: Play to Live): blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 1001004, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ammakkoru Tharattu': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 339745, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ebar Shabor': gross '₹1.12 crore {{cn|June 2025}}' — stored $180,142 (= ₹1.12 Cr) is that uncited figure; flagged, left. Budget blank. 'After the film's grand success, Sil is planning a sequel' (uncited, vague) → verdict NULL. Bengali, not in BOI"},
+ {"tmdb_movie_id": 394119, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "DB 'Sand City' (dir Shankar, Malayalam) — Wiki 'Sand City' disambiguation lists 'Manal Naharam' (Tamil, dir Shankar, Wiki release 27 Feb 2015): blank budget/gross, reviews only. Not in BOI (fuzzy hit 'Island City' is a different film)"}
+]

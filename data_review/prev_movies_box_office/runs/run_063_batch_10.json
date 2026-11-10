@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 307098, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pati Parameshwar (film)': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 307916, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (row in the 2014 Punjabi list only, dated 14 Nov 2014). Not in BOI"},
+ {"tmdb_movie_id": 312324, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Joru': blank budget/gross; 'below average entertainer' is a 123telugu review line → verdict NULL. Telugu, not in BOI"},
+ {"tmdb_movie_id": 379644, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Teenkahon' (Seattle fest 7 Nov 2014; Kolkata 11 Sep 2015): budget ₹1.5 crore uncited (stored $244,305 = that figure; not confirmed, left). Gross blank, no verdict. Bengali, not in BOI"},
+ {"tmdb_movie_id": 539727, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kkoli: A Journey of Love': blank budget/gross, no box-office wording. Bengali, not in BOI"}
+]

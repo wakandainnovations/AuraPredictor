@@ -6199,3 +6199,103 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,run,batch,budget_status,r
 329140,,Ponge Ezhu Manohara,2015-02-06,english,62,20,not_found,not_found,not_found,2026-11-10T13:07:18+00:00
 331319,tt4075164,Pesarattu,2015-02-06,telugu,62,20,not_found,not_found,not_found,2026-11-10T13:07:18+00:00
 401027,tt5782262,Gaddam Gang,2015-02-06,telugu,62,20,not_found,not_found,not_found,2026-11-10T13:07:18+00:00
+329138,tt4425388,Pulan Visaranai 2,2015-01-30,tamil,63,1,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+340737,tt4588730,Chal Guru Ho Ja Shuru,2015-01-30,hindi,63,1,not_found,found_inr,found,2026-11-10T13:40:20+00:00
+410296,,Ladies And Gentlemen,2015-01-30,telugu,63,1,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+784684,tt4908146,BORING. A DAY IN THE LIFE,2015-01-30,english,63,1,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+1151678,tt3718164,Abhinetri,2015-01-30,kannada,63,1,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+325537,,Neenade Naa,2015-01-25,kannada,63,2,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+280161,tt4384342,Thottal Thodarum,2015-01-23,tamil,63,2,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+322190,tt4353962,Mariyam Mukku,2015-01-23,malayalam,63,2,not_found,not_found,found,2026-11-10T13:40:20+00:00
+335589,tt4384456,Rasam,2015-01-23,malayalam,63,2,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+579196,tt4504922,Herogiri,2015-01-23,bengali,63,2,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+394123,,Mayapuri 3D,2015-01-09,malayalam,63,3,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+564121,tt3577244,Lorai: Play to Live,2015-01-09,bengali,63,3,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+1001004,tt16252932,Ammakkoru Tharattu,2015-01-09,malayalam,63,3,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+339745,tt4328756,Ebar Shabor,2015-01-02,bengali,63,3,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+394119,tt4154002,Sand City,2015-01-02,malayalam,63,3,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+888764,tt4859324,From Patna to Pakistan,2015-01-01,hindi,63,4,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+1395957,tt5467752,Porkalathil Oru Poo,2015-01-01,tamil,63,4,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+375901,tt4070752,Cross Connection,2014-12-26,punjabi,63,4,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+1228491,tt30395479,8:20,2014-12-26,malayalam,63,4,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+1740866,tt10415550,Ashtralle Just Missoo,2014-12-26,kannada,63,4,not_found,not_found,not_found,2026-11-10T13:40:20+00:00
+243890,tt2278859,Ballad of Rustom,2014-12-25,hindi,63,5,not_found,not_found,not_found,2026-11-10T13:40:21+00:00
+311152,tt4306694,Kappal,2014-12-25,tamil,63,5,not_found,not_found,not_found,2026-11-10T13:40:21+00:00
+313788,tt3969972,Firequake,2014-12-22,english,63,5,not_found,not_found,not_found,2026-11-10T13:40:21+00:00
+327904,tt4295578,Aamayum Muyalum,2014-12-19,malayalam,63,5,not_found,not_found,not_found,2026-11-10T13:40:21+00:00
+1705476,tt4365924,Benegal's New Cinema,2014-12-18,hindi,63,5,not_found,not_found,not_found,2026-11-10T13:40:21+00:00
+309049,tt3157224,We Still Kill the Old Way,2014-12-12,english,63,6,not_found,not_found,not_found,2026-11-10T13:41:19+00:00
+544395,tt8894160,Ee Varsham Sakshiga,2014-12-12,telugu,63,6,not_found,not_found,not_found,2026-11-10T13:41:19+00:00
+1135711,tt2781512,Khola Hawa,2014-12-12,bengali,63,6,not_found,not_found,not_found,2026-11-10T13:41:19+00:00
+307583,tt4045666,Mumbai Delhi Mumbai,2014-12-05,hindi,63,6,not_found,found_inr,found,2026-11-10T13:41:19+00:00
+331316,tt4489046,Lakshmi Raave Maa Intiki,2014-12-05,telugu,63,6,not_found,not_found,found,2026-11-10T13:41:19+00:00
+721392,tt3138840,Ek Phaali Rodh,2014-12-05,bengali,63,7,not_found,not_found,not_found,2026-11-10T13:41:19+00:00
+304613,tt3317874,Charlie's Farm,2014-12-04,english,63,7,not_found,not_found,not_found,2026-11-10T13:41:19+00:00
+339883,tt4742102,Let's Dance To The Rhythm,2014-12-04,english,63,7,found_inr,not_found,not_found,2026-11-10T13:41:19+00:00
+307251,tt3640272,He Who Dares: Downing Street Siege,2014-12-02,english,63,7,not_found,not_found,not_found,2026-11-10T13:41:19+00:00
+375855,tt4625196,Ottaal,2014-12-01,malayalam,63,7,not_found,not_found,not_found,2026-11-10T13:41:19+00:00
+282587,,Haadugaara,2014-11-30,english,63,8,not_found,not_found,not_found,2026-11-10T13:41:20+00:00
+552074,,TRP Aru…,2014-11-28,assamese,63,8,not_found,not_found,not_found,2026-11-10T13:41:20+00:00
+1008061,tt7580978,Vingyani,2014-11-28,tamil,63,8,not_found,not_found,not_found,2026-11-10T13:41:20+00:00
+1513607,tt32161981,Haunted Child,2014-11-23,english,63,8,found_inr,found_inr,found,2026-11-10T13:41:20+00:00
+309807,tt3309844,Titoo MBA,2014-11-21,hindi,63,8,found_inr,found_inr,found,2026-11-10T13:41:20+00:00
+334357,tt4112402,Lal Bahadur Shastri,2014-11-21,malayalam,63,9,not_found,not_found,not_found,2026-11-10T13:42:01+00:00
+303733,,Red Bus,2014-11-14,telugu,63,9,not_found,not_found,found,2026-11-10T13:42:01+00:00
+305594,tt4203824,Elizabeth Ekadashi,2014-11-14,marathi,63,9,not_found,found_inr,not_found,2026-11-10T13:42:01+00:00
+306944,tt4195244,Force,2014-11-07,bengali,63,9,not_found,not_found,not_found,2026-11-10T13:42:01+00:00
+306960,tt4183756,Khaad,2014-11-07,bengali,63,9,not_found,not_found,not_found,2026-11-10T13:42:01+00:00
+307098,tt4212944,Pati Parameshwar,2014-11-07,bengali,63,10,not_found,not_found,not_found,2026-11-10T13:42:01+00:00
+307916,tt4482970,Baaz,2014-11-07,punjabi,63,10,not_found,not_found,not_found,2026-11-10T13:42:01+00:00
+312324,tt4898036,Joru,2014-11-07,telugu,63,10,not_found,not_found,not_found,2026-11-10T13:42:01+00:00
+379644,tt3479530,Teenkahon,2014-11-07,bengali,63,10,not_found,not_found,not_found,2026-11-10T13:42:01+00:00
+539727,,Kkoli: A Journey of Love,2014-11-07,bengali,63,10,not_found,not_found,not_found,2026-11-10T13:42:01+00:00
+282588,,Mutthu Nammappa,2014-11-01,english,63,11,not_found,not_found,not_found,2026-11-10T13:43:06+00:00
+495603,tt2375666,Fireflies,2014-10-31,hindi,63,11,found_inr,found_inr,found,2026-11-10T13:43:06+00:00
+1547046,tt8046270,Pedithondan,2014-10-31,malayalam,63,11,not_found,not_found,not_found,2026-11-10T13:43:06+00:00
+319813,tt4417102,Njangalude Veettile Athidhikal,2014-10-30,malayalam,63,11,not_found,not_found,not_found,2026-11-10T13:43:06+00:00
+284729,tt3341582,Killa,2014-10-26,marathi,63,11,not_found,found_inr,not_found,2026-11-10T13:43:06+00:00
+722438,,Fig Fruit and The Wasps,2014-10-19,kannada,63,12,not_found,not_found,not_found,2026-11-10T13:43:06+00:00
+296892,tt4010306,Jigariyaa,2014-10-10,english,63,12,found_inr,found_inr,found,2026-11-10T13:43:06+00:00
+301789,tt5034328,Asha Black,2014-10-10,malayalam,63,12,not_found,not_found,not_found,2026-11-10T13:43:06+00:00
+305349,tt4112264,Paathshala,2014-10-10,telugu,63,12,found_inr,not_found,not_found,2026-11-10T13:43:06+00:00
+306469,tt4056974,Homely Meals,2014-10-03,malayalam,63,12,not_found,not_found,not_found,2026-11-10T13:43:06+00:00
+320933,tt4112416,Tamaar Padaar,2014-10-03,malayalam,63,13,not_found,not_found,not_found,2026-11-10T13:43:39+00:00
+617286,,Zahir,2014-10-03,malayalam,63,13,not_found,not_found,not_found,2026-11-10T13:43:39+00:00
+322155,tt8076980,Theriyama Unna Kadhalichitten,2014-10-02,tamil,63,13,not_found,not_found,not_found,2026-11-10T13:43:39+00:00
+295366,tt4073858,The Letter,2014-09-26,marathi,63,13,not_found,not_found,not_found,2026-11-10T13:43:39+00:00
+298787,tt3720634,3 AM: A Paranormal Experience,2014-09-26,hindi,63,13,found_inr,found_inr,found,2026-11-10T13:43:39+00:00
+302632,tt4115752,Chotushkone,2014-09-26,bengali,63,14,not_found,not_found,found,2026-11-10T13:44:11+00:00
+266500,tt2831404,Dr. Cabbie,2014-09-19,english,63,14,not_found,not_found,not_found,2026-11-10T13:44:11+00:00
+280116,tt4010302,Aranmanai,2014-09-19,tamil,63,14,found_inr,found_inr,found,2026-11-10T13:44:11+00:00
+280846,tt3982422,Aadama Jaichomada,2014-09-19,tamil,63,14,not_found,not_found,not_found,2026-11-10T13:44:11+00:00
+985396,,Akkarshan,2014-09-18,bengali,63,14,not_found,not_found,not_found,2026-11-10T13:44:11+00:00
+724827,tt3960994,Shutter,2014-09-17,marathi,63,15,not_found,not_found,not_found,2026-11-10T13:44:39+00:00
+1480349,,Baavre Prem He,2014-09-17,marathi,63,15,not_found,not_found,not_found,2026-11-10T13:44:39+00:00
+386853,,HI,2014-09-15,english,63,15,not_found,not_found,not_found,2026-11-10T13:44:39+00:00
+1268681,tt6383996,Down to Zero,2014-09-08,english,63,15,not_found,not_found,not_found,2026-11-10T13:44:39+00:00
+273880,tt3646292,Amara Kaaviyam,2014-09-05,tamil,63,15,not_found,not_found,not_found,2026-11-10T13:44:39+00:00
+280944,,Pattaya Kelappanum Pandiya,2014-09-05,english,63,16,not_found,not_found,not_found,2026-11-10T13:45:15+00:00
+312751,tt4372114,Bhaiyya Bhaiyya,2014-09-05,malayalam,63,16,not_found,not_found,found,2026-11-10T13:45:15+00:00
+578960,,Aamar Aami,2014-09-05,english,63,16,not_found,not_found,not_found,2026-11-10T13:45:15+00:00
+278189,tt3951566,Apothecary,2014-09-01,malayalam,63,16,not_found,not_found,not_found,2026-11-10T13:45:15+00:00
+290386,tt3686242,Peruchazhi,2014-08-29,malayalam,63,16,found_inr,not_found,found,2026-11-10T13:45:15+00:00
+372116,,Identity Card,2014-08-29,english,63,17,found_inr,found_inr,found,2026-11-10T13:45:41+00:00
+1093944,,Lekhu Lekhu Lekhi Deli,2014-08-29,odia,63,17,not_found,not_found,not_found,2026-11-10T13:45:41+00:00
+273876,tt3740090,Aindhaam Thalaimurai Sidha Vaidhiya Sigamani,2014-08-22,tamil,63,17,not_found,not_found,not_found,2026-11-10T13:45:41+00:00
+287766,tt3881136,Life Is Beautiful,2014-08-22,english,63,17,found_inr,found_inr,found,2026-11-10T13:45:41+00:00
+300950,,Control Bhaji Control,2014-08-22,hindi,63,17,not_found,not_found,not_found,2026-11-10T13:45:41+00:00
+339796,tt1784632,Mad About Dance,2014-08-22,hindi,63,18,found_inr,found_inr,found,2026-11-10T13:46:06+00:00
+355707,tt3951520,John Paul Vaathil Thurakkunnu,2014-08-19,malayalam,63,18,not_found,not_found,not_found,2026-11-10T13:46:06+00:00
+304744,tt3903480,Rama Madhav,2014-08-08,english,63,18,not_found,not_found,not_found,2026-11-10T13:46:06+00:00
+441515,tt4351628,Bombay Talkies,2014-08-08,hindi,63,18,not_found,not_found,not_found,2026-11-10T13:46:06+00:00
+469302,tt3916772,Avatharam,2014-08-01,malayalam,63,18,not_found,not_found,not_found,2026-11-10T13:46:06+00:00
+278408,tt3918600,Manglish,2014-07-29,malayalam,63,19,not_found,not_found,not_found,2026-11-10T13:47:12+00:00
+264058,tt3421036,Thirumanam Enum Nikkah,2014-07-24,tamil,63,19,not_found,not_found,not_found,2026-11-10T13:47:12+00:00
+284133,,Irukku Aana Illai,2014-07-18,tamil,63,19,not_found,not_found,not_found,2026-11-10T13:47:12+00:00
+945932,tt4083032,Makhmal,2014-07-18,hindi,63,19,not_found,not_found,not_found,2026-11-10T13:47:12+00:00
+280851,tt6787114,Pappali,2014-07-11,tamil,63,19,not_found,not_found,not_found,2026-11-10T13:47:12+00:00
+280871,tt3037162,Ramanujan,2014-07-11,tamil,63,20,not_found,not_found,not_found,2026-11-10T13:47:12+00:00
+348123,tt4087890,Boochamma Boochodu,2014-07-09,telugu,63,20,not_found,not_found,not_found,2026-11-10T13:47:12+00:00
+478368,tt8985298,Bonku Babu,2014-07-04,bengali,63,20,not_found,not_found,not_found,2026-11-10T13:47:12+00:00
+305459,,Gegen den Sturm,2014-07-01,german,63,20,not_found,not_found,not_found,2026-11-10T13:47:12+00:00
+861519,tt2989886,Red Gold,2014-07-01,english,63,20,not_found,not_found,not_found,2026-11-10T13:47:12+00:00

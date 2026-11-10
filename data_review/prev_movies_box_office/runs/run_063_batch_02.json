@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 325537, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Neenade Naa' (Wiki release 17 Oct 2014, dir Kandhas): blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 280161, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thottal Thodarum': blank budget/gross. Lead 'below average grosser at the box office' is cited only to a TOI 'audio rights bought' article (pre-release) → verdict NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 322190, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'below-average grosser'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Mariyam_Mukku"}, "notes": "Wiki 'Mariyam Mukku': blank budget/gross. Lead 'ended as a below-average grosser at the Kerala box office' (uncited) → flop (Below Average)"},
+ {"tmdb_movie_id": 335589, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rasam (film)': blank budget/gross. 'became a box-office bomb' is cited only to a pre-release Yahoo piece (4 Jan 2015) and an IBTimes review round-up (27 Jan 2015) → verdict NULL. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 579196, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Herogiri': blank budget/gross, no box-office wording. Bengali, not in BOI"}
+]

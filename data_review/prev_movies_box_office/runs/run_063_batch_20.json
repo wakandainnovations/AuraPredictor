@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 280871, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ramanujan (film)': blank budget/gross; Sify's 'successful' is about the direction (review) → verdict NULL. Tamil/English, not in BOI"},
+ {"tmdb_movie_id": 348123, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Boochamma Boochodu' (Wiki release 5 Sep 2014): blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 478368, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bonku Babu': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 305459, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (German TV film 'Gegen den Sturm'); no box office. Not in BOI"},
+ {"tmdb_movie_id": 861519, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (search hits unrelated 'Red' titles); not in BOI index or BH 2014 table"}
+]
