@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 282539, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'box office success' (50 days)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Accident_(2008_film)"}, "notes": "Wiki 'Accident (2008 film)': blank budget/gross. 'The film was a box office success and ran for fifty days.' cited to TOI 'Ramesh scores a hat-trick' (27 May 2008, 7 weeks after release) → hit. Kannada, not in BOI"},
+ {"tmdb_movie_id": 281398, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vedha (2008 film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 234825, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mulla (film)': blank budget/gross, no box-office wording. Malayalam; BOI fuzzy hit 'Hulla' (Hindi 2008) is a different film"},
+ {"tmdb_movie_id": 14607, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Loaded (2008 film)': blank budget/gross, no box-office wording (US direct-to-video). not in BOI"},
+ {"tmdb_movie_id": 1272967, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kerala Police (film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"}
+]

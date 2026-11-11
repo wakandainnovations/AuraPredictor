@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 530759, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'box office hit'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Mee_Sreyobhilashi"}, "notes": "Wiki 'Mee Sreyobhilashi': blank budget/gross. Lead 'Upon release, the film received highly positive reviews and remained a box office hit.' (uncited) → hit. Telugu, not in BOI"},
+ {"tmdb_movie_id": 723908, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nirop': blank budget/gross, no box-office wording. Marathi festival film, not in BOI"},
+ {"tmdb_movie_id": 330503, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Flash (2007 film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 81135, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Puli Varudhu': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 715601, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ee Bandhana': blank budget/gross; Sify 'above average' is a review rating (3 stars), not box office → NULL. Kannada, not in BOI"}
+]

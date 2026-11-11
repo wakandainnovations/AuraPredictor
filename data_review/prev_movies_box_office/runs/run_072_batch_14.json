@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 152198, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Naalu Pennungal' (= DB 'Four Women', Adoor Gopalakrishnan): blank budget/gross, no box-office wording (festival/art film). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 387096, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Mahek (film)': festival film (BFI London premiere), no figures, no box-office wording. Not in BOI index (fuzzy hit 'Dahek' is a different film) or BH 2007"},
+ {"tmdb_movie_id": 725385, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ottakkayyan': blank infobox, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 230956, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2007 Buddhadeb Dasgupta film (title match 'The Voyeurs' is the 2021 Amazon film — not used). Bengali, not in BOI"},
+ {"tmdb_movie_id": 81239, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aa Dinagalu': blank budget/gross. Box-office section 'completed 100-days in Bangalore region' (bangalore365, 24 Jan 2008) — a run length, no verdict wording → NULL. Kannada, not in BOI"}
+]

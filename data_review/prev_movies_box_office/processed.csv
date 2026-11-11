@@ -7099,3 +7099,103 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,run,batch,budget_status,r
 112259,tt10127810,Silandhi,2008-05-09,tamil,71,20,not_found,not_found,found,2026-11-11T13:04:32+00:00
 353645,tt1556941,Pachamarathanalil,2008-05-09,malayalam,71,20,not_found,not_found,not_found,2026-11-11T13:04:32+00:00
 20066,tt0849470,Senior Skip Day,2008-05-06,english,71,20,not_found,not_found,not_found,2026-11-11T13:04:32+00:00
+53877,tt1228931,Kuruvi,2008-05-03,tamil,72,1,found_inr,not_found,not_found,2026-11-11T13:16:38+00:00
+262571,,Iyakkam,2008-04-25,english,72,1,not_found,not_found,not_found,2026-11-11T13:16:38+00:00
+1065886,tt3171730,Aramane,2008-04-25,kannada,72,1,not_found,not_found,found,2026-11-11T13:16:38+00:00
+117010,tt1601812,Bommana Brothers Chandana Sisters,2008-04-18,telugu,72,1,not_found,not_found,not_found,2026-11-11T13:16:38+00:00
+701409,tt5335224,Amhi Satpute,2008-04-18,marathi,72,1,not_found,not_found,not_found,2026-11-11T13:16:38+00:00
+372400,tt8577306,Chakkara Viyugam,2008-04-14,tamil,72,2,not_found,not_found,found,2026-11-11T13:16:38+00:00
+240542,tt1217634,Innathe Chintha Vishayam,2008-04-12,malayalam,72,2,not_found,not_found,found,2026-11-11T13:16:38+00:00
+528427,tt1401622,Premer Kahini,2008-04-11,bengali,72,2,not_found,not_found,found,2026-11-11T13:16:38+00:00
+1181472,tt1219340,Full 3 Dhamaal,2008-04-11,marathi,72,2,not_found,not_found,not_found,2026-11-11T13:16:38+00:00
+935597,tt3116902,Anaconda Frightened,2008-04-08,chinese,72,2,not_found,not_found,not_found,2026-11-11T13:16:38+00:00
+282539,,Accident,2008-04-04,kannada,72,3,not_found,not_found,found,2026-11-11T13:16:59+00:00
+281398,,Vedha,2008-03-28,tamil,72,3,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+234825,tt1511437,Mulla,2008-03-27,malayalam,72,3,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+14607,tt0893406,Loaded,2008-03-25,english,72,3,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+1272967,,Kerala Police,2008-03-25,malayalam,72,3,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+112128,tt12978034,Sandai,2008-03-21,tamil,72,4,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+322954,tt10127798,Inba,2008-03-21,tamil,72,4,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+1270012,tt2914898,Gooli,2008-03-21,kannada,72,4,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+117656,tt1285120,John Appa Rao 40 plus,2008-03-20,english,72,4,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+258351,tt1601793,Aatadista,2008-03-20,telugu,72,4,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+333844,tt6449396,Thotta,2008-02-29,tamil,72,5,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+1468598,,Robo,2008-02-29,malayalam,72,5,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+1559468,,Khandala House,2008-02-29,hindi,72,5,found_inr,found_inr,found,2026-11-11T13:16:59+00:00
+137448,tt1321440,Nee Sukhame Ne Koruthunna,2008-02-22,english,72,5,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+1008113,tt1606247,Idhi Sangathi,2008-02-22,telugu,72,5,not_found,not_found,not_found,2026-11-11T13:16:59+00:00
+1423986,tt13569514,Akku,2008-02-22,tamil,72,6,not_found,not_found,not_found,2026-11-11T13:17:57+00:00
+262550,tt1640706,Thoondil,2008-02-21,tamil,72,6,not_found,not_found,found,2026-11-11T13:17:57+00:00
+587468,tt5762158,Bindaas,2008-02-15,kannada,72,6,not_found,not_found,found,2026-11-11T13:17:57+00:00
+53883,tt1922545,Anjathe,2008-02-14,tamil,72,6,found_inr,not_found,found,2026-11-11T13:17:57+00:00
+64228,tt1032764,"Love, Pain and Vice Versa",2008-02-10,spanish,72,6,not_found,not_found,not_found,2026-11-11T13:17:57+00:00
+10900,tt0409345,Surveillance,2008-02-08,english,72,7,not_found,found_usd,not_found,2026-11-11T13:17:58+00:00
+245572,tt6450174,Sadhu Miranda,2008-02-08,tamil,72,7,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+605839,tt1216279,Checkmate,2008-02-08,marathi,72,7,found_inr,not_found,not_found,2026-11-11T13:17:58+00:00
+521384,,Oridathoru Puzhayundu,2008-02-01,malayalam,72,7,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+995428,tt13563648,Thangam,2008-02-01,tamil,72,7,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+69448,tt1156337,Swagatam,2008-01-25,telugu,72,8,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+7555,tt0462499,Rambo,2008-01-24,english,72,8,found_usd,found_usd,found,2026-11-11T13:17:58+00:00
+808526,,A Little Dream,2008-01-21,english,72,8,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+555599,tt1408015,Jor,2008-01-18,bengali,72,8,found_inr,not_found,not_found,2026-11-11T13:17:58+00:00
+111786,tt2084920,Pirivom Santhippom,2008-01-14,tamil,72,8,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+1583749,tt38973842,Thana Shagna Da,2008-01-11,punjabi,72,9,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+9330,tt1204913,Karma,2008-01-01,english,72,9,found_inr,found_inr,found,2026-11-11T13:17:58+00:00
+18328,tt2088840,The Kiss of Death,2008-01-01,vi,72,9,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+42353,tt0784979,Cash and Curry,2008-01-01,english,72,9,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+48530,,Babal Da Vehra,2008-01-01,punjabi,72,9,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+942883,tt1337633,I Am a Schizophrenic and So Am I,2008-01-01,english,72,10,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+1155254,tt1316061,Kong Hong: Lost in Love,2008-01-01,english,72,10,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+1195482,tt12428492,Sakkha Savatra,2008-01-01,marathi,72,10,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+1323738,,When This Man Dies,2008-01-01,hindi,72,10,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+1407259,,Mi Amruta Boltey,2008-01-01,english,72,10,not_found,not_found,not_found,2026-11-11T13:17:58+00:00
+530759,tt1200068,Mee Sreyobhilashi,2007-12-28,telugu,72,11,not_found,not_found,found,2026-11-11T13:19:09+00:00
+723908,tt2496990,Nirop,2007-12-28,marathi,72,11,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+330503,tt1105726,Flash,2007-12-27,malayalam,72,11,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+81135,,Puli Varudhu,2007-12-21,tamil,72,11,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+715601,tt6802154,Ee Bandhana,2007-12-21,kannada,72,11,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+7508,tt0986264,Like Stars on Earth,2007-12-20,hindi,72,12,found_inr,found_inr,found,2026-11-11T13:19:09+00:00
+66107,tt1169270,Don,2007-12-20,telugu,72,12,not_found,not_found,found,2026-11-11T13:19:09+00:00
+67890,tt1111914,Katha Parayumbol,2007-12-14,malayalam,72,12,not_found,not_found,found,2026-11-11T13:19:09+00:00
+282633,tt14282852,Lava Kusha,2007-12-13,kannada,72,12,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+497809,tt1151299,68 Pages,2007-12-09,hindi,72,12,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+117324,tt0982875,Gauri The Unborn,2007-11-30,hindi,72,13,found_inr,found_inr,found,2026-11-11T13:19:09+00:00
+22182,tt1065305,Lessons in Chocolate,2007-11-23,english,72,13,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+226840,tt1612064,Takkari,2007-11-23,telugu,72,13,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+280185,tt1144442,Rock N' Roll,2007-11-16,malayalam,72,13,not_found,not_found,found,2026-11-11T13:19:09+00:00
+838676,tt1332053,Ayur Rekha,2007-11-09,malayalam,72,13,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+152198,tt0986244,Four Women,2007-11-02,malayalam,72,14,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+387096,tt1210520,Mahek,2007-10-28,hindi,72,14,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+725385,tt1143118,Ottakkayyan,2007-10-26,malayalam,72,14,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+230956,tt1097209,The Voyeurs,2007-10-20,bengali,72,14,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+81239,tt3169652,Aa Dinagalu,2007-10-19,kannada,72,14,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+353648,tt0997142,Black Cat,2007-10-18,malayalam,72,15,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+278133,tt1028559,Nasrani,2007-10-12,malayalam,72,15,not_found,not_found,found,2026-11-11T13:19:09+00:00
+69550,tt1501298,Kattradhu Thamizh,2007-10-06,tamil,72,15,not_found,not_found,not_found,2026-11-11T13:19:09+00:00
+109486,tt1074201,It's Breaking News,2007-10-05,english,72,15,found_inr,found_inr,found,2026-11-11T13:19:09+00:00
+224957,tt4102346,Muni,2007-09-30,tamil,72,15,not_found,not_found,found,2026-11-11T13:19:09+00:00
+1287935,,Vegam,2007-09-28,tamil,72,16,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+24388,tt0906325,Bagboy,2007-09-14,english,72,16,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+112235,tt1507349,Satham Podathey,2007-09-14,tamil,72,16,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+353303,tt14287804,Anatharu,2007-09-14,kannada,72,16,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+409051,tt2237888,Inimey Nangathan,2007-09-14,tamil,72,16,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+732845,tt1321393,Hello Premistara,2007-09-14,telugu,72,17,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+80929,tt1601815,Chandamama,2007-09-07,telugu,72,17,not_found,not_found,found,2026-11-11T13:20:06+00:00
+80231,tt2359790,Ammuvagiya Naan,2007-08-31,tamil,72,17,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+142278,tt0997170,Ore Kadal,2007-08-27,malayalam,72,17,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+256163,tt2915076,Maathaad Maathaadu Mallige,2007-08-24,kannada,72,17,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+186979,,7eventy 5ive - Pray for Mercy,2007-08-23,german,72,18,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+69580,tt0977636,Aarya,2007-08-10,tamil,72,18,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+1512167,tt14288072,Manmatha,2007-08-03,kannada,72,18,not_found,not_found,found,2026-11-11T13:20:06+00:00
+23717,tt1068956,Khuda Kay Liye,2007-07-29,urdu,72,18,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+349179,tt1028558,Nadiya Kollappetta Rathri,2007-07-27,malayalam,72,18,not_found,not_found,found,2026-11-11T13:20:06+00:00
+307970,tt1612112,Toss,2007-07-14,telugu,72,19,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+527241,tt1390838,I Love You,2007-07-12,bengali,72,19,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+352673,tt0463412,Anandabhairavi,2007-07-08,malayalam,72,19,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+1090316,tt1320200,Satyabhama,2007-07-06,telugu,72,19,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+152783,tt1102354,Veeralipattu,2007-07-01,malayalam,72,19,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+975239,,Mahaguru,2007-07-01,bengali,72,20,found_inr,not_found,not_found,2026-11-11T13:20:06+00:00
+962461,tt3336696,Pitribhumi,2007-06-28,bengali,72,20,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+1001820,tt1841514,Bandhu,2007-06-22,bengali,72,20,not_found,not_found,not_found,2026-11-11T13:20:06+00:00
+1180269,tt3171702,Cheluvina Chittara,2007-06-22,kannada,72,20,not_found,found_inr,not_found,2026-11-11T13:20:06+00:00
+1639497,,Aakasham,2007-06-14,malayalam,72,20,not_found,not_found,not_found,2026-11-11T13:20:06+00:00

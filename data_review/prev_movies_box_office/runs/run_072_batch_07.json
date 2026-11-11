@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 10900, "budget_inr_crore": null, "revenue_inr_crore": null, "revenue_usd": 1100000, "revenue_scope": "worldwide", "verdict": null, "sources": {"revenue": "https://en.wikipedia.org/wiki/Surveillance_(2008_film)"}, "notes": "Wiki 'Surveillance (2008 film)': gross $1.1 million (cited to BOM) — stored $1,100,000 → confirmed. No budget on Wiki; stored $3,500,000 (tmdb) not found — left. No verdict. not in BOI"},
+ {"tmdb_movie_id": 245572, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sadhu Miranda': blank budget/gross; Cinesouth review 'deliver a successful circus act' is about the screenplay → NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 605839, "budget_inr_crore": 1.0, "revenue_inr_crore": null, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Checkmate_(2008_film)"}, "notes": "Wiki 'Checkmate (2008 film)': budget {{INRConvert|1|c}} = ₹1 crore (cited to ET 'Marathi films gross over Rs 100 cr, a whopping 42% growth') — stored $252,207 reproduces it → confirmed. No gross, no verdict. Marathi, not in BOI"},
+ {"tmdb_movie_id": 521384, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Oridathoru Puzhayundu': no infobox figures, plot only. Malayalam children's film, not in BOI"},
+ {"tmdb_movie_id": 995428, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thangam': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]
