@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1443987, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'box office failure' (Rediff Nov 2006)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Shri_(film)"}, "notes": "Wiki 'Shri (film)' (Kannada, tagged English in DB): blank budget/gross. 'However, the film was a box office failure.' cited to Rediff 'Kannada cinema's new babe' (6 Nov 2006, ten months after release) → flop. not in BOI"},
+ {"tmdb_movie_id": 312603, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 499326, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (title fetch redirected to 'Werewolf' — rejected); UK film. Stored tmdb budget $362,000 unverified, left. not in BOI"},
+ {"tmdb_movie_id": 655550, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (title fetch hit the animal 'Raccoon' — rejected); US film. Stored tmdb budget $20,000 unverified, left. not in BOI"},
+ {"tmdb_movie_id": 659119, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Bengali, not in BOI"}
+]

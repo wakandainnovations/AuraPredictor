@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 98408, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (US adult video). not in BOI"},
+ {"tmdb_movie_id": 37471, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shadows of Time': German production (Florian Gallenberger, TIFF 2004); infobox gross '$41,874' uncited (= stored) → not confirmed, left; no budget, no verdict. not in BOI"},
+ {"tmdb_movie_id": 1042544, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Bengali, not in BOI"},
+ {"tmdb_movie_id": 890443, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pandu (2005 film)' (DB 'That is Pandu', Telugu tagged English; Jagapati Babu, 4 Nov 2005): blank budget/gross, no box-office wording. not in BOI"},
+ {"tmdb_movie_id": 904473, "budget_inr_crore": 0.25, "revenue_inr_crore": 0.36, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Flop", "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1642", "revenue": "https://boxofficeindia.com/movie.php?movieid=1642", "verdict": "https://boxofficeindia.com/movie.php?movieid=1642"}, "notes": "No Wiki article. BOI 'Angoor (2005) Hindi' (movieid=1642; cast Sapna): Budget 25,00,000 (₹0.25 Cr), India Gross 36,00,000 (₹0.36 Cr; overseas $---), verdict Flop → flop"}
+]

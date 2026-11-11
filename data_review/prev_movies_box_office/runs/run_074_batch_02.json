@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 728544, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Telugu, not in BOI"},
+ {"tmdb_movie_id": 1226908, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ganda Hendathi': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 609949, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Refugee (2006 film)': budget '1.0 cr' and gross '2.5 cr' both uncited (= stored) → not confirmed, left; Wiki release 7 Nov 2006 vs DB 23 Jun; no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 1692396, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Good Luck (2006 film)': blank budget/gross; Rediff 'Good Luck is above average' is a review rating, not box office → NULL. Kannada, not in BOI"},
+ {"tmdb_movie_id": 700225, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (title fetch redirected to 'Highway patrol' — rejected). Malayalam, not in BOI"}
+]
