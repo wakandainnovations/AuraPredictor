@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 111396, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Vietnamese 'Chơi vơi'). not in BOI"},
+ {"tmdb_movie_id": 569027, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Patham Nilayile Theevandi': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 282617, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Kannada, not in BOI"},
+ {"tmdb_movie_id": 23969, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'A Aa E Ee (2009 Telugu film)': blank budget/gross, no box-office wording (only a review's 'low budget' remark). Telugu, not in BOI"},
+ {"tmdb_movie_id": 306406, "budget_inr_crore": 1.5, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'hit at box office'", "sources": {"budget": "https://en.wikipedia.org/wiki/Gaiir", "verdict": "https://en.wikipedia.org/wiki/Gaiir"}, "notes": "Wiki 'Gaiir' (Marathi film; tagged Hindi in the DB): budget ₹1.5 crore (cited to ET 'Mantra of success that Marathi film industry has discovered since 2005', 24 Sep 2011) — stored $320,753 reproduces it → confirmed. No gross. 'The film was a hit at box office.' cited to marathimovieworld (11 Jun 2016) → hit. Marathi, not in BOI"}
+]

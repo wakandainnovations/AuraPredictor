@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1250956, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jeeva (2009 film)': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 1142440, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Parayan Marannathu': blank budget/gross, no box-office wording (Malayalam film; tagged English in the DB). not in BOI"},
+ {"tmdb_movie_id": 671963, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Sandip Ray's Bengali 'Hit List'); stored Wikipedia-sourced revenue $53,596 not re-verified. Bengali, not in BOI"},
+ {"tmdb_movie_id": 262553, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (title search hit 'Tamilakam', the historical region). Tamil film tagged English, not in BOI"},
+ {"tmdb_movie_id": 1101265, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chirru': blank budget/gross (Wiki release 19 Nov 2010, a year after the DB date). 'released … to average and mixed response' is cited to a release-day Deccan Herald piece → not a verdict, NULL. Kannada, not in BOI"}
+]

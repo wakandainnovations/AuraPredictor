@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 78945, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'colossal flop' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Engal_Aasan"}, "notes": "Wiki 'Engal Aasan' (Tamil film; tagged English in the DB): blank budget/gross. Lead 'The film, upon release could not release in the big theatres and became a colossal flop.' (uncited) → flop. Not in BOI"},
+ {"tmdb_movie_id": 555851, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Marathi, not in BOI"},
+ {"tmdb_movie_id": 826181, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Eddelu Manjunatha': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 23793, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Telugu, not in BOI"},
+ {"tmdb_movie_id": 927988, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Madhya Venal': blank budget/gross, no box-office wording. Malayalam, not in BOI"}
+]

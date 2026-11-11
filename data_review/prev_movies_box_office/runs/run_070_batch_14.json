@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1192907, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Marathi, not in BOI"},
+ {"tmdb_movie_id": 228756, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success' (Sify year-end)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Puthiya_Mugham"}, "notes": "Wiki 'Puthiya Mugham': blank budget/gross. Box-office section 'Puthiya Mugham became a commercial success at the box office…' cited to Sify '2009- A Flashback!' (2 Jan 2010, year-end); lead 'a major commercial success' → hit. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 376013, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Fitness DVD, not a theatrical film; not in BOI"},
+ {"tmdb_movie_id": 23792, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kalavaramaye Madilo': blank budget/gross, no box-office wording (only 'hit tracks' for the soundtrack — not a box-office verdict). Telugu, not in BOI"},
+ {"tmdb_movie_id": 69615, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Achchamundu! Achchamundu!': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

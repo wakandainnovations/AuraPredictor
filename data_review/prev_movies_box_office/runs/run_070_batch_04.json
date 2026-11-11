@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 977900, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Keshu': blank budget/gross, no box-office wording (IFFI premiere; children's film). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 85338, "budget_inr_crore": 1.5, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success' (Sify year-end)", "sources": {"budget": "https://en.wikipedia.org/wiki/Neelathamara_(2009_film)", "verdict": "https://en.wikipedia.org/wiki/Neelathamara_(2009_film)"}, "notes": "Wiki 'Neelathamara (2009 film)': budget ₹1.5 crores (cited to The Hindu \"'Neelathamara' blooms again\", 30 Nov 2009) — stored $322,165 reproduces it → confirmed. No gross. Box-office section 'The film was a commercial success.' cited to Sify '2009- A Flashback!' (2 Jan 2010, year-end) → hit. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 116192, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Yogi (2009 Tamil film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 943576, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Bengali, not in BOI"},
+ {"tmdb_movie_id": 943594, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Bengali, not in BOI"}
+]

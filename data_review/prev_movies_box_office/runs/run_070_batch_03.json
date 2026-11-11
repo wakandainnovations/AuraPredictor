@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 494009, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Marathi, not in BOI"},
+ {"tmdb_movie_id": 44529, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'City of Life' (Emirati film, dir Ali F. Mostafa): no budget/gross in infobox; box-office section gives only the opening weekend (AED 500,000) — partial, not stored. No verdict. Not in BOI"},
+ {"tmdb_movie_id": 55208, "budget_inr_crore": null, "revenue_inr_crore": null, "budget_usd": 1500000, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Clash_(2009_film)"}, "notes": "Wiki 'Clash (2009 film)': budget US$1.5 million (cited to Thanh Nien Daily) — stored $1,500,000 matches → confirmed (USD). No gross, no verdict wording. Vietnamese film, not in BOI"},
+ {"tmdb_movie_id": 684146, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Amaravathi (2009 film)': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 943592, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Bengali, not in BOI"}
+]

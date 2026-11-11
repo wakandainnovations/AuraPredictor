@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 158492, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Vihir': blank budget/gross, no box-office wording (PIFF premiere 2009; theatrical release 5 Mar 2010). Marathi, not in BOI"},
+ {"tmdb_movie_id": 556218, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Prem Aamar': infobox budget ₹2.00 Crore and gross ₹9.80 Crore both tagged {{cn}} (Mar 2026) — the stored budget $430,600 / revenue $2,109,940 are those uncited values; not confirmed (flagged, left). No verdict wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 1109482, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bellary Naga': blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 23800, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ninnu Kalisaka': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 112298, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Suriyan Satta Kalloori': blank budget/gross; 'took a below average opening at the Chennai box office' (Behindwoods weekly, 28 Sep / 5 Oct 2009) is an opening, not a verdict → NULL. Tamil, not in BOI"}
+]

@@ -6899,3 +6899,103 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,run,batch,budget_status,r
 263908,tt1949582,Puthran,2010-01-01,tamil,69,20,not_found,not_found,not_found,2026-11-10T23:39:02+00:00
 360418,tt1849715,After the Credits,2010-01-01,english,69,20,not_found,not_found,not_found,2026-11-10T23:39:02+00:00
 512280,,Pournami Nagam,2010-01-01,tamil,69,20,not_found,not_found,not_found,2026-11-10T23:39:02+00:00
+795730,,PIA,2010-01-01,english,70,1,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+836613,tt1783313,Open Doors,2010-01-01,hindi,70,1,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+855451,tt1462845,Origin,2010-01-01,english,70,1,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+1182823,tt28701415,Gone Wife,2010-01-01,marathi,70,1,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+1746626,,Dastaan,2010-01-01,urdu,70,1,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+701477,tt7247768,Nau Mahine Nau Divas,2009-12-30,marathi,70,2,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+255058,tt1534092,Kasko,2009-12-25,telugu,70,2,not_found,not_found,found,2026-11-11T12:12:12+00:00
+221755,tt1598547,Evidam Swargamanu,2009-12-24,malayalam,70,2,found_inr,not_found,found,2026-11-11T12:12:12+00:00
+830857,tt2129900,Bani Ibrahim,2009-12-19,english,70,2,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+646837,tt2374891,Chha-e Chhuti,2009-12-18,bengali,70,2,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+494009,tt7690214,Tya Ratri Paus Hota,2009-12-12,marathi,70,3,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+44529,tt1159926,City of Life,2009-12-11,english,70,3,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+55208,tt1571565,Clash,2009-12-09,vi,70,3,found_usd,not_found,not_found,2026-11-11T12:12:12+00:00
+684146,tt3402578,Amaravathi,2009-12-03,telugu,70,3,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+943592,,Pa Ma Ga Re Sa,2009-11-28,bengali,70,3,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+977900,tt2271431,Keshu,2009-11-28,malayalam,70,4,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+85338,tt1650557,Neelathamara,2009-11-27,malayalam,70,4,found_inr,not_found,found,2026-11-11T12:12:12+00:00
+116192,tt1509838,Yogi,2009-11-27,tamil,70,4,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+943576,tt1404094,Piyali's Password,2009-11-27,bengali,70,4,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+943594,,Saptasur,2009-11-27,bengali,70,4,not_found,not_found,not_found,2026-11-11T12:12:12+00:00
+1250956,tt11989824,Jeeva,2009-11-27,kannada,70,5,not_found,not_found,not_found,2026-11-11T12:12:43+00:00
+1142440,tt1784576,Parayan Marannathu,2009-11-21,english,70,5,not_found,not_found,not_found,2026-11-11T12:12:43+00:00
+671963,tt1613097,Hit List,2009-11-20,bengali,70,5,not_found,not_found,not_found,2026-11-11T12:12:43+00:00
+262553,,Thamizhagam,2009-11-19,english,70,5,not_found,not_found,not_found,2026-11-11T12:12:43+00:00
+1101265,tt5397202,Chirru,2009-11-19,kannada,70,5,not_found,not_found,not_found,2026-11-11T12:12:43+00:00
+111396,tt1499639,Adrift,2009-11-13,vi,70,6,not_found,not_found,not_found,2026-11-11T12:12:43+00:00
+569027,tt1547940,Patham Nilayile Theevandi,2009-11-13,malayalam,70,6,not_found,not_found,not_found,2026-11-11T12:12:43+00:00
+282617,,Devaru Kotta Tangi,2009-11-11,kannada,70,6,not_found,not_found,not_found,2026-11-11T12:12:43+00:00
+23969,tt3407278,A Aa E Ee,2009-11-06,telugu,70,6,not_found,not_found,not_found,2026-11-11T12:12:43+00:00
+306406,tt3610936,Gaiir,2009-11-06,hindi,70,6,found_inr,not_found,found,2026-11-11T12:12:43+00:00
+472116,tt1668215,Utharaswayamvaram,2009-11-06,malayalam,70,7,not_found,not_found,not_found,2026-11-11T12:12:44+00:00
+281936,tt1649434,Villagelo Vinayakudu,2009-11-05,telugu,70,7,not_found,not_found,not_found,2026-11-11T12:12:44+00:00
+1183260,tt7147752,Canvas,2009-10-30,marathi,70,7,not_found,not_found,not_found,2026-11-11T12:12:44+00:00
+454994,tt2137850,3 Nights 4 Days,2009-10-28,hindi,70,7,found_inr,found_inr,found,2026-11-11T12:12:44+00:00
+117035,tt1579534,Bumper Offer,2009-10-23,telugu,70,7,not_found,not_found,found,2026-11-11T12:12:44+00:00
+69566,tt1535020,Peranmai,2009-10-16,tamil,70,8,found_inr,found_inr,not_found,2026-11-11T12:13:19+00:00
+117414,tt13606502,Jaganmohini,2009-10-16,tamil,70,8,not_found,not_found,not_found,2026-11-11T12:13:19+00:00
+1337745,tt14188920,Gilli,2009-10-16,kannada,70,8,not_found,not_found,not_found,2026-11-11T12:13:19+00:00
+46641,tt1153053,Today's Special,2009-10-14,english,70,8,not_found,found_usd,not_found,2026-11-11T12:13:19+00:00
+137273,tt1579625,Mahatma,2009-10-09,telugu,70,8,found_inr,not_found,found,2026-11-11T12:13:19+00:00
+158492,tt1515210,Vihir,2009-10-09,marathi,70,9,not_found,not_found,not_found,2026-11-11T12:13:19+00:00
+556218,tt1551631,Prem Amar,2009-10-09,bengali,70,9,not_found,not_found,not_found,2026-11-11T12:13:19+00:00
+1109482,tt12218210,Bellary Naga,2009-10-09,kannada,70,9,not_found,not_found,not_found,2026-11-11T12:13:19+00:00
+23800,tt9399328,Ninnu Kalisaka,2009-10-02,telugu,70,9,not_found,not_found,not_found,2026-11-11T12:13:19+00:00
+112298,,Suriyan Satta Kalloori,2009-09-28,tamil,70,9,not_found,not_found,not_found,2026-11-11T12:13:19+00:00
+21298,tt1442570,Fast Forward,2009-09-25,hindi,70,10,found_inr,not_found,found,2026-11-11T12:14:12+00:00
+23773,tt1608631,Rechipo,2009-09-25,telugu,70,10,not_found,not_found,found,2026-11-11T12:14:12+00:00
+66225,tt6423558,Aarumugam,2009-09-25,tamil,70,10,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+463203,tt2243399,Manasaare,2009-09-25,kannada,70,10,not_found,not_found,found,2026-11-11T12:14:12+00:00
+226060,tt1213640,Drawing With Chalk,2009-09-24,english,70,10,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+64787,tt1118646,Aseema: Beyond Boundaries,2009-09-18,english,70,11,found_inr,found_inr,found,2026-11-11T12:14:12+00:00
+281848,,Samardhudu,2009-09-18,telugu,70,11,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+437450,tt1650534,Duplicate,2009-09-18,malayalam,70,11,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+23783,tt1509735,Baanam,2009-09-16,telugu,70,11,not_found,not_found,found,2026-11-11T12:14:12+00:00
+962331,,Mama Bhagne,2009-09-16,bengali,70,11,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+282621,tt14188708,Bhagyada Balegara,2009-09-11,kannada,70,12,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+578496,,Meghatheertham,2009-09-11,malayalam,70,12,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+1517116,tt14188874,Prem Kahani,2009-09-11,kannada,70,12,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+352064,tt1461683,The Window,2009-09-04,bengali,70,12,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+475102,tt3588016,Dalamarmarangal,2009-09-02,malayalam,70,12,not_found,not_found,not_found,2026-11-11T12:14:12+00:00
+683273,tt1756660,Oru Black & White Kudumbam,2009-09-02,malayalam,70,13,not_found,not_found,not_found,2026-11-11T12:14:28+00:00
+382898,tt1395194,Hotel,2009-09-01,english,70,13,not_found,not_found,not_found,2026-11-11T12:14:28+00:00
+109369,tt1580023,Snehituda,2009-08-07,telugu,70,13,not_found,not_found,not_found,2026-11-11T12:14:28+00:00
+268283,tt1587676,Smell,2009-08-07,marathi,70,13,not_found,not_found,not_found,2026-11-11T12:14:28+00:00
+962298,tt1630279,Neel Akasher Chandni,2009-08-06,bengali,70,13,not_found,not_found,not_found,2026-11-11T12:14:28+00:00
+1192907,tt7147796,Chal Love Kar,2009-08-01,marathi,70,14,not_found,not_found,not_found,2026-11-11T12:14:28+00:00
+228756,tt1630255,Puthiya Mugham,2009-07-23,malayalam,70,14,not_found,not_found,found,2026-11-11T12:14:28+00:00
+376013,tt4799322,So You Think You Can Dance Get Fit: Cardio Funk,2009-07-21,english,70,14,not_found,not_found,not_found,2026-11-11T12:14:28+00:00
+23792,tt1946278,Kalavaramaye Madilo,2009-07-17,telugu,70,14,not_found,not_found,not_found,2026-11-11T12:14:28+00:00
+69615,tt1213631,Achchamundu Achchamundu,2009-07-17,tamil,70,14,not_found,not_found,not_found,2026-11-11T12:14:28+00:00
+78945,,Engal Aasaan,2009-07-17,english,70,15,not_found,not_found,found,2026-11-11T12:14:56+00:00
+555851,,Gosht Lagna Nantarchi,2009-07-17,marathi,70,15,not_found,not_found,not_found,2026-11-11T12:14:56+00:00
+826181,tt3004716,Eddelu Manjunatha,2009-07-17,kannada,70,15,not_found,not_found,not_found,2026-11-11T12:14:56+00:00
+23793,tt1601791,Aa Intlo,2009-07-16,telugu,70,15,not_found,not_found,not_found,2026-11-11T12:14:56+00:00
+927988,tt2575138,Madhyavenal,2009-07-04,malayalam,70,15,not_found,not_found,not_found,2026-11-11T12:14:56+00:00
+540412,tt1486539,A Message from the East,2009-07-01,english,70,16,not_found,not_found,not_found,2026-11-11T12:16:27+00:00
+307854,tt1601800,Anjani Putrudu,2009-06-29,telugu,70,16,not_found,not_found,not_found,2026-11-11T12:16:27+00:00
+344345,tt1981682,Runway Love Among Gun Shots,2009-06-26,hindi,70,16,found_inr,found_inr,found,2026-11-11T12:16:27+00:00
+352638,tt1547629,Dr. Patient,2009-06-20,malayalam,70,16,not_found,not_found,not_found,2026-11-11T12:16:27+00:00
+20491,tt1562361,Let's Dance,2009-06-19,hindi,70,16,found_inr,found_inr,found,2026-11-11T12:16:27+00:00
+262558,tt1503144,Muthirai,2009-06-19,tamil,70,17,not_found,not_found,not_found,2026-11-11T12:16:27+00:00
+544321,tt2050600,Raftaar - An Obsession,2009-06-19,english,70,17,found_inr,found_inr,found,2026-11-11T12:16:27+00:00
+1441842,tt1459940,Mukhyamantri,2009-06-16,odia,70,17,not_found,not_found,not_found,2026-11-11T12:16:27+00:00
+353685,tt1458924,Ivar Vivahitharayal...?,2009-06-12,malayalam,70,17,not_found,not_found,found,2026-11-11T12:16:27+00:00
+505932,tt13612828,Kulir 100°,2009-06-09,tamil,70,17,not_found,not_found,not_found,2026-11-11T12:16:27+00:00
+23972,tt3402708,Aa Okkadu,2009-06-05,telugu,70,18,not_found,not_found,found,2026-11-11T12:16:27+00:00
+111558,tt6450116,Mayandi Kudumbathar,2009-06-05,tamil,70,18,not_found,not_found,found,2026-11-11T12:16:27+00:00
+319962,tt2014263,Kavya's Diary,2009-06-05,telugu,70,18,not_found,not_found,not_found,2026-11-11T12:16:27+00:00
+322286,tt1580017,Ride,2009-06-05,telugu,70,18,not_found,not_found,found,2026-11-11T12:16:27+00:00
+115641,,Half Fry,2009-05-29,english,70,18,not_found,not_found,not_found,2026-11-11T12:16:27+00:00
+609945,tt1443519,Saat Pake Bandha,2009-05-29,bengali,70,19,not_found,not_found,not_found,2026-11-11T12:16:40+00:00
+1049698,tt14644542,Jamai Raja,2009-05-23,bengali,70,19,not_found,not_found,not_found,2026-11-11T12:16:40+00:00
+48537,tt1707234,Lagda Ishq Ho Gaya,2009-05-22,english,70,19,not_found,not_found,not_found,2026-11-11T12:16:40+00:00
+278218,tt1443352,Kancheepurathe Kalyanam,2009-05-22,malayalam,70,19,not_found,not_found,not_found,2026-11-11T12:16:40+00:00
+701474,tt2203855,Nishani Dava Angatha,2009-05-22,marathi,70,19,not_found,not_found,not_found,2026-11-11T12:16:40+00:00
+1008138,,Target,2009-05-22,english,70,20,not_found,not_found,not_found,2026-11-11T12:16:40+00:00
+114706,tt1970029,Suno Na.. Ek Nanhi Aawaz,2009-05-15,english,70,20,found_inr,found_inr,found,2026-11-11T12:16:40+00:00
+282619,tt14448784,Hatrick Hodi Maga,2009-05-08,kannada,70,20,not_found,not_found,not_found,2026-11-11T12:16:40+00:00
+81160,tt5544996,Kali,2009-05-06,english,70,20,not_found,not_found,not_found,2026-11-11T12:16:40+00:00
+24056,tt0471041,The Tournament,2009-05-01,english,70,20,not_found,found_usd,not_found,2026-11-11T12:16:40+00:00
