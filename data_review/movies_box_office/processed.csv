@@ -1,0 +1,101 @@
+id,movie_name,release_date,language,run,batch,budget_status,revenue_status,verdict_status,reviewed_at
+tt33483889,Citylights,2026-09-18,kannada,1,1,not_found,confirmed,not_found,2026-11-11T23:52:29+00:00
+tt27530512,Toxic: A Fairy Tale for Grown-ups,2026-08-26,"kannada, hindi, english",1,1,flagged,flagged,confirmed,2026-11-11T23:52:29+00:00
+tt36300841,Awarapan 2,2026-08-14,hindi,1,1,flagged,confirmed,confirmed,2026-11-11T23:52:29+00:00
+tt34883341,Ayogya 2,2026-08-07,kannada,1,1,not_found,flagged,not_found,2026-11-11T23:52:29+00:00
+tt37501035,DC,2026-08-07,tamil,1,1,confirmed,confirmed,confirmed,2026-11-11T23:52:29+00:00
+tt32873023,Kaalidas 2,2026-04-03,tamil,1,8,not_found,flagged,not_found,2026-11-11T23:52:30+00:00
+tt33245761,Vaazha II,2026-04-02,malayalam,1,8,flagged,flagged,confirmed,2026-11-11T23:52:30+00:00
+tt29470608,Love Mocktail 3,2026-03-19,kannada,1,8,not_found,flagged,not_found,2026-11-11T23:52:30+00:00
+tt38693888,Youth,2026-03-19,tamil,1,8,not_found,flagged,not_found,2026-11-11T23:52:30+00:00
+tt39139925,Dhurandhar: The Revenge,2026-03-19,hindi,1,8,flagged,confirmed,confirmed,2026-11-11T23:52:30+00:00
+tt35509393,Landlord,2026-01-23,kannada,1,13,not_found,flagged,not_found,2026-11-11T23:52:30+00:00
+tt36472392,Chatha Pacha,2026-01-22,malayalam,1,13,not_found,not_found,not_found+flagged,2026-11-11T23:52:30+00:00
+tt36926733,TTT: Thalaivar Thambi Thalaimaiyil,2026-01-15,tamil,1,13,confirmed,confirmed,confirmed,2026-11-11T23:52:30+00:00
+tt15427952,Anaganaga Oka Raju,2026-01-14,telugu,1,13,not_found,confirmed,updated,2026-11-11T23:52:30+00:00
+tt29638896,Nari Nari Naduma Murari,2026-01-14,telugu,1,13,not_found,flagged,not_found,2026-11-11T23:52:30+00:00
+tt33500164,Kalamkaval,2025-12-05,malayalam,1,18,not_found,confirmed,confirmed,2026-11-11T23:52:31+00:00
+tt28142095,Tere Ishk Mein,2025-11-28,hindi,1,18,confirmed,flagged,confirmed,2026-11-11T23:52:31+00:00
+tt13998526,Vilaayath Budha,2025-11-21,malayalam,1,18,not_found,flagged,confirmed,2026-11-11T23:52:31+00:00
+tt15911108,120 Bahadur,2025-11-21,hindi,1,18,confirmed,flagged,confirmed,2026-11-11T23:52:31+00:00
+tt30818815,Mastiii 4,2025-11-21,hindi,1,18,flagged,flagged,confirmed,2026-11-11T23:52:31+00:00
+tt37510017,Thudakkam,2026-08-07,malayalam,1,2,not_found,updated,trigger+flagged,2026-11-11T23:53:02+00:00
+tt15516806,Graamaayana,2026-07-3,kannada,1,2,not_found,flagged,not_found,2026-11-11T23:53:02+00:00
+tt41400801,Mother Promise,2026-07-10,kannada,1,2,not_found,flagged,not_found,2026-11-11T23:53:02+00:00
+tt26445387,"I, Nobody",2026-07-09,malayalam,1,2,not_found,confirmed,not_found,2026-11-11T23:53:02+00:00
+tt28363783,Alpha,2026-07-02,hindi,1,2,flagged,confirmed,confirmed,2026-11-11T23:53:02+00:00
+tt33202674,Balaramana Dinagalu,2026-06-26,kannada,1,3,not_found,updated,not_found,2026-11-11T23:53:02+00:00
+tt35064672,Cocktail 2,2026-06-19,hindi,1,3,confirmed,flagged,not_found+flagged,2026-11-11T23:53:02+00:00
+tt35254624,Balan: The Boy,2026-06-19,malayalam,1,3,not_found,flagged,not_found,2026-11-11T23:53:02+00:00
+tt32237111,Maa Inti Bangaram,2026-06-18,telugu,1,3,flagged,confirmed,confirmed,2026-11-11T23:53:02+00:00
+tt41878299,Chupa Chupi,2026-06-12,assamese,1,3,not_found,flagged,not_found,2026-11-11T23:53:02+00:00
+tt37333137,Main Vaapas Aaunga,2026-06-11,hindi,1,4,confirmed,flagged,confirmed,2026-11-11T23:53:02+00:00
+tt23865918,Peddi,2026-06-04,telugu,1,4,flagged,confirmed,not_found+flagged,2026-11-11T23:53:02+00:00
+tt37971394,Blast,2026-05-28,tamil,1,4,confirmed,confirmed,confirmed,2026-11-11T23:53:02+00:00
+tt34498111,Chand Mera Dil,2026-05-22,hindi,1,4,updated,flagged,confirmed,2026-11-11T23:53:02+00:00
+tt33054858,Pati Patni Aur Woh Do,2026-05-15,hindi,1,4,flagged,confirmed,confirmed,2026-11-11T23:53:02+00:00
+tt39088994,Lo Naveena,2026-05-15,kannada,1,5,not_found,flagged,not_found,2026-11-11T23:53:02+00:00
+tt33988385,Karuppu,2026-05-14,tamil,1,5,flagged,updated,updated,2026-11-11T23:53:02+00:00
+tt38721131,Athiradi,2026-05-14,malayalam,1,5,confirmed,flagged,confirmed,2026-11-11T23:53:02+00:00
+tt37737315,29,2026-05-08,tamil,1,5,not_found,not_found,not_found,2026-11-11T23:53:02+00:00
+tt41804839,Krishnavataram - Part 1: The Heart (Hridayam),2026-05-07,"telugu, hindi",1,5,confirmed,confirmed,not_found+flagged,2026-11-11T23:53:02+00:00
+tt31390893,Raja Shivaji,2026-05-01,marathi,1,6,not_found,confirmed,not_found,2026-11-11T23:53:02+00:00
+tt33412884,Patriot,2026-05-01,malayalam,1,6,confirmed,confirmed,confirmed,2026-11-11T23:53:02+00:00
+tt15295368,KD – The Devil,2026-04-30,kannada,1,6,not_found,not_found,confirmed,2026-11-11T23:53:02+00:00
+tt37458112,Kara,2026-04-30,tamil,1,6,flagged,flagged,confirmed,2026-11-11T23:53:02+00:00
+tt29540862,Bhooth Bangla,2026-04-16,hindi,1,6,flagged,updated,updated,2026-11-11T23:53:02+00:00
+tt34442799,Oru Durooha Saahacharyathil,2026-04-15,malayalam,1,7,not_found,flagged,not_found,2026-11-11T23:53:02+00:00
+tt30460421,LIK: Love Insurance Kompany,2026-04-10,tamil,1,7,updated,flagged,confirmed,2026-11-11T23:53:02+00:00
+tt33384555,Peter,2026-04-10,kannada,1,7,not_found,confirmed,not_found,2026-11-11T23:53:02+00:00
+tt37541677,Mohiniyattam,2026-04-10,malayalam,1,7,updated,not_found,confirmed,2026-11-11T23:53:02+00:00
+tt31593809,Biker,2026-04-03,telugu,1,7,flagged,flagged,not_found,2026-11-11T23:53:02+00:00
+tt8142672,Aadu 3,2026-03-19,malayalam,1,9,updated,updated,updated,2026-11-11T23:53:02+00:00
+tt30521753,Shesha 2016,2026-03-06,kannada,1,9,not_found,confirmed,not_found,2026-11-11T23:53:02+00:00
+tt33354831,Hayagrriva,2026-02-27,kannada,1,9,not_found,flagged,not_found,2026-11-11T23:53:02+00:00
+tt39195804,Vishnu Vinyasam,2026-02-27,telugu,1,9,not_found,confirmed,updated,2026-11-11T23:53:02+00:00
+tt39255646,Thaai Kizhavi,2026-02-27,tamil,1,9,flagged,flagged,confirmed,2026-11-11T23:53:02+00:00
+tt31226272,Do Deewane Seher Mein,2026-02-20,hindi,1,10,updated,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt39444607,Second Case of Seetharam,2026-02-20,"kannada, tamil, hindi, telugu",1,10,not_found,confirmed,not_found,2026-11-11T23:53:03+00:00
+tt31969779,O' Romeo,2026-02-13,hindi,1,10,flagged,updated,confirmed,2026-11-11T23:53:03+00:00
+tt33240865,Rakkasapuradhol,2026-02-06,telugu,1,10,not_found,not_found,not_found,2026-11-11T23:53:03+00:00
+tt37537155,Ashakal Aayiram,2026-02-06,malayalam,1,10,not_found,confirmed,not_found,2026-11-11T23:53:03+00:00
+tt38123566,With Love,2026-02-06,tamil,1,11,flagged,confirmed,confirmed,2026-11-11T23:53:03+00:00
+tt39281437,Godaan,2026-02-06,hindi,1,11,updated,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt27673536,Mardaani 3,2026-01-30,hindi,1,11,flagged,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt32875624,Haunted 3D: Ghosts of the Past,2026-01-30,hindi,1,11,flagged,updated,updated,2026-11-11T23:53:03+00:00
+tt36457300,Prakambanam,2026-01-30,telugu,1,11,flagged,confirmed,not_found,2026-11-11T23:53:03+00:00
+tt38353198,Valavaara,2026-01-30,kannada,1,12,not_found,flagged,not_found,2026-11-11T23:53:03+00:00
+tt39165336,Raktha Kashmira,2026-01-30,kannada,1,12,not_found,not_found,not_found,2026-11-11T23:53:03+00:00
+tt39440978,Amrutanjan,2026-01-30,kannada,1,12,not_found,not_found,not_found,2026-11-11T23:53:03+00:00
+tt30387012,Border 2,2026-01-23,hindi,1,12,flagged,updated,updated,2026-11-11T23:53:03+00:00
+tt33334281,Cult,2026-01-23,telugu,1,12,not_found,flagged,not_found,2026-11-11T23:53:03+00:00
+tt36017918,Bhartha Mahasayulaku Wignyapthi,2026-01-13,telugu,1,14,not_found,confirmed,confirmed,2026-11-11T23:53:03+00:00
+tt28629017,Mana ShankaraVaraPrasad Garu,2026-01-12,telugu,1,14,updated,confirmed,updated,2026-11-11T23:53:03+00:00
+tt23790696,The Raja Saab,2026-01-09,telugu,1,14,flagged,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt35019998,Parasakthi,2026-01-09,tamil,1,14,updated,updated,confirmed,2026-11-11T23:53:03+00:00
+tt15464188,Ikkis,2026-01-01,hindi,1,14,confirmed,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt35322760,Theertharoopa Thandeyavarige,2026-01-01,"kannada, malayalam",1,15,not_found,not_found,not_found,2026-11-11T23:53:03+00:00
+tt36774478,Krantijyoti Vidyalay Marathi Madhyam,2026-01-01,marathi,1,15,updated,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt39100948,Psych Siddhartha,2026-01-01,telugu,1,15,not_found,not_found,not_found,2026-11-11T23:53:03+00:00
+tt27136041,Champion,2025-12-25,telugu,1,15,not_found,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt27263807,45,2025-12-25,"kannada, hindi, malayalam, tamil, telugu",1,15,not_found,flagged,not_found,2026-11-11T23:53:03+00:00
+tt27496044,Vrusshabha,2025-12-25,telugu,1,16,updated,not_found,not_found,2026-11-11T23:53:03+00:00
+tt28961625,Mark,2025-12-25,tamil,1,16,not_found,not_found,not_found,2026-11-11T23:53:03+00:00
+tt32362695,Sarvam Maya,2025-12-25,telugu,1,16,updated,confirmed,confirmed,2026-11-11T23:53:03+00:00
+tt35146696,Tu Meri Main Tera Main Tera Tu Meri,2025-12-25,hindi,1,16,flagged,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt28551273,Bha. Bha. Ba.,2025-12-18,malayalam,1,16,not_found,flagged,not_found,2026-11-11T23:53:03+00:00
+tt15387182,Akhanda 2: Thaandavam,2025-12-12,telugu,1,17,updated,confirmed,confirmed,2026-11-11T23:53:03+00:00
+tt39014003,Adinaasam Vellapokkam,2025-12-12,malayalam,1,17,not_found,flagged,not_found,2026-11-11T23:53:03+00:00
+tt32135732,The Devil,2025-12-11,kannada,1,17,not_found,flagged,not_found,2026-11-11T23:53:03+00:00
+tt31732441,Kempu Haladi Hasiru,2025-12-05,kannada,1,17,not_found,not_found,not_found,2026-11-11T23:53:03+00:00
+tt33014583,Dhurandhar,2025-12-05,hindi,1,17,flagged,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt36616410,Eko,2025-11-21,malayalam,1,19,flagged,confirmed,confirmed,2026-11-11T23:53:03+00:00
+tt28802657,De De Pyaar De 2,2025-11-14,hindi,1,19,updated,confirmed,updated,2026-11-11T23:53:03+00:00
+tt38755084,Gatha Vaibhava,2025-11-14,kannada,1,19,flagged,flagged,not_found,2026-11-11T23:53:03+00:00
+tt28508934,Kaantha,2025-11-13,"tamil, telugu",1,19,not_found,confirmed,not_found,2026-11-11T23:53:03+00:00
+tt29606526,The Girlfriend,2025-11-07,telugu,1,19,not_found,confirmed,updated,2026-11-11T23:53:03+00:00
+tt36642456,Haq,2025-11-07,hindi,1,20,flagged,confirmed,confirmed,2026-11-11T23:53:03+00:00
+tt29939499,Roi Roi Binale,2025-10-31,as,1,20,flagged,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt32135720,Mass Jathara,2025-10-31,telugu,1,20,not_found,flagged,confirmed,2026-11-11T23:53:03+00:00
+tt32495339,The Taj Story,2025-10-31,hindi,1,20,updated,confirmed,confirmed,2026-11-11T23:53:03+00:00
+tt35064377,Brat,2025-10-31,tamil,1,20,not_found,flagged,not_found,2026-11-11T23:53:03+00:00
