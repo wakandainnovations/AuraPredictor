@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 991679, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ravi Shastri (film)' (direct fetch; bare title is the cricketer): blank budget/gross, no box-office wording. Kannada, not in BOI"},
+ {"tmdb_movie_id": 224609, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kedi (2006 film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 373906, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chakkaramuthu': blank budget/gross, no box-office wording (Wiki release 17 Nov 2006 vs DB 17 Sep). Sify '2006-A Flashback!': only Lion and Chess were Dileep's 2006 hits — no verdict stated for this film → NULL. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 701384, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Marathi, not in BOI"},
+ {"tmdb_movie_id": 1474766, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Photo (2006 film)': blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

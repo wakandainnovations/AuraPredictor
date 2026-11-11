@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 10005, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Behind Enemy Lines II: Axis of Evil': blank budget/gross, no box-office wording (direct-to-video). not in BOI"},
+ {"tmdb_movie_id": 580818, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Tata_Birla_Madhyalo_Laila"}, "notes": "Wiki 'Tata Birla Madhyalo Laila' (Telugu; DB tags English): blank budget/gross. Lead 'was a commercial success at the box office.' (uncited) → hit. Not in BOI"},
+ {"tmdb_movie_id": 125860, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (US adult film). not in BOI"},
+ {"tmdb_movie_id": 1479868, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Marathi film tagged English; BOI 'No Problem' (2010 Hindi, Anees Bazmee) is a different film"},
+ {"tmdb_movie_id": 54190, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ugly Me': blank budget/gross, no box-office wording. Chilean/Spanish, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 66235, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "Wiki 'box office failure' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Chennai_Kadhal"}, "notes": "Wiki 'Chennai Kadhal': blank budget/gross. Lead 'released on 8 December 2006 and became a box office failure.' (uncited) → flop. Tamil, not in BOI"},
+ {"tmdb_movie_id": 81238, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pellaina Kothalo': blank budget/gross, no box-office wording. Telugu, not in BOI"},
+ {"tmdb_movie_id": 282544, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tenali Rama (film)': blank budget/gross. 'was a box office success' is cited to IANS/nowrunning ''Jothe...' beats 'Hubballi' at Kannada box office' (15 Dec 2006, 16 days after release), which says only it 'has opened to a wonderful response' → opening report, NULL. Kannada, not in BOI"},
+ {"tmdb_movie_id": 10049, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Attack Force (film)': budget $12 million (uncited) — stored $12M left, not confirmed; no gross (direct-to-video). Not in BOI"},
+ {"tmdb_movie_id": 1234570, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nenjil' (Tamil; DB title 'Nenjil Jil Jil', tagged English): blank budget/gross, no box-office wording. not in BOI"}
+]

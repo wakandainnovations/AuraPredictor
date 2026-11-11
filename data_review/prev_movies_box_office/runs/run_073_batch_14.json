@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1590975, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only a row in List of Malayalam films of 2006). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 282545, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Kannada film tagged English, not in BOI"},
+ {"tmdb_movie_id": 521416, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Iruvar Mattum': blank budget/gross, no box-office wording (only a Kalki review). Tamil, not in BOI"},
+ {"tmdb_movie_id": 76969, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sivappathigaram': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 276108, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Yes_Your_Honour"}, "notes": "Wiki 'Yes Your Honour': blank budget/gross. Box office: 'The film became commercial success and ran 100 days in theatres.' cited to The Hindu 'Action and romance' (27 Apr 2007, 5 months after release) → hit. Malayalam, not in BOI"}
+]

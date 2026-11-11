@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 511680, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Raju Bhai': blank budget/gross. Lead 'critically and commercially unsuccessful' is cited only to the Rediff review 'Watch Rajubhai at your own risk' (21 May 2007, 3 days after release) → not a box-office source, NULL. Telugu, not in BOI"},
+ {"tmdb_movie_id": 850783, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'box office success' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Goal_(2007_Malayalam_film)"}, "notes": "Wiki 'Goal (2007 Malayalam film)': blank budget/gross. 'The film was a box office success.' (uncited) → hit. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1131355, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thiru Ranga': blank budget/gross, no box-office wording (only a Kalki review). Tamil, not in BOI"},
+ {"tmdb_movie_id": 1018268, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article for the 2007 film ('Tula Shikvin Changlach Dhada' is the 2023 Zee Marathi TV serial). Marathi, not in BOI"},
+ {"tmdb_movie_id": 330762, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Sri Mahalakshmi': blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 78412, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "Wiki 'average hit' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Kusthi"}, "notes": "Wiki 'Kusthi': blank budget/gross. Lead 'The film released on 23 June 2006 and was an average hit at the box office.' (uncited) → avg ('average hit' mapped to avg as in run 63). Wiki release 23 Jun 2006 vs DB 25 Aug. Tamil, not in BOI"},
+ {"tmdb_movie_id": 609940, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'sleeper hit' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Kranti:_The_Revolution"}, "notes": "Wiki 'Kranti: The Revolution': blank budget/gross. 'The film was a big success in the career of Jeet' / 'The film also was a sleeper hit.' (uncited) → hit. Bengali, not in BOI"},
+ {"tmdb_movie_id": 555504, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Marathi, not in BOI"},
+ {"tmdb_movie_id": 279527, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Red Salute (2006 film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 347363, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Roommates (2006 Indian film)': blank budget/gross, no box-office wording. Telugu, not in BOI"}
+]

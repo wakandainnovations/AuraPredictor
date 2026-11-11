@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 819622, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article ('Adbutham (2006 film)' redirects to 'Zee Telugu'). Not named in The Hindu 'Superstars continue their reign' (29 Dec 2006) or Sify '2006-A Flashback!'. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 280977, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Adaikalam' (Tamil; DB tags English): blank budget/gross, no box-office wording. not in BOI"},
+ {"tmdb_movie_id": 81161, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Oruvan (2006 film)': blank budget/gross, no box-office wording (Wiki release 8 Dec 2006). Malayalam, not in BOI"},
+ {"tmdb_movie_id": 228749, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Baba Kalyani (film)': blank budget/gross; box office gives only a 3-day gross (₹1.08 Cr, partial) and 'one of the top ten highest-grossing Malayalam films of the year' (ranking). Sify '2006-A Flashback!' lists it in 'Top 5 Films of 2006' and The Hindu (29 Dec 2006) in 'the big five' by collections vs cost — rankings with no verdict word → NULL. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 63677, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Poi (film)': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]
