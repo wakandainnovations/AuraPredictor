@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 22052, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chintakayala Ravi': blank budget/gross. The lead cites mirchi9/cinejosh 'Venkatesh Hits and Flops' lists but states no verdict; Rediff review 'proper commercial family entertainer' is about genre → NULL. Telugu, not in BOI"},
+ {"tmdb_movie_id": 115953, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kadhalil Vizhunthen': blank budget/gross. Only 'The success of the film led Nakul and Sunaina reunite again in Maasilamani' (uncited, no box-office wording; the section is about the hit soundtrack) → NULL. Tamil, not in BOI"},
+ {"tmdb_movie_id": 616208, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. not in BOI"},
+ {"tmdb_movie_id": 23529, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Insignificant Things' (Mexican): blank budget/gross, no box-office wording. not in BOI"},
+ {"tmdb_movie_id": 244581, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. not in BOI"}
+]

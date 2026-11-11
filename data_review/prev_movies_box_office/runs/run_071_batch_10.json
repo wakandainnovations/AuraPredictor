@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 511378, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "Wiki 'moderate success' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Ellam_Avan_Seyal"}, "notes": "Wiki 'Ellam Avan Seyal': blank budget/gross. 'Following the moderate success of this film, R.K. went on to collaborate with Kailas for two other films.' (uncited) → avg. Tamil, not in BOI"},
+ {"tmdb_movie_id": 1025076, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Aainaate': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 69546, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Thenavattu': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 81997, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'critical and commercial acclaim' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Vinayakudu_(film)"}, "notes": "Wiki 'Vinayakudu (film)': blank budget/gross. Lead 'The film released on 21 November 2008 to critical and commercial acclaim.' (uncited) → hit. Telugu, not in BOI"},
+ {"tmdb_movie_id": 1135450, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Tomar Jonyo': blank budget/gross, no box-office wording. Bengali, not in BOI"}
+]

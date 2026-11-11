@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 151878, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "avg", "verdict_label": "Wiki 'moderate success at the box office'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Red_Chillies_(film)"}, "notes": "Wiki 'Red Chillies (film)': blank budget/gross. 'The film was a moderate success at the box office with highest opening at that time.' cited to Sify 'Kerala Box Office (March 2009)' (6 Apr 2009, seven weeks after release) and NIE (8 Sep 2009) → avg. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 281851, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Telugu, not in BOI"},
+ {"tmdb_movie_id": 255352, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Italian, not in BOI"},
+ {"tmdb_movie_id": 711750, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Trishna (2009 film)': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 316406, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Jackpot (2009 film)': infobox budget ₹8.5 million and gross ₹4.7 million, both uncited (stored $172,975 / $95,645 reproduce them) — flagged, left. No box-office wording. Bengali, not in BOI"}
+]

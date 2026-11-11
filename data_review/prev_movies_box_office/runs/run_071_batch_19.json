@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 73140, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success' (idlebrain 2008 top 14)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Souryam"}, "notes": "Wiki 'Souryam' (Telugu; tagged English in the DB; Wiki release 25 Sep 2008): infobox gross '₹10 crore distributors' share' (T2BLive 'Tollywood Top 10 2008') — stored revenue $2,345,876 reproduces ₹10 Cr, i.e. it is the share, not gross; flagged, left. Lead '…was a commercial success.' cited to idlebrain 'Top 14 movies of Telugu cinema in 2008' (31 Dec 2008, year-end) → hit. not in BOI"},
+ {"tmdb_movie_id": 355932, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Magic Lamp (film)': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1766278, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Chalo Let's Go': blank budget/gross, no box-office wording. Bengali, not in BOI"},
+ {"tmdb_movie_id": 31216, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'I Can't Think Straight': blank budget/gross, no box-office wording; stored revenue $40,945 (tmdb) not found on any page — left. not in BOI"},
+ {"tmdb_movie_id": 79335, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Tamil, not in BOI"}
+]

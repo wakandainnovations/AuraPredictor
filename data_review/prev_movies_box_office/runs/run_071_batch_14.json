@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 80889, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'box office success' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Ashta_Chamma"}, "notes": "Wiki 'Ashta Chamma': infobox gross '₹6 crore distributors' share' (T2BLive 'Tollywood Top 10 2008') — stored revenue $1,341,196 reproduces ₹6 Cr, i.e. it is the share, not gross; flagged, left. Lead 'Upon release, the film received positive reviews and box office success.' (uncited) → hit. Telugu, not in BOI"},
+ {"tmdb_movie_id": 530757, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Telugu, not in BOI"},
+ {"tmdb_movie_id": 619353, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Dhanam (2008 film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 282627, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Madesha': blank budget/gross. Box-office section gives only the director's claim 15 years later (YouTube interview, 2 Jan 2024) of a ₹3.5 Cr theatrical share and a 63-day run — a share, not gross, and no verdict → NULL. Kannada, not in BOI"},
+ {"tmdb_movie_id": 48533, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Punjabi, not in BOI"}
+]

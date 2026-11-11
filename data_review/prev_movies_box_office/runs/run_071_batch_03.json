@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 384754, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Nammal Thammil': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1189228, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Telugu, not in BOI"},
+ {"tmdb_movie_id": 528422, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki (Dev article) 'critical and commercial success'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Dev_(Bengali_actor)"}, "notes": "Wiki 'Challenge (2009 film)': blank budget/gross, no box-office wording. Wiki 'Dev (Bengali actor)': 'Dev got another breakthrough in Challenge (2009) which opened to critical and commercial success.' cited to TOI 'Dev, the actor or Dev, the MP?' (2014, post-run) → hit. Stored revenue $950,000 (tmdb) not found on any page — left. Bengali, not in BOI"},
+ {"tmdb_movie_id": 1131312, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Adada Enna Azhagu': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 331054, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Shudharil Shudhan' (Wiki release 2 Sep 2009 vs DB 16 Mar 2009; same director/cast): blank budget/gross, no box-office wording. Malayalam, not in BOI"}
+]

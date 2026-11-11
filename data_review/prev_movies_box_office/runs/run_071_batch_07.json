@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 79936, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'A Aa E Ee (2009 Tamil film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 81157, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Orkkuka Vallappozhum': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 70664, "budget_inr_crore": null, "revenue_inr_crore": null, "budget_usd": 13000000, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/Journey_to_Mecca"}, "notes": "Wiki 'Journey to Mecca': budget $13 million (cited to the New York Times ref) — stored $13,000,000 matches → confirmed. No gross (IMAX documentary). not in BOI"},
+ {"tmdb_movie_id": 38409, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Erasing David': blank budget/gross, no box-office wording (UK documentary). not in BOI"},
+ {"tmdb_movie_id": 1491575, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Assamese, not in BOI"}
+]

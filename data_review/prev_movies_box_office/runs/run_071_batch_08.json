@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1629147, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Telugu, not in BOI"},
+ {"tmdb_movie_id": 276129, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Hindi-tagged; not in BOI (index search 'evil dead' → none); not in BH 2008/2009"},
+ {"tmdb_movie_id": 201823, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Crazy_Gopalan"}, "notes": "Wiki 'Crazy Gopalan': blank budget/gross. Lead 'The film was a commercial success at the box office.' (uncited) → hit. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1730259, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Nepali, not in BOI"},
+ {"tmdb_movie_id": 40617, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Abhiyum Naanum (film)': blank budget/gross, no box-office wording. Tamil, not in BOI"}
+]

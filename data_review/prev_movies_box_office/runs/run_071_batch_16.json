@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 13486, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'The Scorpion King 2: Rise of a Warrior': blank budget/gross, no box-office wording (direct-to-video). not in BOI"},
+ {"tmdb_movie_id": 237719, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Parunthu': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 587437, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'commercial success' (uncited)", "sources": {"verdict": "https://en.wikipedia.org/wiki/Moggina_Manasu"}, "notes": "Wiki 'Moggina Manasu': blank budget/gross. 'The film was a critical and a commercial success at the box-office…' (uncited) → hit. Kannada, not in BOI"},
+ {"tmdb_movie_id": 315712, "budget_inr_crore": null, "revenue_inr_crore": null, "budget_usd": 10000000, "verdict": null, "sources": {"budget": "https://en.wikipedia.org/wiki/The_Ode"}, "notes": "Wiki 'The Ode': budget $10 million (cited to Variety 'Bollywood's Shah to make H'wood pic', 27 Jul 2006) — stored $10,000,000 matches → confirmed. No gross (Outfest premiere). not in BOI"},
+ {"tmdb_movie_id": 482597, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Bor Asbe Ekhuni': blank budget/gross, no box-office wording. Bengali, not in BOI"}
+]

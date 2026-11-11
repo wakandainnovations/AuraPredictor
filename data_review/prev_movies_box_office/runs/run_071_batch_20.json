@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 927670, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Kathavarayan (2008 film)': blank budget/gross, no box-office wording. Tamil, not in BOI"},
+ {"tmdb_movie_id": 14197, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'My Sassy Girl (2008 film)': blank budget/gross, no box-office wording (US direct-to-video remake). not in BOI"},
+ {"tmdb_movie_id": 112259, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "hit", "verdict_label": "Wiki 'box office success'", "sources": {"verdict": "https://en.wikipedia.org/wiki/Silandhi"}, "notes": "Wiki 'Silandhi': blank budget/gross. 'The film … became a box office success.' cited to TOI 'Silandhi to hit screens in AP soon' (30 Jun 2008, seven weeks after release — dubbed for AP on its success) and Chitrajyothy (10 May 2026, calls it a 'super duper hit') → hit. Tamil, not in BOI"},
+ {"tmdb_movie_id": 353645, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Pachamarathanalil': blank budget/gross, no box-office wording. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 20066, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (only 'Skip Day', the school tradition). Stored budget $10,000,000 (tmdb) not found on any page — left. not in BOI"}
+]
