@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 1000382, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": "flop", "verdict_label": "The Hindu 2005 year-end: one of Jayaram's 'four flops'", "sources": {"verdict": "https://web.archive.org/web/2007/http://www.hindu.com/thehindu/fr/2005/12/30/stories/2005123001380100.htm"}, "notes": "Wiki 'Alice in Wonderland (2005 film)': blank budget/gross, no box-office wording. The Hindu 'Boom year for mollywood' (Sreedhar Pillai, 30 Dec 2005): 'It was a bad year for Jayaram … He had four flops - Finger Print, Alice In Wonderland, Pouran and Sarkar Dada' → flop. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 333777, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Tamil, not in BOI"},
+ {"tmdb_movie_id": 79348, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Ranachandi' is the 1991 Kannada film (dir G. K. Mudduraj), not this 2005 film; no article for it. Kannada, not in BOI"},
+ {"tmdb_movie_id": 854474, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Rightaa Thappaa': blank budget/gross, no box-office wording (review lines only). Tamil, not in BOI"},
+ {"tmdb_movie_id": 491596, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "Wiki 'Oridam': blank budget/gross, no box-office wording. Malayalam, not in BOI"}
+]

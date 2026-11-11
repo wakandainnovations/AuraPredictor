@@ -7399,3 +7399,44 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,run,batch,budget_status,r
 547298,tt0468785,Krithyam,2005-05-06,malayalam,74,20,not_found,not_found,not_found,2026-11-11T14:52:29+00:00
 69436,tt2396399,Chinna,2005-05-05,tamil,74,20,not_found,not_found,not_found,2026-11-11T14:52:29+00:00
 69637,tt1496797,Maayavi,2005-05-05,tamil,74,20,not_found,not_found,not_found,2026-11-11T14:52:29+00:00
+270069,tt0454510,Nalaik,2005-05-05,punjabi,75,1,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+947851,tt0493397,Be Quiet,2005-05-01,arabic,75,1,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+31163,tt0449000,Chicken Tikka Masala,2005-04-22,english,75,1,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+359502,tt1152259,Deepangal Sakshi,2005-04-22,malayalam,75,1,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+1078033,,Dreams,2005-04-22,english,75,1,found_inr,found_inr,found,2026-11-11T23:21:26+00:00
+86411,tt0453748,Kuchh Meetha Ho Jaye,2005-04-15,hindi,75,2,found_inr,found_inr,found,2026-11-11T23:21:26+00:00
+63641,tt0453201,Sachein,2005-04-14,tamil,75,2,not_found,found_inr,not_found,2026-11-11T23:21:26+00:00
+964188,tt6159072,Dada,2005-04-14,bengali,75,2,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+526222,tt1281960,Maa Where Are You...,2005-04-08,hindi,75,2,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+993455,,Mystique: Hottest Buns and Best Legs,2005-04-08,english,75,2,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+1000382,tt0468642,Alice in Wonderland,2005-04-08,malayalam,75,3,not_found,not_found,found,2026-11-11T23:21:26+00:00
+333777,,Kaatrulla Varai,2005-03-31,tamil,75,3,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+79348,,Ranachandi,2005-03-25,kannada,75,3,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+854474,tt13776224,Rightaa Thappaa,2005-03-25,tamil,75,3,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+491596,tt1821559,Oridam,2005-03-24,malayalam,75,3,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+1556311,tt0454439,Dhamkee,2005-03-18,english,75,4,found_inr,found_inr,found,2026-11-11T23:21:26+00:00
+489355,tt3713444,Born Forbidden,2005-03-14,english,75,4,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+317773,tt6536948,Kadhal FM,2005-03-04,tamil,75,4,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+619099,tt0449447,Zameer,2005-03-04,hindi,75,4,found_inr,found_inr,found,2026-11-11T23:21:26+00:00
+206542,tt0448121,Sins,2005-02-25,hindi,75,4,found_inr,found_inr,found,2026-11-11T23:21:26+00:00
+387262,tt0448543,Hridayathil Sookshikkan,2005-02-18,malayalam,75,5,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+1123710,tt0448345,Annorikkal,2005-02-18,malayalam,75,5,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+595709,tt1579847,Oray Pandu,2005-02-11,telugu,75,5,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+1227817,tt5926732,Wife Hai Toh Life Hai,2005-02-11,hindi,75,5,found_inr,found_inr,found,2026-11-11T23:21:26+00:00
+472118,tt0448552,Immini Nalloraal,2005-02-04,malayalam,75,5,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+1499037,tt30146855,Yashwanth,2005-02-04,kannada,75,6,not_found,not_found,found,2026-11-11T23:21:26+00:00
+1691197,tt14338676,Rishi,2005-01-21,kannada,75,6,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+69523,tt2396443,Devathayai Kanden,2005-01-14,tamil,75,6,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+82168,tt0466901,Naa Alludu,2005-01-14,telugu,75,6,not_found,not_found,found,2026-11-11T23:21:26+00:00
+269724,,Aayudham,2005-01-14,tamil,75,6,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+75467,tt0443208,Rog,2005-01-07,hindi,75,7,found_inr,found_inr,found,2026-11-11T23:21:26+00:00
+1036039,tt2075286,Prem Korechi Besh Korechi,2005-01-07,bengali,75,7,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+1712152,tt1604110,Dil Ke Pechey Pechey,2005-01-07,english,75,7,not_found,not_found,not_found,2026-11-11T23:21:26+00:00
+309888,tt2325683,Englishkaran,2005-01-01,tamil,75,7,not_found,not_found,found,2026-11-11T23:21:26+00:00
+310500,tt0454433,Classic Dance of Love,2005-01-01,hindi,75,7,found_inr,found_inr,found,2026-11-11T23:21:26+00:00
+372326,,Lover in the Closet,2005-01-01,th,75,8,not_found,not_found,not_found,2026-11-11T23:21:27+00:00
+433828,tt0778881,Tum... Ho Na!,2005-01-01,hindi,75,8,not_found,not_found,not_found,2026-11-11T23:21:27+00:00
+526220,,Naidu LLB,2005-01-01,telugu,75,8,not_found,not_found,not_found,2026-11-11T23:21:27+00:00
+658616,,Bhalobashi Tomake,2005-01-01,bengali,75,8,not_found,not_found,not_found,2026-11-11T23:21:27+00:00
+698735,tt0387269,Haathi Ka Anda,2005-01-01,hindi,75,8,not_found,not_found,not_found,2026-11-11T23:21:27+00:00
+1741348,tt4887242,Waqt Ka Badshah,2005-01-01,english,75,9,not_found,not_found,not_found,2026-11-11T23:21:27+00:00

@@ -1,0 +1,7 @@
+[
+ {"tmdb_movie_id": 270069, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Punjabi, not in BOI"},
+ {"tmdb_movie_id": 947851, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (Sameh Zoabi short film, Arabic). not in BOI"},
+ {"tmdb_movie_id": 31163, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article (the bare title is the dish's article; British comedy film). not in BOI"},
+ {"tmdb_movie_id": 359502, "budget_inr_crore": null, "revenue_inr_crore": null, "verdict": null, "sources": {}, "notes": "No Wiki article. Malayalam, not in BOI"},
+ {"tmdb_movie_id": 1078033, "budget_inr_crore": 1.25, "revenue_inr_crore": 0.1375, "revenue_scope": "india_gross", "verdict": "flop", "verdict_label": "BOI Disaster", "sources": {"budget": "https://boxofficeindia.com/movie.php?movieid=1714", "revenue": "https://boxofficeindia.com/movie.php?movieid=1714", "verdict": "https://boxofficeindia.com/movie.php?movieid=1714"}, "notes": "Wiki 'Dreams (2005 film)' (Hindi, dir Ashish Chanana, released 22 Apr 2005): blank budget/gross, no box-office wording. BOI 'Dreams - Sapnay Sach Honge... (2005) Hindi' (movieid=1714; title/date/cast checked on the live page): Budget 1,25,00,000 (₹1.25 Cr), India Gross 13,75,000 (₹0.1375 Cr; overseas $---), verdict Disaster → flop"}
+]
