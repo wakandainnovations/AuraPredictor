@@ -1,0 +1,76 @@
+[
+ {
+  "tmdb_movie_id": 40017,
+  "budget_inr_crore": 4.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=421"
+  },
+  "notes": "BOI 421 'Kalyug (2005) Hindi', 9 Dec 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 21555,
+  "budget_inr_crore": 4.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 5.48,
+  "revenue_usd": null,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=416",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=416",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=416"
+  },
+  "notes": "BOI 416 'Socha Na Tha (2005) Hindi', 4 Mar 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 83316,
+  "budget_inr_crore": 8.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.59,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=859",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=859",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=859"
+  },
+  "notes": "BOI 859 'Lanka (2011) Hindi', 9 Dec 2011, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 64661,
+  "budget_inr_crore": 12.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=63"
+  },
+  "notes": "BOI 63 'Love U...Mr. Kalakaar! (2011) Hindi', 13 May 2011, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 35100,
+  "budget_inr_crore": 22.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=116"
+  },
+  "notes": "BOI 116 'Right Yaa Wrong (2010) Hindi', 12 Mar 2010, director matches DB"
+ }
+]

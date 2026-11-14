@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 1711868,
+  "budget_inr_crore": 2.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2895"
+  },
+  "notes": "BOI 2895 '2 Chehare (2015) Hindi', 10 Jul 2015, director matches DB"
+ }
+]

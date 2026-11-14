@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 340731,
+  "budget_inr_crore": 3.25,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=923"
+  },
+  "notes": "BOI 923 'Kuch Kariye (2010) Hindi', 23 Apr 2010, director matches DB"
+ }
+]

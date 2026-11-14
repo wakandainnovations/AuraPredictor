@@ -1,0 +1,74 @@
+[
+ {
+  "tmdb_movie_id": 253578,
+  "budget_inr_crore": 7.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=376"
+  },
+  "notes": "BOI 376 'Tom Dick and Harry (2006) Hindi', 12 May 2006, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 474252,
+  "budget_inr_crore": 12.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1599"
+  },
+  "notes": "BOI 1599 'Teesri Aankh - The Hidden Camera (2006) Hindi', 3 Mar 2006, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 1106553,
+  "budget_inr_crore": 1.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.0425,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1609",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1609",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1609"
+  },
+  "notes": "BOI 1609 'Love In Japan (2006) Hindi', 10 Feb 2006, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 1192990,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1673"
+  },
+  "notes": "BOI 1673 'Kal - Yesterday & Tomorrow (2005) Hindi', 16 Sep 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 135550,
+  "budget_inr_crore": 11.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1176"
+  },
+  "notes": "BOI 1176 'Ata Pata Laapata (2012) Hindi', 2 Nov 2012, director matches DB"
+ }
+]

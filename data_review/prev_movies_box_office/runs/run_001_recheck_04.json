@@ -1,0 +1,74 @@
+[
+ {
+  "tmdb_movie_id": 282039,
+  "budget_inr_crore": 3.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1018"
+  },
+  "notes": "BOI 1018 'Zindagi Tere Naam (2012) Hindi', 16 Mar 2012, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 73876,
+  "budget_inr_crore": 10.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=122"
+  },
+  "notes": "BOI 122 'Red Alert - The War Within (2010) Hindi', 9 Jul 2010, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 73312,
+  "budget_inr_crore": 11.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=114"
+  },
+  "notes": "BOI 114 'Toh Baat Pakki (2010) Hindi', 19 Feb 2010, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 22158,
+  "budget_inr_crore": 7.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.12,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=172",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=172",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=172"
+  },
+  "notes": "BOI 172 'Chintuji (2009) Hindi', 4 Sep 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 20293,
+  "budget_inr_crore": 24.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1090"
+  },
+  "notes": "BOI 1090 'Short Kut - The Con Is On (2009) Hindi', 10 Jul 2009, director matches DB"
+ }
+]

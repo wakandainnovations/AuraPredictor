@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 415908,
+  "budget_inr_crore": 5.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2261"
+  },
+  "notes": "BOI 2261 'Machhali Jal Ki Rani Hai (2014) Hindi', 13 Jun 2014, director matches DB"
+ }
+]

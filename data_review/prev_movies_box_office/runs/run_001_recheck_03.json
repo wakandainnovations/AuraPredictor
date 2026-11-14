@@ -1,0 +1,73 @@
+[
+ {
+  "tmdb_movie_id": 71069,
+  "budget_inr_crore": 5.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.61,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=808",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=808"
+  },
+  "notes": "BOI 808 'Bhindi Bazaar Inc (2011) Hindi', 17 Jun 2011, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 117329,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=885"
+  },
+  "notes": "BOI 885 'Haal - E - Dil (2008) Hindi', 20 Jun 2008, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 493622,
+  "budget_inr_crore": 7.25,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=375"
+  },
+  "notes": "BOI 375 'The Killer (2006) Hindi', 21 Jul 2006, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 715765,
+  "budget_inr_crore": 164.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=6172"
+  },
+  "notes": "budget = average of conflicting figures (user rule 2026-11-14): Wiki infobox est. ₹130 Cr, Wiki text ~₹180 Cr, BOI ₹182 Cr → ₹164 Cr"
+ },
+ {
+  "tmdb_movie_id": 353898,
+  "budget_inr_crore": 8.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2962"
+  },
+  "notes": "BOI 2962 'Manjhi - The Mountain Man (2015) Hindi', 21 Aug 2015, director matches DB"
+ }
+]

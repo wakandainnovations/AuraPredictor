@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 570910,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 28.4258,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5578"
+  },
+  "notes": "revenue = average of conflicting figures (user rule 2026-11-14): Wiki est. ₹31.6 Cr (Taran Adarsh week-1 nett, both versions), BOI Hindi WW ₹25.25 Cr → ₹28.43 Cr; verdict conflict stays NULL"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "tmdb_movie_id": 71481,
+  "budget_inr_crore": 4.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=801"
+  },
+  "notes": "BOI 801 '404 (2011) Hindi', 20 May 2011, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 340735,
+  "budget_inr_crore": 3.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=964"
+  },
+  "notes": "BOI 964 'Shahrukh Bola Kubsoorat Hai Tu (2010) Hindi', 19 Nov 2010, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 64766,
+  "budget_inr_crore": 3.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=929"
+  },
+  "notes": "BOI 929 'Admission Open (2010) Hindi', 14 May 2010, director matches DB"
+ }
+]

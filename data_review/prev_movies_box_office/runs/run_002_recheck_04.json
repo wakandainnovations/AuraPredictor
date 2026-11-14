@@ -1,0 +1,76 @@
+[
+ {
+  "tmdb_movie_id": 20651,
+  "budget_inr_crore": 11.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=404"
+  },
+  "notes": "BOI 404 'Parineeta (2005) Hindi', 10 Jun 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 21557,
+  "budget_inr_crore": 1.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.69,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=535",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=535",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=535"
+  },
+  "notes": "BOI 535 'Hazaaron Khwaishein Aisi (2005) Hindi', 15 Apr 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 271542,
+  "budget_inr_crore": 5.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.17875,
+  "revenue_usd": null,
+  "revenue_scope": "worldwide",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=437",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=437"
+  },
+  "notes": "BOI 437 'Khullam Khulla Pyaar Karen (2005) Hindi', 29 Apr 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 464599,
+  "budget_inr_crore": 28.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=3560",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=3560"
+  },
+  "notes": "BOI 3560 'Guest In London (2017) Hindi', 7 Jul 2017, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 84879,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 7.6567,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=24"
+  },
+  "notes": "revenue = average of conflicting figures (user rule 2026-11-14): Wiki ₹13.07 Cr net, BH lifetime ₹4.83 Cr nett, BOI India/WW gross ₹5.07 Cr → ₹7.66 Cr; verdict conflict stays NULL"
+ }
+]

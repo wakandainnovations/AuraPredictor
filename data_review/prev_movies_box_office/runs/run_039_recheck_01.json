@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 316840,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.05,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=282"
+  },
+  "notes": "BOI India/WW gross ₹5 lakh; the page's Total Nett ₹73.5 lakh is a copy of its inflation-Adjusted Nett, not a conflicting figure"
+ }
+]

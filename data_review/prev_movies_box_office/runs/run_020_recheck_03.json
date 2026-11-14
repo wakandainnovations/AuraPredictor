@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 198556,
+  "budget_inr_crore": 5.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1224"
+  },
+  "notes": "BOI 1224 'Main Hoon Krishna (2013) Hindi', 25 Jan 2013, director matches DB"
+ }
+]

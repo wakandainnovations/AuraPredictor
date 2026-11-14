@@ -1,0 +1,34 @@
+[
+ {
+  "tmdb_movie_id": 256783,
+  "budget_inr_crore": 0.65,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.007,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1124",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1124",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1124"
+  },
+  "notes": "BOI 1124 'Love Kaa Tadka (2009) Hindi', 23 Oct 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 117336,
+  "budget_inr_crore": 3.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.145,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=993",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=993",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=993"
+  },
+  "notes": "BOI 993 'Kaashh....Mere Hote (2009) Hindi', 9 Jan 2009, director matches DB"
+ }
+]

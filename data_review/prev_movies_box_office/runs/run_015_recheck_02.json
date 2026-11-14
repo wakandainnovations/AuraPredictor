@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 1264800,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 13.381,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6306"
+  },
+  "notes": "revenue = average of conflicting figures (user rule 2026-11-14): Wiki est. WW ₹17.81 Cr (Firstpost), BOI WW ₹8.95 Cr → ₹13.38 Cr; verdict left as before"
+ }
+]

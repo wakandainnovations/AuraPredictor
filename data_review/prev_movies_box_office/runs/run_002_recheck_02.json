@@ -1,0 +1,76 @@
+[
+ {
+  "tmdb_movie_id": 340722,
+  "budget_inr_crore": 1.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.0175,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1034",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1034",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1034"
+  },
+  "notes": "BOI 1034 'The Hangman (2010) Hindi', 5 Feb 2010, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 64756,
+  "budget_inr_crore": 5.75,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1129"
+  },
+  "notes": "BOI 1129 'Aao Wish Karein (2009) Hindi', 13 Nov 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 21232,
+  "budget_inr_crore": 21.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1081"
+  },
+  "notes": "BOI 1081 'Kal Kissne Dekha (2009) Hindi', 12 Jun 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 544286,
+  "budget_inr_crore": 2.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.0525,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1341",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1341",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1341"
+  },
+  "notes": "BOI 1341 'Good Luck (2008) Hindi', 8 Aug 2008, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 46379,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=232"
+  },
+  "notes": "BOI 232 'The Blue Umbrella (2007) Hindi', 10 Aug 2007, director matches DB"
+ }
+]

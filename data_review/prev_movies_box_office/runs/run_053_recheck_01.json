@@ -1,0 +1,17 @@
+[
+ {
+  "tmdb_movie_id": 551688,
+  "budget_inr_crore": 35.75,
+  "budget_usd": null,
+  "revenue_inr_crore": 42.46,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=5695",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=5695"
+  },
+  "notes": "budget/revenue = average of conflicting figures (user rule 2026-11-14): budget Wiki ₹29–50 Cr (midpoint 39.5) vs BOI ₹32 Cr → ₹35.75 Cr; revenue Wiki est. ₹44.92 Cr (BH) vs BOI India gross ₹40 Cr → ₹42.46 Cr"
+ }
+]

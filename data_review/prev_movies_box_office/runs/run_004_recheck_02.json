@@ -1,0 +1,72 @@
+[
+ {
+  "tmdb_movie_id": 189549,
+  "budget_inr_crore": 3.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1028"
+  },
+  "notes": "BOI 1028 'Life Ki Toh Lag Gayi (2012) Hindi', 27 Apr 2012, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 106507,
+  "budget_inr_crore": 10.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2"
+  },
+  "notes": "BOI 2 'Bittoo Boss (2012) Hindi', 13 Apr 2012, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 78444,
+  "budget_inr_crore": 3.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=825"
+  },
+  "notes": "BOI 825 'Shabri (2011) Hindi', 26 Aug 2011, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 81271,
+  "budget_inr_crore": 5.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=851"
+  },
+  "notes": "BOI 851 'Damadamm! (2011) Hindi', 27 Oct 2011, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 78439,
+  "budget_inr_crore": 6.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=847"
+  },
+  "notes": "BOI 847 'Jo Dooba So Paar (2011) Hindi', 14 Oct 2011, director matches DB"
+ }
+]

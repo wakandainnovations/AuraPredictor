@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 899439,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 9.98,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=6163"
+  },
+  "notes": "revenue = average of conflicting figures (user rule 2026-11-14): Wiki uncited ₹19.36 Cr, BOI India/WW gross ₹0.60 Cr → ₹9.98 Cr (sacnilk 3-day India net ₹1.13 Cr suggests BOI is low and Wiki high) — low confidence"
+ }
+]

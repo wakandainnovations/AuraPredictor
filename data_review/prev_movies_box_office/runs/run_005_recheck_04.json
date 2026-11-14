@@ -1,0 +1,80 @@
+[
+ {
+  "tmdb_movie_id": 194433,
+  "budget_inr_crore": 4.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.645,
+  "revenue_usd": null,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=301",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=301",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=301"
+  },
+  "notes": "BOI 301 'Home Delivery (2005) Hindi', 2 Dec 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 445685,
+  "budget_inr_crore": 3.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.248,
+  "revenue_usd": null,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1649",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1649",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1649"
+  },
+  "notes": "BOI 1649 'Koi Aap Sa (2005) Hindi', 14 Oct 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 84096,
+  "budget_inr_crore": 2.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.0152,
+  "revenue_usd": null,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1669",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1669",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1669"
+  },
+  "notes": "BOI 1669 'Maine Gandhi Ko Nahin Mara (2005) Hindi', 30 Sep 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 779991,
+  "budget_inr_crore": 5.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.125,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=438",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=438",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=438"
+  },
+  "notes": "BOI 438 'Ssukh (2005) Hindi', 17 Jun 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 316812,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=427"
+  },
+  "notes": "BOI 427 'Main Aisa Hi Hoon (2005) Hindi', 6 May 2005, director matches DB"
+ }
+]

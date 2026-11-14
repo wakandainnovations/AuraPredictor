@@ -1,0 +1,79 @@
+[
+ {
+  "tmdb_movie_id": 46409,
+  "budget_inr_crore": 4.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.26,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1477",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1477",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1477"
+  },
+  "notes": "BOI 1477 'MP3 - Mera Pehla Pehla Pyaar (2007) Hindi', 8 Jun 2007, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 481124,
+  "budget_inr_crore": 2.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.027,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1524",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1524",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1524"
+  },
+  "notes": "BOI 1524 'Rehguzar (2006) Hindi', 17 Nov 2006, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 28868,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Flop",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=281"
+  },
+  "notes": "BOI 281 'Being Cyrus (2006) Hindi', 24 Mar 2006, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 406488,
+  "budget_inr_crore": 3.75,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=436",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=436"
+  },
+  "notes": "BOI 436 'Pyaar Mein Twist (2005) Hindi', 2 Sep 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 316831,
+  "budget_inr_crore": 2.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.52,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1689",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1689",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1689"
+  },
+  "notes": "BOI 1689 '7 1/2 Phere (2005) Hindi', 29 Jul 2005, director matches DB"
+ }
+]

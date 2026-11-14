@@ -1,0 +1,78 @@
+[
+ {
+  "tmdb_movie_id": 81881,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1102"
+  },
+  "notes": "BOI 1102 'Fruit & Nut (2009) Hindi', 23 Oct 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 21487,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1107"
+  },
+  "notes": "BOI 1107 'Sikandar (2009) Hindi', 21 Aug 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 22241,
+  "budget_inr_crore": 6.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.57,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=790",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=790",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=790"
+  },
+  "notes": "BOI 790 'Firaaq (2009) Hindi', 20 Mar 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 20964,
+  "budget_inr_crore": 2.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.78,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=221",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=221",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=221"
+  },
+  "notes": "BOI 221 'The President Is Coming (2009) Hindi', 9 Jan 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 57092,
+  "budget_inr_crore": 2.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.105,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1369",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1369",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1369"
+  },
+  "notes": "BOI 1369 'Meerabai Not Out (2008) Hindi', 5 Dec 2008, director matches DB"
+ }
+]

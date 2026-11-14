@@ -1,0 +1,79 @@
+[
+ {
+  "tmdb_movie_id": 443950,
+  "budget_inr_crore": 3.25,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1368",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1368"
+  },
+  "notes": "BOI 1368 'Gumnaam - The Mystery (2008) Hindi', 5 Dec 2008, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 206525,
+  "budget_inr_crore": 1.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.0925,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1455",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1455",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1455"
+  },
+  "notes": "BOI 1455 'Say Salaam India (2007) Hindi', 30 Mar 2007, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 33375,
+  "budget_inr_crore": 6.75,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.00725,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1461",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1461",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1461"
+  },
+  "notes": "BOI 1461 'My Bollywood Bride (2007) Hindi', 20 Apr 2007, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 866154,
+  "budget_inr_crore": 1.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.0675,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1436",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1436",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1436"
+  },
+  "notes": "BOI 1436 'Haseena (2007) Hindi', 23 Feb 2007, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 544275,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=728"
+  },
+  "notes": "BOI 728 'Anjaane - The Unknown (2005) Hindi', 30 Dec 2005, director matches DB"
+ }
+]

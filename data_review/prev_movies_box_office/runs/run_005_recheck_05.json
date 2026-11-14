@@ -1,0 +1,33 @@
+[
+ {
+  "tmdb_movie_id": 127763,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.2675,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1694",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1694"
+  },
+  "notes": "BOI 1694 'Matrubhoomi (2005) Hindi', 8 Jul 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 1476765,
+  "budget_inr_crore": 4.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.215,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1485",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1485",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1485"
+  },
+  "notes": "BOI 1485 'Jahan Jaaeyega Humen Paaeyega (2007) Hindi', 6 Jul 2007, director matches DB"
+ }
+]

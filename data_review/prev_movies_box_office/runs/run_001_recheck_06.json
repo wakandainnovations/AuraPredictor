@@ -1,0 +1,33 @@
+[
+ {
+  "tmdb_movie_id": 46419,
+  "budget_inr_crore": 8.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.82,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=185",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=185",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=185"
+  },
+  "notes": "BOI 185 'Rama Rama Kya Hai Drama (2008) Hindi', 1 Feb 2008, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 159437,
+  "budget_inr_crore": 5.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.05,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1473",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1473"
+  },
+  "notes": "BOI 1473 'Life Mein Kabhi Kabhiee (2007) Hindi', 13 Apr 2007, director matches DB"
+ }
+]

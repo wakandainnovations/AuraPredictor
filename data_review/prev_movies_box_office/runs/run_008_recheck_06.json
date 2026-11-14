@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 65951,
+  "budget_inr_crore": 10.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=67"
+  },
+  "notes": "BOI 67 'Kucch Luv Jaisa (2011) Hindi', 27 May 2011, director matches DB"
+ }
+]

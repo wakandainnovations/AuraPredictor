@@ -1,0 +1,76 @@
+[
+ {
+  "tmdb_movie_id": 298714,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.4,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=3151",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=3151"
+  },
+  "notes": "BOI 3151 'X Past Is Present (2015) Hindi', 20 Nov 2015, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 224471,
+  "budget_inr_crore": 1.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1232"
+  },
+  "notes": "BOI 1232 'Listen... Amaya (2013) Hindi', 1 Feb 2013, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 302957,
+  "budget_inr_crore": 6.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.265,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1270",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1270",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1270"
+  },
+  "notes": "BOI 1270 'Four Two Ka One (2013) Hindi', 10 May 2013, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 187128,
+  "budget_inr_crore": 15.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1135"
+  },
+  "notes": "BOI 1135 'Maximum (2012) Hindi', 29 Jun 2012, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 55274,
+  "budget_inr_crore": 3.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.1775,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=912",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=912"
+  },
+  "notes": "BOI 912 'Prem Kaa Game (2010) Hindi', 26 Mar 2010, director matches DB"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "tmdb_movie_id": 61376,
+  "budget_inr_crore": 1.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.245,
+  "revenue_usd": null,
+  "revenue_scope": "worldwide",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1691",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1691",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1691"
+  },
+  "notes": "BOI 1691 'Mazaa Mazaa... (2005) Hindi', 15 Jul 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 58302,
+  "budget_inr_crore": 20.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=394"
+  },
+  "notes": "BOI 394 'Dus (2005) Hindi', 8 Jul 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 807533,
+  "budget_inr_crore": 0.85,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.59,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1744",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1744",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1744"
+  },
+  "notes": "BOI 1744 'Hum Dum (2005) Hindi', 11 Feb 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 20623,
+  "budget_inr_crore": 3.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=417"
+  },
+  "notes": "BOI 417 'Page 3 (2005) Hindi', 21 Jan 2005, director matches DB"
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "tmdb_movie_id": 352205,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=3388"
+  },
+  "notes": "BOI 3388 'Parched (2016) Hindi', 23 Sep 2016, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 277223,
+  "budget_inr_crore": 9.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=2253"
+  },
+  "notes": "BOI 2253 'Citylights (2014) Hindi', 30 May 2014, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 86005,
+  "budget_inr_crore": 1.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.0145,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1131",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1131",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1131"
+  },
+  "notes": "BOI 1131 'Staying Alive (2012) Hindi', 3 Feb 2012, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 337846,
+  "budget_inr_crore": 1.5,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=778"
+  },
+  "notes": "BOI 778 'Kaccha Limboo (2011) Hindi', 18 Feb 2011, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 38272,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=915"
+  },
+  "notes": "BOI 915 'Pankh (2010) Hindi', 2 Apr 2010, director matches DB"
+ }
+]

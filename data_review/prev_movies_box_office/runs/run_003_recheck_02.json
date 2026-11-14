@@ -1,0 +1,78 @@
+[
+ {
+  "tmdb_movie_id": 21606,
+  "budget_inr_crore": 13.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=174"
+  },
+  "notes": "BOI 174 'Daddy Cool - Join The Fun (2009) Hindi', 28 Aug 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 20292,
+  "budget_inr_crore": 7.25,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1094"
+  },
+  "notes": "BOI 1094 'Jashnn (2009) Hindi', 17 Jul 2009, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 399874,
+  "budget_inr_crore": 1.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.26,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=210",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=210",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=210"
+  },
+  "notes": "BOI 210 'Via Darjeeling (2008) Hindi', 27 Jun 2008, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 46412,
+  "budget_inr_crore": 3.75,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.2225,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1353",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1353",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1353"
+  },
+  "notes": "BOI 1353 'Mukhbiir (2008) Hindi', 29 Aug 2008, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 81145,
+  "budget_inr_crore": 1.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.055,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1338",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1338",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1338"
+  },
+  "notes": "BOI 1338 'Thodi Life Thoda Magic (2008) Hindi', 27 Jun 2008, director matches DB"
+ }
+]

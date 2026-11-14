@@ -1,0 +1,18 @@
+[
+ {
+  "tmdb_movie_id": 1721629,
+  "budget_inr_crore": 3.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.05,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1682",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1682",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1682"
+  },
+  "notes": "BOI 1682 'Bhaggmati - The Queen Of Fortunes (2005) Hindi', 26 Aug 2005, director matches DB"
+ }
+]

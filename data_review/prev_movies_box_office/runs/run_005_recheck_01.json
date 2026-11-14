@@ -1,0 +1,72 @@
+[
+ {
+  "tmdb_movie_id": 67386,
+  "budget_inr_crore": 10.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=807"
+  },
+  "notes": "BOI 807 'Bin Bulaye Baraati (2011) Hindi', 17 Jun 2011, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 117141,
+  "budget_inr_crore": 6.25,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=955"
+  },
+  "notes": "BOI 955 'Dus Tola (2010) Hindi', 22 Oct 2010, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 117337,
+  "budget_inr_crore": 12.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1306"
+  },
+  "notes": "BOI 1306 'Kajraare (2010) Hindi', 15 Oct 2010, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 83319,
+  "budget_inr_crore": 11.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=125"
+  },
+  "notes": "BOI 125 'Hello Darling (2010) Hindi', 27 Aug 2010, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 83351,
+  "budget_inr_crore": 4.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=882"
+  },
+  "notes": "BOI 882 'Bolo Raam (2010) Hindi', 1 Jan 2010, director matches DB"
+ }
+]

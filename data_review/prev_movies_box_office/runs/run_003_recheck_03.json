@@ -1,0 +1,74 @@
+[
+ {
+  "tmdb_movie_id": 60597,
+  "budget_inr_crore": 4.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=354"
+  },
+  "notes": "BOI 354 'Red - The Dark Side (2007) Hindi', 9 Mar 2007, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 423822,
+  "budget_inr_crore": 2.25,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.3875,
+  "revenue_usd": null,
+  "revenue_scope": "india_gross",
+  "verdict": "flop",
+  "verdict_label": "Disaster",
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=1527",
+   "revenue": "https://boxofficeindia.com/movie.php?movieid=1527",
+   "verdict": "https://boxofficeindia.com/movie.php?movieid=1527"
+  },
+  "notes": "BOI 1527 'Deadline - Sirf 24 Ghante (2006) Hindi', 10 Nov 2006, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 87995,
+  "budget_inr_crore": 12.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=295"
+  },
+  "notes": "BOI 295 'Ek Ajnabee (2005) Hindi', 9 Dec 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 28805,
+  "budget_inr_crore": 11.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=274"
+  },
+  "notes": "BOI 274 'Apaharan (2005) Hindi', 2 Dec 2005, director matches DB"
+ },
+ {
+  "tmdb_movie_id": 20296,
+  "budget_inr_crore": 9.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "https://boxofficeindia.com/movie.php?movieid=420"
+  },
+  "notes": "BOI 420 'Chocolate (2005) Hindi', 23 Sep 2005, director matches DB"
+ }
+]
