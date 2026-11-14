@@ -18,6 +18,7 @@ as soon as it is verified, so an interrupted run loses at most one batch.
 | `movies_data_collection_sync_20261114.csv` | 2026-11-14: reviewed budget / revenue copied to the global `movies_data_collection` — 1,834 rows / 2,719 fields (old → new; backup table `movies_data_collection_sync_backup_20261114`) |
 | `copied_to_india_movies_20261114.csv` | 2026-11-14: prev films with budget > 0 and revenue > 0 copied into `india_movies_data_collection` — 212 inserted, 76 existing rows' budget / revenue updated (backup table `india_movies_data_collection_backup_20261114`) |
 | `language_fixes_20261114.csv` | 2026-11-14: 18 Hindi films mis-tagged `english` re-tagged in the three movie tables + actors_data_collection (old → new per row) |
+| `deleted_my_bollywood_bride_20261114.csv` | 2026-11-14: 'My Bollywood Bride' (2006, US–Indian co-production) deleted from `india_movies_data_collection` and `india_prev_movies_data_collection` at the user's request (left in `movies_data_collection` / `actors_data_collection`). Same day: 'मेरी आशिकी' (tmdb 949844) renamed 'Meri Aashiqui' (BOI title) in all three movie tables + its 5 cast rows |
 | `deleted_pre2005_rows.csv` | the 850 pre-2005 rows deleted on 2026-11-01 (also in table `india_prev_movies_data_collection_pre2005_backup_20261101`) |
 
 Script: `scripts/prev_movies_bo_review.py` (`next`, `apply`, `status`). BOI index: `scripts/boi_index.py` (crawl / `find <title>`).

@@ -438,7 +438,6 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,run,batch,budget_status,r
 17334,tt1049405,The Other End of the Line,2007-03-23,english,5,8,found_usd,found_usd,not_found,2026-11-01T10:59:27+00:00
 46370,tt0953306,Anwar,2007-01-12,hindi,5,8,found_inr,found_inr,found,2026-11-01T10:59:27+00:00
 46620,tt4311426,Ghoom,2006-06-02,hindi,5,8,not_found,not_found,not_found,2026-11-01T10:59:27+00:00
-33375,tt0397551,My Bollywood Bride,2006-01-14,hindi,5,8,found_inr,found_inr,found,2026-11-01T10:59:27+00:00
 866154,tt4489064,"Haseena: Smart, Sexy, Dangerous",2006-01-01,english,5,9,found_inr,found_inr,found,2026-11-01T10:59:54+00:00
 544275,tt0874854,Anjaane: The Unkown,2005-12-30,hindi,5,9,found_inr,found_inr,found,2026-11-01T10:59:54+00:00
 794071,tt0497611,Dubai Return,2005-12-03,hindi,5,9,not_found,not_found,not_found,2026-11-01T10:59:54+00:00
@@ -2247,7 +2246,7 @@ tmdb_movie_id,imdb_id,movie_name,release_date,language,run,batch,budget_status,r
 58725,tt0349878,Bose: The Forgotten Hero,2005-05-13,hindi,23,11,found_inr,found_inr,found,2026-11-07T11:42:24+00:00
 99193,tt0455578,Kana Kanden,2005-05-13,tamil,23,12,not_found,not_found,not_found,2026-11-07T11:42:24+00:00
 442320,tt0420123,Revati,2005-05-07,hindi,23,12,found_inr,found_inr,found,2026-11-07T11:42:24+00:00
-949844,tt0490454,मेरी आशिकी,2005-05-01,hindi,23,12,found_inr,found_inr,found,2026-11-07T11:42:24+00:00
+949844,tt0490454,Meri Aashiqui,2005-05-01,hindi,23,12,found_inr,found_inr,found,2026-11-07T11:42:24+00:00
 301687,tt0444913,Tango Charlie,2005-03-25,hindi,23,12,found_inr,found_inr,found,2026-11-07T11:42:24+00:00
 272220,tt0444849,Karam,2005-03-11,hindi,23,12,found_inr,found_inr,found,2026-11-07T11:42:24+00:00
 69556,tt0453190,Raam,2005-03-04,tamil,23,13,not_found,not_found,found,2026-11-07T11:42:24+00:00
