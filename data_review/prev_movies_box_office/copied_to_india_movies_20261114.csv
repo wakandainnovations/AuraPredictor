@@ -1,0 +1,289 @@
+action,tmdb_movie_id,movie_name,release_date,language,old_budget,new_budget,old_revenue,new_revenue
+update,280951,Madha Gaja Raja,2025-01-12,tamil,1740751.0,1740751,8703755.0,7978442
+update,667255,FIR,2022-02-11,tamil,1326877.0,1326877,3184504.0,2288863
+update,346081,Sardaarji,2015-06-26,punjabi,1337018.0,1533639,6037031.0,6037031
+update,755388,Ayalaan,2024-01-12,tamil,12000000.0,10715560,9225644.0,9225644
+update,17334,The Other End of the Line,2008-10-31,english,14000000.0,2500000,115592.0,507534
+update,80802,Devadasu,2006-01-11,telugu,1590186.0,1590186,3180373.0,6133576
+update,521714,Yatra,2019-02-08,telugu,1682201.0,1682201,2004623.0,2999925
+update,855397,Etharkkum Thunindhavan,2022-03-10,tamil,9789893.0,8810904,9319978.0,9319978
+update,383405,Hari Puttar,2008-09-24,hindi,2689329.0,2689329,436441.0,477474
+update,613446,The Sky Is Pink,2019-10-11,hindi,3384181.0,4653249,4852070.0,4852070
+update,373195,MSG 2 The Messenger,2015-09-18,hindi,4562059.0,4029819,2612083.0,2612083
+update,1321108,Dude,2025-10-17,tamil,3124635.0,3550721,12987118.0,12987118
+update,1371030,Vanvaas,2024-12-20,hindi,3528000.0,3528000,816438.0,750370
+update,1185638,Farrey,2023-11-24,hindi,1199000.0,1199000,269775.0,307544
+update,1169516,Welcome To The Jungle,2026-06-25,hindi,13241522.0,14300844,19792368.0,19792368
+update,1293550,Bandar,2026-06-04,hindi,2820485.0,2820485,569320.0,602748
+update,285937,Jal,2013-04-04,hindi,117596.0,1002312,1007963.0,116936
+update,506456,Welcome to New York,2018-02-23,hindi,5549566.0,5549566,900879.0,779714
+update,1032627,Love Today,2022-11-04,tamil,609000.0,669900,12789000.0,11482695
+update,965087,Phule,2025-04-25,hindi,3513000.0,3103150,800378.0,811702
+update,1169534,Bastar: The Naxal Story,2024-03-15,hindi,1810500.0,1870850,252263.0,342993
+update,648316,The Body,2019-12-13,hindi,2684882.0,2684882,490344.0,526378
+update,1126365,Tekka,2024-10-08,bengali,357300.0,357300,952800.0,732465
+update,71069,Bhindi Baazaar Inc,2011-06-03,hindi,1115325.0,1115325,265447.0,359135
+update,608746,Mumbai Saga,2021-03-19,hindi,8832452.0,7176367,3314585.0,3142310
+update,361847,Ishqedarriyaan,2015-05-29,hindi,1569152.0,1569152,53351.0,124748
+update,63943,West Is West,2010-10-19,english,3837625.0,3837625,3867000.0,5733500
+update,715765,Bachchhan Paandey,2022-03-18,hindi,17119000.0,21596277,9635363.0,9635363
+update,541495,The Man Who Feels No Pain,2019-03-21,hindi,1745046.0,2108597,440624.0,367914
+update,566487,Arjun Suravaram,2019-03-29,telugu,1443741.0,1443741,2670920.0,2851387
+update,7508,Taare Zameen Par,2007-12-21,hindi,2600000.0,3814500,28430000.0,23657529
+update,32866,Accident On Hill Road,2009-12-31,hindi,537634.0,645161,41935.0,98387
+update,97603,Antardwand,2010-08-27,hindi,320616.0,587795,56642.0,56642
+update,899439,Velle,2021-12-10,hindi,1443200.0,1443200,2540032.0,1309376
+update,551688,Judgementall Hai Kya,2019-07-26,hindi,5733040.0,5188764,6519700.0,6162655
+update,570910,Thackeray,2019-01-25,hindi,4229496.0,4229496,4455069.0,4007560
+update,83889,Businessman,2012-01-13,telugu,7762808.0,7762808,13973054.0,15719686
+update,84879,Gali Gali Chor Hai,2012-02-03,hindi,2671873.0,2671873,2686260.0,1573672
+update,277223,City Lights,2014-05-30,hindi,840000.0,1519885,1437136.0,1437136
+update,292830,Creature 3D,2014-09-12,hindi,2600000.0,4107653,2100000.0,3384706
+update,325138,Dum Laga Ke Haisha,2015-02-27,hindi,2270031.0,2270031,4895159.0,5523196
+update,386365,Direct Ishq,2016-02-19,hindi,3199058.0,3199058,81431.0,48713
+update,499789,Chalo,2018-02-02,telugu,466107.0,1029319,3728853.0,3728853
+update,533148,Ek Ladki Ko Dekha Toh Aisa Laga,2019-02-01,hindi,4184421.0,4533122,5559700.0,5305845
+update,755450,Godfather,2012-07-27,kannada,812287.0,812287,1263557.0,1308684
+update,275856,Dhadkanein,2006-05-05,hindi,33730.0,345662,326415.0,35718
+update,754716,Badhaai Do,2022-02-11,hindi,3317192.0,3980631,3553542.0,3682521
+update,671539,Happy Hardy And Heer,2020-01-31,hindi,978724.0,1188450,20274.0,73055
+update,402217,Happy Wedding,2016-05-20,malayalam,252083.0,274326,2031496.0,2031496
+update,959163,Gatta Kusthi,2022-12-02,tamil,614174.0,614174,3685045.0,2737988
+update,653221,Hridayam,2022-01-21,malayalam,807303.0,874578,7400276.0,7272453
+update,325892,Hunterrr,2015-03-20,hindi,479886.0,959772,2792937.0,2792937
+update,543693,Jabariya Jodi,2019-08-09,hindi,5493283.0,4225602,2976232.0,2976232
+update,203599,Jatt & Juliet 2,2013-06-28,punjabi,1134478.0,1134478,6537954.0,4949685
+update,752943,Kaathuvaakula Rendu Kaadhal,2022-04-28,tamil,4565614.0,4565614,9131227.0,7989824
+update,298787,3 AM: A Paranormal Experience,2014-09-26,hindi,1383820.0,1383820,242576.0,271066
+update,657997,Kaduva,2022-07-07,malayalam,1893000.0,1893000,6310000.0,5990083
+update,21232,Kal Kissne Dekha,2009-06-12,hindi,24625.0,4430473,1196228.0,1196228
+update,458016,Keshava,2017-05-19,telugu,464660.0,464660,4646598.0,5421031
+update,787163,Liger,2021-09-09,"telugu, hindi",16992599.0,15650000,8265200.0,7612160
+update,1312559,Maalik,2025-07-11,hindi,7224790.0,7224790,3479785.0,3055154
+update,353898,Manjhi: The Mountain Man,2015-08-21,hindi,2500000.0,1283027,2716999.0,2716999
+update,797967,Naandhi,2021-02-19,telugu,827468.0,689557,1310158.0,1241202
+update,632658,Nikka Zaildar 3,2019-09-20,punjabi,1055413.0,1055413,2525956.0,2839062
+update,582375,Notebook,2019-03-29,hindi,2165611.0,2454359,818601.0,818601
+update,859946,Paagal,2021-08-20,telugu,1345120.0,1345120,2770947.0,2091661
+update,117361,Return Of Hanuman,2007-12-28,hindi,4068800.0,4068800,1561402.0,1106205
+update,1196940,Ruslaan,2024-04-26,hindi,3000000.0,2760000,396000.0,434796
+update,401552,Sachin: A Billion Dreams,2017-05-26,hindi,6040577.0,6040577,11904584.0,10982234
+update,881983,Salaam Venky,2022-12-09,hindi,1819498.0,1819498,273082.0,307338
+update,1264800,Savi,2024-05-31,hindi,2398000.0,2398000,2135419.0,1604382
+update,246406,Shabdo,2013-04-12,bengali,128118.0,111560,292840.0,254993
+update,1434580,Thalaivan Thalaivii,2025-07-23,tamil,2889332.0,2889332,12713059.0,10934005
+update,69502,Va: Quarter Cutting,2010-11-05,tamil,300000.0,1019764,1500000.0,1500000
+insert,83903,Vaah! Life Ho Toh Aisi!,2005-12-23,hindi,,2659574,,4210993
+insert,117409,Viruddh... Family Comes First,2005-07-22,hindi,,2072300,,4262031
+insert,51523,Ek Khiladi Ek Haseena,2005-11-18,hindi,,1258206,,1724289
+insert,69346,Zeher,2005-03-25,hindi,,1145869,,2979260
+insert,868666,The Ghost,2022-10-05,telugu,,4287500,,1286250
+insert,872028,Alone,2023-01-26,malayalam,,306747,,101226
+insert,73312,Toh Baat Pakki!,2010-02-18,hindi,,2377867,,916560
+insert,311142,Vaada,2005-01-07,hindi,,1603298,,1239120
+insert,587330,Time Pass,2005-01-01,hindi,,288052,,122134
+insert,9724,The Mistress of Spices,2005-09-11,english,,2055771,,1300000
+insert,139067,Topless,2005-09-09,hindi,,285524,,111925
+insert,77089,Oru Kal Oru Kannadi,2012-04-12,tamil,,1467505,,3997484
+insert,303264,Baat Bann Gayi,2013-10-11,english,,571989,,24514
+insert,1078033,Dreams,2005-04-22,english,,286139,,31475
+insert,22609,Dil Bole Hadippa!,2009-09-18,hindi,,5815600,,9579124
+insert,18610,One Two Three,2008-03-28,hindi,,3510532,,6770311
+insert,83895,Aryan: Unbreakable,2006-12-15,hindi,,1566127,,299801
+insert,619099,Zameer,2005-03-04,hindi,,1030928,,363116
+insert,206542,Sins,2005-02-25,hindi,,286566,,545621
+insert,40017,Kalyug,2005-12-09,hindi,,867303,,1563313
+insert,64661,Love U... Mr. Kalakaar!,2011-05-13,hindi,,2677077,,430563
+insert,206376,My Wife's Murder,2005-08-19,hindi,,1091327,,708156
+insert,75467,Rog,2005-01-07,hindi,,744388,,739808
+insert,282039,Zindagi Tere Naam,2012-03-16,hindi,,698217,,7980
+insert,20293,Shortkut - The Con Is On,2009-07-10,hindi,,4910989,,1573563
+insert,39217,Maine Pyaar Kyun Kiya?,2005-07-15,hindi,,3449862,,11831877
+insert,253578,"Tom, Dick And Harry",2006-05-25,hindi,,1634879,,2009811
+insert,86005,Staying Alive,2012-02-03,hindi,,256911,,2980
+insert,481124,Rehguzar,2006-11-17,english,,501661,,6020
+insert,406488,Pyaar Mein Twist,2005-09-02,hindi,,855676,,301198
+insert,464599,Guest iin London,2017-07-07,hindi,,4332817,,1646471
+insert,64756,Aao Wish Karein,2009-11-13,hindi,,1242840,,4323
+insert,224471,Listen... Amaya,2013-02-01,hindi,,281902,,13155
+insert,21606,Daddy Cool: Join the Fun,2009-08-28,hindi,,2672697,,912829
+insert,399874,Via Darjeeling,2008-11-21,hindi,,302639,,52457
+insert,81145,Thodi Life Thoda Magic,2008-06-23,hindi,,291683,,12834
+insert,22158,Chintu Ji,2009-09-04,hindi,,1431786,,24545
+insert,60597,Red: The Dark Side,2007-03-09,hindi,,905387,,887279
+insert,423822,Deadline: Sirf 24 Ghante,2006-11-10,hindi,,503425,,86701
+insert,28805,Apaharan,2005-12-02,hindi,,2386117,,5023861
+insert,20296,Chocolate: Deep Dark Secrets,2005-09-16,hindi,,2053154,,1514771
+insert,61376,Mazaa Mazaa,2005-07-15,hindi,,229991,,56348
+insert,585862,Romeo Akbar Walter,2019-03-15,hindi,,6980184,,7777088
+insert,523277,Manmarziyaan,2018-09-14,hindi,,3871305,,5584357
+insert,189549,Life Ki Toh Lag Gayi,2012-04-20,hindi,,672108,,61450
+insert,81271,Damadamm!,2011-10-27,hindi,,1020304,,218345
+insert,117141,Dus Tola,2010-10-22,english,,1401817,,24672
+insert,20964,The President Is Coming,2009-01-09,hindi,,508647,,158698
+insert,225635,Dosti: Friends Forever,2005-12-23,hindi,,3324468,,5097518
+insert,87995,Ek Ajnabee,2005-12-09,hindi,,2601908,,1504770
+insert,443950,Gumnaam: The Mystery,2008-12-05,hindi,,656582,,111114
+insert,282030,Fareb,2005-07-08,hindi,,803489,,247934
+insert,33375,My Bollywood Bride,2006-01-14,hindi,,1529572,,1643
+insert,22241,Firaaq,2009-03-20,hindi,,1286967,,310852
+insert,866154,"Haseena: Smart, Sexy, Dangerous",2006-01-01,english,,333704,,15017
+insert,445685,Koi Aap Sa,2005-10-14,hindi,,725689,,501954
+insert,84096,Maine Gandhi Ko Nahin Mara,2005-09-30,hindi,,512704,,231332
+insert,1476765,Jahan Jaaeyega Hamen Paaeyega,2007-07-06,hindi,,981598,,52761
+insert,415908,Machhli Jal Ki Rani Hai,2014-06-13,hindi,,921583,,226207
+insert,302957,Four Two Ka One,2012-12-07,hindi,,1101423,,48646
+insert,340735,"Shahrukh Bola ""Khoobsurat Hai Tu""",2010-11-19,hindi,,770416,,24213
+insert,904473,Angoor,2005-11-04,hindi,,55030,,79243
+insert,1721629,Bhagmati – The Queen of Fortunes,2005-08-26,hindi,,802292,,11461
+insert,460001,The Fakir of Venice,2019-02-08,hindi,,182238,,27686
+insert,64766,Admissions Open,2010-05-14,english,,658796,,15372
+insert,128207,Ship of Theseus,2012-09-06,hindi,,542700,,86832
+insert,665148,The Murderer: Hamilton Palace,2011-08-31,hindi,,868400,,130260
+insert,19978,Anniyan,2005-06-17,tamil,,6060885,,13095922
+insert,544275,Anjaane: The Unkown,2005-12-30,hindi,,333704,,30033
+insert,21298,Fast Forward,2009-09-25,hindi,,521250,,10946
+insert,69435,Aanai,2005-05-05,tamil,,500000,,500000
+insert,106507,Bittoo Boss,2012-04-13,hindi,,1920307,,384061
+insert,135550,Ata Pata Lapatta,2012-11-02,hindi,,2043659,,70599
+insert,239043,Chehraa,2005-02-18,hindi,,742857,,137143
+insert,53122,Chandramukhi,2005-04-14,tamil,,4346831,,17158545
+insert,316831,7½ Phere,2005-07-29,hindi,,460405,,349908
+insert,1711868,2 Chehre,2015-07-10,hindi,,315664,,316
+insert,19636,Garam Masala,2005-11-03,hindi,,3758567,,12082688
+insert,500066,Darinda,2005-12-09,hindi,,43365,,38487
+insert,74084,Dil Jo Bhi Kahey...,2005-09-23,hindi,,1422071,,906030
+insert,549268,Devaki,2005-09-23,english,,284414,,7964
+insert,205212,Bewafaa,2005-02-25,hindi,,4126547,,7606602
+insert,140231,Elaan,2005-01-14,hindi,,3442341,,1725760
+insert,58302,Dus,2005-07-08,hindi,,4591368,,8914142
+insert,25799,Amu,2005-01-07,english,,114521,,8303
+insert,58725,Bose: The Forgotten Hero,2005-05-13,hindi,,863458,,287819
+insert,69636,Ghajini,2005-10-14,tamil,,1563023,,11164452
+insert,354734,Barsaat,2005-08-19,hindi,,2297530,,4493969
+insert,49496,Aashiq Banaya Aapne,2005-09-02,hindi,,912721,,2122076
+insert,11763,Bunty Aur Babli,2005-05-27,hindi,,2876208,,14542108
+insert,28868,Being Cyrus,2005-12-08,english,,867303,,997398
+insert,586077,Chand Sa Roshan Chehra,2005-03-04,hindi,,343643,,120344
+insert,79210,Chatrapathi,2005-09-30,telugu,,2848354,,4386465
+insert,161793,99.9 FM,2005-06-16,hindi,,91792,,2467
+insert,83351,Bolo Raam,2009-12-31,hindi,,860215,,88172
+insert,523197,Fun: Can Be Dangerous Sometimes,2005-02-25,hindi,,458505,,758230
+insert,80924,Bhadra,2005-05-12,telugu,,1266406,,3453834
+insert,97341,Deewane Huye Paagal,2005-11-25,hindi,,4368243,,5787922
+insert,31977,Black,2005-02-04,hindi,,4845183,,9436571
+insert,97361,D,2005-06-03,hindi,,804136,,1952901
+insert,1556311,Dhamkee,2005-03-18,english,,206549,,42457
+insert,310500,Classic Dance of Love,2005-01-01,hindi,,518493,,235655
+insert,110647,Bachke Rehna Re Baba,2005-06-03,hindi,,1378518,,1265939
+insert,37172,Athadu,2005-08-10,telugu,,2876208,,5062126
+insert,16111,Hanuman,2005-10-21,hindi,,669867,,2161438
+insert,360915,Chetna,2005-06-24,hindi,,287819,,278110
+insert,21557,Hazaaron Khwaishein Aisi,2005-05-15,hindi,,287819,,158876
+insert,67386,Bin Bulaye Baraati,2011-06-17,english,,2232392,,839379
+insert,83319,Hello Darling,2010-08-25,english,,2351181,,634819
+insert,194433,Home Delivery,2005-12-02,hindi,,867679,,573753
+insert,807533,Hum Dum,2005-02-11,hindi,,194397,,134934
+insert,233830,Insan,2005-01-14,hindi,,2696500,,2473896
+insert,21567,Iqbal,2005-08-26,hindi,,515759,,1283668
+insert,20292,Jashnn: The Music Within,2009-07-17,hindi,,1483528,,581134
+insert,630974,Hum Tum Aur Mom: Mother Never Misguides,2005-07-18,hindi,,459982,,9775
+insert,69413,Ji,2005-02-11,tamil,,500000,,500000
+insert,446688,Jo Bole So Nihaal,2005-05-13,hindi,,3453834,,1892701
+insert,81130,Jithan,2005-05-06,tamil,,230229,,920916
+insert,78439,Jo Dooba So Paar: It's Love in Bihar!,2011-10-14,english,,1226994,,57260
+insert,544286,Good Luck!,2008-08-08,hindi,,475600,,12484
+insert,238674,Jurm,2005-02-10,hindi,,1661308,,971579
+insert,20132,Kaal,2005-04-29,hindi,,2988506,,6551724
+insert,19620,Bluffmaster!,2005-12-16,hindi,,2212389,,7234513
+insert,117336,Kaash Mere Hote,2009-01-09,english,,712106,,29502
+insert,337846,Kaccha Limboo,2011-02-18,hindi,,332779,,13311
+insert,117337,Kajraare,2010-10-15,hindi,,2720780,,2267
+insert,1192990,Kal: Yesterday and Tomorrow,2005-09-16,hindi,,228128,,79845
+insert,272220,Karam,2005-03-11,hindi,,1231386,,1777778
+insert,109434,Kasak,2005-07-22,hindi,,345383,,117430
+insert,548457,Kaun Hai Jo Sapno Mein Aaya,2005-01-01,english,,230441,,76622
+insert,640982,Khamoshh... Khauff Ki Raat,2005-04-15,hindi,,1029160,,237850
+insert,271542,Khullam Khulla Pyaar Karen,2005-04-28,hindi,,1201098,,269675
+insert,78701,Kisna,2005-01-21,hindi,,5726721,,1882946
+insert,56998,Koi Mere Dil Mein Hai,2005-06-03,hindi,,804136,,107984
+insert,65951,Kucch Luv Jaisaa,2011-05-27,hindi,,2232522,,651896
+insert,86411,Kuchh Meetha Ho Jaye,2005-04-15,hindi,,571755,,381075
+insert,340731,Kuchh Kariye,2010-03-23,hindi,,719109,,11063
+insert,316840,Bhoot Unkle,2006-10-06,hindi,,548277,,10966
+insert,161212,Kyon Ki...,2005-11-03,hindi,,3979660,,5118284
+insert,22429,Kyaa Kool Hai Hum,2005-05-06,hindi,,1151145,,5260734
+insert,71481,404: Error Not Found,2011-05-20,hindi,,887973,,219773
+insert,83316,Lanka,2011-12-09,english,,1541871,,113713
+insert,159437,Life Mein Kabhie Kabhiee,2007-04-13,hindi,,1179574,,247711
+insert,46423,Lucky: No Time for Love,2005-04-08,hindi,,3200366,,6357299
+insert,316812,Main Aisa Hi Hoon,2005-05-06,hindi,,2187176,,1514907
+insert,198556,Main Krishna Hoon,2013-01-25,hindi,,929365,,53903
+insert,39218,"Main, Meri Patni Aur Woh",2005-10-07,hindi,,569671,,767916
+insert,20496,Mangal Pandey - The Rising,2005-08-12,hindi,,8507703,,12087836
+insert,104508,Mashooka,2005-07-19,english,,172692,,150668
+insert,127763,Matrubhoomi: A Nation Without Women,2005-01-26,hindi,,458432,,61315
+insert,187128,Maximum,2012-06-28,english,,2699376,,464293
+insert,57092,Meerabai Not Out,2008-12-05,hindi,,454556,,21213
+insert,150979,Mere Dost Picture Abhi Baki Hai,2012-07-20,hindi,,949810,,25328
+insert,1688948,Mr Prime Minister,2005-12-31,hindi,,278087,,13126
+insert,168025,Mr Ya Miss,2005-12-02,hindi,,1030369,,1007592
+insert,46412,Mukhbiir,2008-08-22,hindi,,863641,,51243
+insert,69572,Mumbai Xpress,2005-04-15,tamil,,1029160,,1182390
+insert,569844,Naam Gum Jaayega,2005-04-10,hindi,,342975,,8003
+insert,15978,Naina,2005-05-20,hindi,,980618,,1601292
+insert,151639,Naran,2005-09-05,malayalam,,581860,,1800000
+insert,46415,Neal 'N' Nikki,2005-12-09,hindi,,1517780,,2368820
+insert,522926,Nazar,2005-05-20,hindi,,749885,,1019266
+insert,1106553,Love in Japan,2006-02-10,hindi,,283286,,9632
+insert,361249,Nil Battey Sannata,2016-04-22,hindi,,1125956,,1035879
+insert,20390,No Entry,2005-08-26,hindi,,4584527,,16962751
+insert,20623,Page 3,2005-01-21,hindi,,687207,,2029550
+insert,353944,Padmashree Laloo Prasad Yadav,2005-01-28,hindi,,1088775,,556605
+insert,33081,Paheli,2005-06-24,hindi,,3223578,,7368179
+insert,20651,Parineeta,2005-06-10,hindi,,2527864,,7498564
+insert,55274,Prem Kaa Game,2010-03-26,hindi,,663793,,39274
+insert,621140,Qatal-E-Aam,2005-02-18,hindi,,228571,,124129
+insert,46409,MP3: Mera Pehla Pehla Pyaar,2007-06-08,hindi,,1102401,,308672
+insert,223212,Rabba Main Kya Karoon,2013-08-02,english,,1800256,,178389
+insert,538959,Rain: The Terror Within...,2005-09-30,hindi,,284835,,225316
+insert,152359,Rajamanikyam,2005-11-03,malayalam,,508512,,5527305
+insert,46419,Rama Rama Kya Hai Dramaaa,2008-02-01,english,,2044990,,720859
+insert,258688,Ramji Londonwaley,2005-09-02,hindi,,912721,,673132
+insert,73876,Red Alert: The War Within,2010-07-09,hindi,,2148228,,332975
+insert,442320,Revati,2005-05-07,hindi,,207206,,34534
+insert,35100,Right Yaaa Wrong,2010-03-12,hindi,,4834656,,903202
+insert,15084,Salaam Namaste,2005-09-09,hindi,,2512609,,13072418
+insert,15646,Jugaad,2009-02-13,hindi,,820800,,40014
+insert,20968,Sarkar,2005-07-01,hindi,,3222094,,9044879
+insert,277836,Sau Jhooth Ek Sach,2005-09-16,hindi,,114064,,4106
+insert,1572227,Sauda: The Deal,2005-09-30,hindi,,569671,,367096
+insert,33460,Sehar,2005-07-29,hindi,,920810,,552486
+insert,21905,Shabd,2005-02-04,hindi,,1615061,,2787134
+insert,216116,Shaadi No. 1,2005-08-22,hindi,,3440762,,4700080
+insert,46417,Shakalaka Boom Boom,2007-04-06,hindi,,2661113,,1568900
+insert,78444,Shabri,2011-11-08,hindi,,708502,,74899
+insert,405445,Shabnam Mausi,2005-05-20,hindi,,230734,,52492
+insert,276387,Shikhar,2005-12-30,hindi,,3114572,,2291435
+insert,202635,Silsiilay,2005-06-17,hindi,,1378518,,409765
+insert,546865,Siskiyaan,2005-09-30,hindi,,512704,,120770
+insert,1547899,Sitam,2005-11-08,hindi,,275149,,39621
+insert,21555,Socha Na Tha,2005-03-04,hindi,,973654,,1255441
+insert,779991,Ssukh,2005-06-17,hindi,,1148765,,28719
+insert,256783,Love Kaa Taddka,2009-10-23,hindi,,139350,,1501
+insert,206525,Say Salaam India: 'Let's Bring the Cup Home',2007-03-30,hindi,,347102,,21405
+insert,301687,Tango Charlie,2005-03-25,hindi,,3093847,,2539246
+insert,612059,Taj Mahal: An Eternal Love Story!,2005-11-18,hindi,,10940919,,6805252
+insert,474252,Teesri Aankh: The Hidden Camera,2006-03-03,hindi,,2816901,,937465
+insert,262601,Thavamai Thavamiruntu,2005-10-31,tamil,,666371,,2665482
+insert,340722,The Hangman,2010-02-05,hindi,,213926,,3744
+insert,493622,The Killer,2006-07-21,hindi,,1561819,,1402406
+insert,309458,Unlimited Nasha...,2005-01-01,hindi,,184353,,85263
+insert,753853,Vetrivel Sakthivel,2005-12-09,tamil,,272734,,300000
+insert,31364,Waqt,2005-04-22,hindi,,3662584,,9724162
+insert,272369,White Rainbow,2005-03-03,english,,343643,,11111
+insert,1227817,Wife Hai Toh Life Hai,2005-02-11,hindi,,171527,,6861
+insert,216696,Yahaan,2005-07-29,hindi,,805709,,384438
+insert,949844,मेरी आशिकी,2005-05-01,hindi,,137931,,62069
+update,376440,Singam 3,2017-02-09,tamil,11237005,10653089,16166304,16166304
+update,376440,Singam 3,2017-02-09,telugu,11237005,10653089,16166304,16166304
