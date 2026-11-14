@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 1054334,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.855,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(2.73, 0.98) = ₹1.855 Cr: sacnilk India net ₹2.73 Cr vs its India gross ₹0.98 Cr (8 days)"
+ }
+]

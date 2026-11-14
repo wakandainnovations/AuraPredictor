@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 845861,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.1,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(0.01, 0.19) = ₹0.1 Cr: BH 2025 lifetime nett ₹0.01 Cr vs sacnilk 7-day ₹0.19 Cr"
+ }
+]

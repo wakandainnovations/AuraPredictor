@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 402217,
+  "budget_inr_crore": 1.85,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; budget = avg(1.7, 2) = ₹1.85 Cr: Wiki ₹1.7 Cr (uncited) vs IBTimes ≈₹2 Cr"
+ }
+]

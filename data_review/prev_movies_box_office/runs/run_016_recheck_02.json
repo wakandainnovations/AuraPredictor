@@ -1,0 +1,58 @@
+[
+ {
+  "tmdb_movie_id": 1033866,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 4.65,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(3.68, 5.62) = ₹4.65 Cr: sacnilk WW ₹3.68 Cr vs its India gross ₹5.62 Cr (7 days, partial)"
+ },
+ {
+  "tmdb_movie_id": 868666,
+  "budget_inr_crore": 35.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; budget = avg(45, 25) = ₹35 Cr: Wiki uncited ₹45 Cr vs sacnilk ₹25 Cr"
+ },
+ {
+  "tmdb_movie_id": 667255,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 17.25,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(24, 10.5) = ₹17.25 Cr: Wiki est. ₹24 Cr (TOI, week 1) vs sacnilk WW ₹10.50 Cr (13 days)"
+ },
+ {
+  "tmdb_movie_id": 859946,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 15.55,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(20.6, 10.5) = ₹15.55 Cr: Wiki est. ≈₹20.60 Cr (T2Blive) vs sacnilk WW ₹10.50 Cr (13 days)"
+ }
+]

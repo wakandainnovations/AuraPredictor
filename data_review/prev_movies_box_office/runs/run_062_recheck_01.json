@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 346081,
+  "budget_inr_crore": 9.75,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; budget = avg(8.5, 11) = ₹9.75 Cr: Wiki infobox ₹8.50 Cr (uncited) vs Wiki body 'making costs of ₹11 crore'"
+ }
+]

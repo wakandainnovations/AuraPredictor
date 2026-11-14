@@ -1,0 +1,30 @@
+[
+ {
+  "tmdb_movie_id": 878470,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.65,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(2.65, 0.65) = ₹1.65 Cr: sacnilk India net ₹2.65 Cr vs its India gross ₹0.65 Cr (7 days, partial)"
+ },
+ {
+  "tmdb_movie_id": 860878,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 30.25,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(25.5, 35) = ₹30.25 Cr: sacnilk WW ₹25.50 Cr (15 days) vs stored tmdb ≈₹35 Cr ($4.7M, unconfirmed)"
+ }
+]

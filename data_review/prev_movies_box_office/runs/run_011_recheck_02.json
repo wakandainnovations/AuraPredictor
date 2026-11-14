@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 676542,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 5.67,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(7, 4.34) = ₹5.67 Cr: Sakshi text ₹7 Cr vs Sakshi table ₹4.34 Cr (after 2 weeks)"
+ }
+]

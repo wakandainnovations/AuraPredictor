@@ -1,0 +1,30 @@
+[
+ {
+  "tmdb_movie_id": 755450,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 7.25,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(7, 7.5) = ₹7.25 Cr: Wiki infobox ₹7 Cr (filmibeat, day 16) vs Wiki body '>₹7.5 Cr in two weeks'"
+ },
+ {
+  "tmdb_movie_id": 83889,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 81.0,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(72, 90) = ₹81 Cr: Wiki ₹72 Cr (original release) vs Wiki Reception '>₹90 Cr lifetime' (same Cinema Express cite)"
+ }
+]

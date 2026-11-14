@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 386590,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 20.18,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(15.2, 25.16) = ₹20.18 Cr: Wiki highest-grossing list US$2.26M (≈₹15.2 Cr) vs 2023 mirror ₹25.16 Cr"
+ }
+]

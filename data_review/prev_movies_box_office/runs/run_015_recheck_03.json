@@ -1,0 +1,30 @@
+[
+ {
+  "tmdb_movie_id": 1043311,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 14.58,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(23, 6.16) = ₹14.58 Cr: Wiki ≈₹23 Cr (TOI day 7) vs sacnilk India gross ₹6.16 Cr (35 days)"
+ },
+ {
+  "tmdb_movie_id": 1030101,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 4.125,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(2.25, 6) = ₹4.125 Cr: Wiki ≈₹2.25 Cr (TOI day 3) vs sacnilk 7-day WW ₹6.00 Cr (both partial)"
+ }
+]

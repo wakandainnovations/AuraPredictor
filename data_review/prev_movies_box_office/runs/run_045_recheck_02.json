@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 1241707,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.085,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(0.03, 0.14) = ₹0.085 Cr: BH 2024 lifetime nett ₹0.03 Cr vs sacnilk 7-day gross ₹0.14 Cr"
+ }
+]

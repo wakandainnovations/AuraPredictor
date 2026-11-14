@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 500494,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 100.64,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(100.52, 92, 109.4) = ₹100.64 Cr: Wiki est. ₹100.52 Cr (IBTimes day 16) vs Hans India gross est. ₹92 Cr vs Sakshi Post gross ₹109.40 Cr"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "tmdb_movie_id": 1434580,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 94.6067,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(110, 85.78, 88.04) = ₹94.6067 Cr: Wiki est. ₹110 Cr (TOI) vs sacnilk WW ₹85.78 Cr (49 days) vs Koimoi closing ₹88.04 Cr"
+ },
+ {
+  "tmdb_movie_id": 1363072,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 5.235,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(9.7, 0.77) = ₹5.235 Cr: Wiki est. ≈₹9.7 Cr (Filmivilla day-9 running total) vs sacnilk India gross ₹0.77 Cr (14 days) — low confidence"
+ },
+ {
+  "tmdb_movie_id": 1354069,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 4.45,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(5.65, 3.25) = ₹4.45 Cr: Wiki infobox ≈₹5.65 Cr [citation needed] vs sacnilk India gross ₹3.25 Cr (19 days)"
+ },
+ {
+  "tmdb_movie_id": 280951,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 68.75,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(75, 62.5) = ₹68.75 Cr: Wiki est. ≈₹75 Cr (TOI) vs sacnilk WW ₹62.50 Cr (38 days)"
+ }
+]

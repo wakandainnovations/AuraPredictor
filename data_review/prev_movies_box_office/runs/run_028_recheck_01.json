@@ -1,0 +1,44 @@
+[
+ {
+  "tmdb_movie_id": 868882,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 3.1833,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(0.55, 4.83, 4.17) = ₹3.1833 Cr: sacnilk India net ₹0.55 Cr vs its India gross ₹4.83 Cr (13 days) vs second sacnilk page net ₹4.17 Cr"
+ },
+ {
+  "tmdb_movie_id": 890931,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 3.6333,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(3.9, 3.35, 3.65) = ₹3.6333 Cr: sacnilk India net ₹3.90 Cr vs India gross ₹3.35 Cr vs WW ₹3.65 Cr (8 days)"
+ },
+ {
+  "tmdb_movie_id": 878667,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 30.905,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(35.81, 26) = ₹30.905 Cr: Wiki est. ₹35.81 Cr (BOM, accessed day 3) vs sacnilk WW ₹26.00 Cr (28 days)"
+ }
+]

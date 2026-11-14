@@ -1,0 +1,30 @@
+[
+ {
+  "tmdb_movie_id": 872028,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.825,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(0.55, 1.1) = ₹0.825 Cr: Wiki infobox ₹55 lakh vs Wiki body ₹1.1 Cr worldwide final"
+ },
+ {
+  "tmdb_movie_id": 816586,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 10.97,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "missing_data notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures from missing_data notes averaged; revenue = avg(10, 11.94) = ₹10.97 Cr: sacnilk WW header ₹10 Cr vs its India net 8.49 + overseas 3.45 = ₹11.94 Cr (11 days, partial)"
+ }
+]
