@@ -1,0 +1,30 @@
+[
+ {
+  "tmdb_movie_id": 1126365,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 6.15,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(8, 4.3) = ₹6.15 Cr: Wiki ₹8 Cr (stored) vs sacnilk India gross ₹4.30 Cr"
+ },
+ {
+  "tmdb_movie_id": 1341538,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.205,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(3.81, 0.6) = ₹2.205 Cr: sacnilk India gross ₹3.81 Cr (stored) vs BH nett ₹0.60 Cr"
+ }
+]

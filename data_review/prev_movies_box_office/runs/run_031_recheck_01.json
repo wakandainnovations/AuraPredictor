@@ -1,0 +1,44 @@
+[
+ {
+  "tmdb_movie_id": 401552,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 70.905,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(76.86, 64.95) = ₹70.905 Cr: Wiki est. ₹76.86 Cr (stored) vs BOI WW ₹64.95 Cr"
+ },
+ {
+  "tmdb_movie_id": 458016,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 35.0,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(30, 40) = ₹35 Cr: Deccan Chronicle text ₹30 Cr (stored) vs same article's list ₹40 Cr"
+ },
+ {
+  "tmdb_movie_id": 456567,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 15.0687,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(14.76, 15.3775) = ₹15.0687 Cr: Wiki ₹14.76 Cr (stored) vs BOI WW ₹15.38 Cr"
+ }
+]

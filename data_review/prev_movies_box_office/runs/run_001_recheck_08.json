@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 325138,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 34.0633,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(30, 42, 30.19) = ₹34.0633 Cr: Wiki domestic gross 30 vs 42 Cr, BH India nett 30.19 Cr (stored)"
+ }
+]

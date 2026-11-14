@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 881983,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.5337,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(1.99, 3.36, 2.251) = ₹2.5337 Cr: Wiki ₹1.99 Cr vs sacnilk 7-day WW ₹3.36 Cr vs BOI ₹2.251 Cr (stored)"
+ }
+]

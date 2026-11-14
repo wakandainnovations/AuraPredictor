@@ -1,0 +1,60 @@
+[
+ {
+  "tmdb_movie_id": 161212,
+  "budget_inr_crore": 18.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(21, 15) = ₹18 Cr: Wiki ₹21 Cr (stored) vs BOI ₹15 Cr"
+ },
+ {
+  "tmdb_movie_id": 16111,
+  "budget_inr_crore": 3.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 9.68,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)",
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(3.25, 2.75) = ₹3 Cr: Wiki ₹3.25 Cr (stored) vs BOI ₹2.75 Cr; revenue = avg(11.68, 7.68) = ₹9.68 Cr: Wiki ₹11.68 Cr (stored) vs BOI WW ₹7.68 Cr"
+ },
+ {
+  "tmdb_movie_id": 15978,
+  "budget_inr_crore": 4.25,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(5, 3.5) = ₹4.25 Cr: Wiki ₹5 Cr (stored) vs BOI ₹3.5 Cr"
+ },
+ {
+  "tmdb_movie_id": 233830,
+  "budget_inr_crore": 11.75,
+  "budget_usd": null,
+  "revenue_inr_crore": 10.78,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)",
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(12.5, 11) = ₹11.75 Cr: Wiki ₹12.5 Cr (stored) vs BOI ₹11 Cr; revenue = avg(10.41, 11.15) = ₹10.78 Cr: Wiki ₹10.41 Cr (stored) vs BOI WW ₹11.15 Cr"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "tmdb_movie_id": 754716,
+  "budget_inr_crore": 30.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 27.7533,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)",
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(25, 35, 30) = ₹30 Cr: Wiki ₹25 Cr (stored) vs BOI ₹35 Cr vs sacnilk ₹30 Cr; revenue = avg(26.78, 28.15, 28.33) = ₹27.7533 Cr: BOI WW ₹26.78 Cr (stored) vs sacnilk WW ₹28.15 Cr vs Wiki est. ₹28.33 Cr"
+ }
+]

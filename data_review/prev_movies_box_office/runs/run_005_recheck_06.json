@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 1415263,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 6.945,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(9.64, 4.25) = ₹6.945 Cr: Wiki ₹9.64 Cr (stored) vs sacnilk total gross ₹4.25 Cr"
+ }
+]

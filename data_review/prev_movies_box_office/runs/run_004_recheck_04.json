@@ -1,0 +1,30 @@
+[
+ {
+  "tmdb_movie_id": 521714,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 21.4,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(14.3, 28.5) = ₹21.4 Cr: Wiki infobox ₹14.30 Cr (stored) vs Wiki body ₹28.5 Cr WW"
+ },
+ {
+  "tmdb_movie_id": 713235,
+  "budget_inr_crore": 15.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(10, 20) = ₹15 Cr: Wiki infobox ₹10 Cr (stored) vs Wiki body 'reportedly ₹20 crore'"
+ }
+]

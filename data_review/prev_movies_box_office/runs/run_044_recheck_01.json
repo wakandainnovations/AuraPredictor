@@ -1,0 +1,60 @@
+[
+ {
+  "tmdb_movie_id": 1196940,
+  "budget_inr_crore": 23.0,
+  "budget_usd": null,
+  "revenue_inr_crore": 3.6233,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)",
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(25, 21) = ₹23 Cr: Wiki ₹25 Cr (stored) vs BOI ₹21 Cr; revenue = avg(3.3, 4.87, 2.7) = ₹3.6233 Cr: BOI WW ₹3.30 Cr (stored) vs sacnilk ₹4.87 Cr vs Wiki/BH nett ₹2.70 Cr"
+ },
+ {
+  "tmdb_movie_id": 1169534,
+  "budget_inr_crore": 15.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.8417,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)",
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(15, 16) = ₹15.5 Cr: Wiki ₹15 Cr (stored) vs BOI ₹16 Cr; revenue = avg(2.09, 4.04, 2.395) = ₹2.8417 Cr: BOI WW ₹2.09 Cr (stored) vs sacnilk ₹4.04 Cr vs Wiki ₹1.79–3 Cr midpoint 2.395"
+ },
+ {
+  "tmdb_movie_id": 1297049,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.4167,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(2.43, 2, 2.82) = ₹2.4167 Cr: BOI India gross ₹2.43 Cr (stored) vs BH nett ₹2 Cr vs sacnilk India gross ₹2.82 Cr"
+ },
+ {
+  "tmdb_movie_id": 1276799,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.01,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(2.1, 1.92) = ₹2.01 Cr: Wiki ₹2.1 Cr (stored) vs sacnilk India gross ₹1.92 Cr"
+ }
+]

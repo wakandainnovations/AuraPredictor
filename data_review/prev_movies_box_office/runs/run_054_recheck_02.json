@@ -1,0 +1,46 @@
+[
+ {
+  "tmdb_movie_id": 541495,
+  "budget_inr_crore": 14.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.53,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)",
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(12, 17) = ₹14.5 Cr: Wiki ₹12 Cr (stored) vs BOI ₹17 Cr; revenue = avg(3.03, 2.03) = ₹2.53 Cr: BOI WW ₹3.03 Cr (stored) vs Wiki/BH nett ₹2.03 Cr"
+ },
+ {
+  "tmdb_movie_id": 533148,
+  "budget_inr_crore": 32.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 38.04,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)",
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(30, 35) = ₹32.5 Cr: Wiki ₹30 Cr (stored) vs BOI ₹35 Cr; revenue = avg(39.86, 36.22) = ₹38.04 Cr: Wiki ₹39.86 Cr (stored) vs BOI WW ₹36.22 Cr"
+ },
+ {
+  "tmdb_movie_id": 566487,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 19.75,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(18.5, 21) = ₹19.75 Cr: Wiki ₹16–21 Cr midpoint 18.5 (stored) vs Wiki body lifetime ₹21 Cr WW"
+ }
+]

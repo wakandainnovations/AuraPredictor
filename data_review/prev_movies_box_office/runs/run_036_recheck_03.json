@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 78440,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.4633,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(2.45, 2.63, 2.31) = ₹2.4633 Cr: Wiki ₹2.3–2.6 Cr midpoint 2.45 (stored) vs BOI India gross ₹2.63 Cr vs BH ₹2.31 Cr"
+ }
+]

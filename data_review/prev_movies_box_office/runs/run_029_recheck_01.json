@@ -1,0 +1,44 @@
+[
+ {
+  "tmdb_movie_id": 648316,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 3.725,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(3.47, 3.98) = ₹3.725 Cr: Wiki/BH nett ₹3.47 Cr (stored) vs BOI India gross ₹3.98 Cr"
+ },
+ {
+  "tmdb_movie_id": 606599,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 41.3275,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(40.15, 42.505) = ₹41.3275 Cr: Wiki ₹40.15 Cr (stored) vs BOI WW ₹42.505 Cr"
+ },
+ {
+  "tmdb_movie_id": 613446,
+  "budget_inr_crore": 33.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(24, 42) = ₹33 Cr: Wiki ₹24 Cr (stored) vs BOI ₹42 Cr"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "tmdb_movie_id": 1321108,
+  "budget_inr_crore": 31.25,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(27.5, 35) = ₹31.25 Cr: Wiki ₹25–30 Cr midpoint 27.5 (stored) vs sacnilk ₹35 Cr"
+ },
+ {
+  "tmdb_movie_id": 1312559,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 26.218,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(26.3, 19.2, 29.51, 29.862) = ₹26.218 Cr: Wiki est. ₹26.30 Cr vs BH nett ₹19.20 Cr vs sacnilk India gross ₹29.51 Cr vs BOI WW ₹29.86 Cr (stored)"
+ },
+ {
+  "tmdb_movie_id": 1371030,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 6.3807,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(6.37, 5.83, 6.942) = ₹6.3807 Cr: Wiki ₹6.37 Cr (14 days) vs sacnilk India gross ₹5.83 Cr vs BOI WW ₹6.94 Cr (stored)"
+ }
+]

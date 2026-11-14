@@ -1,0 +1,30 @@
+[
+ {
+  "tmdb_movie_id": 361847,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.795,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(0.34, 1.25) = ₹0.795 Cr: BOI India gross ₹0.34 Cr (stored) vs BH nett ₹1.25 Cr"
+ },
+ {
+  "tmdb_movie_id": 445038,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.0423,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(0.0825, 0.002) = ₹0.0423 Cr: BOI India gross ₹0.0825 Cr (stored) vs BH nett ₹0.002 Cr"
+ }
+]

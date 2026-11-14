@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 386365,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 0.335,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(0.56, 0.11) = ₹0.335 Cr: Wiki ₹56 lakh (stored) vs BH nett ₹0.11 Cr"
+ }
+]

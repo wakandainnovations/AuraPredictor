@@ -1,0 +1,30 @@
+[
+ {
+  "tmdb_movie_id": 97603,
+  "budget_inr_crore": 2.75,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(1.5, 4) = ₹2.75 Cr: Wiki ₹1.5 Cr (stored) vs BOI ₹4 Cr"
+ },
+ {
+  "tmdb_movie_id": 63943,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": 5733500,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(3.867e+06, 7.6e+06) = $5,733,500: tmdb $3.867M (stored) vs BOM UK £4.9M (≈ $7.6M)"
+ }
+]

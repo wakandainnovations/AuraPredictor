@@ -5,7 +5,7 @@ numbers that land in the DB never depend on mental arithmetic:
 
   next  [--run N]          print (and save) the next 100 unreviewed movies as JSON
   apply <batch.json>       apply one batch of findings (<= 5 movies) to the DB
-  apply <batch.json> --recheck
+  apply <batch.json> --recheck [--override]
                            fill gaps of movies already reviewed: only fields listed
                            in missing_data.csv may be set; filled gaps are removed
                            from missing_data.csv and marked found in processed.csv
@@ -178,7 +178,7 @@ def _found(item: dict, kind: str) -> bool:
     return item.get(f"{kind}_inr_crore") is not None or item.get(f"{kind}_usd") is not None
 
 
-def cmd_apply(path: Path, run: int, batch: int, recheck: bool = False) -> None:
+def cmd_apply(path: Path, run: int, batch: int, recheck: bool = False, override: bool = False) -> None:
     ensure_column()
     items = json.loads(path.read_text())
     if len(items) > BATCH_SIZE:
@@ -195,6 +195,8 @@ def cmd_apply(path: Path, run: int, batch: int, recheck: bool = False) -> None:
             if mid not in done:
                 sys.exit(f"{mid}: --recheck needs a movie that was already reviewed")
             extra = {k for k in ("budget", "revenue", "verdict") if _found(item, k)} - prev_gaps.get(mid, set())
+            if override:  # --override: budget/revenue may replace a stored value (conflict averaging)
+                extra -= {"budget", "revenue"}
             if extra:
                 sys.exit(f"{mid}: --recheck may only fill gaps {sorted(prev_gaps.get(mid, set()))}; "
                          f"got {sorted(extra)}")
@@ -216,7 +218,7 @@ def cmd_apply(path: Path, run: int, batch: int, recheck: bool = False) -> None:
             src = item.get("sources") or {}
             notes = item.get("notes") or ""
             if recheck:
-                notes = "; ".join(x for x in ("recheck", notes) if x)
+                notes = "; ".join(x for x in ("recheck" + (" override" if override else ""), notes) if x)
             base ={"tmdb_movie_id": mid, "imdb_id": row["id"] or "", "movie_name": row["movie_name"], "release_date": row["release_date"],
                     "run": run, "batch": batch}
             statuses, gaps = {}, []
@@ -326,13 +328,18 @@ def main() -> None:
     a.add_argument("--batch", type=int, required=True)
     a.add_argument("--recheck", action="store_true",
                    help="fill gaps of already-reviewed movies (only fields listed in missing_data.csv)")
+    a.add_argument("--override", action="store_true",
+                   help="with --recheck: also allow replacing an already-stored budget/revenue "
+                        "(used to store the average of conflicting figures)")
     sub.add_parser("status")
     args = ap.parse_args()
     DIR.mkdir(parents=True, exist_ok=True)
     if args.cmd == "next":
         cmd_next(args.run)
     elif args.cmd == "apply":
-        cmd_apply(args.path, args.run, args.batch, args.recheck)
+        if args.override and not args.recheck:
+            sys.exit("--override requires --recheck")
+        cmd_apply(args.path, args.run, args.batch, args.recheck, args.override)
     else:
         cmd_status()
 

@@ -1,0 +1,44 @@
+[
+ {
+  "tmdb_movie_id": 693838,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 1.3347,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(1.52, 1.06, 1.424) = ₹1.3347 Cr: Wiki ₹1.52 Cr vs BH nett ₹1.06 Cr vs BOI WW ₹1.424 Cr (stored)"
+ },
+ {
+  "tmdb_movie_id": 543693,
+  "budget_inr_crore": 30.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(29, 22, 39) = ₹30 Cr: Wiki infobox ₹29 Cr vs its Dainik Bhaskar cite ₹22 Cr vs BOI ₹39 Cr (stored)"
+ },
+ {
+  "tmdb_movie_id": 632658,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 20.175,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(17.95, 22.4) = ₹20.175 Cr: Wiki infobox ₹17.95 Cr (stored) vs Wiki body ₹22.4 Cr WW"
+ }
+]

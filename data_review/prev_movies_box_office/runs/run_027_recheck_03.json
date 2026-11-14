@@ -1,0 +1,31 @@
+[
+ {
+  "tmdb_movie_id": 653221,
+  "budget_inr_crore": 6.5,
+  "budget_usd": null,
+  "revenue_inr_crore": 54.05,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)",
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(6, 7) = ₹6.5 Cr: Wiki ₹5–7 Cr midpoint 6 (stored) vs sacnilk ₹7 Cr; revenue = avg(55, 53.1) = ₹54.05 Cr: Wiki est. ₹55 Cr (stored) vs sacnilk WW ₹53.10 Cr"
+ },
+ {
+  "tmdb_movie_id": 752943,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 61.25,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(70, 52.5) = ₹61.25 Cr: Wiki est. ₹70 Cr (stored) vs sacnilk WW ₹52.50 Cr (15 days)"
+ }
+]

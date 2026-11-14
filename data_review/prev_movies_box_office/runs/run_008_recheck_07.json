@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 282599,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 8.795,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(8, 9.59) = ₹8.795 Cr: Wiki ₹8 Cr (stored) vs filmibeat ₹9.59 Cr (3-day figure above the Wiki lifetime)"
+ }
+]

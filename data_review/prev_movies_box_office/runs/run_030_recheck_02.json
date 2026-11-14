@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 582375,
+  "budget_inr_crore": 17.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(15, 19) = ₹17 Cr: Wiki ₹15 Cr (stored) vs BOI ₹19 Cr"
+ }
+]

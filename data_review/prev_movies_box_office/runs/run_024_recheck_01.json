@@ -1,0 +1,16 @@
+[
+ {
+  "tmdb_movie_id": 1238170,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 2.3065,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(2.35, 2.263) = ₹2.3065 Cr: Wiki ₹2.35 Cr (stored) vs BOI WW ₹2.263 Cr"
+ }
+]

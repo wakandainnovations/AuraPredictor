@@ -1,0 +1,30 @@
+[
+ {
+  "tmdb_movie_id": 49496,
+  "budget_inr_crore": 4.0,
+  "budget_usd": null,
+  "revenue_inr_crore": null,
+  "revenue_usd": null,
+  "revenue_scope": null,
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "budget": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); budget = avg(4.5, 3.5) = ₹4 Cr: Wiki ₹4.5 Cr (stored) vs BOI ₹3.5 Cr"
+ },
+ {
+  "tmdb_movie_id": 39217,
+  "budget_inr_crore": null,
+  "budget_usd": null,
+  "revenue_inr_crore": 51.445,
+  "revenue_usd": null,
+  "revenue_scope": "unknown",
+  "verdict": null,
+  "verdict_label": null,
+  "sources": {
+   "revenue": "conflict notes (averaged)"
+  },
+  "notes": "user rule 2026-11-14: conflicting figures averaged (option 2 — replaces a stored value); revenue = avg(55, 47.89) = ₹51.445 Cr: Wiki ₹55 Cr (stored) vs BOI WW ₹47.89 Cr"
+ }
+]
